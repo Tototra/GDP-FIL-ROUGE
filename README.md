@@ -18,28 +18,24 @@ uv pip install -r requirements.txt
 
 ```bash
 python3 step4/build_graph.py
-# → output/lre_kg.ttl (~18 475 triplets)
 ```
 
 ### 2 — Générer les figures
 
 ```bash
 python3 step8/trends.py
-# → step8/figures/*.png (7 figures)
 ```
 
 ### 3 — Requêtes SPARQL
 
 ```bash
 python3 step9/run_queries.py
-# → step9/results/Q*.csv (8 fichiers)
 ```
 
 ### 4 — Link prediction
 
 ```bash
 python3 step10/link_prediction.py
-# → step10/metrics.txt, step10/predictions.json
 ```
 
 ### 5 — Interface web
