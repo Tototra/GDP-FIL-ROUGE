@@ -11,7 +11,7 @@ from trends_data import (
 from trends_plot import (
     TEAM_COLORS, OUT,
     plot_pubs_per_year, plot_pubs_per_team, plot_top_researchers,
-    plot_coauthor_network, plot_team_heatmap, plot_topics_by_team,
+    plot_coauthor_network, plot_team_heatmap,
     collab_growth,
 )
 

@@ -111,33 +111,6 @@ def plot_team_heatmap(teams: list[str], mat: np.ndarray) -> None:
     plt.close(fig)
     print(f"  → {OUT / 'team_heatmap.png'}")
 
-
-def plot_topics_by_team(data: dict[str, dict[str, int]]) -> None:
-    if not data:
-        return
-    all_topics = sorted({t for v in data.values() for t in v})
-    teams = sorted(data)
-    x = np.arange(len(teams))
-    width = 0.8 / max(len(all_topics), 1)
-    colors = cm.tab20(np.linspace(0, 1, len(all_topics)))
-
-    fig, ax = plt.subplots(figsize=(14, 6))
-    for i, topic in enumerate(all_topics):
-        counts = [data.get(t, {}).get(topic, 0) for t in teams]
-        offset = (i - len(all_topics) / 2) * width
-        ax.bar(x + offset, counts, width=width * 0.9, label=topic, color=colors[i])
-
-    ax.set_xticks(x)
-    ax.set_xticklabels(teams)
-    ax.set_title("Research topics per team", fontsize=13)
-    ax.set_ylabel("Publications")
-    ax.legend(loc="upper right", fontsize=6, ncol=2)
-    fig.tight_layout()
-    fig.savefig(OUT / "topics_by_team.png", dpi=150)
-    plt.close(fig)
-    print(f"  → {OUT / 'topics_by_team.png'}")
-
-
 def collab_growth(g: Graph) -> None:
     lre_members: set = set(g.subjects(LRE.memberOf, None))
 
