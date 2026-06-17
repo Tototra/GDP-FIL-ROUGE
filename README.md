@@ -8,7 +8,7 @@ Graphe de connaissances RDF sur les publications des chercheurs du LRE (EPITA), 
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ## Reproduire les résultats
