@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<dblpperson name="Gonzalo Romero-Garc&#237;a" pid="321/7746" n="7">
+<person key="homepages/321/7746" mdate="2022-06-08">
+<author pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+</person>
+<r><inproceedings key="conf/dgmm/RomeroGarciaMC25" mdate="2025-11-15">
+<author orcid="0000-0003-1971-6204" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author pid="419/6833">Alberto Mart&#237;n-Izquierdo</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>Spectrogram Denoising by Filtering Max-Trees.</title>
+<pages>224-236</pages>
+<year>2025</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-09544-2_16</ee>
+<crossref>conf/dgmm/2025</crossref>
+<url>db/conf/dgmm/dgmm2025.html#RomeroGarciaMC25</url>
+<stream>streams/conf/dgmm</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/RomeroGarciaBA24" mdate="2024-05-17">
+<author orcid="0000-0003-1971-6204" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author orcid="0000-0002-6984-1532" pid="33/1668">Isabelle Bloch</author>
+<author orcid="0000-0001-7926-2537" pid="50/312">Carlos Ag&#243;n</author>
+<title>Mathematical Morphology Applied to Feature Extraction in Music Spectrograms.</title>
+<pages>431-442</pages>
+<year>2024</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57793-2_33</ee>
+<crossref>conf/dgmm/2024</crossref>
+<url>db/conf/dgmm/dgmm2024.html#RomeroGarciaBA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/farm/AgonHR24" mdate="2024-09-08">
+<author orcid="0000-0001-7926-2537" pid="50/312">Carlos Ag&#243;n</author>
+<author orcid="0009-0004-3592-9490" pid="144/2397">Karim Haddad</author>
+<author orcid="0000-0002-3260-2159" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<title>The Maquette Monad.</title>
+<pages>45-49</pages>
+<year>2024</year>
+<booktitle>FARM</booktitle>
+<ee>https://doi.org/10.1145/3677996.3678293</ee>
+<crossref>conf/farm/2024</crossref>
+<url>db/conf/farm/farm2024.html#AgonHR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcm2/RomeroGarciaAB24" mdate="2024-07-04">
+<author orcid="0000-0003-1971-6204" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author orcid="0000-0001-7926-2537" pid="50/312">Carlos Ag&#243;n</author>
+<author orcid="0000-0002-6984-1532" pid="33/1668">Isabelle Bloch</author>
+<title>A Model of Scores as Abstract Syntactic Trees.</title>
+<pages>268-279</pages>
+<year>2024</year>
+<booktitle>MCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-60638-0_21</ee>
+<crossref>conf/mcm2/2024</crossref>
+<url>db/conf/mcm2/mcm2024.html#RomeroGarciaAB24</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/RomeroGarcia23" mdate="2024-03-23">
+<author pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<title>Mathematical Morphology for the Analysis and Generation of Time-Frequency Representations of Music. (Morphologie math&#233;matique pour l'analyse et la composition musicales de repr&#233;sentations temps-fr&#233;quence de la musique).</title>
+<year>2023</year>
+<school>Sorbonne University, Paris, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-04470770</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cinc/RomeroGarciaLC22" mdate="2023-09-30">
+<author pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author pid="321/7313">Paul Lascabettes</author>
+<author orcid="0000-0002-8342-1024" pid="44/231">Elaine Chew</author>
+<title>Automated Musical Rhythm Transcription of ECG RR Interval Time Series as a Tool for Representing Rhythm Variations and Annotation Anomalies in Arrhythmia Heartbeat Classifications.</title>
+<pages>1-4</pages>
+<year>2022</year>
+<booktitle>CinC</booktitle>
+<ee>https://doi.org/10.22489/CinC.2022.213</ee>
+<crossref>conf/cinc/2022</crossref>
+<url>db/conf/cinc/cinc2022.html#RomeroGarciaLC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcm2/Romero-GarciaBA22" mdate="2022-08-16">
+<author orcid="0000-0003-1971-6204" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author orcid="0000-0002-6984-1532" pid="33/1668">Isabelle Bloch</author>
+<author orcid="0000-0001-7926-2537" pid="50/312">Carlos Ag&#243;n</author>
+<title>Mathematical Morphology Operators for Harmonic Analysis.</title>
+<pages>255-266</pages>
+<year>2022</year>
+<booktitle>MCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-07015-0_21</ee>
+<ee>https://www.wikidata.org/entity/Q112678602</ee>
+<crossref>conf/mcm2/2022</crossref>
+<url>db/conf/mcm2/mcm2022.html#Romero-GarciaBA22</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="2">
+<co c="0"><na f="a/Ag=oacute=n:Carlos" pid="50/312">Carlos Ag&#243;n</na></co>
+<co c="0"><na f="b/Bloch:Isabelle" pid="33/1668">Isabelle Bloch</na></co>
+<co c="1"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="0"><na f="c/Chew:Elaine" pid="44/231">Elaine Chew</na></co>
+<co c="0"><na f="h/Haddad:Karim" pid="144/2397">Karim Haddad</na></co>
+<co c="0"><na f="l/Lascabettes:Paul" pid="321/7313">Paul Lascabettes</na></co>
+<co c="1"><na f="m/Mart=iacute=n=Izquierdo:Alberto" pid="419/6833">Alberto Mart&#237;n-Izquierdo</na></co>
+</coauthors>
+</dblpperson>
+

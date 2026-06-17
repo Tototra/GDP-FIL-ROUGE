@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<dblpperson name="R&#233;mi Vaucher" pid="354/0029" n="9">
+<person key="homepages/354/0029" mdate="2023-08-14">
+<author pid="354/0029">R&#233;mi Vaucher</author>
+</person>
+<r><inproceedings key="conf/gsi/Vaucher25" mdate="2026-01-04">
+<author orcid="0009-0005-4315-7870" pid="354/0029">R&#233;mi Vaucher</author>
+<title>Lie-Adaptive Inversion of Signature via Pfeffer-Seigal-Sturmfels Algorithm.</title>
+<pages>65-72</pages>
+<year>2025</year>
+<booktitle>GSI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-03924-8_7</ee>
+<crossref>conf/gsi/2025-3</crossref>
+<url>db/conf/gsi/gsi2025-3.html#Vaucher25</url>
+<stream>streams/conf/gsi</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsi/VaucherM25" mdate="2026-01-04">
+<author orcid="0009-0005-4315-7870" pid="354/0029">R&#233;mi Vaucher</author>
+<author pid="413/6653">Paul Minchella</author>
+<title>Hypergraphs on High Dimensional Time Series Sets Using Signature Transform.</title>
+<pages>73-82</pages>
+<year>2025</year>
+<booktitle>GSI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-03924-8_8</ee>
+<crossref>conf/gsi/2025-3</crossref>
+<url>db/conf/gsi/gsi2025-3.html#VaucherM25</url>
+<stream>streams/conf/gsi</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/MinchellaVCVM25" mdate="2025-10-11">
+<author pid="413/6653">Paul Minchella</author>
+<author pid="377/3678">Lo&#239;c Verlingue</author>
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<author pid="354/0029">R&#233;mi Vaucher</author>
+<author pid="226/4189">Guillaume Metzler</author>
+<title>SigBERT: Combining Narrative Medical Reports and Rough Path Signature Theory for Survival Prediction in Oncology.</title>
+<pages>391-407</pages>
+<year>2025</year>
+<booktitle>ECML/PKDD (9)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-06118-8_23</ee>
+<crossref>conf/pkdd/2025-9</crossref>
+<url>db/conf/pkdd/pkdd2025-9.html#MinchellaVCVM25</url>
+<stream>streams/conf/pkdd</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2506-09097" mdate="2025-07-14">
+<author pid="354/0029">R&#233;mi Vaucher</author>
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<title>Detecting malignant dynamics on very few blood sample using signature coefficients.</title>
+<year>2025</year>
+<month>June</month>
+<volume>abs/2506.09097</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2506.09097</ee>
+<url>db/journals/corr/corr2506.html#abs-2506-09097</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-15802" mdate="2025-08-22">
+<author pid="354/0029">R&#233;mi Vaucher</author>
+<author pid="413/6653">Paul Minchella</author>
+<title>Hypergraphs on high dimensional time series sets using signature transform.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.15802</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.15802</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-15802</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-22941" mdate="2025-08-21">
+<author pid="413/6653">Paul Minchella</author>
+<author pid="377/3678">Lo&#239;c Verlingue</author>
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<author pid="354/0029">R&#233;mi Vaucher</author>
+<author pid="226/4189">Guillaume Metzler</author>
+<title>SigBERT: Combining Narrative Medical Reports and Rough Path Signature Theory for Survival Risk Estimation in Oncology.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.22941</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.22941</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-22941</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-15328" mdate="2024-10-06">
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<author pid="151/8929">Ben Gao</author>
+<author orcid="0009-0007-8941-0143" pid="373/1243">Astrid Th&#233;bault Guiochon</author>
+<author pid="354/0029">R&#233;mi Vaucher</author>
+<title>Time topological analysis of EEG using signature theory.</title>
+<year>2024</year>
+<volume>abs/2404.15328</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.15328</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-15328</url>
+</article>
+</r>
+<r><inproceedings key="conf/complexnetworks/ChretienGGV23" mdate="2025-08-05">
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<author pid="151/8929">Ben Gao</author>
+<author orcid="0009-0007-8941-0143" pid="373/1243">Astrid Th&#233;bault Guiochon</author>
+<author orcid="0009-0005-4315-7870" pid="354/0029">R&#233;mi Vaucher</author>
+<title>Leveraging the Power of Signatures for the Construction of Topological Complexes for the Analysis of Multivariate Complex Dynamics.</title>
+<pages>283-294</pages>
+<year>2023</year>
+<booktitle>COMPLEX NETWORKS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-53468-3_24</ee>
+<crossref>conf/complexnetworks/2023-1</crossref>
+<url>db/conf/complexnetworks/complexnetworks2023-1.html#ChretienGGV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsi/ChretienV21" mdate="2025-08-05">
+<author pid="75/6753">St&#233;phane Chr&#233;tien</author>
+<author orcid="0009-0005-4315-7870" pid="354/0029">R&#233;mi Vaucher</author>
+<title>Signature Estimation and Signal Recovery Using Median of Means.</title>
+<pages>323-331</pages>
+<year>2021</year>
+<booktitle>GSI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-38299-4_34</ee>
+<crossref>conf/gsi/2023-2</crossref>
+<url>db/conf/gsi/gsi2023-2.html#ChretienV21</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="c/Chr=eacute=tien:St=eacute=phane" pid="75/6753">St&#233;phane Chr&#233;tien</na></co>
+<co c="0"><na f="g/Gao:Ben" pid="151/8929">Ben Gao</na></co>
+<co c="0"><na f="g/Guiochon:Astrid_Th=eacute=bault" pid="373/1243">Astrid Th&#233;bault Guiochon</na></co>
+<co c="0"><na f="m/Metzler:Guillaume" pid="226/4189">Guillaume Metzler</na></co>
+<co c="0"><na f="m/Minchella:Paul" pid="413/6653">Paul Minchella</na></co>
+<co c="0"><na f="v/Verlingue:Lo=iuml=c" pid="377/3678">Lo&#239;c Verlingue</na></co>
+</coauthors>
+</dblpperson>
+

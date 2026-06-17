@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Statistiques — LRE KG</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/stats.css') }}">
+</head>
+<body>
+{% include "_nav.html" %}
+  <div id="loading">Calcul des statistiques…</div>
+  <div class="grid" id="grid" style="display:none">
+    <div class="card wide"><h2>Publications par an</h2><canvas id="c-yearly"></canvas></div>
+    <div class="card"><h2>Publications par équipe</h2><canvas id="c-teams"></canvas></div>
+    <div class="card"><h2>Top 15 chercheurs</h2><canvas id="c-top"></canvas></div>
+    <div class="card"><h2>Top 10 venues</h2><canvas id="c-venues"></canvas></div>
+    <div class="card wide" id="topics-card" style="display:none">
+      <h2>Topics par équipe</h2><canvas id="c-topics" style="max-height:380px"></canvas>
+    </div>
+  </div>
+  <script src="{{ url_for('static', filename='js/stats.js') }}"></script>
+</body></html>

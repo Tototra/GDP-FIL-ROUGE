@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Prédiction de liens — LRE KG</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/links.css') }}">
+</head>
+<body>
+{% include "_nav.html" %}
+  <div class="container">
+    <h1>Prédiction de liens — Knowledge Graph Embedding</h1>
+
+    {% if metrics %}
+    <div class="card">
+      <h2>Métriques d'évaluation</h2>
+      <div class="model-badge">ComplEx &amp; RotatE · 200 epochs · split temporel 2021</div>
+      <pre>{{ metrics }}</pre>
+    </div>
+    {% else %}
+    <div class="card">
+      <div class="notice">
+        Aucune métrique trouvée. Pour les générer, lance depuis la racine du projet :<br><br>
+        <code>uv pip install --python ~/.venvs/lre-kglp/bin/python pykeen torch</code><br>
+        <code>~/.venvs/lre-kglp/bin/python step10/link_prediction.py</code><br><br>
+        Les résultats seront automatiquement affichés ici.
+      </div>
+    </div>
+    {% endif %}
+
+    {% if predictions %}
+    <div class="card">
+      <h2>Top collaborations prédites (non existantes dans le graphe)</h2>
+      <p style="color:#888;font-size:.82rem;margin-bottom:1rem">
+        Paires de chercheurs LRE pour lesquelles le modèle prédit une co-publication future.
+      </p>
+      <table>
+        <thead>
+          <tr><th>#</th><th>Chercheur A</th><th>Chercheur B</th><th>Score</th><th>Modèle</th></tr>
+        </thead>
+        <tbody>
+          {% for p in predictions %}
+          <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ p.name_a }}</td>
+            <td>{{ p.name_b }}</td>
+            <td class="score">{{ "%.4f"|format(p.score) }}</td>
+            <td>{{ p.model }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+
+    <div class="ethics">
+      <strong>Note éthique</strong> : les liens prédits sont des estimations statistiques
+      basées sur la structure du graphe. Ils ne constituent pas des recommandations
+      ni des affirmations sur des collègues réels.
+    </div>
+  </div>
+</body></html>

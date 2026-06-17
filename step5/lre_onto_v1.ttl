@@ -1,0 +1,37 @@
+# Researcher, Team, Publication, Venue, Topic, Year
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lre: <http://example.com/lre#> .
+@prefix dcterms: <http://dublincore.org/specifications/dublin-core/dcmi-terms/2020-01-20/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+lre:Researcher a owl:Class .
+lre:Team a owl:Class .
+lre:Publication a owl:Class .
+# dcterms:Venue
+# dctemrs:Topic
+# dcterms:Year
+
+lre:memberOf a owl:ObjectProperty;
+    rdfs:domain lre:Researcher;
+    rdfs:range dcterms:Team .
+
+lre:authoredBy a owl:ObjectProperty;
+    rdfs:domain lre:Publication;
+    rdfs:range lre:Researcher .
+
+lre:coAuthorOf a owl:ObjectProperty;
+    rdfs:domain lre:Researcher;
+    rdfs:range lre:Researcher .
+
+lre:pusblishedIn a owl:ObjectProperty;
+    rdfs:domain lre:Publication;
+    rdfs:range dcterms:Venue .
+
+lre:inYear a owl:ObjectProperty;
+    rdfs:domain lre:Publication;
+    rdfs:range dcterms:Year .
+
+lre:arrivalYear a owl:DatatypeProperty;
+    rdfs:domain lre:Researcher;
+    rdfs:range dcterms:Year .

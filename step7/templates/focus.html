@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Focus — {{ name }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/focus.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/autocomplete.css') }}">
+</head>
+<body>
+  <header>
+    <a href="/">← Accueil</a>
+    <h2>Focus : {{ name }}</h2>
+    <form action="/focus" method="get">
+      <div class="ac-wrapper">
+        <input type="text" id="ac-focus" name="name"
+               value="{{ name }}" placeholder="Autre chercheur" autocomplete="off">
+        <div class="ac-dropdown" id="ac-focus-drop"></div>
+      </div>
+      <input type="submit" value="Rechercher">
+    </form>
+  </header>
+  {% if found %}
+  <div class="main-layout">
+    <div class="graph-area">{{ graph_html | safe }}</div>
+    <div class="pub-panel">
+      <div class="pub-panel-header">
+        <h3>Publications</h3>
+        <div class="pub-count">{{ publications|length }} article(s)</div>
+      </div>
+      <div class="pub-list">
+        {% for pub in publications %}
+        <div class="pub-card {% if pub.url %}has-url{% endif %}"
+             {% if pub.url %}onclick="window.open('{{ pub.url }}', '_blank')"{% endif %}>
+          <div class="pub-card-title">{{ pub.title }}</div>
+          <div class="pub-card-meta">
+            {% if pub.venue %}<span>{{ pub.venue[:45] }}{% if pub.venue|length > 45 %}…{% endif %}</span> &nbsp;·&nbsp; {% endif %}
+            <span class="pub-card-year">{{ pub.year }}</span>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% else %}
+    <p class="msg">Aucun chercheur trouvé pour « {{ name }} ».</p>
+  {% endif %}
+
+  <div id="common-modal">
+    <div class="modal-box">
+      <div class="modal-header">
+        <span id="modal-title"></span>
+        <button class="modal-close"
+          onclick="document.getElementById('common-modal').style.display='none'">✕</button>
+      </div>
+      <div id="modal-content" class="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/autocomplete.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/focus.js') }}"></script>
+</body></html>

@@ -1,0 +1,93 @@
+# Ontologie LRE (step 5 : classes et propriétés)
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lre:     <http://lre.epita.fr/kg/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+# Classes
+
+lre:ThingWithTopic a owl:Class ;
+    rdfs:label "thing with topic" ;
+    rdfs:comment "Superclass for entities that can be assigned a research topic." .
+
+lre:Researcher a owl:Class ;
+    rdfs:label "Researcher" ;
+    rdfs:comment "A member of the LRE faculty." ;
+    rdfs:subClassOf lre:ThingWithTopic ;
+    rdfs:subClassOf foaf:Person .
+
+lre:Team a owl:Class ;
+    rdfs:label "Team" ;
+    rdfs:comment "A research team within the LRE." .
+
+lre:Publication a owl:Class ;
+    rdfs:label "Publication" ;
+    rdfs:comment "A published academic work (article, proceedings, thesis)." ;
+    rdfs:subClassOf lre:ThingWithTopic .
+
+lre:Venue a owl:Class ;
+    rdfs:label "Venue" ;
+    rdfs:comment "A journal, conference, or institution where a publication appeared." .
+
+lre:Topic a owl:Class ;
+    rdfs:label "Topic" ;
+    rdfs:comment "A research topic from the OpenAlex taxonomy." .
+
+lre:Year a owl:Class ;
+    rdfs:label "Year" ;
+    rdfs:comment "A calendar year node used to group publications." .
+
+# Object properties
+
+lre:memberOf a owl:ObjectProperty ;
+    rdfs:label "memberOf" ;
+    rdfs:domain lre:Researcher ;
+    rdfs:range  lre:Team .
+
+lre:authoredBy a owl:ObjectProperty ;
+    rdfs:label "authoredBy" ;
+    rdfs:domain lre:Publication ;
+    rdfs:range  lre:Researcher .
+
+lre:hasAuthored a owl:ObjectProperty ;
+    rdfs:label "hasAuthored" ;
+    rdfs:domain lre:Researcher ;
+    rdfs:range  lre:Publication .
+
+lre:coAuthorOf a owl:ObjectProperty ;
+    rdfs:label "coAuthorOf" ;
+    rdfs:domain lre:Researcher ;
+    rdfs:range  lre:Researcher .
+
+lre:publishedIn a owl:ObjectProperty ;
+    rdfs:label "publishedIn" ;
+    rdfs:domain lre:Publication ;
+    rdfs:range  lre:Venue .
+
+lre:hasTopic a owl:ObjectProperty ;
+    rdfs:label "hasTopic" ;
+    rdfs:domain lre:ThingWithTopic ;
+    rdfs:range  lre:Topic .
+
+lre:inYear a owl:ObjectProperty ;
+    rdfs:label "inYear" ;
+    rdfs:domain lre:Publication ;
+    rdfs:range  lre:Year .
+
+lre:dblpPage a owl:ObjectProperty ;
+    rdfs:label "dblpPage" ;
+    rdfs:domain lre:Researcher .
+
+# Datatype properties
+
+lre:arrivalYear a owl:DatatypeProperty ;
+    rdfs:label "arrivalYear" ;
+    rdfs:domain lre:Researcher ;
+    rdfs:range  xsd:gYear .
+
+lre:source a owl:DatatypeProperty ;
+    rdfs:label "source" ;
+    rdfs:domain lre:Venue ;
+    rdfs:range  xsd:string .

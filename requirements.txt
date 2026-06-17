@@ -1,0 +1,13 @@
+pandas
+requests
+rdflib
+networkx
+transformers
+torch
+pykeen
+matplotlib
+numpy
+scipy
+scikit-learn
+pyvis
+flask

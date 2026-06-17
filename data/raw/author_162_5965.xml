@@ -1,0 +1,1734 @@
+<?xml version="1.0"?>
+<dblpperson name="&#201;lodie Puybareau" pid="162/5965" n="42">
+<person key="homepages/162/5965" mdate="2015-05-18">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+</person>
+<r><inproceedings key="conf/dgmm/BottenmullerTHPA25" mdate="2025-11-10">
+<author pid="401/6989">Antoine Bottenmuller</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="328/2620">Romain Hermary</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="118/6502">Gustavo Angulo</author>
+<title>Improving Morphological Networks for Learning Image-to-Image Transforms.</title>
+<pages>343-356</pages>
+<year>2025</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-09544-2_25</ee>
+<crossref>conf/dgmm/2025</crossref>
+<url>db/conf/dgmm/dgmm2025.html#BottenmullerTHPA25</url>
+<stream>streams/conf/dgmm</stream>
+</inproceedings>
+</r>
+<r><article key="journals/mia/SudreWDAABBBCCCCCDEEGGGAHIIJKKKLLLM24" mdate="2025-11-15">
+<author orcid="0000-0001-5753-428X" pid="150/2899">Carole H. Sudre</author>
+<author pid="245/7451">Kimberlin M. H. van Wijnen</author>
+<author pid="186/7845">Florian Dubost</author>
+<author orcid="0000-0003-3687-2508" pid="273/8180">Hieab Adams</author>
+<author orcid="0000-0003-1124-6666" pid="45/6663">David Atkinson</author>
+<author orcid="0000-0003-3543-3706" pid="116/1982">Frederik Barkhof</author>
+<author pid="239/1960">Mahlet A. Birhanu</author>
+<author orcid="0000-0002-5778-9263" pid="150/7319">Esther E. Bron</author>
+<author pid="275/9013">Robin Camarasa</author>
+<author pid="323/2505">Nish Chaturvedi</author>
+<author pid="55/6958">Yuan Chen</author>
+<author orcid="0000-0002-9349-0349" pid="130/7673">Zihao Chen</author>
+<author pid="12/363">Shuai Chen</author>
+<author pid="165/7846">Qi Dou 0001</author>
+<author orcid="0000-0003-2390-286X" pid="223/5317">Tavia E. Evans</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author pid="326/6156">Haojun Gao</author>
+<author pid="285/5982">Marta Giron&#233;s-Sang&#252;esa</author>
+<author orcid="0000-0002-6155-0642" pid="115/8125">Juan Domingo Gispert</author>
+<author pid="232/3168">Beatriz Gomez Anson</author>
+<author orcid="0000-0001-5432-5271" pid="71/3161">Alun D. Hughes</author>
+<author pid="41/4600">Mohammad Arfan Ikram</author>
+<author pid="232/3238">Silvia Ingala</author>
+<author orcid="0000-0002-6403-4184" pid="247/2802">Hans Rolf J&#228;ger</author>
+<author pid="239/8604">Florian Kofler</author>
+<author orcid="0000-0001-6997-9059" pid="44/9772">Hugo J. Kuijf</author>
+<author pid="299/1595">Denis Kutnar</author>
+<author pid="99/2069">Minho Lee</author>
+<author orcid="0000-0002-1898-1148" pid="50/3402-88">Bo Li 0088</author>
+<author orcid="0000-0002-9756-881X" pid="326/6094">Luigi Lorenzini</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author pid="192/1370">Jos&#233; Luis Molinuevo</author>
+<author pid="228/3573">Yiwei Pan</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="176/7277">Rafael Rehwald</author>
+<author orcid="0000-0002-5013-1370" pid="258/3495">Ruisheng Su</author>
+<author orcid="0000-0003-2180-2312" pid="05/773">Pengcheng Shi</author>
+<author pid="65/5074">Lorna Smith</author>
+<author pid="326/6224">Therese Tillin</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="181/6977">H&#233;l&#232;ne Urien</author>
+<author pid="187/5834">Bas H. M. van der Velden</author>
+<author pid="326/6441">Isabelle F. van der Velpen</author>
+<author orcid="0000-0002-2963-7772" pid="165/7294">Benedikt Wiestler</author>
+<author pid="223/4983">Frank J. Wolters</author>
+<author pid="22/7884">Pinar Yilmaz</author>
+<author pid="06/7425">Marius de Groot</author>
+<author orcid="0000-0003-4658-2176" pid="08/2140">Meike W. Vernooij</author>
+<author pid="45/3080">Marleen de Bruijne</author>
+<title><i>Where is VALDO?</i> VAscular Lesions Detection and segmentatiOn challenge at MICCAI 2021.</title>
+<pages>103029</pages>
+<year>2024</year>
+<month>January</month>
+<volume>91</volume>
+<journal>Medical Image Anal.</journal>
+<ee type="oa">https://doi.org/10.1016/j.media.2023.103029</ee>
+<url>db/journals/mia/mia91.html#SudreWDAABBBCCCCCDEEGGGAHIIJKKKLLLM24</url>
+</article>
+</r>
+<r><article key="journals/mia/0020WWLMZZLZAJZ23" mdate="2025-09-10">
+<author orcid="0000-0003-1281-6472" pid="13/7007-20">Lei Li 0020</author>
+<author pid="170/5445">Fuping Wu</author>
+<author orcid="0000-0001-7009-8814" pid="213/7029">Sihan Wang</author>
+<author orcid="0000-0003-2822-1633" pid="236/6037">Xinzhe Luo</author>
+<author pid="248/9154">Carlos Mart&#237;n-Isla</author>
+<author pid="282/0680">Shuwei Zhai</author>
+<author pid="134/7404">Jianpeng Zhang</author>
+<author pid="00/6387">Yanfei Liu</author>
+<author orcid="0009-0007-3780-7624" pid="19/5112-57">Zhen Zhang 0057</author>
+<author orcid="0000-0002-6620-807X" pid="185/4309">Markus J. Ankenbrand</author>
+<author orcid="0000-0002-8727-4121" pid="208/4919">Haochuan Jiang</author>
+<author orcid="0000-0001-8918-7374" pid="07/9213">Xiaoran Zhang</author>
+<author pid="254/4418">Linhong Wang</author>
+<author orcid="0000-0002-2319-9038" pid="281/9944">Tewodros Weldebirhan Arega</author>
+<author orcid="0000-0002-3235-0481" pid="254/0925">Elif Altunok</author>
+<author orcid="0000-0002-6547-646X" pid="75/7785">Zhou Zhao</author>
+<author orcid="0000-0002-2853-7091" pid="210/3093">Feiyan Li</author>
+<author pid="91/4845-16">Jun Ma 0016</author>
+<author pid="29/3609-1">Xiaoping Yang 0001</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0001-6478-0534" pid="143/3826">Ilkay &#214;ks&#252;z</author>
+<author orcid="0000-0002-6558-5893" pid="69/2940">St&#233;phanie Bricq</author>
+<author orcid="0000-0002-9033-8245" pid="10/7821-1">Weisheng Li 0001</author>
+<author orcid="0000-0003-3835-1079" pid="35/7426">Kumaradevan Punithakumar</author>
+<author orcid="0000-0002-8795-9294" pid="14/613">Sotirios A. Tsaftaris</author>
+<author orcid="0000-0002-8827-1838" pid="128/5557">Laura Maria Schreiber</author>
+<author orcid="0000-0002-6068-8287" pid="37/8320">Mingjing Yang</author>
+<author pid="81/5599">Guocai Liu</author>
+<author pid="50/2433-1">Yong Xia 0001</author>
+<author orcid="0000-0002-8632-158X" pid="149/7441">Guotai Wang</author>
+<author orcid="0000-0003-0617-8873" pid="77/5527">Sergio Escalera</author>
+<author orcid="0000-0003-4351-4979" pid="69/1049">Xiahai Zhuang</author>
+<title>MyoPS: A benchmark of myocardial pathology segmentation combining three-sequence cardiac magnetic resonance images.</title>
+<pages>102808</pages>
+<year>2023</year>
+<volume>87</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2023.102808</ee>
+<url>db/journals/mia/mia87.html#0020WWLMZZLZAJZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/EisenmannRWTIAA23" mdate="2026-04-21">
+<author pid="150/3180">Matthias Eisenmann</author>
+<author pid="222/1818">Annika Reinke</author>
+<author pid="324/8076">Vivienn Weru</author>
+<author pid="264/5842">Minu Dietlinde Tizabi</author>
+<author pid="190/7435">Fabian Isensee</author>
+<author pid="236/0060">Tim J. Adler</author>
+<author orcid="0000-0003-1313-3542" pid="14/11430">Sharib Ali</author>
+<author pid="175/1436">Vincent Andrearczyk</author>
+<author pid="166/6549">Marc Aubreville</author>
+<author pid="200/0516">Ujjwal Baid</author>
+<author pid="117/7034">Spyridon Bakas</author>
+<author pid="199/5255">Niranjan Balu</author>
+<author orcid="0000-0003-1329-4565" pid="159/3825">Sophia Bano</author>
+<author pid="22/3093">Jorge Bernal</author>
+<author pid="32/9855">Sebastian Bodenstedt</author>
+<author orcid="0000-0002-5214-9443" pid="157/9677">Alessandro Casella</author>
+<author pid="91/10084">Veronika Cheplygina</author>
+<author pid="336/4098">Marie Daum</author>
+<author pid="45/3080">Marleen de Bruijne</author>
+<author pid="02/399">Adrien Depeursinge</author>
+<author orcid="0000-0002-7530-0644" pid="242/9013">Reuben Dorent</author>
+<author pid="31/3828">Jan Egger</author>
+<author pid="159/1285">David G. Ellis</author>
+<author pid="45/7703">Sandy Engelhardt</author>
+<author orcid="0000-0002-9120-8098" pid="59/8437">Melanie Ganz</author>
+<author pid="153/6019">Noha M. Ghatwary</author>
+<author pid="30/3621">Gabriel Girard</author>
+<author orcid="0000-0002-0365-7265" pid="48/10500-1">Patrick Godau</author>
+<author pid="95/491">Anubha Gupta</author>
+<author pid="151/9486">Lasse Hansen</author>
+<author pid="71/516">Kanako Harada</author>
+<author pid="95/10171">Mattias P. Heinrich</author>
+<author orcid="0000-0001-8516-8707" pid="205/5397">Nicholas Heller</author>
+<author pid="232/2179">Alessa Hering</author>
+<author pid="182/3647">Arnaud Huaulm&#233;</author>
+<author orcid="0000-0002-7415-071X" pid="52/4728">Pierre Jannin</author>
+<author pid="180/7692">A. Emre Kavur</author>
+<author pid="216/7623">Oldrich Kodym</author>
+<author orcid="0000-0001-7902-589X" pid="61/1228">Michal Kozubek 0001</author>
+<author pid="41/2242-2">Jianning Li 0002</author>
+<author orcid="0000-0002-5328-6407" pid="39/5544-4">Hongwei Bran Li</author>
+<author orcid="0000-0002-9739-0855" pid="91/4845-16">Jun Ma 0016</author>
+<author pid="248/9154">Carlos Mart&#237;n-Isla</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author orcid="0000-0002-3060-3772" pid="n/JAlisonNoble">J. Alison Noble</author>
+<author pid="243/9289">Valentin Oreiller</author>
+<author pid="60/6834">Nicolas Padoy</author>
+<author pid="177/5946">Sarthak Pati</author>
+<author orcid="0000-0001-7041-0150" pid="250/8848">Kelly Payette</author>
+<author pid="288/6730">Tim R&#228;dsch</author>
+<author pid="229/9850">Jonathan Rafael-Patino</author>
+<author orcid="0000-0003-1728-1198" pid="234/7787">Vivek Singh Bawa</author>
+<author orcid="0000-0002-4590-1908" pid="39/6736">Stefanie Speidel</author>
+<author orcid="0000-0001-5753-428X" pid="150/2899">Carole H. Sudre</author>
+<author pid="245/7451">Kimberlin M. H. van Wijnen</author>
+<author orcid="0000-0002-9831-9110" pid="58/5378-1">Martin Wagner 0001</author>
+<author pid="63/1762">D. Wei</author>
+<author pid="322/2217">Amine Yamlahi</author>
+<author pid="67/6100">Moi Hoon Yap</author>
+<author pid="21/2625">C. Yuan</author>
+<author pid="281/6999">Maximilian Zenk</author>
+<author pid="355/1550">A. Zia</author>
+<author pid="192/4608">David Zimmerer</author>
+<author pid="36/1626">Dogu Baran Aydogan</author>
+<author orcid="0000-0001-7171-6469" pid="127/0101">Binod Bhattarai</author>
+<author orcid="0000-0001-7540-4980" pid="250/8540">Louise Bloch</author>
+<author orcid="0000-0002-6046-4048" pid="250/8287">Raphael Br&#252;ngel</author>
+<author pid="12/2075">J. Cho</author>
+<author pid="170/8532">C. Choi</author>
+<author pid="355/1729">Q. Dou</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author orcid="0000-0001-7906-0038" pid="38/2820">Christoph M. Friedrich</author>
+<author pid="355/1683">C. Fuller</author>
+<author orcid="0000-0001-8413-3393" pid="317/6854">Rebati Raman Gaire</author>
+<author pid="160/2676">Adrian Galdran</author>
+<author pid="236/8859">&#193;lvaro Garc&#237;a-Faura</author>
+<author pid="190/8534">Maria Grammatikopoulou</author>
+<author pid="49/1982">S. Hong</author>
+<author pid="198/0729">Mostafa Jahanifar</author>
+<author pid="355/1575">I. Jang</author>
+<author pid="145/4877">Abdolrahim Kadkhodamohammadi</author>
+<author pid="17/10151">I. Kang</author>
+<author pid="239/8604">Florian Kofler</author>
+<author pid="53/11480">S. Kondo</author>
+<author pid="44/9772">Hugo Jaco Kuijf</author>
+<author pid="63/465">M. Li</author>
+<author pid="355/1838">M. Luu</author>
+<author pid="272/6203">Tomaz Martincic</author>
+<author orcid="0000-0002-1995-7879" pid="131/3073">Pedro Morais</author>
+<author orcid="0000-0003-1020-4966" pid="235/3001">Mohamed A. Naser</author>
+<author orcid="0000-0003-1616-2234" pid="23/5280-2">Bruno Oliveira 0002</author>
+<author orcid="0000-0002-5381-7722" pid="42/1719-1">David Owen 0001</author>
+<author pid="355/1581">S. Pang</author>
+<author pid="26/2355">J. Park</author>
+<author pid="80/4571">S. Park</author>
+<author pid="247/9486">Szymon Plotka</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="r/NasirRajpoot">Nasir M. Rajpoot</author>
+<author pid="352/7628">K. Ryu</author>
+<author pid="191/6883">Numan Saeed</author>
+<author orcid="0000-0003-0969-2990" pid="300/9013">Adam Shephard</author>
+<author pid="05/773">Pengcheng Shi</author>
+<author pid="202/5071">Dejan Stepec</author>
+<author orcid="0000-0002-7569-724X" pid="317/7000">Ronast Subedi</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="187/3830">Helena R. Torres</author>
+<author pid="181/6977">H&#233;l&#232;ne Urien</author>
+<author orcid="0000-0002-4196-5357" pid="52/8223">Jo&#227;o L. Vila&#231;a</author>
+<author orcid="0000-0002-0503-0175" pid="282/7337">Kareem A. Wahid</author>
+<author pid="34/2096">H. Wang</author>
+<author pid="03/59">J. Wang</author>
+<author pid="67/6401">L. Wang</author>
+<author pid="70/11">X. Wang</author>
+<author orcid="0000-0002-2963-7772" pid="165/7294">Benedikt Wiestler</author>
+<author orcid="0000-0002-8076-6246" pid="220/1578">Marek Wodzinski</author>
+<author pid="277/9607">F. Xia</author>
+<author pid="53/2754">J. Xie</author>
+<author pid="53/3233">Z. Xiong</author>
+<author orcid="0000-0002-0639-4122" pid="90/4655-6">Sen Yang 0006</author>
+<author pid="97/6652">Y. Yang</author>
+<author orcid="0000-0001-6934-0765" pid="125/0591">Zixuan Zhao</author>
+<author orcid="0000-0002-6626-2463" pid="133/0183">Klaus H. Maier-Hein</author>
+<author pid="179/4749">Paul F. J&#228;ger</author>
+<author pid="49/9916">Annette Kopp-Schneider</author>
+<author pid="35/3435">Lena Maier-Hein</author>
+<title>Why is the Winner the Best?</title>
+<pages>19955-19966</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.01911</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#EisenmannRWTIAA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/BernetCCBP23" mdate="2023-09-14">
+<author orcid="0000-0002-3343-6631" pid="348/6676">Philippe Bernet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0009-0004-0689-6220" pid="348/6848">Alexandre Bourquelot</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images Using Multiple Object Tracking.</title>
+<pages>454-471</pages>
+<year>2023</year>
+<booktitle>ICDAR (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-41734-4_28</ee>
+<crossref>conf/icdar/2023-5</crossref>
+<url>db/conf/icdar/icdar2023-5.html#BernetCCBP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16968" mdate="2023-06-07">
+<author pid="348/6676">Philippe Bernet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="348/6848">Alexandre Bourquelot</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images using Multiple Object Tracking.</title>
+<year>2023</year>
+<volume>abs/2305.16968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16968</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16968</url>
+</article>
+</r>
+<r><article key="journals/jmiv/HermaryTPKA22" mdate="2022-10-02">
+<author orcid="0000-0001-9351-2862" pid="328/2620">Romain Hermary</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="33/614">Jes&#250;s Angulo</author>
+<title>Learning Grayscale Mathematical Morphology with Smooth Morphological Layers.</title>
+<pages>736-753</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s10851-022-01091-1</ee>
+<url>db/journals/jmiv/jmiv64.html#HermaryTPKA22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-03186" mdate="2025-09-11">
+<author pid="13/7007-20">Lei Li 0020</author>
+<author pid="170/5445">Fuping Wu</author>
+<author pid="213/7029">Sihan Wang</author>
+<author pid="236/6037">Xinzhe Luo</author>
+<author pid="248/9154">Carlos Mart&#237;n-Isla</author>
+<author pid="282/0680">Shuwei Zhai</author>
+<author pid="134/7404">Jianpeng Zhang</author>
+<author pid="00/6387">Yanfei Liu</author>
+<author pid="19/5112-57">Zhen Zhang 0057</author>
+<author pid="185/4309">Markus J. Ankenbrand</author>
+<author pid="208/4919">Haochuan Jiang</author>
+<author pid="07/9213">Xiaoran Zhang</author>
+<author pid="254/4418">Linhong Wang</author>
+<author pid="281/9944">Tewodros Weldebirhan Arega</author>
+<author pid="254/0925">Elif Altunok</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="210/3093">Feiyan Li</author>
+<author pid="91/4845-16">Jun Ma 0016</author>
+<author pid="29/3609-1">Xiaoping Yang 0001</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="143/3826">Ilkay &#214;ks&#252;z</author>
+<author pid="69/2940">St&#233;phanie Bricq</author>
+<author pid="10/7821-1">Weisheng Li 0001</author>
+<author pid="35/7426">Kumaradevan Punithakumar</author>
+<author pid="14/613">Sotirios A. Tsaftaris</author>
+<author pid="128/5557">Laura Maria Schreiber</author>
+<author pid="37/8320">Mingjing Yang</author>
+<author pid="81/5599">Guocai Liu</author>
+<author pid="50/2433-1">Yong Xia 0001</author>
+<author pid="149/7441">Guotai Wang</author>
+<author pid="77/5527">Sergio Escalera</author>
+<author pid="69/1049">Xiahai Zhuang</author>
+<title>MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images.</title>
+<year>2022</year>
+<volume>abs/2201.03186</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.03186</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-03186</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-07167" mdate="2025-08-05">
+<author orcid="0000-0001-5753-428X" pid="150/2899">Carole H. Sudre</author>
+<author pid="245/7451">Kimberlin M. H. van Wijnen</author>
+<author pid="186/7845">Florian Dubost</author>
+<author orcid="0000-0003-3687-2508" pid="273/8180">Hieab Adams</author>
+<author orcid="0000-0003-1124-6666" pid="45/6663">David Atkinson</author>
+<author pid="116/1982">Frederik Barkhof</author>
+<author pid="239/1960">Mahlet A. Birhanu</author>
+<author orcid="0000-0002-5778-9263" pid="150/7319">Esther E. Bron</author>
+<author pid="275/9013">Robin Camarasa</author>
+<author pid="323/2505">Nish Chaturvedi</author>
+<author pid="55/6958">Yuan Chen</author>
+<author orcid="0000-0002-9349-0349" pid="130/7673">Zihao Chen</author>
+<author pid="12/363">Shuai Chen</author>
+<author pid="165/7846">Qi Dou 0001</author>
+<author pid="223/5317">Tavia E. Evans</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author pid="326/6156">Haojun Gao</author>
+<author pid="285/5982">Marta Giron&#233;s-Sang&#252;esa</author>
+<author orcid="0000-0002-6155-0642" pid="115/8125">Juan Domingo Gispert</author>
+<author pid="232/3168">Beatriz Gomez Anson</author>
+<author orcid="0000-0001-5432-5271" pid="71/3161">Alun D. Hughes</author>
+<author pid="41/4600">Mohammad Arfan Ikram</author>
+<author pid="232/3238">Silvia Ingala</author>
+<author pid="247/2802">Hans Rolf J&#228;ger</author>
+<author pid="239/8604">Florian Kofler</author>
+<author pid="44/9772">Hugo J. Kuijf</author>
+<author pid="299/1595">Denis Kutnar</author>
+<author pid="99/2069">Minho Lee</author>
+<author orcid="0000-0002-1898-1148" pid="50/3402-88">Bo Li 0088</author>
+<author pid="326/6094">Luigi Lorenzini</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author pid="192/1370">Jos&#233; Luis Molinuevo</author>
+<author pid="228/3573">Yiwei Pan</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="176/7277">Rafael Rehwald</author>
+<author orcid="0000-0002-5013-1370" pid="258/3495">Ruisheng Su</author>
+<author pid="05/773">Pengcheng Shi</author>
+<author pid="65/5074">Lorna Smith</author>
+<author pid="326/6224">Therese Tillin</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="181/6977">H&#233;l&#232;ne Urien</author>
+<author pid="187/5834">Bas H. M. van der Velden</author>
+<author pid="326/6441">Isabelle F. van der Velpen</author>
+<author orcid="0000-0002-2963-7772" pid="165/7294">Benedikt Wiestler</author>
+<author pid="223/4983">Frank J. Wolters</author>
+<author pid="22/7884">Pinar Yilmaz</author>
+<author pid="06/7425">Marius de Groot</author>
+<author orcid="0000-0003-4658-2176" pid="08/2140">Meike W. Vernooij</author>
+<author pid="45/3080">Marleen de Bruijne</author>
+<title>Where is VALDO? VAscular Lesions Detection and segmentatiOn challenge at MICCAI 2021.</title>
+<year>2022</year>
+<volume>abs/2208.07167</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.07167</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-07167</url>
+</article>
+</r>
+<r><article key="journals/mia/XiongXHHBZVRMYH21" mdate="2026-05-20">
+<author orcid="0000-0002-2537-6149" pid="217/2319">Zhaohan Xiong</author>
+<author orcid="0000-0002-0328-7882" pid="62/2726-2">Qing Xia 0002</author>
+<author pid="40/3396">Zhiqiang Hu</author>
+<author pid="78/5848">Ning Huang</author>
+<author orcid="0000-0003-3498-8283" pid="205/3556">Cheng Bian</author>
+<author orcid="0000-0003-2195-2847" pid="44/6510">Yefeng Zheng 0001</author>
+<author orcid="0000-0001-6156-9338" pid="204/2588">Sulaiman Vesal</author>
+<author orcid="0000-0003-0134-107X" pid="182/1756">Nishant Ravikumar</author>
+<author pid="131/7133">Andreas K. Maier</author>
+<author pid="44/1152-9">Xin Yang 0009</author>
+<author orcid="0000-0003-3055-5034" pid="52/2889">Pheng-Ann Heng</author>
+<author pid="02/450-1">Dong Ni 0001</author>
+<author orcid="0000-0002-7947-5345" pid="236/7989">Caizi Li</author>
+<author orcid="0000-0003-1617-012X" pid="167/9641-1">Qianqian Tong 0001</author>
+<author orcid="0000-0002-3289-9714" pid="49/9062">Weixin Si</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="236/7950">Younes Khoudli</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0003-3303-0401" pid="87/5278">Jichao Zhao</author>
+<title>A global benchmark of algorithms for segmenting the left atrium from late gadolinium-enhanced cardiac magnetic resonance imaging.</title>
+<pages>101832</pages>
+<year>2021</year>
+<volume>67</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2020.101832</ee>
+<ee>https://www.wikidata.org/entity/Q101470340</ee>
+<url>db/journals/mia/mia67.html#XiongXHHBZVRMYH21</url>
+</article>
+</r>
+<r><article key="journals/mia/SekuboyinaHBLLL21" mdate="2024-07-22">
+<author pid="198/0458">Anjany Sekuboyina</author>
+<author pid="258/4149">Malek El Husseini</author>
+<author pid="257/3280">Amirhossein Bayat</author>
+<author pid="141/6051">Maximilian L&#246;ffler</author>
+<author pid="166/9660">Hans Liebl</author>
+<author orcid="0000-0002-5328-6407" pid="39/5544-4">Hongwei Li 0004</author>
+<author pid="199/1967">Giles Tetteh</author>
+<author orcid="0000-0002-6644-0792" pid="207/8395">Jan Kukacka</author>
+<author pid="167/9663">Christian Payer</author>
+<author pid="02/8488">Darko Stern</author>
+<author orcid="0000-0001-5792-3971" pid="68/309">Martin Urschler</author>
+<author pid="257/3183">Maodong Chen</author>
+<author pid="08/8545">Dalong Cheng</author>
+<author pid="143/4290">Nikolas Lessmann</author>
+<author pid="41/5328">Yujin Hu</author>
+<author pid="25/3611">Tianfu Wang 0001</author>
+<author pid="33/412-5">Dong Yang 0005</author>
+<author pid="140/3604">Daguang Xu</author>
+<author pid="210/9120">Felix Ambellan</author>
+<author pid="303/0588">Tamaz Amiranashvili</author>
+<author pid="137/2114">Moritz Ehlke</author>
+<author pid="63/3053">Hans Lamecker</author>
+<author pid="303/0533">Sebastian Lehnert</author>
+<author pid="303/0813">Marilia Lirio</author>
+<author pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</author>
+<author pid="118/5445">Heiko Ramm</author>
+<author pid="188/6278">Manish Sahu</author>
+<author orcid="0000-0002-2418-7629" pid="176/5287">Alexander Tack</author>
+<author pid="42/294">Stefan Zachow</author>
+<author pid="181/2813">Tao Jiang</author>
+<author pid="117/3114">Xinjun Ma</author>
+<author pid="257/3379">Christoph Angerman</author>
+<author orcid="0000-0001-9546-6038" pid="10/5630-113">Xin Wang 0113</author>
+<author pid="145/7448">Kevin Brown</author>
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="12/414">Di Chen</author>
+<author pid="206/6703">Yiwei Bai</author>
+<author pid="303/0841">Brandon H. Rapazzo</author>
+<author pid="303/1302">Timyoas Yeah</author>
+<author pid="303/0914">Amber Zhang</author>
+<author pid="258/4098">Shangliang Xu</author>
+<author pid="65/8064">Feng Hou</author>
+<author pid="99/5332-2">Zhiqiang He 0002</author>
+<author pid="194/8018">Chan Zeng</author>
+<author pid="303/0784">Zheng Xiangshang</author>
+<author pid="303/0842">Xu Liming</author>
+<author orcid="0000-0003-1583-7121" pid="294/9412">Tucker J. Netherton</author>
+<author orcid="0000-0001-7383-6122" pid="294/9332">Raymond P. Mumme</author>
+<author pid="159/9542">Laurence E. Court</author>
+<author pid="276/1481">Zixun Huang</author>
+<author pid="272/1145">Chenhang He</author>
+<author pid="33/10711">Li-Wen Wang</author>
+<author pid="87/5538">Sai Ho Ling</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="171/9909">Roman Jakub&#237;cek</author>
+<author orcid="0000-0001-9950-6279" pid="207/7257">Jir&#237; Chmel&#237;k</author>
+<author pid="239/1824">Supriti Mulay</author>
+<author pid="07/3856">Mohanasankar Sivaprakasam</author>
+<author pid="239/8775">Johannes C. Paetzold</author>
+<author orcid="0000-0003-4435-7207" pid="154/8612">Suprosanna Shit</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author orcid="0000-0002-2963-7772" pid="165/7294">Benedikt Wiestler</author>
+<author pid="86/2890">Ben Glocker</author>
+<author pid="86/9222">Alexander Valentinitsch</author>
+<author pid="150/3312">Markus Rempfler</author>
+<author orcid="0000-0003-4136-5690" pid="74/6505">Bj&#246;rn H. Menze</author>
+<author pid="181/6853">Jan S. Kirschke</author>
+<title>VerSe: A Vertebrae labelling and segmentation benchmark for multi-detector CT images.</title>
+<pages>102166</pages>
+<year>2021</year>
+<volume>73</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2021.102166</ee>
+<url>db/journals/mia/mia73.html#SekuboyinaHBLLL21</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgmm/BlochBPPT21" mdate="2022-08-16">
+<author orcid="0000-0002-6984-1532" pid="33/1668">Isabelle Bloch</author>
+<author orcid="0000-0003-0294-8172" pid="158/9557">Samy Blusseau</author>
+<author orcid="0000-0002-2912-263X" pid="96/1310">Ram&#243;n Pino P&#233;rez</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<title>On Some Associations Between Mathematical Morphology and Artificial Intelligence.</title>
+<pages>457-469</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_33</ee>
+<ee>https://www.wikidata.org/entity/Q112678605</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#BlochBPPT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/KirszenbergTPA21" mdate="2021-05-18">
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="33/614">Jes&#250;s Angulo</author>
+<title>Going Beyond p-convolutions to Learn Grayscale Morphological Operators.</title>
+<pages>470-482</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_34</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#KirszenbergTPA21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10038" mdate="2021-02-24">
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="33/614">Jes&#250;s Angulo</author>
+<title>Going beyond p-convolutions to learn grayscale morphological operators.</title>
+<year>2021</year>
+<volume>abs/2102.10038</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10038</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10038</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-10074" mdate="2023-06-28">
+<author pid="181/6915">Raghav Mehta</author>
+<author pid="242/9238">Angelos Filos</author>
+<author pid="200/0516">Ujjwal Baid</author>
+<author pid="265/3498">Chiharu Sako</author>
+<author pid="95/6709">Richard McKinley</author>
+<author pid="230/3907">Michael Rebsamen</author>
+<author pid="282/0400">Katrin D&#228;twyler</author>
+<author pid="149/7569">Raphael Meier</author>
+<author pid="282/1389">Piotr Radojewski</author>
+<author pid="201/7764">Gowtham Krishnan Murugesan</author>
+<author pid="265/2568">Sahil S. Nalawade</author>
+<author pid="288/7741">Chandan Ganesh</author>
+<author pid="205/6104">Benjamin C. Wagner</author>
+<author pid="265/3301">Fang F. Yu</author>
+<author pid="03/2160">Baowei Fei</author>
+<author pid="205/6096">Ananth J. Madhuranthakam</author>
+<author pid="01/6305">Joseph A. Maldjian</author>
+<author pid="212/9527">Laura Alexandra Daza</author>
+<author pid="212/9517">Catalina G&#243;mez Caballero</author>
+<author pid="41/639">Pablo Arbel&#225;ez</author>
+<author pid="171/8003">Chengliang Dai</author>
+<author pid="63/1591-11">Shuo Wang 0011</author>
+<author pid="288/7781">Hadrien Raynaud</author>
+<author pid="198/0698">Yuanhan Mo</author>
+<author pid="63/1426">Elsa D. Angelini</author>
+<author pid="g/YikeGuo">Yike Guo</author>
+<author pid="20/5519">Wenjia Bai</author>
+<author pid="92/2241">Subhashis Banerjee</author>
+<author pid="174/0474">Linmin Pei</author>
+<author pid="64/7265">Murat Ak</author>
+<author pid="309/8181">Sarahi Rosas-Gonz&#225;lez</author>
+<author pid="131/6153">Ilyess Zemmoura</author>
+<author pid="81/1093">Clovis Tauber</author>
+<author pid="245/4275">Minh H. Vu</author>
+<author pid="218/1371">Tufve Nyholm</author>
+<author pid="127/4663">Tommy L&#246;fstedt</author>
+<author pid="275/3879">Laura Mora Ballestar</author>
+<author pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author pid="288/7717">Hugh McHugh</author>
+<author pid="168/5426">Gonzalo D. Maso Talou</author>
+<author pid="03/5773">Alan Wang</author>
+<author pid="274/3034">Jay B. Patel</author>
+<author pid="42/10254">Ken Chang</author>
+<author pid="225/5210">Katharina Hoebel</author>
+<author pid="266/8089">Mishka Gidwani</author>
+<author pid="266/7845">Nishanth Thumbavanam Arun</author>
+<author pid="271/7816">Sharut Gupta</author>
+<author pid="271/8038">Mehak Aggarwal</author>
+<author pid="155/3078">Praveer Singh</author>
+<author pid="165/7810">Elizabeth R. Gerstner</author>
+<author pid="50/3269">Jayashree Kalpathy-Cramer</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="309/9075">Alexis Huard</author>
+<author pid="150/4157">Lasitha Vidyaratne</author>
+<author pid="265/3327">Md Monibor Rahman</author>
+<author pid="10/4321">Khan M. Iftekharuddin</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="91/4845-16">Jun Ma 0016</author>
+<author pid="71/10545">Mariano Cabezas</author>
+<author pid="32/4689">Xavier Llad&#243;</author>
+<author pid="16/5582">Arnau Oliver</author>
+<author pid="309/8126">Liliana Valencia</author>
+<author pid="63/5928">Sergi Valverde</author>
+<author pid="254/2882">Mehdi Amian</author>
+<author pid="153/1648">Mohammadreza Soltaninejad</author>
+<author pid="26/1146">Andriy Myronenko</author>
+<author pid="226/7000">Ali Hatamizadeh</author>
+<author pid="01/5235-1">Xue Feng 0001</author>
+<author pid="265/2935">Quan Dou</author>
+<author pid="63/4561">Nicholas J. Tustison</author>
+<author pid="47/2334">Craig H. Meyer</author>
+<author pid="263/1100">Nisarg A. Shah</author>
+<author pid="39/7796">Sanjay N. Talbar</author>
+<author pid="49/8400">Marc-Andr&#233; Weber</author>
+<author pid="195/3007">Abhishek Mahajan</author>
+<author pid="156/3027">Andr&#225;s Jakab</author>
+<author pid="87/10741">Roland Wiest</author>
+<author pid="94/1252">Hassan M. Fathallah-Shaykh</author>
+<author pid="165/4591">Arash Nazeri</author>
+<author pid="123/8294">Mikhail Milchenko</author>
+<author pid="67/7228">Daniel S. Marcus</author>
+<author pid="230/3673">Aikaterini Kotrotsou</author>
+<author pid="288/7607">Rivka Colen</author>
+<author pid="68/10804">John B. Freymann</author>
+<author pid="42/10803">Justin S. Kirby</author>
+<author pid="d/ChristosDavatzikos">Christos Davatzikos</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author pid="117/7034">Spyridon Bakas</author>
+<author pid="67/9076">Yarin Gal</author>
+<author pid="20/1315">Tal Arbel</author>
+<title>QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation - Analysis of Ranking Metrics and Benchmarking Results.</title>
+<year>2021</year>
+<volume>abs/2112.10074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.10074</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-10074</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpr/ZhaoPBG20" mdate="2021-05-07">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>FOANet: A Focus of Attention Network with Application to Myocardium Segmentation.</title>
+<pages>1120-1127</pages>
+<year>2020</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR48806.2021.9412016</ee>
+<crossref>conf/icpr/2020</crossref>
+<url>db/conf/icpr/icpr2020.html#ZhaoPBG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ZhaoPBG20a" mdate="2021-05-07">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Do not Treat Boundaries and Regions Differently: An Example on Heart Left Atrial Segmentation.</title>
+<pages>7447-7453</pages>
+<year>2020</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR48806.2021.9412755</ee>
+<crossref>conf/icpr/2020</crossref>
+<url>db/conf/icpr/icpr2020.html#ZhaoPBG20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ZhaoBP20" mdate="2021-01-09">
+<author pid="75/7785">Zhou Zhao</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<title>Stacked and Parallel U-Nets with Multi-output for Myocardial Pathology Segmentation.</title>
+<pages>138-145</pages>
+<year>2020</year>
+<booktitle>MyoPS@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65651-5_13</ee>
+<crossref>conf/miccai/2020myops</crossref>
+<url>db/conf/miccai/myops2020.html#ZhaoBP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-09193" mdate="2024-07-27">
+<author pid="198/0458">Anjany Sekuboyina</author>
+<author pid="258/4149">Malek El Husseini</author>
+<author pid="257/3280">Amirhossein Bayat</author>
+<author pid="141/6051">Maximilian L&#246;ffler</author>
+<author pid="166/9660">Hans Liebl</author>
+<author pid="39/5544-4">Hongwei Li 0004</author>
+<author pid="199/1967">Giles Tetteh</author>
+<author pid="207/8395">Jan Kukacka</author>
+<author pid="167/9663">Christian Payer</author>
+<author pid="02/8488">Darko Stern</author>
+<author pid="68/309">Martin Urschler</author>
+<author pid="257/3183">Maodong Chen</author>
+<author pid="08/8545">Dalong Cheng</author>
+<author pid="143/4290">Nikolas Lessmann</author>
+<author pid="41/5328">Yujin Hu</author>
+<author pid="25/3611">Tianfu Wang 0001</author>
+<author pid="33/412-5">Dong Yang 0005</author>
+<author pid="140/3604">Daguang Xu</author>
+<author pid="210/9120">Felix Ambellan</author>
+<author pid="303/0588">Tamaz Amiranashvili</author>
+<author pid="137/2114">Moritz Ehlke</author>
+<author pid="63/3053">Hans Lamecker</author>
+<author pid="303/0533">Sebastian Lehnert</author>
+<author pid="303/0813">Marilia Lirio</author>
+<author pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</author>
+<author pid="118/5445">Heiko Ramm</author>
+<author pid="188/6278">Manish Sahu</author>
+<author pid="176/5287">Alexander Tack</author>
+<author pid="42/294">Stefan Zachow</author>
+<author pid="181/2813">Tao Jiang</author>
+<author pid="117/3114">Xinjun Ma</author>
+<author pid="257/3379">Christoph Angerman</author>
+<author pid="10/5630-113">Xin Wang 0113</author>
+<author pid="145/7448">Kevin Brown</author>
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="12/414">Di Chen</author>
+<author pid="206/6703">Yiwei Bai</author>
+<author pid="303/0841">Brandon H. Rapazzo</author>
+<author pid="303/1302">Timyoas Yeah</author>
+<author pid="303/0914">Amber Zhang</author>
+<author pid="258/4098">Shangliang Xu</author>
+<author pid="65/8064">Feng Hou</author>
+<author pid="99/5332-2">Zhiqiang He 0002</author>
+<author pid="194/8018">Chan Zeng</author>
+<author pid="285/7662">Xiangshang Zheng</author>
+<author pid="74/8609">Liming Xu</author>
+<author pid="294/9412">Tucker J. Netherton</author>
+<author pid="294/9332">Raymond P. Mumme</author>
+<author pid="159/9542">Laurence E. Court</author>
+<author pid="276/1481">Zixun Huang</author>
+<author pid="272/1145">Chenhang He</author>
+<author pid="33/10711">Li-Wen Wang</author>
+<author pid="87/5538">Sai Ho Ling</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="171/9909">Roman Jakub&#237;cek</author>
+<author pid="207/7257">Jir&#237; Chmel&#237;k</author>
+<author pid="239/1824">Supriti Mulay</author>
+<author pid="07/3856">Mohanasankar Sivaprakasam</author>
+<author pid="239/8775">Johannes C. Paetzold</author>
+<author pid="154/8612">Suprosanna Shit</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author pid="165/7294">Benedikt Wiestler</author>
+<author pid="86/2890">Ben Glocker</author>
+<author pid="86/9222">Alexander Valentinitsch</author>
+<author pid="150/3312">Markus Rempfler</author>
+<author pid="74/6505">Bj&#246;rn H. Menze</author>
+<author pid="181/6853">Jan S. Kirschke</author>
+<title>VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images.</title>
+<year>2020</year>
+<volume>abs/2001.09193</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.09193</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-09193</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-12314" mdate="2026-05-06">
+<author pid="217/2319">Zhaohan Xiong</author>
+<author pid="62/2726-2">Qing Xia 0002</author>
+<author pid="40/3396">Zhiqiang Hu</author>
+<author pid="78/5848">Ning Huang</author>
+<author pid="205/3556">Cheng Bian</author>
+<author pid="44/6510">Yefeng Zheng 0001</author>
+<author pid="204/2588">Sulaiman Vesal</author>
+<author pid="182/1756">Nishant Ravikumar</author>
+<author pid="131/7133">Andreas K. Maier</author>
+<author pid="44/1152-9">Xin Yang 0009</author>
+<author pid="52/2889">Pheng-Ann Heng</author>
+<author pid="02/450-1">Dong Ni 0001</author>
+<author pid="236/7989">Caizi Li</author>
+<author pid="167/9641-1">Qianqian Tong 0001</author>
+<author pid="49/9062">Weixin Si</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="236/7950">Younes Khoudli</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="65/4423-42">Chen Chen 0042</author>
+<author pid="20/5519">Wenjia Bai</author>
+<author pid="69/2478">Daniel Rueckert</author>
+<author pid="226/3351">Lingchao Xu</author>
+<author pid="69/1049">Xiahai Zhuang</author>
+<author pid="236/6037">Xinzhe Luo</author>
+<author pid="193/9448">Shuman Jia</author>
+<author pid="92/5704">Maxime Sermesant</author>
+<author pid="231/1755">Yashu Liu 0003</author>
+<author pid="32/6613">Kuanquan Wang</author>
+<author orcid="0000-0003-3791-8555" pid="155/1578">Davide Borra</author>
+<author pid="239/5347">Alessandro Masci 0002</author>
+<author pid="33/6413">Cristiana Corsi</author>
+<author orcid="0000-0001-5908-8367" pid="236/7935">Coen de Vente</author>
+<author pid="30/9774">Mitko Veta</author>
+<author pid="29/7980">Rashed Karim</author>
+<author pid="236/7607">Chandrakanth Jayachandran Preetha</author>
+<author pid="45/7703">Sandy Engelhardt</author>
+<author pid="236/7492">Mengyun Qiao</author>
+<author pid="95/494-1">Yuanyuan Wang 0001</author>
+<author pid="18/665">Qian Tao</author>
+<author pid="163/9787">Marta Nu&#241;ez Garcia</author>
+<author pid="20/3217">Oscar Camara 0001</author>
+<author pid="223/4097">Nicol&#243; Savioli</author>
+<author pid="42/1947">Pablo Lamata</author>
+<author pid="87/5278">Jichao Zhao</author>
+<title>A Global Benchmark of Algorithms for Segmenting Late Gadolinium-Enhanced Cardiac Magnetic Resonance Imaging.</title>
+<year>2020</year>
+<volume>abs/2004.12314</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.12314</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-12314</url>
+</article>
+</r>
+<r><article key="journals/cbm/GenestPLCCT19" mdate="2024-08-04">
+<author pid="195/2575">Diane Genest</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="162/5996">Marc L&#233;onard</author>
+<author pid="97/6870">Jean Cousty</author>
+<author pid="236/5021">No&#233;mie De Croz&#233;</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<title>High throughput automated detection of axial malformations in Medaka embryo.</title>
+<pages>157-168</pages>
+<year>2019</year>
+<volume>105</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2018.12.016</ee>
+<ee>https://www.wikidata.org/entity/Q91092137</ee>
+<url>db/journals/cbm/cbm105.html#GenestPLCCT19</url>
+</article>
+</r>
+<r><article key="journals/tmi/WangNLPDZWXWCTB19" mdate="2025-03-19">
+<author orcid="0000-0003-2165-0080" pid="58/6810-26">Li Wang 0026</author>
+<author orcid="0000-0003-0385-8988" pid="130/8299">Dong Nie</author>
+<author pid="06/7118">Guannan Li</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2436-7750" pid="165/8035">Jose Dolz</author>
+<author pid="04/2024-66">Qian Zhang 0066</author>
+<author pid="88/898-23">Fan Wang 0023</author>
+<author pid="98/2636">Jing Xia</author>
+<author orcid="0000-0003-4436-9005" pid="35/8016">Zhengwang Wu</author>
+<author orcid="0000-0002-8195-1582" pid="03/1390-1">Jiawei Chen 0001</author>
+<author pid="13/1611">Kim-Han Thung</author>
+<author pid="143/9351">Toan Duc Bui</author>
+<author pid="95/3647">Jitae Shin</author>
+<author pid="158/9463">Guodong Zeng</author>
+<author pid="85/5912">Guoyan Zheng</author>
+<author orcid="0000-0003-3402-7749" pid="16/1181">Vladimir S. Fonov</author>
+<author orcid="0000-0001-7060-5804" pid="205/3578">Andrew Doyle</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="157/6531">Pim Moeskops</author>
+<author pid="70/5175">Josien P. W. Pluim</author>
+<author pid="15/4137">Christian Desrosiers</author>
+<author pid="68/4478">Ismail Ben Ayed</author>
+<author pid="98/1638">Gerard Sanroma</author>
+<author orcid="0000-0003-3922-7643" pid="147/3416">Oualid M. Benkarim</author>
+<author orcid="0000-0002-0539-3638" pid="173/6973">Adri&#224; Casamitjana</author>
+<author orcid="0000-0001-6924-9961" pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author pid="98/3393">Weili Lin</author>
+<author orcid="0000-0001-9585-1382" pid="62/2655-1">Gang Li 0001</author>
+<author orcid="0000-0002-7934-5698" pid="14/4383">Dinggang Shen</author>
+<title>Benchmark on Automatic Six-Month-Old Infant Brain Segmentation Algorithms: The iSeg-2017 Challenge.</title>
+<pages>2219-2230</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Medical Imaging</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TMI.2019.2901712</ee>
+<ee>https://www.wikidata.org/entity/Q62838784</ee>
+<url>db/journals/tmi/tmi38.html#WangNLPDZWXWCTB19</url>
+</article>
+</r>
+<r><article key="journals/tmi/KuijfCCDGGJKKLL19" mdate="2025-05-28">
+<author orcid="0000-0001-6997-9059" pid="44/9772">Hugo J. Kuijf</author>
+<author orcid="0000-0002-0539-3638" pid="173/6973">Adri&#224; Casamitjana</author>
+<author orcid="0000-0002-8432-7021" pid="c/DLouisCollins">D. Louis Collins</author>
+<author orcid="0000-0003-4008-2672" pid="158/6605">Mahsa Dadar</author>
+<author pid="239/4020">Achilleas Georgiou</author>
+<author pid="134/3492">Mohsen Ghafoorian</author>
+<author pid="133/9440">Dakai Jin</author>
+<author orcid="0000-0002-4932-0385" pid="75/7164">April Khademi</author>
+<author orcid="0000-0002-0455-5455" pid="239/4230">Jesse Knight</author>
+<author orcid="0000-0002-5328-6407" pid="39/5544-4">Hongwei Li 0004</author>
+<author orcid="0000-0003-2777-3479" pid="32/4689">Xavier Llad&#243;</author>
+<author orcid="0000-0001-7017-2148" pid="133/2464">J. Matthijs Biesbroek</author>
+<author pid="235/3480">Miguel Luna</author>
+<author pid="143/4730">Qaiser Mahmood</author>
+<author orcid="0000-0001-8250-6117" pid="95/6709">Richard McKinley</author>
+<author orcid="0000-0003-3703-5330" pid="134/9922">Alireza Mehrtash</author>
+<author orcid="0000-0002-5694-5340" pid="40/2838">S&#233;bastien Ourselin</author>
+<author orcid="0000-0001-7096-337X" pid="188/3553">Bo-yong Park</author>
+<author orcid="0000-0001-5681-8918" pid="41/4978">Hyunjin Park</author>
+<author pid="45/2752">Sang Hyun Park</author>
+<author orcid="0000-0002-4998-8983" pid="143/6194">Simon Pezold</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0003-0759-8407" pid="71/9774">Jeroen de Bresser</author>
+<author orcid="0000-0001-8182-5554" pid="36/2977">Let&#237;cia Rittner</author>
+<author orcid="0000-0001-5753-428X" pid="150/2899">Carole H. Sudre</author>
+<author pid="63/5928">Sergi Valverde</author>
+<author orcid="0000-0001-6924-9961" pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author orcid="0000-0001-7030-2045" pid="87/10741">Roland Wiest</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="59/9160-4">Ziyue Xu 0004</author>
+<author pid="158/9463">Guodong Zeng</author>
+<author orcid="0000-0001-9317-0268" pid="90/6415-1">Jianguo Zhang 0001</author>
+<author pid="85/5912">Guoyan Zheng</author>
+<author orcid="0000-0003-4094-7509" pid="239/3977">Rutger Heinen</author>
+<author orcid="0000-0002-1047-9225" pid="388/3499">Christopher Li Hsian Chen</author>
+<author pid="63/10737">Wiesje M. van der Flier</author>
+<author orcid="0000-0003-3543-3706" pid="116/1982">Frederik Barkhof</author>
+<author pid="77/2011">Max A. Viergever</author>
+<author pid="00/9775">Geert Jan Biessels</author>
+<author pid="187/1544">Simon Andermatt</author>
+<author orcid="0000-0001-5125-0294" pid="59/10579">Mariana P. Bento</author>
+<author pid="198/1366">Matt Berseth</author>
+<author orcid="0000-0001-9906-6453" pid="160/9417">Mikhail Belyaev</author>
+<author orcid="0000-0003-1284-2558" pid="17/7426">M. Jorge Cardoso</author>
+<title>Standardized Assessment of Automatic Segmentation of White Matter Hyperintensities and Results of the WMH Segmentation Challenge.</title>
+<pages>2556-2568</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Medical Imaging</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TMI.2019.2905770</ee>
+<ee>https://www.wikidata.org/entity/Q92596664</ee>
+<url>db/journals/tmi/tmi38.html#KuijfCCDGGJKKLL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/brainles-ws/BuatoisPTC19" mdate="2022-03-16">
+<author pid="265/3153">Thibault Buatois</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>Two Stages CNN-Based Segmentation of Gliomas, Uncertainty Quantification and Prediction of Overall Patient Survival.</title>
+<pages>167-178</pages>
+<year>2019</year>
+<booktitle>BrainLes@MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46643-5_16</ee>
+<ee>https://www.wikidata.org/entity/Q108527542</ee>
+<crossref>conf/brainles-ws/2019-2</crossref>
+<url>db/conf/brainles-ws/brainles-ws2019-2.html#BuatoisPTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/brainles-ws/BoutryCPTTG19" mdate="2022-03-16">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Using Separated Inputs for Multimodal Brain Tumor Segmentation with 3D U-Net-like Architectures.</title>
+<pages>187-199</pages>
+<year>2019</year>
+<booktitle>BrainLes@MICCAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46640-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q108527541</ee>
+<crossref>conf/brainles-ws/2019-1</crossref>
+<url>db/conf/brainles-ws/brainles-ws2019-1.html#BoutryCPTTG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/PuybareauCBT19" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="158/9578">Alessandro Benfenati</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<title>Spherical Fluorescent Particle Segmentation and Tracking in 3D Confocal Microscopy.</title>
+<pages>520-531</pages>
+<year>2019</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20867-7_40</ee>
+<crossref>conf/ismm/2019</crossref>
+<url>db/conf/ismm/ismm2019.html#PuybareauCBT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ZhaoBPG19" mdate="2020-01-27">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A Two-Stage Temporal-Like Fully Convolutional Network Framework for Left Ventricle Segmentation and Quantification on MR Images.</title>
+<pages>405-413</pages>
+<year>2019</year>
+<booktitle>STACOM@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39074-7_42</ee>
+<crossref>conf/miccai/2019stacom</crossref>
+<url>db/conf/miccai/stacom2019.html#ZhaoBPG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-00682" mdate="2025-05-28">
+<author pid="44/9772">Hugo J. Kuijf</author>
+<author pid="133/2464">J. Matthijs Biesbroek</author>
+<author pid="71/9774">Jeroen de Bresser</author>
+<author pid="239/3977">Rutger Heinen</author>
+<author pid="187/1544">Simon Andermatt</author>
+<author pid="59/10579">Mariana P. Bento</author>
+<author pid="198/1366">Matt Berseth</author>
+<author pid="160/9417">Mikhail Belyaev</author>
+<author pid="17/7426">M. Jorge Cardoso</author>
+<author pid="173/6973">Adri&#224; Casamitjana</author>
+<author pid="c/DLouisCollins">D. Louis Collins</author>
+<author pid="158/6605">Mahsa Dadar</author>
+<author pid="239/4020">Achilleas Georgiou</author>
+<author pid="134/3492">Mohsen Ghafoorian</author>
+<author pid="133/9440">Dakai Jin</author>
+<author pid="75/7164">April Khademi</author>
+<author pid="239/4230">Jesse Knight</author>
+<author pid="39/5544-4">Hongwei Li 0004</author>
+<author pid="32/4689">Xavier Llad&#243;</author>
+<author pid="235/3480">Miguel Luna</author>
+<author pid="143/4730">Qaiser Mahmood</author>
+<author pid="95/6709">Richard McKinley</author>
+<author pid="134/9922">Alireza Mehrtash</author>
+<author pid="40/2838">S&#233;bastien Ourselin</author>
+<author pid="188/3553">Bo-yong Park</author>
+<author pid="41/4978">Hyunjin Park</author>
+<author pid="45/2752">Sang Hyun Park</author>
+<author pid="143/6194">Simon Pezold</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="36/2977">Let&#237;cia Rittner</author>
+<author pid="150/2899">Carole H. Sudre</author>
+<author pid="63/5928">Sergi Valverde</author>
+<author pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author pid="87/10741">Roland Wiest</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="59/9160-4">Ziyue Xu 0004</author>
+<author pid="158/9463">Guodong Zeng</author>
+<author pid="90/6415-1">Jianguo Zhang 0001</author>
+<author pid="85/5912">Guoyan Zheng</author>
+<author pid="388/3499">Christopher Li Hsian Chen</author>
+<author pid="63/10737">Wiesje M. van der Flier</author>
+<author pid="116/1982">Frederik Barkhof</author>
+<author pid="77/2011">Max A. Viergever</author>
+<author pid="00/9775">Geert Jan Biessels</author>
+<title>Standardized Assessment of Automatic Segmentation of White Matter Hyperintensities and Results of the WMH Segmentation Challenge.</title>
+<year>2019</year>
+<volume>abs/1904.00682</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.00682</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-00682</url>
+</article>
+</r>
+<r><article key="journals/mia/XuMDPVUGAB18" mdate="2020-06-16">
+<author orcid="0000-0002-7253-3151" pid="86/11269">Yongchao Xu</author>
+<author orcid="0000-0003-4747-3393" pid="168/5536">Baptiste Morel</author>
+<author pid="24/7873">Sonia Dahdouh</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="188/3119">Alessio Virzi</author>
+<author pid="181/6977">H&#233;l&#232;ne Urien</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="57/4999">Catherine Adamsbaum</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<title>The challenge of cerebral magnetic resonance imaging in neonates: A new method using mathematical morphology for the segmentation of structures including diffuse excessive high signal intensities.</title>
+<pages>75-94</pages>
+<year>2018</year>
+<volume>48</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2018.05.003</ee>
+<ee>https://www.wikidata.org/entity/Q88934369</ee>
+<url>db/journals/mia/mia48.html#XuMDPVUGAB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/das/DanglaPTF18" mdate="2026-03-24">
+<author pid="221/8956">Aliona Dangla</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0003-1494-286X" pid="90/2799">Jonathan Fabrizio</author>
+<title>A First Step Toward a Fair Comparison of Evaluation Protocols for Text Detection Algorithms.</title>
+<pages>345-350</pages>
+<year>2018</year>
+<booktitle>DAS</booktitle>
+<ee>https://doi.org/10.1109/DAS.2018.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DAS.2018.55</ee>
+<crossref>conf/das/2018</crossref>
+<url>db/conf/das/das2018.html#DanglaPTF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/PuybareauG18" mdate="2018-09-11">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Real-Time Document Detection in Smartphone Videos.</title>
+<pages>1498-1502</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451533</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#PuybareauG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/PuybareauTCF18" mdate="2026-03-24">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0003-1494-286X" pid="90/2799">Jonathan Fabrizio</author>
+<title>Segmentation of Gliomas and Prediction of Patient Overall Survival: A Simple and Fast Procedure.</title>
+<pages>199-209</pages>
+<year>2018</year>
+<booktitle>BrainLes@MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-11726-9_18</ee>
+<ee>https://www.wikidata.org/entity/Q108527523</ee>
+<crossref>conf/miccai/2018brainles-2</crossref>
+<url>db/conf/miccai/brainles2018-2.html#PuybareauTCF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/PuybareauZKCXLG18" mdate="2019-03-05">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="236/7950">Younes Khoudli</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="236/7755">J&#233;r&#244;me Lacotte</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Left Atrial Segmentation in a Few Seconds Using Fully Convolutional Network and Transfer Learning.</title>
+<pages>339-347</pages>
+<year>2018</year>
+<booktitle>STACOM@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12029-0_37</ee>
+<crossref>conf/miccai/2018stacom</crossref>
+<url>db/conf/miccai/stacom2018.html#PuybareauZKCXLG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbm/PuybareauGBLT17" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="195/2575">Diane Genest</author>
+<author pid="195/2593">Emilie Barbeau</author>
+<author pid="162/5996">Marc L&#233;onard</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<title>An automated assay for the assessment of cardiac arrest in fish embryo.</title>
+<pages>32-44</pages>
+<year>2017</year>
+<volume>81</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2016.12.007</ee>
+<ee>https://www.wikidata.org/entity/Q48031615</ee>
+<url>db/journals/cbm/cbm81.html#PuybareauGBLT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/isbi/PuybareauTN17" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Periodic area-of-motion characterization for bio-medical applications.</title>
+<pages>210-214</pages>
+<year>2017</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2017.7950503</ee>
+<crossref>conf/isbi/2017</crossref>
+<url>db/conf/isbi/isbi2017.html#PuybareauTN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/PuybareauTGB17" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author orcid="0000-0001-9472-1084" pid="156/7217">Noha Gaber</author>
+<author orcid="0000-0003-2342-7149" pid="68/6744">Tarik Bourouina</author>
+<title>Morphological Analysis of Brownian Motion for Physical Measurements.</title>
+<pages>486-497</pages>
+<year>2017</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57240-6_40</ee>
+<crossref>conf/ismm/2017</crossref>
+<url>db/conf/ismm/ismm2017.html#PuybareauTGB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/XuGPBC17" mdate="2018-03-06">
+<author pid="86/11269">Yongchao Xu</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>White Matter Hyperintensities Segmentation in a Few Seconds Using Fully Convolutional Network and Transfer Learning.</title>
+<pages>501-514</pages>
+<year>2017</year>
+<booktitle>BrainLes@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75238-9_42</ee>
+<crossref>conf/miccai/2017brainles</crossref>
+<url>db/conf/miccai/brainles2017.html#XuGPBC17</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Puybareau16" mdate="2020-07-21">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<title>Motion analysis for Medical and Bio-medical applications. (Analyse du mouvement pour applications m&#233;dicales et bio-m&#233;dicales).</title>
+<year>2016</year>
+<school>University of Paris-Est, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01735046</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icip/PuybareauTBLPPC16" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author pid="191/2593">Emilie Bequignon</author>
+<author orcid="0000-0001-9587-9932" pid="165/8014">Bruno Louis</author>
+<author pid="196/3155">Gabriel Pelle</author>
+<author pid="165/8083">Jean-Fran&#231;ois Papon</author>
+<author pid="165/7816">Andr&#233; Coste</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Automating the measurement of physiological parameters: A case study in the image analysis of cilia motion.</title>
+<pages>1240-1244</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2016.7532556</ee>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#PuybareauTBLPPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipta/PuybareauTL15" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author pid="162/5996">Marc L&#233;onard</author>
+<title>Automated heart rate estimation in fish embryo.</title>
+<pages>379-384</pages>
+<year>2015</year>
+<booktitle>IPTA</booktitle>
+<ee>https://doi.org/10.1109/IPTA.2015.7367171</ee>
+<crossref>conf/ipta/2015</crossref>
+<url>db/conf/ipta/ipta2015.html#PuybareauTL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/PuybareauTPLPCN15" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author pid="196/3155">Gabriel Pelle</author>
+<author orcid="0000-0001-9587-9932" pid="165/8014">Bruno Louis</author>
+<author pid="165/8083">Jean-Fran&#231;ois Papon</author>
+<author pid="165/7816">Andr&#233; Coste</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>A regionalized automated measurement of ciliary beating frequency.</title>
+<pages>528-531</pages>
+<year>2015</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2015.7163927</ee>
+<crossref>conf/isbi/2015</crossref>
+<url>db/conf/isbi/isbi2015.html#PuybareauTPLPCN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/PuybareauLT15" mdate="2017-05-26">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="162/5996">Marc L&#233;onard</author>
+<author pid="00/1609">Hugues Talbot</author>
+<title>An Automated Assay for the Evaluation of Mortality in Fish Embryo.</title>
+<pages>110-121</pages>
+<year>2015</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18720-4_10</ee>
+<crossref>conf/ismm/2015</crossref>
+<url>db/conf/ismm/ismm2015.html#PuybareauLT15</url>
+</inproceedings>
+</r>
+<coauthors n="470" nc="1">
+<co c="0"><na f="a/Adams:Hieab" pid="273/8180">Hieab Adams</na></co>
+<co c="0"><na f="a/Adamsbaum:Catherine" pid="57/4999">Catherine Adamsbaum</na></co>
+<co c="0" n="2"><na f="a/Adler:Tim" pid="236/0060">Tim Adler</na><na>Tim J. Adler</na></co>
+<co c="0"><na f="a/Aggarwal:Mehak" pid="271/8038">Mehak Aggarwal</na></co>
+<co c="0"><na f="a/Ak:Murat" pid="64/7265">Murat Ak</na></co>
+<co c="0"><na f="a/Ali:Sharib" pid="14/11430">Sharib Ali</na></co>
+<co c="0"><na f="a/Altunok:Elif" pid="254/0925">Elif Altunok</na></co>
+<co c="0"><na f="a/Ambellan:Felix" pid="210/9120">Felix Ambellan</na></co>
+<co c="0"><na f="a/Amian:Mehdi" pid="254/2882">Mehdi Amian</na></co>
+<co c="0"><na f="a/Amiranashvili:Tamaz" pid="303/0588">Tamaz Amiranashvili</na></co>
+<co c="0"><na f="a/Andermatt:Simon" pid="187/1544">Simon Andermatt</na></co>
+<co c="0"><na f="a/Andrearczyk:Vincent" pid="175/1436">Vincent Andrearczyk</na></co>
+<co c="0"><na f="a/Angelini:Elsa_D=" pid="63/1426">Elsa D. Angelini</na></co>
+<co c="0"><na f="a/Angerman:Christoph" pid="257/3379">Christoph Angerman</na></co>
+<co c="0"><na f="a/Angulo:Gustavo" pid="118/6502">Gustavo Angulo</na></co>
+<co c="0"><na f="a/Angulo:Jes=uacute=s" pid="33/614">Jes&#250;s Angulo</na></co>
+<co c="0"><na f="a/Ankenbrand:Markus_J=" pid="185/4309">Markus J. Ankenbrand</na></co>
+<co c="0"><na f="a/Anson:Beatriz_Gomez" pid="232/3168">Beatriz Gomez Anson</na></co>
+<co c="0"><na f="a/Arbel:Tal" pid="20/1315">Tal Arbel</na></co>
+<co c="0" n="2"><na f="a/Arbel=aacute=ez:Pablo_Andr=eacute=s" pid="41/639">Pablo Andr&#233;s Arbel&#225;ez</na><na>Pablo Arbel&#225;ez</na></co>
+<co c="0"><na f="a/Arega:Tewodros_Weldebirhan" pid="281/9944">Tewodros Weldebirhan Arega</na></co>
+<co c="0"><na f="a/Arun:Nishanth_Thumbavanam" pid="266/7845">Nishanth Thumbavanam Arun</na></co>
+<co c="0"><na f="a/Atkinson:David" pid="45/6663">David Atkinson</na></co>
+<co c="0"><na f="a/Aubreville:Marc" pid="166/6549">Marc Aubreville</na></co>
+<co c="0"><na f="a/Aydogan:Dogu_Baran" pid="36/1626">Dogu Baran Aydogan</na></co>
+<co c="0"><na f="a/Ayed:Ismail_Ben" pid="68/4478">Ismail Ben Ayed</na></co>
+<co c="0"><na f="b/Bai:Wenjia" pid="20/5519">Wenjia Bai</na></co>
+<co c="0"><na f="b/Bai:Yiwei" pid="206/6703">Yiwei Bai</na></co>
+<co c="0"><na f="b/Baid:Ujjwal" pid="200/0516">Ujjwal Baid</na></co>
+<co c="0"><na f="b/Bakas:Spyridon" pid="117/7034">Spyridon Bakas</na></co>
+<co c="0"><na f="b/Ballestar:Laura_Mora" pid="275/3879">Laura Mora Ballestar</na></co>
+<co c="0"><na f="b/Balu:Niranjan" pid="199/5255">Niranjan Balu</na></co>
+<co c="0"><na f="b/Banerjee:Subhashis" pid="92/2241">Subhashis Banerjee</na></co>
+<co c="0"><na f="b/Bano:Sophia" pid="159/3825">Sophia Bano</na></co>
+<co c="0"><na f="b/Barbeau:Emilie" pid="195/2593">Emilie Barbeau</na></co>
+<co c="0"><na f="b/Barkhof:Frederik" pid="116/1982">Frederik Barkhof</na></co>
+<co c="0"><na f="b/Bawa:Vivek_Singh" pid="234/7787">Vivek Singh Bawa</na></co>
+<co c="0"><na f="b/Bayat:Amirhossein" pid="257/3280">Amirhossein Bayat</na></co>
+<co c="0"><na f="b/Belyaev:Mikhail" pid="160/9417">Mikhail Belyaev</na></co>
+<co c="0"><na f="b/Benfenati:Alessandro" pid="158/9578">Alessandro Benfenati</na></co>
+<co c="0"><na f="b/Benkarim:Oualid_M=" pid="147/3416">Oualid M. Benkarim</na></co>
+<co c="0"><na f="b/Bento:Mariana_P=" pid="59/10579">Mariana P. Bento</na></co>
+<co c="0"><na f="b/Bequignon:Emilie" pid="191/2593">Emilie Bequignon</na></co>
+<co c="0"><na f="b/Bernal:Jorge" pid="22/3093">Jorge Bernal</na></co>
+<co c="0"><na f="b/Bernet:Philippe" pid="348/6676">Philippe Bernet</na></co>
+<co c="0"><na f="b/Berseth:Matt" pid="198/1366">Matt Berseth</na></co>
+<co c="0"><na f="b/Bhattarai:Binod" pid="127/0101">Binod Bhattarai</na></co>
+<co c="0"><na f="b/Bian:Cheng" pid="205/3556">Cheng Bian</na></co>
+<co c="0"><na f="b/Biesbroek:J=_Matthijs" pid="133/2464">J. Matthijs Biesbroek</na></co>
+<co c="0"><na f="b/Biessels:Geert_Jan" pid="00/9775">Geert Jan Biessels</na></co>
+<co c="0"><na f="b/Birhanu:Mahlet_A=" pid="239/1960">Mahlet A. Birhanu</na></co>
+<co c="0"><na f="b/Bloch:Isabelle" pid="33/1668">Isabelle Bloch</na></co>
+<co c="0"><na f="b/Bloch:Louise" pid="250/8540">Louise Bloch</na></co>
+<co c="0"><na f="b/Blusseau:Samy" pid="158/9557">Samy Blusseau</na></co>
+<co c="0"><na f="b/Bodenstedt:Sebastian" pid="32/9855">Sebastian Bodenstedt</na></co>
+<co c="0"><na f="b/Borra:Davide" pid="155/1578">Davide Borra</na></co>
+<co c="0"><na f="b/Bottenmuller:Antoine" pid="401/6989">Antoine Bottenmuller</na></co>
+<co c="0"><na f="b/Bourouina:Tarik" pid="68/6744">Tarik Bourouina</na></co>
+<co c="0"><na f="b/Bourquelot:Alexandre" pid="348/6848">Alexandre Bourquelot</na></co>
+<co c="0"><na f="b/Boutry:Nicolas" pid="150/5004">Nicolas Boutry</na></co>
+<co c="0"><na f="b/Bresser:Jeroen_de" pid="71/9774">Jeroen de Bresser</na></co>
+<co c="0"><na f="b/Bricq:St=eacute=phanie" pid="69/2940">St&#233;phanie Bricq</na></co>
+<co c="0" n="2"><na f="b/Bron:Esther" pid="150/7319">Esther Bron</na><na>Esther E. Bron</na></co>
+<co c="0"><na f="b/Brown:Kevin" pid="145/7448">Kevin Brown</na></co>
+<co c="0"><na f="b/Bruijne:Marleen_de" pid="45/3080">Marleen de Bruijne</na></co>
+<co c="0"><na f="b/Br=uuml=ngel:Raphael" pid="250/8287">Raphael Br&#252;ngel</na></co>
+<co c="0"><na f="b/Buatois:Thibault" pid="265/3153">Thibault Buatois</na></co>
+<co c="0"><na f="b/Bui:Toan_Duc" pid="143/9351">Toan Duc Bui</na></co>
+<co c="0"><na f="c/Caballero:Catalina_G=oacute=mez" pid="212/9517">Catalina G&#243;mez Caballero</na></co>
+<co c="0"><na f="c/Cabezas:Mariano" pid="71/10545">Mariano Cabezas</na></co>
+<co c="0"><na f="c/Camara_0001:Oscar" pid="20/3217">Oscar Camara 0001</na></co>
+<co c="0"><na f="c/Camarasa:Robin" pid="275/9013">Robin Camarasa</na></co>
+<co c="0" n="2"><na f="c/Cardoso:Manuel_Jorge" pid="17/7426">Manuel Jorge Cardoso</na><na>M. Jorge Cardoso</na></co>
+<co c="0"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="0"><na f="c/Casamitjana:Adri=agrave=" pid="173/6973">Adri&#224; Casamitjana</na></co>
+<co c="0"><na f="c/Casella:Alessandro" pid="157/9677">Alessandro Casella</na></co>
+<co c="0"><na f="c/Chang:Ken" pid="42/10254">Ken Chang</na></co>
+<co c="0"><na f="c/Chaturvedi:Nish" pid="323/2505">Nish Chaturvedi</na></co>
+<co c="0"><na f="c/Chazalon:Joseph" pid="00/7894">Joseph Chazalon</na></co>
+<co c="0"><na f="c/Chen_0042:Chen" pid="65/4423-42">Chen Chen 0042</na></co>
+<co c="0"><na f="c/Chen:Christopher_Li_Hsian" pid="388/3499">Christopher Li Hsian Chen</na></co>
+<co c="0"><na f="c/Chen:Di" pid="12/414">Di Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Jiawei" pid="03/1390-1">Jiawei Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Maodong" pid="257/3183">Maodong Chen</na></co>
+<co c="0"><na f="c/Chen:Shuai" pid="12/363">Shuai Chen</na></co>
+<co c="0"><na f="c/Chen:Yuan" pid="55/6958">Yuan Chen</na></co>
+<co c="0"><na f="c/Chen:Zihao" pid="130/7673">Zihao Chen</na></co>
+<co c="0"><na f="c/Cheng:Dalong" pid="08/8545">Dalong Cheng</na></co>
+<co c="0"><na f="c/Cheplygina:Veronika" pid="91/10084">Veronika Cheplygina</na></co>
+<co c="0"><na f="c/Chmel=iacute=k:Jir=iacute=" pid="207/7257">Jir&#237; Chmel&#237;k</na></co>
+<co c="0"><na f="c/Cho:J=" pid="12/2075">J. Cho</na></co>
+<co c="0"><na f="c/Choi:C=" pid="170/8532">C. Choi</na></co>
+<co c="0"><na f="c/Colen:Rivka" pid="288/7607">Rivka Colen</na></co>
+<co c="0"><na f="c/Collins:D=_Louis" pid="c/DLouisCollins">D. Louis Collins</na></co>
+<co c="0"><na f="c/Corsi:Cristiana" pid="33/6413">Cristiana Corsi</na></co>
+<co c="0"><na f="c/Coste:Andr=eacute=" pid="165/7816">Andr&#233; Coste</na></co>
+<co c="0"><na f="c/Court:Laurence_E=" pid="159/9542">Laurence E. Court</na></co>
+<co c="0"><na f="c/Cousty:Jean" pid="97/6870">Jean Cousty</na></co>
+<co c="0"><na f="c/Croz=eacute=:No=eacute=mie_De" pid="236/5021">No&#233;mie De Croz&#233;</na></co>
+<co c="0"><na f="d/Dadar:Mahsa" pid="158/6605">Mahsa Dadar</na></co>
+<co c="0" n="2"><na f="d/Daetwyler:Katrin" pid="282/0400">Katrin Daetwyler</na><na>Katrin D&#228;twyler</na></co>
+<co c="0"><na f="d/Dahdouh:Sonia" pid="24/7873">Sonia Dahdouh</na></co>
+<co c="0"><na f="d/Dai:Chengliang" pid="171/8003">Chengliang Dai</na></co>
+<co c="0"><na f="d/Dangla:Aliona" pid="221/8956">Aliona Dangla</na></co>
+<co c="0"><na f="d/Daum:Marie" pid="336/4098">Marie Daum</na></co>
+<co c="0"><na f="d/Davatzikos:Christos" pid="d/ChristosDavatzikos">Christos Davatzikos</na></co>
+<co c="0"><na f="d/Daza:Laura_Alexandra" pid="212/9527">Laura Alexandra Daza</na></co>
+<co c="0"><na f="d/Depeursinge:Adrien" pid="02/399">Adrien Depeursinge</na></co>
+<co c="0"><na f="d/Desrosiers:Christian" pid="15/4137">Christian Desrosiers</na></co>
+<co c="0"><na f="d/Dolz:Jose" pid="165/8035">Jose Dolz</na></co>
+<co c="0"><na f="d/Dorent:Reuben" pid="242/9013">Reuben Dorent</na></co>
+<co c="0"><na f="d/Dou:Q=" pid="355/1729">Q. Dou</na></co>
+<co c="0"><na f="d/Dou_0001:Qi" pid="165/7846">Qi Dou 0001</na></co>
+<co c="0"><na f="d/Dou:Quan" pid="265/2935">Quan Dou</na></co>
+<co c="0"><na f="d/Doyle:Andrew" pid="205/3578">Andrew Doyle</na></co>
+<co c="0"><na f="d/Dubost:Florian" pid="186/7845">Florian Dubost</na></co>
+<co c="0"><na f="e/Egger:Jan" pid="31/3828">Jan Egger</na></co>
+<co c="0"><na f="e/Ehlke:Moritz" pid="137/2114">Moritz Ehlke</na></co>
+<co c="0"><na f="e/Eisenmann:Matthias" pid="150/3180">Matthias Eisenmann</na></co>
+<co c="0" n="2"><na f="e/Ellis:David_Gage" pid="159/1285">David Gage Ellis</na><na>David G. Ellis</na></co>
+<co c="0"><na f="e/Engelhardt:Sandy" pid="45/7703">Sandy Engelhardt</na></co>
+<co c="0"><na f="e/Escalera:Sergio" pid="77/5527">Sergio Escalera</na></co>
+<co c="0"><na f="e/Evans:Tavia_E=" pid="223/5317">Tavia E. Evans</na></co>
+<co c="0"><na f="e/Ezhov:Ivan" pid="244/2240">Ivan Ezhov</na></co>
+<co c="0"><na f="f/Fabrizio:Jonathan" pid="90/2799">Jonathan Fabrizio</na></co>
+<co c="0"><na f="f/Fathallah=Shaykh:Hassan_M=" pid="94/1252">Hassan M. Fathallah-Shaykh</na></co>
+<co c="0"><na f="f/Fei:Baowei" pid="03/2160">Baowei Fei</na></co>
+<co c="0"><na f="f/Feng_0001:Xue" pid="01/5235-1">Xue Feng 0001</na></co>
+<co c="0"><na f="f/Filos:Angelos" pid="242/9238">Angelos Filos</na></co>
+<co c="0"><na f="f/Flier:Wiesje_M=_van_der" pid="63/10737">Wiesje M. van der Flier</na></co>
+<co c="0"><na f="f/Fonov:Vladimir_S=" pid="16/1181">Vladimir S. Fonov</na></co>
+<co c="0"><na f="f/Freymann:John_B=" pid="68/10804">John B. Freymann</na></co>
+<co c="0"><na f="f/Friedrich:Christoph_M=" pid="38/2820">Christoph M. Friedrich</na></co>
+<co c="0"><na f="f/Fuller:C=" pid="355/1683">C. Fuller</na></co>
+<co c="0"><na f="g/Gaber:Noha" pid="156/7217">Noha Gaber</na></co>
+<co c="0"><na f="g/Gaire:Rebati_Raman" pid="317/6854">Rebati Raman Gaire</na></co>
+<co c="0"><na f="g/Gal:Yarin" pid="67/9076">Yarin Gal</na></co>
+<co c="0"><na f="g/Galdran:Adrian" pid="160/2676">Adrian Galdran</na></co>
+<co c="0"><na f="g/Ganesh:Chandan" pid="288/7741">Chandan Ganesh</na></co>
+<co c="0" n="2"><na f="g/Ganz=Benjaminsen:Melanie" pid="59/8437">Melanie Ganz-Benjaminsen</na><na>Melanie Ganz</na></co>
+<co c="0"><na f="g/Gao:Haojun" pid="326/6156">Haojun Gao</na></co>
+<co c="0"><na f="g/Garcia:Marta_Nu=ntilde=ez" pid="163/9787">Marta Nu&#241;ez Garcia</na></co>
+<co c="0"><na f="g/Garc=iacute=a=Faura:=Aacute=lvaro" pid="236/8859">&#193;lvaro Garc&#237;a-Faura</na></co>
+<co c="0"><na f="g/Genest:Diane" pid="195/2575">Diane Genest</na></co>
+<co c="0"><na f="g/Georgiou:Achilleas" pid="239/4020">Achilleas Georgiou</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="0"><na f="g/Gerstner:Elizabeth_R=" pid="165/7810">Elizabeth R. Gerstner</na></co>
+<co c="0"><na f="g/Ghafoorian:Mohsen" pid="134/3492">Mohsen Ghafoorian</na></co>
+<co c="0"><na f="g/Ghatwary:Noha_M=" pid="153/6019">Noha M. Ghatwary</na></co>
+<co c="0"><na f="g/Gidwani:Mishka" pid="266/8089">Mishka Gidwani</na></co>
+<co c="0"><na f="g/Girard:Gabriel" pid="30/3621">Gabriel Girard</na></co>
+<co c="0"><na f="g/Giron=eacute=s=Sang=uuml=esa:Marta" pid="285/5982">Marta Giron&#233;s-Sang&#252;esa</na></co>
+<co c="0"><na f="g/Gispert:Juan_Domingo" pid="115/8125">Juan Domingo Gispert</na></co>
+<co c="0"><na f="g/Glocker:Ben" pid="86/2890">Ben Glocker</na></co>
+<co c="0"><na f="g/Godau:Patrick" pid="48/10500-1">Patrick Godau</na></co>
+<co c="0"><na f="g/Grammatikopoulou:Maria" pid="190/8534">Maria Grammatikopoulou</na></co>
+<co c="0"><na f="g/Groot:Marius_de" pid="06/7425">Marius de Groot</na></co>
+<co c="0"><na f="g/Guo:Yike" pid="g/YikeGuo">Yike Guo</na></co>
+<co c="0"><na f="g/Gupta:Anubha" pid="95/491">Anubha Gupta</na></co>
+<co c="0"><na f="g/Gupta:Sharut" pid="271/7816">Sharut Gupta</na></co>
+<co c="0"><na f="h/Hansen:Lasse" pid="151/9486">Lasse Hansen</na></co>
+<co c="0"><na f="h/Harada:Kanako" pid="71/516">Kanako Harada</na></co>
+<co c="0"><na f="h/Hatamizadeh:Ali" pid="226/7000">Ali Hatamizadeh</na></co>
+<co c="0"><na f="h/He:Chenhang" pid="272/1145">Chenhang He</na></co>
+<co c="0"><na f="h/He_0002:Zhiqiang" pid="99/5332-2">Zhiqiang He 0002</na></co>
+<co c="0"><na f="h/Heinen:Rutger" pid="239/3977">Rutger Heinen</na></co>
+<co c="0"><na f="h/Heinrich:Mattias_P=" pid="95/10171">Mattias P. Heinrich</na></co>
+<co c="0"><na f="h/Heller:Nicholas" pid="205/5397">Nicholas Heller</na></co>
+<co c="0"><na f="h/Heng:Pheng=Ann" pid="52/2889">Pheng-Ann Heng</na></co>
+<co c="0"><na f="h/Hering:Alessa" pid="232/2179">Alessa Hering</na></co>
+<co c="0"><na f="h/Hermary:Romain" pid="328/2620">Romain Hermary</na></co>
+<co c="0" n="2"><na f="h/H=ouml=bel:Katharina" pid="225/5210">Katharina H&#246;bel</na><na>Katharina Hoebel</na></co>
+<co c="0"><na f="h/Hong:S=" pid="49/1982">S. Hong</na></co>
+<co c="0"><na f="h/Hou:Feng" pid="65/8064">Feng Hou</na></co>
+<co c="0"><na f="h/Hu:Yujin" pid="41/5328">Yujin Hu</na></co>
+<co c="0"><na f="h/Hu:Zhiqiang" pid="40/3396">Zhiqiang Hu</na></co>
+<co c="0"><na f="h/Huang:Ning" pid="78/5848">Ning Huang</na></co>
+<co c="0"><na f="h/Huang:Zixun" pid="276/1481">Zixun Huang</na></co>
+<co c="0"><na f="h/Huard:Alexis" pid="309/9075">Alexis Huard</na></co>
+<co c="0"><na f="h/Huaulm=eacute=:Arnaud" pid="182/3647">Arnaud Huaulm&#233;</na></co>
+<co c="0"><na f="h/Hughes:Alun_D=" pid="71/3161">Alun D. Hughes</na></co>
+<co c="0"><na f="h/Husseini:Malek_El" pid="258/4149">Malek El Husseini</na></co>
+<co c="0"><na f="h/Huynh:L=ecirc=_Duy" pid="198/9406">L&#234; Duy Huynh</na></co>
+<co c="0"><na f="i/Iftekharuddin:Khan_M=" pid="10/4321">Khan M. Iftekharuddin</na></co>
+<co c="0"><na f="i/Ikram:Mohammad_Arfan" pid="41/4600">Mohammad Arfan Ikram</na></co>
+<co c="0"><na f="i/Ingala:Silvia" pid="232/3238">Silvia Ingala</na></co>
+<co c="0"><na f="i/Isensee:Fabian" pid="190/7435">Fabian Isensee</na></co>
+<co c="0" n="2"><na f="j/Jaeger:Paul_F=" pid="179/4749">Paul F. Jaeger</na><na>Paul F. J&#228;ger</na></co>
+<co c="0"><na f="j/J=auml=ger:Hans_Rolf" pid="247/2802">Hans Rolf J&#228;ger</na></co>
+<co c="0"><na f="j/Jahanifar:Mostafa" pid="198/0729">Mostafa Jahanifar</na></co>
+<co c="0"><na f="j/Jakab:Andr=aacute=s" pid="156/3027">Andr&#225;s Jakab</na></co>
+<co c="0"><na f="j/Jakub=iacute=cek:Roman" pid="171/9909">Roman Jakub&#237;cek</na></co>
+<co c="0"><na f="j/Jang:I=" pid="355/1575">I. Jang</na></co>
+<co c="0"><na f="j/Jannin:Pierre" pid="52/4728">Pierre Jannin</na></co>
+<co c="0"><na f="j/Jia:Shuman" pid="193/9448">Shuman Jia</na></co>
+<co c="0"><na f="j/Jiang:Haochuan" pid="208/4919">Haochuan Jiang</na></co>
+<co c="0"><na f="j/Jiang:Tao" pid="181/2813">Tao Jiang</na></co>
+<co c="0"><na f="j/Jin:Dakai" pid="133/9440">Dakai Jin</na></co>
+<co c="0"><na f="k/Kadkhodamohammadi:Abdolrahim" pid="145/4877">Abdolrahim Kadkhodamohammadi</na></co>
+<co c="0"><na f="k/Kalpathy=Cramer:Jayashree" pid="50/3269">Jayashree Kalpathy-Cramer</na></co>
+<co c="0"><na f="k/Kang:I=" pid="17/10151">I. Kang</na></co>
+<co c="0"><na f="k/Karim:Rashed" pid="29/7980">Rashed Karim</na></co>
+<co c="0"><na f="k/Kavur:A=_Emre" pid="180/7692">A. Emre Kavur</na></co>
+<co c="0"><na f="k/Khademi:April" pid="75/7164">April Khademi</na></co>
+<co c="0"><na f="k/Khoudli:Younes" pid="236/7950">Younes Khoudli</na></co>
+<co c="0"><na f="k/Kirby:Justin_S=" pid="42/10803">Justin S. Kirby</na></co>
+<co c="0" n="2"><na f="k/Kirschke:Jan" pid="181/6853">Jan Kirschke</na><na>Jan S. Kirschke</na></co>
+<co c="0"><na f="k/Kirszenberg:Alexandre" pid="257/3284">Alexandre Kirszenberg</na></co>
+<co c="0"><na f="k/Knight:Jesse" pid="239/4230">Jesse Knight</na></co>
+<co c="0"><na f="k/Kodym:Oldrich" pid="216/7623">Oldrich Kodym</na></co>
+<co c="0"><na f="k/Kofler:Florian" pid="239/8604">Florian Kofler</na></co>
+<co c="0"><na f="k/Kondo:S=" pid="53/11480">S. Kondo</na></co>
+<co c="0"><na f="k/Kopp=Schneider:Annette" pid="49/9916">Annette Kopp-Schneider</na></co>
+<co c="0"><na f="k/Kotrotsou:Aikaterini" pid="230/3673">Aikaterini Kotrotsou</na></co>
+<co c="0"><na f="k/Kozubek_0001:Michal" pid="61/1228">Michal Kozubek 0001</na></co>
+<co c="0" n="2"><na f="k/Kuijf:Hugo_J=" pid="44/9772">Hugo J. Kuijf</na><na>Hugo Jaco Kuijf</na></co>
+<co c="0"><na f="k/Kukacka:Jan" pid="207/8395">Jan Kukacka</na></co>
+<co c="0"><na f="k/Kutnar:Denis" pid="299/1595">Denis Kutnar</na></co>
+<co c="0"><na f="l/Lacotte:J=eacute=r=ocirc=me" pid="236/7755">J&#233;r&#244;me Lacotte</na></co>
+<co c="0"><na f="l/Lamata:Pablo" pid="42/1947">Pablo Lamata</na></co>
+<co c="0"><na f="l/Lamecker:Hans" pid="63/3053">Hans Lamecker</na></co>
+<co c="0"><na f="l/Lee:Minho" pid="99/2069">Minho Lee</na></co>
+<co c="0"><na f="l/Lehnert:Sebastian" pid="303/0533">Sebastian Lehnert</na></co>
+<co c="0"><na f="l/L=eacute=onard:Marc" pid="162/5996">Marc L&#233;onard</na></co>
+<co c="0" n="2"><na f="l/Le=szlig=mann:Nikolas" pid="143/4290">Nikolas Le&#223;mann</na><na>Nikolas Lessmann</na></co>
+<co c="0"><na f="l/Li_0088:Bo" pid="50/3402-88">Bo Li 0088</na></co>
+<co c="0"><na f="l/Li:Caizi" pid="236/7989">Caizi Li</na></co>
+<co c="0"><na f="l/Li:Feiyan" pid="210/3093">Feiyan Li</na></co>
+<co c="0"><na f="l/Li_0001:Gang" pid="62/2655-1">Gang Li 0001</na></co>
+<co c="0"><na f="l/Li:Guannan" pid="06/7118">Guannan Li</na></co>
+<co c="0" n="2"><na f="l/Li_0004:Hongwei" pid="39/5544-4">Hongwei Li 0004</na><na>Hongwei Bran Li</na></co>
+<co c="0"><na f="l/Li_0002:Jianning" pid="41/2242-2">Jianning Li 0002</na></co>
+<co c="0"><na f="l/Li_0020:Lei" pid="13/7007-20">Lei Li 0020</na></co>
+<co c="0"><na f="l/Li:M=" pid="63/465">M. Li</na></co>
+<co c="0"><na f="l/Li_0001:Weisheng" pid="10/7821-1">Weisheng Li 0001</na></co>
+<co c="0"><na f="l/Liebl:Hans" pid="166/9660">Hans Liebl</na></co>
+<co c="0"><na f="l/Liming:Xu" pid="303/0842">Xu Liming</na></co>
+<co c="0"><na f="l/Lin:Weili" pid="98/3393">Weili Lin</na></co>
+<co c="0" n="2"><na f="l/Ling:Sai=Ho" pid="87/5538">Sai-Ho Ling</na><na>Sai Ho Ling</na></co>
+<co c="0"><na f="l/Lirio:Marilia" pid="303/0813">Marilia Lirio</na></co>
+<co c="0"><na f="l/Liu:Guocai" pid="81/5599">Guocai Liu</na></co>
+<co c="0"><na f="l/Liu:Yanfei" pid="00/6387">Yanfei Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Yashu" pid="231/1755">Yashu Liu 0003</na></co>
+<co c="0"><na f="l/Llad=oacute=:Xavier" pid="32/4689">Xavier Llad&#243;</na></co>
+<co c="0"><na f="l/L=ouml=ffler:Maximilian" pid="141/6051">Maximilian L&#246;ffler</na></co>
+<co c="0"><na f="l/L=ouml=fstedt:Tommy" pid="127/4663">Tommy L&#246;fstedt</na></co>
+<co c="0"><na f="l/Lorenzini:Luigi" pid="326/6094">Luigi Lorenzini</na></co>
+<co c="0"><na f="l/Louis:Bruno" pid="165/8014">Bruno Louis</na></co>
+<co c="0"><na f="l/Luna:Miguel" pid="235/3480">Miguel Luna</na></co>
+<co c="0"><na f="l/Luo:Xinzhe" pid="236/6037">Xinzhe Luo</na></co>
+<co c="0"><na f="l/Luu:M=" pid="355/1838">M. Luu</na></co>
+<co c="0"><na f="m/Ma_0016:Jun" pid="91/4845-16">Jun Ma 0016</na></co>
+<co c="0"><na f="m/Ma:Xinjun" pid="117/3114">Xinjun Ma</na></co>
+<co c="0"><na f="m/Madhuranthakam:Ananth_J=" pid="205/6096">Ananth J. Madhuranthakam</na></co>
+<co c="0"><na f="m/Mahajan:Abhishek" pid="195/3007">Abhishek Mahajan</na></co>
+<co c="0"><na f="m/Mahmood:Qaiser" pid="143/4730">Qaiser Mahmood</na></co>
+<co c="0"><na f="m/Maier:Andreas_K=" pid="131/7133">Andreas K. Maier</na></co>
+<co c="0"><na f="m/Maier=Hein:Klaus_H=" pid="133/0183">Klaus H. Maier-Hein</na></co>
+<co c="0"><na f="m/Maier=Hein:Lena" pid="35/3435">Lena Maier-Hein</na></co>
+<co c="0"><na f="m/Maldjian:Joseph_A=" pid="01/6305">Joseph A. Maldjian</na></co>
+<co c="0"><na f="m/Marcus:Daniel_S=" pid="67/7228">Daniel S. Marcus</na></co>
+<co c="0"><na f="m/Mart=iacute=n=Isla:Carlos" pid="248/9154">Carlos Mart&#237;n-Isla</na></co>
+<co c="0"><na f="m/Martincic:Tomaz" pid="272/6203">Tomaz Martincic</na></co>
+<co c="0"><na f="m/Masci_0002:Alessandro" pid="239/5347">Alessandro Masci 0002</na></co>
+<co c="0"><na f="m/McHugh:Hugh" pid="288/7717">Hugh McHugh</na></co>
+<co c="0"><na f="m/McKinley:Richard" pid="95/6709">Richard McKinley</na></co>
+<co c="0"><na f="m/Mehrtash:Alireza" pid="134/9922">Alireza Mehrtash</na></co>
+<co c="0"><na f="m/Mehta:Raghav" pid="181/6915">Raghav Mehta</na></co>
+<co c="0"><na f="m/Meier:Raphael" pid="149/7569">Raphael Meier</na></co>
+<co c="0" n="3"><na f="m/Menze:Bjoern" pid="74/6505">Bjoern Menze</na><na>Bjoern H. Menze</na><na>Bj&#246;rn H. Menze</na></co>
+<co c="0"><na f="m/Meyer:Craig_H=" pid="47/2334">Craig H. Meyer</na></co>
+<co c="0"><na f="m/Milchenko:Mikhail" pid="123/8294">Mikhail Milchenko</na></co>
+<co c="0"><na f="m/Mo:Yuanhan" pid="198/0698">Yuanhan Mo</na></co>
+<co c="0"><na f="m/Moeskops:Pim" pid="157/6531">Pim Moeskops</na></co>
+<co c="0"><na f="m/Molinuevo:Jos=eacute=_Luis" pid="192/1370">Jos&#233; Luis Molinuevo</na></co>
+<co c="0"><na f="m/Morais:Pedro" pid="131/3073">Pedro Morais</na></co>
+<co c="0"><na f="m/Morel:Baptiste" pid="168/5536">Baptiste Morel</na></co>
+<co c="0"><na f="m/Mulay:Supriti" pid="239/1824">Supriti Mulay</na></co>
+<co c="0"><na f="m/Mumme:Raymond_P=" pid="294/9332">Raymond P. Mumme</na></co>
+<co c="0" n="2"><na f="m/Murugesan:Gowtham" pid="201/7764">Gowtham Murugesan</na><na>Gowtham Krishnan Murugesan</na></co>
+<co c="0"><na f="m/Myronenko:Andriy" pid="26/1146">Andriy Myronenko</na></co>
+<co c="0"><na f="n/Najman:Laurent" pid="68/4192">Laurent Najman</na></co>
+<co c="0"><na f="n/Nalawade:Sahil_S=" pid="265/2568">Sahil S. Nalawade</na></co>
+<co c="0"><na f="n/Naser:Mohamed_A=" pid="235/3001">Mohamed A. Naser</na></co>
+<co c="0"><na f="n/Nazeri:Arash" pid="165/4591">Arash Nazeri</na></co>
+<co c="0"><na f="n/Netherton:Tucker_J=" pid="294/9412">Tucker J. Netherton</na></co>
+<co c="0"><na f="n/Ni_0001:Dong" pid="02/450-1">Dong Ni 0001</na></co>
+<co c="0"><na f="n/Nie:Dong" pid="130/8299">Dong Nie</na></co>
+<co c="0"><na f="n/Noble:J=_Alison" pid="n/JAlisonNoble">J. Alison Noble</na></co>
+<co c="0"><na f="n/Nyholm:Tufve" pid="218/1371">Tufve Nyholm</na></co>
+<co c="0"><na f="=/=Ouml=ks=uuml=z:Ilkay" pid="143/3826">Ilkay &#214;ks&#252;z</na></co>
+<co c="0"><na f="o/Olaguer:Nicol=aacute=s_P=eacute=rez_de" pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</na></co>
+<co c="0"><na f="o/Oliveira_0002:Bruno" pid="23/5280-2">Bruno Oliveira 0002</na></co>
+<co c="0"><na f="o/Oliver:Arnau" pid="16/5582">Arnau Oliver</na></co>
+<co c="0"><na f="o/Oreiller:Valentin" pid="243/9289">Valentin Oreiller</na></co>
+<co c="0"><na f="o/Ourselin:S=eacute=bastien" pid="40/2838">S&#233;bastien Ourselin</na></co>
+<co c="0"><na f="o/Owen_0001:David" pid="42/1719-1">David Owen 0001</na></co>
+<co c="0"><na f="p/Padoy:Nicolas" pid="60/6834">Nicolas Padoy</na></co>
+<co c="0"><na f="p/Paetzold:Johannes_C=" pid="239/8775">Johannes C. Paetzold</na></co>
+<co c="0"><na f="p/Pan:Yiwei" pid="228/3573">Yiwei Pan</na></co>
+<co c="0"><na f="p/Pang:S=" pid="355/1581">S. Pang</na></co>
+<co c="0"><na f="p/Papon:Jean=Fran=ccedil=ois" pid="165/8083">Jean-Fran&#231;ois Papon</na></co>
+<co c="0"><na f="p/Park:Bo=yong" pid="188/3553">Bo-yong Park</na></co>
+<co c="0"><na f="p/Park:Hyunjin" pid="41/4978">Hyunjin Park</na></co>
+<co c="0"><na f="p/Park:J=" pid="26/2355">J. Park</na></co>
+<co c="0"><na f="p/Park:S=" pid="80/4571">S. Park</na></co>
+<co c="0" n="2"><na f="p/Park:Sanghyun" pid="45/2752">Sanghyun Park</na><na>Sang Hyun Park</na></co>
+<co c="0"><na f="p/Patel:Jay_B=" pid="274/3034">Jay B. Patel</na></co>
+<co c="0"><na f="p/Pati:Sarthak" pid="177/5946">Sarthak Pati</na></co>
+<co c="0"><na f="p/Payer:Christian" pid="167/9663">Christian Payer</na></co>
+<co c="0"><na f="p/Payette:Kelly" pid="250/8848">Kelly Payette</na></co>
+<co c="0"><na f="p/Pei:Linmin" pid="174/0474">Linmin Pei</na></co>
+<co c="0"><na f="p/Pelle:Gabriel" pid="196/3155">Gabriel Pelle</na></co>
+<co c="0"><na f="p/P=eacute=rez:Ram=oacute=n_Pino" pid="96/1310">Ram&#243;n Pino P&#233;rez</na></co>
+<co c="0"><na f="p/Pezold:Simon" pid="143/6194">Simon Pezold</na></co>
+<co c="0"><na f="p/Plotka:Szymon" pid="247/9486">Szymon Plotka</na></co>
+<co c="0"><na f="p/Pluim:Josien_P=_W=" pid="70/5175">Josien P. W. Pluim</na></co>
+<co c="0"><na f="p/Preetha:Chandrakanth_Jayachandran" pid="236/7607">Chandrakanth Jayachandran Preetha</na></co>
+<co c="0"><na f="p/Punithakumar:Kumaradevan" pid="35/7426">Kumaradevan Punithakumar</na></co>
+<co c="0"><na f="q/Qiao:Mengyun" pid="236/7492">Mengyun Qiao</na></co>
+<co c="0"><na f="r/Radojewski:Piotr" pid="282/1389">Piotr Radojewski</na></co>
+<co c="0"><na f="r/R=auml=dsch:Tim" pid="288/6730">Tim R&#228;dsch</na></co>
+<co c="0"><na f="r/Rafael=Patino:Jonathan" pid="229/9850">Jonathan Rafael-Patino</na></co>
+<co c="0"><na f="r/Rahman:Md_Monibor" pid="265/3327">Md Monibor Rahman</na></co>
+<co c="0"><na f="r/Rajpoot:Nasir_M=" pid="r/NasirRajpoot">Nasir M. Rajpoot</na></co>
+<co c="0"><na f="r/Ramm:Heiko" pid="118/5445">Heiko Ramm</na></co>
+<co c="0"><na f="r/Rapazzo:Brandon_H=" pid="303/0841">Brandon H. Rapazzo</na></co>
+<co c="0"><na f="r/Ravikumar:Nishant" pid="182/1756">Nishant Ravikumar</na></co>
+<co c="0"><na f="r/Raynaud:Hadrien" pid="288/7781">Hadrien Raynaud</na></co>
+<co c="0"><na f="r/Rebsamen:Michael" pid="230/3907">Michael Rebsamen</na></co>
+<co c="0"><na f="r/Rehwald:Rafael" pid="176/7277">Rafael Rehwald</na></co>
+<co c="0"><na f="r/Reinke:Annika" pid="222/1818">Annika Reinke</na></co>
+<co c="0"><na f="r/Rempfler:Markus" pid="150/3312">Markus Rempfler</na></co>
+<co c="0"><na f="r/Rittner:Let=iacute=cia" pid="36/2977">Let&#237;cia Rittner</na></co>
+<co c="0"><na f="r/Rosas=Gonz=aacute=lez:Sarahi" pid="309/8181">Sarahi Rosas-Gonz&#225;lez</na></co>
+<co c="0"><na f="r/Rueckert:Daniel" pid="69/2478">Daniel Rueckert</na></co>
+<co c="0"><na f="r/Ryu:K=" pid="352/7628">K. Ryu</na></co>
+<co c="0"><na f="s/Saeed:Numan" pid="191/6883">Numan Saeed</na></co>
+<co c="0"><na f="s/Sahu:Manish" pid="188/6278">Manish Sahu</na></co>
+<co c="0"><na f="s/Sako:Chiharu" pid="265/3498">Chiharu Sako</na></co>
+<co c="0"><na f="s/Sanroma:Gerard" pid="98/1638">Gerard Sanroma</na></co>
+<co c="0"><na f="s/Savioli:Nicol=oacute=" pid="223/4097">Nicol&#243; Savioli</na></co>
+<co c="0"><na f="s/Schreiber:Laura_Maria" pid="128/5557">Laura Maria Schreiber</na></co>
+<co c="0"><na f="s/Sekuboyina:Anjany" pid="198/0458">Anjany Sekuboyina</na></co>
+<co c="0"><na f="s/Sermesant:Maxime" pid="92/5704">Maxime Sermesant</na></co>
+<co c="0"><na f="s/Shah:Nisarg_A=" pid="263/1100">Nisarg A. Shah</na></co>
+<co c="0"><na f="s/Shen:Dinggang" pid="14/4383">Dinggang Shen</na></co>
+<co c="0" n="2"><na f="s/Shephard:Adam_J=" pid="300/9013">Adam J. Shephard</na><na>Adam Shephard</na></co>
+<co c="0"><na f="s/Shi:Pengcheng" pid="05/773">Pengcheng Shi</na></co>
+<co c="0"><na f="s/Shin:Jitae" pid="95/3647">Jitae Shin</na></co>
+<co c="0"><na f="s/Shit:Suprosanna" pid="154/8612">Suprosanna Shit</na></co>
+<co c="0"><na f="s/Si:Weixin" pid="49/9062">Weixin Si</na></co>
+<co c="0"><na f="s/Singh:Praveer" pid="155/3078">Praveer Singh</na></co>
+<co c="0"><na f="s/Sivaprakasam:Mohanasankar" pid="07/3856">Mohanasankar Sivaprakasam</na></co>
+<co c="0"><na f="s/Smith:Lorna" pid="65/5074">Lorna Smith</na></co>
+<co c="0"><na f="s/Soltaninejad:Mohammadreza" pid="153/1648">Mohammadreza Soltaninejad</na></co>
+<co c="0"><na f="s/Speidel:Stefanie" pid="39/6736">Stefanie Speidel</na></co>
+<co c="0"><na f="s/Stepec:Dejan" pid="202/5071">Dejan Stepec</na></co>
+<co c="0"><na f="s/Stern:Darko" pid="02/8488">Darko Stern</na></co>
+<co c="0"><na f="s/Su:Ruisheng" pid="258/3495">Ruisheng Su</na></co>
+<co c="0"><na f="s/Subedi:Ronast" pid="317/7000">Ronast Subedi</na></co>
+<co c="0"><na f="s/Sudre:Carole_H=" pid="150/2899">Carole H. Sudre</na></co>
+<co c="0"><na f="t/Tack:Alexander" pid="176/5287">Alexander Tack</na></co>
+<co c="0"><na f="t/Talbar:Sanjay_N=" pid="39/7796">Sanjay N. Talbar</na></co>
+<co c="0"><na f="t/Talbot:Hugues" pid="00/1609">Hugues Talbot</na></co>
+<co c="0"><na f="t/Talou:Gonzalo_D=_Maso" pid="168/5426">Gonzalo D. Maso Talou</na></co>
+<co c="0"><na f="t/Tao:Qian" pid="18/665">Qian Tao</na></co>
+<co c="0"><na f="t/Tauber:Clovis" pid="81/1093">Clovis Tauber</na></co>
+<co c="0"><na f="t/Tetteh:Giles" pid="199/1967">Giles Tetteh</na></co>
+<co c="0"><na f="t/Thung:Kim=Han" pid="13/1611">Kim-Han Thung</na></co>
+<co c="0"><na f="t/Tillin:Therese" pid="326/6224">Therese Tillin</na></co>
+<co c="0" n="2"><na f="t/Tizabi:Minu" pid="264/5842">Minu Tizabi</na><na>Minu Dietlinde Tizabi</na></co>
+<co c="0"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="t/Tong_0001:Qianqian" pid="167/9641-1">Qianqian Tong 0001</na></co>
+<co c="0"><na f="t/Torres:Helena_R=" pid="187/3830">Helena R. Torres</na></co>
+<co c="0"><na f="t/Tsaftaris:Sotirios_A=" pid="14/613">Sotirios A. Tsaftaris</na></co>
+<co c="0"><na f="t/Tustison:Nicholas_J=" pid="63/4561">Nicholas J. Tustison</na></co>
+<co c="0"><na f="u/Urien:H=eacute=l=egrave=ne" pid="181/6977">H&#233;l&#232;ne Urien</na></co>
+<co c="0"><na f="u/Urschler:Martin" pid="68/309">Martin Urschler</na></co>
+<co c="0"><na f="v/Valencia:Liliana" pid="309/8126">Liliana Valencia</na></co>
+<co c="0"><na f="v/Valentinitsch:Alexander" pid="86/9222">Alexander Valentinitsch</na></co>
+<co c="0"><na f="v/Valverde:Sergi" pid="63/5928">Sergi Valverde</na></co>
+<co c="0"><na f="v/Velden:Bas_H=_M=_van_der" pid="187/5834">Bas H. M. van der Velden</na></co>
+<co c="0"><na f="v/Velpen:Isabelle_F=_van_der" pid="326/6441">Isabelle F. van der Velpen</na></co>
+<co c="0"><na f="v/Vente:Coen_de" pid="236/7935">Coen de Vente</na></co>
+<co c="0"><na f="v/Vernooij:Meike_W=" pid="08/2140">Meike W. Vernooij</na></co>
+<co c="0"><na f="v/Vesal:Sulaiman" pid="204/2588">Sulaiman Vesal</na></co>
+<co c="0"><na f="v/Veta:Mitko" pid="30/9774">Mitko Veta</na></co>
+<co c="0"><na f="v/Vidyaratne:Lasitha" pid="150/4157">Lasitha Vidyaratne</na></co>
+<co c="0"><na f="v/Viergever:Max_A=" pid="77/2011">Max A. Viergever</na></co>
+<co c="0"><na f="v/Vila=ccedil=a:Jo=atilde=o_L=" pid="52/8223">Jo&#227;o L. Vila&#231;a</na></co>
+<co c="0"><na f="v/Vilaplana:Ver=oacute=nica" pid="49/3306">Ver&#243;nica Vilaplana</na></co>
+<co c="0"><na f="v/Virzi:Alessio" pid="188/3119">Alessio Virzi</na></co>
+<co c="0"><na f="v/Vu:Minh_H=" pid="245/4275">Minh H. Vu</na></co>
+<co c="0"><na f="w/Wagner:Benjamin_C=" pid="205/6104">Benjamin C. Wagner</na></co>
+<co c="0"><na f="w/Wagner_0001:Martin" pid="58/5378-1">Martin Wagner 0001</na></co>
+<co c="0"><na f="w/Wahid:Kareem_A=" pid="282/7337">Kareem A. Wahid</na></co>
+<co c="0"><na f="w/Wang:Alan" pid="03/5773">Alan Wang</na></co>
+<co c="0"><na f="w/Wang_0023:Fan" pid="88/898-23">Fan Wang 0023</na></co>
+<co c="0"><na f="w/Wang:Guotai" pid="149/7441">Guotai Wang</na></co>
+<co c="0"><na f="w/Wang:H=" pid="34/2096">H. Wang</na></co>
+<co c="0"><na f="w/Wang:J=" pid="03/59">J. Wang</na></co>
+<co c="0"><na f="w/Wang:Kuanquan" pid="32/6613">Kuanquan Wang</na></co>
+<co c="0"><na f="w/Wang:L=" pid="67/6401">L. Wang</na></co>
+<co c="0"><na f="w/Wang_0026:Li" pid="58/6810-26">Li Wang 0026</na></co>
+<co c="0"><na f="w/Wang:Li=Wen" pid="33/10711">Li-Wen Wang</na></co>
+<co c="0"><na f="w/Wang:Linhong" pid="254/4418">Linhong Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Shuo" pid="63/1591-11">Shuo Wang 0011</na></co>
+<co c="0"><na f="w/Wang:Sihan" pid="213/7029">Sihan Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Tianfu" pid="25/3611">Tianfu Wang 0001</na></co>
+<co c="0"><na f="w/Wang:X=" pid="70/11">X. Wang</na></co>
+<co c="0"><na f="w/Wang_0113:Xin" pid="10/5630-113">Xin Wang 0113</na></co>
+<co c="0"><na f="w/Wang_0001:Yuanyuan" pid="95/494-1">Yuanyuan Wang 0001</na></co>
+<co c="0"><na f="w/Weber:Marc=Andr=eacute=" pid="49/8400">Marc-Andr&#233; Weber</na></co>
+<co c="0"><na f="w/Wei:D=" pid="63/1762">D. Wei</na></co>
+<co c="0"><na f="w/Weru:Vivienn" pid="324/8076">Vivienn Weru</na></co>
+<co c="0"><na f="w/Wiest:Roland" pid="87/10741">Roland Wiest</na></co>
+<co c="0"><na f="w/Wiestler:Benedikt" pid="165/7294">Benedikt Wiestler</na></co>
+<co c="0"><na f="w/Wijnen:Kimberlin_M=_H=_van" pid="245/7451">Kimberlin M. H. van Wijnen</na></co>
+<co c="0"><na f="w/Wodzinski:Marek" pid="220/1578">Marek Wodzinski</na></co>
+<co c="0"><na f="w/Wolters:Frank_J=" pid="223/4983">Frank J. Wolters</na></co>
+<co c="0"><na f="w/Wu:Fuping" pid="170/5445">Fuping Wu</na></co>
+<co c="0"><na f="w/Wu:Zhengwang" pid="35/8016">Zhengwang Wu</na></co>
+<co c="0"><na f="x/Xia:F=" pid="277/9607">F. Xia</na></co>
+<co c="0"><na f="x/Xia:Jing" pid="98/2636">Jing Xia</na></co>
+<co c="0"><na f="x/Xia_0002:Qing" pid="62/2726-2">Qing Xia 0002</na></co>
+<co c="0"><na f="x/Xia_0001:Yong" pid="50/2433-1">Yong Xia 0001</na></co>
+<co c="0"><na f="x/Xiangshang:Zheng" pid="303/0784">Zheng Xiangshang</na></co>
+<co c="0"><na f="x/Xie:J=" pid="53/2754">J. Xie</na></co>
+<co c="0"><na f="x/Xiong:Z=" pid="53/3233">Z. Xiong</na></co>
+<co c="0"><na f="x/Xiong:Zhaohan" pid="217/2319">Zhaohan Xiong</na></co>
+<co c="0"><na f="x/Xu:Daguang" pid="140/3604">Daguang Xu</na></co>
+<co c="0"><na f="x/Xu:Liming" pid="74/8609">Liming Xu</na></co>
+<co c="0"><na f="x/Xu:Lingchao" pid="226/3351">Lingchao Xu</na></co>
+<co c="0"><na f="x/Xu:Shangliang" pid="258/4098">Shangliang Xu</na></co>
+<co c="0"><na f="x/Xu:Yongchao" pid="86/11269">Yongchao Xu</na></co>
+<co c="0"><na f="x/Xu_0004:Ziyue" pid="59/9160-4">Ziyue Xu 0004</na></co>
+<co c="0"><na f="y/Yamlahi:Amine" pid="322/2217">Amine Yamlahi</na></co>
+<co c="0"><na f="y/Yang_0005:Dong" pid="33/412-5">Dong Yang 0005</na></co>
+<co c="0"><na f="y/Yang:Mingjing" pid="37/8320">Mingjing Yang</na></co>
+<co c="0"><na f="y/Yang_0006:Sen" pid="90/4655-6">Sen Yang 0006</na></co>
+<co c="0"><na f="y/Yang_0001:Xiaoping" pid="29/3609-1">Xiaoping Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0009:Xin" pid="44/1152-9">Xin Yang 0009</na></co>
+<co c="0"><na f="y/Yang:Y=" pid="97/6652">Y. Yang</na></co>
+<co c="0"><na f="y/Yap:Moi_Hoon" pid="67/6100">Moi Hoon Yap</na></co>
+<co c="0"><na f="y/Yeah:Timyoas" pid="303/1302">Timyoas Yeah</na></co>
+<co c="0"><na f="y/Yilmaz:Pinar" pid="22/7884">Pinar Yilmaz</na></co>
+<co c="0"><na f="y/Yu:Fang_F=" pid="265/3301">Fang F. Yu</na></co>
+<co c="0"><na f="y/Yuan:C=" pid="21/2625">C. Yuan</na></co>
+<co c="0"><na f="z/Zachow:Stefan" pid="42/294">Stefan Zachow</na></co>
+<co c="0"><na f="z/Zemmoura:Ilyess" pid="131/6153">Ilyess Zemmoura</na></co>
+<co c="0"><na f="z/Zeng:Chan" pid="194/8018">Chan Zeng</na></co>
+<co c="0"><na f="z/Zeng:Guodong" pid="158/9463">Guodong Zeng</na></co>
+<co c="0"><na f="z/Zenk:Maximilian" pid="281/6999">Maximilian Zenk</na></co>
+<co c="0"><na f="z/Zhai:Shuwei" pid="282/0680">Shuwei Zhai</na></co>
+<co c="0"><na f="z/Zhang:Amber" pid="303/0914">Amber Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Jianguo" pid="90/6415-1">Jianguo Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Jianpeng" pid="134/7404">Jianpeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0066:Qian" pid="04/2024-66">Qian Zhang 0066</na></co>
+<co c="0"><na f="z/Zhang:Xiaoran" pid="07/9213">Xiaoran Zhang</na></co>
+<co c="0"><na f="z/Zhang_0057:Zhen" pid="19/5112-57">Zhen Zhang 0057</na></co>
+<co c="0"><na f="z/Zhao:Jichao" pid="87/5278">Jichao Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhou" pid="75/7785">Zhou Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zixuan" pid="125/0591">Zixuan Zhao</na></co>
+<co c="0"><na f="z/Zheng:Guoyan" pid="85/5912">Guoyan Zheng</na></co>
+<co c="0"><na f="z/Zheng:Xiangshang" pid="285/7662">Xiangshang Zheng</na></co>
+<co c="0"><na f="z/Zheng_0001:Yefeng" pid="44/6510">Yefeng Zheng 0001</na></co>
+<co c="0"><na f="z/Zhuang:Xiahai" pid="69/1049">Xiahai Zhuang</na></co>
+<co c="0"><na f="z/Zia:A=" pid="355/1550">A. Zia</na></co>
+<co c="0"><na f="z/Zimmerer:David" pid="192/4608">David Zimmerer</na></co>
+</coauthors>
+</dblpperson>
+

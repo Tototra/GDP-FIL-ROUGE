@@ -1,0 +1,938 @@
+<?xml version="1.0"?>
+<dblpperson name="Riadh Robbana" pid="15/5421" n="64">
+<person key="homepages/15/5421" mdate="2009-06-10">
+<author pid="15/5421">Riadh Robbana</author>
+</person>
+<r><proceedings key="conf/vecos/2025" mdate="2026-05-14">
+<editor orcid="0000-0003-1367-8542" pid="151/5710">Belgacem Ben Hedia</editor>
+<editor orcid="0000-0002-6509-3506" pid="b/SebastienBardin">S&#233;bastien Bardin</editor>
+<editor orcid="0000-0001-5736-4137" pid="15/5421">Riadh Robbana</editor>
+<title>Verification and Evaluation of Computer and Communication Systems - 18th International Conference, VECoS 2025, Paris, France, November 5-7, 2025, Proceedings</title>
+<booktitle>VECoS</booktitle>
+<publisher>Springer</publisher>
+<year>2026</year>
+<series>Lecture Notes in Computer Science</series>
+<volume>16263</volume>
+<isbn>978-3-032-20439-4</isbn>
+<isbn>978-3-032-20440-0</isbn>
+<ee>https://doi.org/10.1007/978-3-032-20440-0</ee>
+<url>db/conf/vecos/vecos2025.html</url>
+</proceedings>
+</r>
+<r><article key="journals/computing/LoukilSR25" mdate="2025-08-05">
+<author orcid="0000-0002-6303-7180" pid="339/2322">Mariem Loukil</author>
+<author pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Scaling down to scale up: benchmarking single-machine graph processing frameworks in a hardware-constrained environment.</title>
+<pages>152</pages>
+<year>2025</year>
+<month>July</month>
+<volume>107</volume>
+<journal>Computing</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s00607-025-01510-2</ee>
+<url>db/journals/computing/computing107.html#LoukilSR25</url>
+<stream>streams/journals/computing</stream>
+</article>
+</r>
+<r><article key="journals/ijdsa/LoukilSR25" mdate="2025-03-07">
+<author orcid="0000-0002-6303-7180" pid="339/2322">Mariem Loukil</author>
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author orcid="0000-0001-5736-4137" pid="15/5421">Riadh Robbana</author>
+<title>How to create graphs in hardware-constrained environments? Choosing the best creation approach via machine learning-based predictive models.</title>
+<pages>283-302</pages>
+<year>2025</year>
+<month>March</month>
+<volume>19</volume>
+<journal>Int. J. Data Sci. Anal.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s41060-023-00495-5</ee>
+<url>db/journals/ijdsa/ijdsa19.html#LoukilSR25</url>
+<stream>streams/journals/ijdsa</stream>
+</article>
+</r>
+<r><article key="journals/tdsc/TrabelsiSR25" mdate="2025-12-26">
+<author orcid="0000-0002-0792-8763" pid="271/1204">Oussama Trabelsi</author>
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>DCC: A High-Performance Distributed Encryption Framework for Large Volumes of Data.</title>
+<pages>5837-5848</pages>
+<year>2025</year>
+<month>November - December</month>
+<volume>22</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TDSC.2025.3558764</ee>
+<url>db/journals/tdsc/tdsc22.html#TrabelsiSR25</url>
+<stream>streams/journals/tdsc</stream>
+</article>
+</r>
+<r><article key="journals/ijgs/YounesIR24" mdate="2025-05-01">
+<author pid="64/3745">Sana Youn&#232;s</author>
+<author orcid="0000-0002-6467-8887" pid="228/0782">Maroua Idi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Performability analysis of multi-service call admission control schemes in LTE networks.</title>
+<pages>215-253</pages>
+<year>2024</year>
+<month>February</month>
+<volume>53</volume>
+<journal>Int. J. Gen. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1080/03081079.2023.2270138</ee>
+<url>db/journals/ijgs/ijgs53.html#YounesIR24</url>
+</article>
+</r>
+<r><article key="journals/jnca/YounesIR24" mdate="2025-05-01">
+<author pid="64/3745">Sana Youn&#232;s</author>
+<author orcid="0000-0002-6467-8887" pid="228/0782">Maroua Idi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Discrete-time Markov decision process for performance analysis of virtual machine allocation schemes in C-RAN.</title>
+<pages>103859</pages>
+<year>2024</year>
+<volume>225</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2024.103859</ee>
+<url>db/journals/jnca/jnca225.html#YounesIR24</url>
+</article>
+</r>
+<r><inproceedings key="conf/enase/IdiYR24" mdate="2025-05-01">
+<author orcid="0000-0002-6467-8887" pid="228/0782">Maroua Idi</author>
+<author pid="64/3745">Sana Youn&#232;s</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Steady-State Energy Consumption Evaluation in BaseBand Units Pool in Cloud Radio Access Network.</title>
+<pages>99-109</pages>
+<year>2024</year>
+<booktitle>ENASE</booktitle>
+<ee>https://doi.org/10.5220/0012629400003687</ee>
+<crossref>conf/enase/2024</crossref>
+<url>db/conf/enase/enase2024.html#IdiYR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccci/FouratiBR22" mdate="2022-09-22">
+<author pid="123/3335">Farah Fourati</author>
+<author pid="55/6048">Mohamed Tahar Bhiri</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Xtend Transformation from PDDL to Event-B.</title>
+<pages>638-644</pages>
+<year>2022</year>
+<booktitle>ICCCI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-16014-1_50</ee>
+<crossref>conf/iccci/2022</crossref>
+<url>db/conf/iccci/iccci2022.html#FouratiBR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/IdiYR22" mdate="2025-05-01">
+<author orcid="0000-0002-6467-8887" pid="228/0782">Maroua Idi</author>
+<author pid="64/3745">Sana Youn&#232;s</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Performance Evaluation of Call Admission Control Strategy in Cloud Radio Access Network using Formal Methods.</title>
+<pages>630-640</pages>
+<year>2022</year>
+<booktitle>ICSOFT</booktitle>
+<ee>https://doi.org/10.5220/0011271300003266</ee>
+<crossref>conf/icsoft/2022</crossref>
+<url>db/conf/icsoft/icsoft2022.html#IdiYR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/FouratiBR22" mdate="2023-02-28">
+<author pid="123/3335">Farah Fourati</author>
+<author pid="55/6048">Mohamed Tahar Bhiri</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Validating Event-B models using PDDL.</title>
+<pages>2638-2647</pages>
+<year>2022</year>
+<booktitle>KES</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2022.09.322</ee>
+<crossref>conf/kes/2022</crossref>
+<url>db/conf/kes/kes2022.html#FouratiBR22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/HafaiedhHR21" mdate="2021-12-15">
+<author orcid="0000-0001-7941-158X" pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="226/6506">Roua Ben Hamouda</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A model-based approach for formal verification and performance analysis of dynamic load-balancing protocols in cloud environment.</title>
+<pages>2977-2994</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Clust. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10586-021-03305-4</ee>
+<url>db/journals/cluster/cluster24.html#HafaiedhHR21</url>
+</article>
+</r>
+<r><article key="journals/concurrency/ChaiebYLR21" mdate="2024-10-06">
+<author orcid="0000-0003-3757-8650" pid="233/2607">Marwa Chaieb</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<author pid="l/PascalLafourcade">Pascal Lafourcade 0001</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Design and practical implementation of verify-your-vote protocol.</title>
+<year>2021</year>
+<volume>33</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.5813</ee>
+<url>db/journals/concurrency/concurrency33.html#ChaiebYLR21</url>
+</article>
+</r>
+<r><article key="journals/simpra/HamoudaHR21" mdate="2021-07-13">
+<author pid="226/6506">Roua Ben Hamouda</author>
+<author orcid="0000-0001-7941-158X" pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Modelling and verification of reconfigurable fault-tolerant and self-recovering systems in hybrid Clouds.</title>
+<pages>102331</pages>
+<year>2021</year>
+<volume>111</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee>https://doi.org/10.1016/j.simpat.2021.102331</ee>
+<url>db/journals/simpra/simpra111.html#HamoudaHR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/emcis/MaamouriSR21" mdate="2022-02-23">
+<author orcid="0000-0002-0507-4434" pid="313/8853">Amine Maamouri</author>
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author orcid="0000-0001-5736-4137" pid="15/5421">Riadh Robbana</author>
+<title>Phi: A Generic Microservices-Based Big Data Architecture.</title>
+<pages>3-16</pages>
+<year>2021</year>
+<booktitle>EMCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-95947-0_1</ee>
+<crossref>conf/emcis/2021</crossref>
+<url>db/conf/emcis/emcis2021.html#MaamouriSR21</url>
+</inproceedings>
+</r>
+<r><article key="journals/sqj/BouaskerLR20" mdate="2025-12-25">
+<author orcid="0000-0002-4841-6983" pid="184/5945">Taycir Bouasker</author>
+<author pid="29/3084">Mahjoub Langar</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>QoS monitor as a service.</title>
+<pages>1279-1301</pages>
+<year>2020</year>
+<volume>28</volume>
+<journal>Softw. Qual. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11219-020-09514-1</ee>
+<ee>https://www.wikidata.org/entity/Q123265374</ee>
+<url>db/journals/sqj/sqj28.html#BouaskerLR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/emcis/AissaSR20" mdate="2020-11-26">
+<author pid="279/4104">Mohamed Mehdi Ben Aissa</author>
+<author pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>DECIDE: A New Decisional Big Data Methodology for a Better Data Governance.</title>
+<pages>63-78</pages>
+<year>2020</year>
+<booktitle>EMCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-63396-7_5</ee>
+<crossref>conf/emcis/2020</crossref>
+<url>db/conf/emcis/emcis2020.html#AissaSR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/TrabelsiSR20a" mdate="2021-12-15">
+<author orcid="0000-0002-0792-8763" pid="271/1204">Oussama Trabelsi</author>
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A Secure Distributed Hash-Based Encryption Mode of Operation Suited for Big Data Systems.</title>
+<pages>51-78</pages>
+<year>2020</year>
+<booktitle>ICETE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-90428-9_3</ee>
+<crossref>conf/icete/2020</crossref>
+<url>db/conf/icete/icete2020.html#TrabelsiSR20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/TrabelsiSR20" mdate="2020-07-29">
+<author pid="271/1204">Oussama Trabelsi</author>
+<author pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>DCBC: A Distributed High-performance Block-Cipher Mode of Operation.</title>
+<pages>86-97</pages>
+<year>2020</year>
+<booktitle>ICETE (2)</booktitle>
+<ee>https://doi.org/10.5220/0009793300860097</ee>
+<crossref>conf/icete/2020-2</crossref>
+<url>db/conf/icete/icete2020-2.html#TrabelsiSR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/ChaiebKY0R19" mdate="2019-09-18">
+<author pid="233/2607">Marwa Chaieb</author>
+<author pid="176/4277">Mirko Koscina</author>
+<author pid="32/8559">Souheib Yousfi</author>
+<author pid="l/PascalLafourcade">Pascal Lafourcade 0001</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>DABSTERS: Distributed Authorities using Blind Signature to Effect Robust Security in e-Voting.</title>
+<pages>228-235</pages>
+<year>2019</year>
+<booktitle>ICETE (2)</booktitle>
+<ee>https://doi.org/10.5220/0007917702280235</ee>
+<crossref>conf/icete/2019-2</crossref>
+<url>db/conf/icete/icete2019-2.html#ChaiebKY0R19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictac/ChaiebKY0R19" mdate="2024-10-06">
+<author pid="233/2607">Marwa Chaieb</author>
+<author pid="176/4277">Mirko Koscina</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<author pid="l/PascalLafourcade">Pascal Lafourcade 0001</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>DABSTERS: A Privacy Preserving e-Voting Protocol for Permissioned Blockchain.</title>
+<pages>292-312</pages>
+<year>2019</year>
+<booktitle>ICTAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32505-3_17</ee>
+<ee>https://www.wikidata.org/entity/Q111689967</ee>
+<crossref>conf/ictac/2019</crossref>
+<url>db/conf/ictac/ictac2019.html#ChaiebKY0R19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/HafaiedhSR18" mdate="2020-09-10">
+<author pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="186/2722">Maroua Ben Slimane</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A formal model for the analysis and verification of a pre-emptive round-robin arbiter.</title>
+<pages>169-192</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>Int. J. Crit. Comput. Based Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJCCBS.2018.096193</ee>
+<url>db/journals/ijccbs/ijccbs8.html#HafaiedhSR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/emcis/ChaiebYLR18" mdate="2019-09-16">
+<author pid="233/2607">Marwa Chaieb</author>
+<author pid="32/8559">Souheib Yousfi</author>
+<author orcid="0000-0002-4459-511X" pid="l/PascalLafourcade">Pascal Lafourcade 0001</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verify-Your-Vote: A Verifiable Blockchain-Based Online Voting Protocol.</title>
+<pages>16-30</pages>
+<year>2018</year>
+<booktitle>EMCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-11395-7_2</ee>
+<crossref>conf/emcis/2018</crossref>
+<url>db/conf/emcis/emcis2018.html#ChaiebYLR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecos/HamoudaBHR18" mdate="2018-09-19">
+<author pid="226/6506">Roua Ben Hamouda</author>
+<author pid="226/6556">Sabrine Boussema</author>
+<author pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Performance Evaluation of Dynamic Load Balancing Protocols Based on Formal Models in Cloud Environments.</title>
+<pages>64-79</pages>
+<year>2018</year>
+<booktitle>VECoS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00359-3_5</ee>
+<crossref>conf/vecos/2018</crossref>
+<url>db/conf/vecos/vecos2018.html#HamoudaBHR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/SlimaneHR17" mdate="2020-03-13">
+<author pid="186/2722">Maroua Ben Slimane</author>
+<author orcid="0000-0001-7941-158X" pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Formal-Based Design and Verification of SoC Arbitration Protocols: A Comparative Analysis of TDMA and Round-Robin.</title>
+<pages>54-62</pages>
+<year>2017</year>
+<volume>34</volume>
+<journal>IEEE Des. Test</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MDAT.2017.2713352</ee>
+<url>db/journals/dt/dt34.html#SlimaneHR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/HafaiedhSHR17" mdate="2023-03-24">
+<author pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="186/2722">Maroua Ben Slimane</author>
+<author pid="216/4333">Sourour Haouala</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Formal Distributed Model for the Verification of Job-Scheduling in Cloud Environments.</title>
+<pages>660-667</pages>
+<year>2017</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2017.144</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2017.144</ee>
+<crossref>conf/aiccsa/2017</crossref>
+<url>db/conf/aiccsa/aiccsa2017.html#HafaiedhSHR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/SaoudiYR17" mdate="2024-10-06">
+<author pid="186/2716">Safa Saoudi</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Elliptic Curve Cryptography on E-Passport Authentication Protocol.</title>
+<pages>1253-1260</pages>
+<year>2017</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2017.176</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2017.176</ee>
+<crossref>conf/aiccsa/2017</crossref>
+<url>db/conf/aiccsa/aiccsa2017.html#SaoudiYR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/BouaskerLR16" mdate="2025-12-25">
+<author orcid="0000-0002-4841-6983" pid="184/5945">Taycir Bouasker</author>
+<author pid="29/3084">Mahjoub Langar</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Novel time related quality of service criteria.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2016.7945777</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2016.7945777</ee>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#BouaskerLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/NasraouiR16" mdate="2024-10-06">
+<author orcid="0000-0001-5367-973X" pid="57/7127">Brahim Nasraoui</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Reachability Analysis of Multithreaded Programs Using Communicating Rewriting Systems.</title>
+<pages>228-233</pages>
+<year>2016</year>
+<booktitle>COMPSAC Workshops</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2016.174</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2016.174</ee>
+<crossref>conf/compsac/2016w</crossref>
+<url>db/conf/compsac/compsac2016w.html#NasraouiR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica3pp/HafaiedhSR16" mdate="2017-05-26">
+<author pid="47/7600">Imene Ben Hafaiedh</author>
+<author pid="186/2722">Maroua Ben Slimane</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A Distributed Formal Model for the Analysis and Verification of Arbitration Protocols on MPSoCs Architecture.</title>
+<pages>658-674</pages>
+<year>2016</year>
+<booktitle>ICA3PP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49583-5_51</ee>
+<crossref>conf/ica3pp/2016</crossref>
+<url>db/conf/ica3pp/ica3pp2016.html#HafaiedhSR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs2/FouratiBR16" mdate="2020-06-22">
+<author pid="123/3335">Farah Fourati</author>
+<author pid="55/6048">Mohamed Tahar Bhiri</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verification and validation of PDDL descriptions using Event-B formal method.</title>
+<pages>770-776</pages>
+<year>2016</year>
+<booktitle>ICMCS</booktitle>
+<ee>https://doi.org/10.1109/ICMCS.2016.7905631</ee>
+<crossref>conf/icmcs2/2016</crossref>
+<url>db/conf/icmcs2/icmcs2016.html#FouratiBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/BouaskerLR16" mdate="2025-12-25">
+<author orcid="0000-0002-4841-6983" pid="184/5945">Taycir Bouasker</author>
+<author pid="29/3084">Mahjoub Langar</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>NFRs based web services scoring as web service.</title>
+<pages>1032-1038</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543872</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543872</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#BouaskerLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/FouratiBR16" mdate="2017-05-17">
+<author pid="123/3335">Farah Fourati</author>
+<author pid="55/6048">Mohamed Tahar Bhiri</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Coupling Event-B/ProB for the Analysis of the Software Architecture Evolution Described in PDDL.</title>
+<pages>821-830</pages>
+<year>2016</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-53480-0_81</ee>
+<crossref>conf/isda/2016</crossref>
+<url>db/conf/isda/isda2016.html#FouratiBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/somet/HaddedLR16" mdate="2017-05-19">
+<author pid="184/8386">Imene Hadded</author>
+<author pid="29/3084">Mahjoub Langar</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Web Services Orchestration's Monitor as a Web Service.</title>
+<pages>258-269</pages>
+<year>2016</year>
+<booktitle>SoMeT</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-674-3-258</ee>
+<crossref>conf/somet/2016</crossref>
+<url>db/conf/somet/somet2016.html#HaddedLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecos/SaoudiYR16" mdate="2023-03-10">
+<author pid="186/2716">Safa Saoudi</author>
+<author pid="32/8559">Souheib Yousfi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>ePassport Protocol on the Spi Calculus.</title>
+<pages>161-176</pages>
+<year>2016</year>
+<booktitle>VECoS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1689/paper14.pdf</ee>
+<crossref>conf/vecos/2016</crossref>
+<url>db/conf/vecos/vecos2016.html#SaoudiYR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/MHemdiJMR16" mdate="2023-03-23">
+<author pid="165/8291">Hana M'Hemdi</author>
+<author pid="88/4752">Jacques Julliand</author>
+<author pid="31/3727">Pierre-Alain Masson</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Conformance Testing for Non-deterministic Timed Pushdown Automata with Deadlines.</title>
+<pages>211-213</pages>
+<year>2016</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2016.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2016.54</ee>
+<crossref>conf/wetice/2016</crossref>
+<url>db/conf/wetice/wetice2016.html#MHemdiJMR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/KridGR15" mdate="2023-03-24">
+<author pid="183/2074">Donia Khemakhem Krid</author>
+<author pid="183/2061">Naouel Ben Salem Grati</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A new model for Online Social Networks case of Facebook.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2015.7507177</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2015.7507177</ee>
+<crossref>conf/aiccsa/2015</crossref>
+<url>db/conf/aiccsa/aiccsa2015.html#KridGR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/MHemdiJMR15" mdate="2023-03-23">
+<author pid="165/8291">Hana M'Hemdi</author>
+<author pid="88/4752">Jacques Julliand</author>
+<author pid="31/3727">Pierre-Alain Masson</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Test generation from timed pushdown automata with inputs and outputs.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICSTW.2015.7107404</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSTW.2015.7107404</ee>
+<crossref>conf/icst/2015w</crossref>
+<url>db/conf/icst/icstw2015.html#MHemdiJMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/provsec/DahmaniLR15" mdate="2017-05-21">
+<author pid="152/1147">Karim Dahmani</author>
+<author pid="29/3084">Mahjoub Langar</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A Formal Dynamic Verification of Choreographed Web Services Conversations.</title>
+<pages>340-353</pages>
+<year>2015</year>
+<booktitle>ProvSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26059-4_19</ee>
+<crossref>conf/provsec/2015</crossref>
+<url>db/conf/provsec/provsec2015.html#DahmaniLR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/MHemdiJMR15" mdate="2023-03-23">
+<author pid="165/8291">Hana M'Hemdi</author>
+<author pid="88/4752">Jacques Julliand</author>
+<author pid="31/3727">Pierre-Alain Masson</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Non-deterministic Timed Pushdown Automata-Based Testing Evaluated by Mutation.</title>
+<pages>198-203</pages>
+<year>2015</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2015.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2015.35</ee>
+<crossref>conf/wetice/2015w</crossref>
+<url>db/conf/wetice/wetice2015w.html#MHemdiJMR15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apn/2014fms" mdate="2023-03-10">
+<editor pid="65/550">V&#233;ronique Cortier</editor>
+<editor pid="15/5421">Riadh Robbana</editor>
+<title>Proceedings of the Formal Methods for Security Workshop co-located with the PetriNets-2014 Conference , Tunis, Tunisia, June 23rd, 2014.</title>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1158</volume>
+<year>2014</year>
+<ee type="oa">https://ceur-ws.org/Vol-1158</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1158-8</ee>
+<booktitle>FMS @ Petri Nets</booktitle>
+<url>db/conf/apn/fms2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/concurrency/SfaxiARL13" mdate="2020-03-02">
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author pid="21/5143">Takoua Abdellatif</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="l/YassineLakhnech">Yassine Lakhnech</author>
+<title>Information flow control of component-based distributed systems.</title>
+<pages>161-179</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.2807</ee>
+<url>db/journals/concurrency/concurrency25.html#SfaxiARL13</url>
+</article>
+</r>
+<r><article key="journals/tsi/SfaxiALR12" mdate="2020-06-24">
+<author pid="98/10107">Lilia Sfaxi</author>
+<author pid="21/5143">Takoua Abdellatif</author>
+<author pid="l/YassineLakhnech">Yassine Lakhnech</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>S&#233;curiser les syst&#232;mes distribu&#233;s &#224; base de composants par contr&#244;le de flux d'information.</title>
+<pages>245-279</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Tech. Sci. Informatiques</journal>
+<number>2</number>
+<ee>https://doi.org/10.3166/tsi.31.245.279</ee>
+<url>db/journals/tsi/tsi31.html#SfaxiALR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmcs2/YousfiDR12" mdate="2024-10-06">
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<author pid="76/6334">St&#233;phane Derrode</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Watermarking in e-voting for large scale election.</title>
+<pages>130-133</pages>
+<year>2012</year>
+<booktitle>ICMCS</booktitle>
+<ee>https://doi.org/10.1109/ICMCS.2012.6320237</ee>
+<crossref>conf/icmcs2/2012</crossref>
+<url>db/conf/icmcs2/icmcs2012.html#YousfiDR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/ShilBRN13" mdate="2023-10-21">
+<author pid="16/3709">Assia Ben Shil</author>
+<author pid="29/5808">Kaouthar Blibech</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="132/9003">Wafa Neji</author>
+<title>A New PVSS Scheme with a Simple Encryption Function.</title>
+<booktitle>SCSS</booktitle>
+<year>2012</year>
+<pages>11-22</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.122.2</ee>
+<ee type="oa">http://arxiv.org/abs/1307.8209</ee>
+<ee>https://www.wikidata.org/entity/Q122890028</ee>
+<crossref>journals/corr/BouhoulaIK13</crossref>
+<url>db/series/eptcs/eptcs122.html#ShilBRN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbse/AbdellatifSRL11" mdate="2019-10-19">
+<author pid="21/5143">Takoua Abdellatif</author>
+<author orcid="0000-0002-9786-5961" pid="98/10107">Lilia Sfaxi</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="l/YassineLakhnech">Yassine Lakhnech</author>
+<title>Automating information flow control in component-based distributed systems.</title>
+<pages>73-82</pages>
+<year>2011</year>
+<booktitle>CBSE</booktitle>
+<ee>https://doi.org/10.1145/2000229.2000241</ee>
+<crossref>conf/cbse/2011</crossref>
+<url>db/conf/cbse/cbse2011.html#AbdellatifSRL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cans/AraujoRRTY10" mdate="2024-10-06">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<title>Towards Practical and Secure Coercion-Resistant Electronic Elections.</title>
+<pages>278-297</pages>
+<year>2010</year>
+<booktitle>CANS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17619-7_20</ee>
+<crossref>conf/cans/2010</crossref>
+<url>db/conf/cans/cans2010.html#AraujoRRTY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vveis/MajdoubR09" mdate="2009-09-10">
+<author pid="69/6144">Lotfi Majdoub</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Test Cases Generation for Nondeterministic Duration Systems.</title>
+<pages>14-23</pages>
+<year>2009</year>
+<booktitle>MSVVEIS</booktitle>
+<crossref>conf/vveis/2009</crossref>
+<url>db/conf/vveis/msvveis2009.html#MajdoubR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/RajebNRT09" mdate="2024-10-06">
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author orcid="0000-0001-5367-973X" pid="57/7127">Brahim Nasraoui</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="23/6190">Tayssir Touili</author>
+<title>Verifying Multithreaded Recursive Programs with Integer Variables.</title>
+<pages>143-154</pages>
+<year>2009</year>
+<crossref>conf/infinity/2006-07-08</crossref>
+<booktitle>INFINITY</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2009.05.036</ee>
+<url>db/journals/entcs/entcs239.html#RajebNRT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crisis/YousfiBR08" mdate="2010-09-29">
+<author pid="32/8559">Souheib Yousfi</author>
+<author pid="35/6588">Alexis Bonnecaze</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Apport de la cryptographie elliptique dans le vote &#233;lectronique.</title>
+<pages>185-192</pages>
+<year>2008</year>
+<booktitle>CRiSIS</booktitle>
+<crossref>conf/crisis/2008</crossref>
+<url>db/conf/crisis/crisis2008.html#YousfiBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crisis/ShilBR08" mdate="2017-05-26">
+<author pid="16/3709">Assia Ben Shil</author>
+<author pid="29/5808">Kaouthar Blibech</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>A new timestamping schema in the Bounded Storage Model.</title>
+<pages>199-205</pages>
+<year>2008</year>
+<booktitle>CRiSIS</booktitle>
+<ee>https://doi.org/10.1109/CRISIS.2008.4757479</ee>
+<crossref>conf/crisis/2008</crossref>
+<url>db/conf/crisis/crisis2008.html#ShilBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/NaijaCBR08" mdate="2023-03-24">
+<author pid="31/6883">Yosr Na&#239;ja</author>
+<author pid="38/1787">Salem Chakhar</author>
+<author pid="29/5808">Kaouthar Blibech</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Extension of Partitional Clustering Methods for Handling Mixed Data.</title>
+<pages>257-266</pages>
+<year>2008</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2008.85</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2008.85</ee>
+<crossref>conf/icdm/2008w</crossref>
+<url>db/conf/icdm/icdmw2008.html#NaijaCBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/depcos/MajdoubR07" mdate="2023-03-24">
+<author pid="69/6144">Lotfi Majdoub</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Testing Duration Systems using an approximation method.</title>
+<pages>119-126</pages>
+<year>2007</year>
+<crossref>conf/depcos/2007</crossref>
+<booktitle>DepCoS-RELCOMEX</booktitle>
+<ee>https://doi.org/10.1109/DEPCOS-RELCOMEX.2007.46</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEPCOS-RELCOMEX.2007.46</ee>
+<url>db/conf/depcos/depcos2007.html#MajdoubR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/BensalemKMRT07" mdate="2014-04-24">
+<author pid="01/5624">Saddek Bensalem</author>
+<author pid="55/5851">Moez Krichen</author>
+<author pid="69/6144">Lotfi Majdoub</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="85/6852">Stavros Tripakis</author>
+<title>A Simplified Approach for Testing Real-Time Systems Based on Action Refinement.</title>
+<pages>191-202</pages>
+<year>2007</year>
+<booktitle>ISoLA</booktitle>
+<crossref>conf/isola/2007</crossref>
+<url>db/conf/isola/isola2007.html#BensalemKMRT07</url>
+<ee>http://editions-rnti.fr/?inprocid=1000545</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vveis/MajdoubR06" mdate="2006-09-06">
+<author pid="69/6144">Lotfi Majdoub</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Test Purpose of Duration Systems.</title>
+<pages>67-75</pages>
+<year>2006</year>
+<crossref>conf/vveis/2006</crossref>
+<booktitle>MSVVEIS</booktitle>
+<url>db/conf/vveis/msvveis2006.html#MajdoubR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/dmtcs/BerregebRT04" mdate="2023-01-24">
+<author pid="27/4949">Narjes Berregeb</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<title>Towards automated proofs of observational properties.</title>
+<pages>143-162</pages>
+<year>2004</year>
+<volume>6</volume>
+<journal>Discret. Math. Theor. Comput. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.46298/dmtcs.331</ee>
+<url>db/journals/dmtcs/dmtcs6.html#BerregebRT04</url>
+</article>
+</r>
+<r><article key="journals/iajit/BerregebR04" mdate="2021-04-28">
+<author pid="27/4949">Narjes Berregeb</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>On the Verification by Approximation of Duration Systems.</title>
+<pages>147-155</pages>
+<year>2004</year>
+<volume>1</volume>
+<journal>Int. Arab J. Inf. Technol.</journal>
+<number>2</number>
+<ee type="oa">http://www.iajit.org/ABSTRACTS-2.htm#01</ee>
+<url>db/journals/iajit/iajit1.html#BerregebR04</url>
+</article>
+</r>
+<r><article key="journals/jcst/Robbana03" mdate="2017-05-28">
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verification of Duration Systems Using an Approximation Approach.</title>
+<pages>153-162</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/BF02948880</ee>
+<url>db/journals/jcst/jcst18.html#Robbana03</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Robbana95" mdate="2020-07-21">
+<author pid="15/5421">Riadh Robbana</author>
+<title>Sp&#233;cification et v&#233;rification de syst&#232;mes hybrides. (Specification and verification of hybrid systems).</title>
+<year>1995</year>
+<school>Joseph Fourier University, Grenoble, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00346070</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cav/BouajjaniLR95" mdate="2017-05-20">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="l/YassineLakhnech">Yassine Lakhnech</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>From Duration Calculus To Linear Hybrid Automata.</title>
+<pages>196-210</pages>
+<year>1995</year>
+<crossref>conf/cav/1995</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav95.html#BouajjaniLR95</url>
+<ee>https://doi.org/10.1007/3-540-60045-0_51</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BouajjaniR95" mdate="2017-05-20">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verifying omega-Regular Properties for a Subclass of Linear Hybrid Systems.</title>
+<pages>437-450</pages>
+<year>1995</year>
+<crossref>conf/cav/1995</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav95.html#BouajjaniR95</url>
+<ee>https://doi.org/10.1007/3-540-60045-0_68</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BouajjaniER94" mdate="2017-05-20">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="91/3803">Rachid Echahed</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verification of Context-Free Timed Systems Using Linear Hybrid Observers.</title>
+<pages>118-131</pages>
+<year>1994</year>
+<crossref>conf/cav/1994</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav94.html#BouajjaniER94</url>
+<ee>https://doi.org/10.1007/3-540-58179-0_48</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/BouajjaniER94" mdate="2017-05-22">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="91/3803">Rachid Echahed</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verification of Nonregular Temporal Properties for Context-Free Processes.</title>
+<pages>81-97</pages>
+<year>1994</year>
+<crossref>conf/concur/1994</crossref>
+<booktitle>CONCUR</booktitle>
+<url>db/conf/concur/concur1994.html#BouajjaniER94</url>
+<ee>https://doi.org/10.1007/978-3-540-48654-1_8</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftrtft/BouajjaniER94" mdate="2017-05-20">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="91/3803">Rachid Echahed</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>Verfying Invariance Properties of Timed Systems with Duration Variables.</title>
+<pages>193-210</pages>
+<year>1994</year>
+<crossref>conf/ftrtft/1994</crossref>
+<booktitle>FTRTFT</booktitle>
+<url>db/conf/ftrtft/ftrtft1994.html#BouajjaniER94</url>
+<ee>https://doi.org/10.1007/3-540-58468-4_166</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hybrid/BouajjaniER94" mdate="2017-05-20">
+<author pid="b/AhmedBouajjani">Ahmed Bouajjani</author>
+<author pid="91/3803">Rachid Echahed</author>
+<author pid="15/5421">Riadh Robbana</author>
+<title>On the Automatic Verification of Systems with Continuous Variables and Unbounded Discrete Data Structures.</title>
+<pages>64-85</pages>
+<year>1994</year>
+<crossref>conf/hybrid/1994</crossref>
+<booktitle>Hybrid Systems</booktitle>
+<url>db/conf/hybrid/hybrid94.html#BouajjaniER94</url>
+<ee>https://doi.org/10.1007/3-540-60472-3_4</ee>
+</inproceedings>
+</r>
+<coauthors n="53" nc="7">
+<co c="0"><na f="a/Abdellatif:Takoua" pid="21/5143">Takoua Abdellatif</na></co>
+<co c="0"><na f="a/Aissa:Mohamed_Mehdi_Ben" pid="279/4104">Mohamed Mehdi Ben Aissa</na></co>
+<co c="0"><na f="a/Ara=uacute=jo_0001:Roberto" pid="145/5123">Roberto Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Bardin:S=eacute=bastien" pid="b/SebastienBardin">S&#233;bastien Bardin</na></co>
+<co c="0"><na f="b/Bensalem:Saddek" pid="01/5624">Saddek Bensalem</na></co>
+<co c="3"><na f="b/Berregeb:Narjes" pid="27/4949">Narjes Berregeb</na></co>
+<co c="4"><na f="b/Bhiri:Mohamed_Tahar" pid="55/6048">Mohamed Tahar Bhiri</na></co>
+<co c="0"><na f="b/Bonnecaze:Alexis" pid="35/6588">Alexis Bonnecaze</na></co>
+<co c="0"><na f="b/Bouajjani:Ahmed" pid="b/AhmedBouajjani">Ahmed Bouajjani</na></co>
+<co c="1"><na f="b/Bouasker:Taycir" pid="184/5945">Taycir Bouasker</na></co>
+<co c="0"><na f="b/Boussema:Sabrine" pid="226/6556">Sabrine Boussema</na></co>
+<co c="0"><na f="c/Chaieb:Marwa" pid="233/2607">Marwa Chaieb</na></co>
+<co c="0"><na f="c/Chakhar:Salem" pid="38/1787">Salem Chakhar</na></co>
+<co c="0"><na f="c/Cortier:V=eacute=ronique" pid="65/550">V&#233;ronique Cortier</na></co>
+<co c="1"><na f="d/Dahmani:Karim" pid="152/1147">Karim Dahmani</na></co>
+<co c="0"><na f="d/Derrode:St=eacute=phane" pid="76/6334">St&#233;phane Derrode</na></co>
+<co c="0"><na f="e/Echahed:Rachid" pid="91/3803">Rachid Echahed</na></co>
+<co c="4"><na f="f/Fourati:Farah" pid="123/3335">Farah Fourati</na></co>
+<co c="5"><na f="g/Grati:Naouel_Ben_Salem" pid="183/2061">Naouel Ben Salem Grati</na></co>
+<co c="1"><na f="h/Hadded:Imene" pid="184/8386">Imene Hadded</na></co>
+<co c="0"><na f="h/Hafaiedh:Imene_Ben" pid="47/7600">Imene Ben Hafaiedh</na></co>
+<co c="0"><na f="h/Hamouda:Roua_Ben" pid="226/6506">Roua Ben Hamouda</na></co>
+<co c="0"><na f="h/Haouala:Sourour" pid="216/4333">Sourour Haouala</na></co>
+<co c="0"><na f="h/Hedia:Belgacem_Ben" pid="151/5710">Belgacem Ben Hedia</na></co>
+<co c="6"><na f="i/Idi:Maroua" pid="228/0782">Maroua Idi</na></co>
+<co c="2"><na f="j/Julliand:Jacques" pid="88/4752">Jacques Julliand</na></co>
+<co c="0"><na f="k/Koscina:Mirko" pid="176/4277">Mirko Koscina</na></co>
+<co c="0"><na f="k/Krichen:Moez" pid="55/5851">Moez Krichen</na></co>
+<co c="5"><na f="k/Krid:Donia_Khemakhem" pid="183/2074">Donia Khemakhem Krid</na></co>
+<co c="0"><na f="l/Lafourcade_0001:Pascal" pid="l/PascalLafourcade">Pascal Lafourcade 0001</na></co>
+<co c="0"><na f="l/Lakhnech:Yassine" pid="l/YassineLakhnech">Yassine Lakhnech</na></co>
+<co c="1"><na f="l/Langar:Mahjoub" pid="29/3084">Mahjoub Langar</na></co>
+<co c="0"><na f="l/Loukil:Mariem" pid="339/2322">Mariem Loukil</na></co>
+<co c="0"><na f="m/Maamouri:Amine" pid="313/8853">Amine Maamouri</na></co>
+<co c="0"><na f="m/Majdoub:Lotfi" pid="69/6144">Lotfi Majdoub</na></co>
+<co c="2"><na f="m/Masson:Pierre=Alain" pid="31/3727">Pierre-Alain Masson</na></co>
+<co c="2"><na f="m/M=Hemdi:Hana" pid="165/8291">Hana M'Hemdi</na></co>
+<co c="0"><na f="n/Na=iuml=ja:Yosr" pid="31/6883">Yosr Na&#239;ja</na></co>
+<co c="0"><na f="n/Nasraoui:Brahim" pid="57/7127">Brahim Nasraoui</na></co>
+<co c="0"><na f="n/Neji:Wafa" pid="132/9003">Wafa Neji</na></co>
+<co c="0"><na f="r/Rajeb:Narjes_Ben" pid="06/7130">Narjes Ben Rajeb</na></co>
+<co c="0"><na f="s/Saoudi:Safa" pid="186/2716">Safa Saoudi</na></co>
+<co c="0"><na f="s/Sfaxi:Lilia" pid="98/10107">Lilia Sfaxi</na></co>
+<co c="0"><na f="s/Shil:Assia_Ben" pid="16/3709">Assia Ben Shil</na></co>
+<co c="0" n="2"><na f="s/Sinaoui:Kaouther_Blibech" pid="29/5808">Kaouther Blibech Sinaoui</na><na>Kaouthar Blibech</na></co>
+<co c="0"><na f="s/Slimane:Maroua_Ben" pid="186/2722">Maroua Ben Slimane</na></co>
+<co c="3"><na f="t/Tiwari_0001:Ashish" pid="t/AshishTiwari">Ashish Tiwari 0001</na></co>
+<co c="0"><na f="t/Touili:Tayssir" pid="23/6190">Tayssir Touili</na></co>
+<co c="0"><na f="t/Trabelsi:Oussama" pid="271/1204">Oussama Trabelsi</na></co>
+<co c="0"><na f="t/Traor=eacute=:Jacques" pid="82/1924">Jacques Traor&#233;</na></co>
+<co c="0"><na f="t/Tripakis:Stavros" pid="85/6852">Stavros Tripakis</na></co>
+<co c="6"><na f="y/Youn=egrave=s:Sana" pid="64/3745">Sana Youn&#232;s</na></co>
+<co c="0"><na f="y/Yousfi:Souheib" pid="32/8559">Souheib Yousfi</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<dblpperson name="Narjes Ben Rajeb" pid="06/7130" n="17">
+<person key="homepages/06/7130" mdate="2009-07-06">
+<author pid="06/7130">Narjes Ben Rajeb</author>
+</person>
+<r><inproceedings key="conf/vecos/KalaiNR25" mdate="2026-05-14">
+<author orcid="0000-0002-5301-329X" pid="344/9489">Rym Kalai</author>
+<author orcid="0000-0001-6692-2428" pid="132/9003">Wafa Neji</author>
+<author orcid="0000-0003-2416-984X" pid="06/7130">Narjes Ben Rajeb</author>
+<title>Partially Aggregatable Distributed Multi-Key Generation Protocol.</title>
+<booktitle>VECoS</booktitle>
+<year>2025</year>
+<pages>82-96</pages>
+<crossref>conf/vecos/2025</crossref>
+<ee>https://doi.org/10.1007/978-3-032-20440-0_6</ee>
+<url>db/conf/vecos/vecos2025.html#KalaiNR25</url>
+<stream>streams/conf/vecos</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emcis/KalaiNR23" mdate="2024-04-15">
+<author orcid="0000-0002-5301-329X" pid="344/9489">Rym Kalai</author>
+<author orcid="0000-0001-6692-2428" pid="132/9003">Wafa Neji</author>
+<author orcid="0000-0003-2416-984X" pid="06/7130">Narjes Ben Rajeb</author>
+<title>Reviewing the Role of Secret Sharing Schemes in Electronic Payment Protocols.</title>
+<pages>52-60</pages>
+<year>2023</year>
+<booktitle>EMCIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-56478-9_4</ee>
+<crossref>conf/emcis/2023-1</crossref>
+<url>db/conf/emcis/emcis2023-1.html#KalaiNR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emcis/KalaiNR22" mdate="2023-04-29">
+<author orcid="0000-0002-5301-329X" pid="344/9489">Rym Kalai</author>
+<author orcid="0000-0001-6692-2428" pid="132/9003">Wafa Neji</author>
+<author orcid="0000-0003-2416-984X" pid="06/7130">Narjes Ben Rajeb</author>
+<title>A Distributed Multi-key Generation Protocol with a New Complaint Management Strategy.</title>
+<pages>150-164</pages>
+<year>2022</year>
+<booktitle>EMCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-30694-5_12</ee>
+<crossref>conf/emcis/2022</crossref>
+<url>db/conf/emcis/emcis2022.html#KalaiNR22</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijguc/BerrimaLR21" mdate="2021-11-03">
+<author pid="10/8342">Mouhebeddine Berrima</author>
+<author pid="214/1172">Wa&#235;l Louhichi</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Resource consumption trade-off for reducing hotspot migration in modern data centres.</title>
+<pages>332-346</pages>
+<year>2021</year>
+<volume>12</volume>
+<journal>Int. J. Grid Util. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJGUC.2021.117879</ee>
+<url>db/journals/ijguc/ijguc12.html#BerrimaLR21</url>
+</article>
+</r>
+<r><article key="journals/ijsn/NejiBR18" mdate="2020-04-01">
+<author pid="132/9003">Wafa Neji</author>
+<author pid="29/5808">Kaouther Blibech</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>A secure electronic voting protocol with a simple ballot's encryption function.</title>
+<pages>10-26</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>Int. J. Secur. Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJSN.2018.10011755</ee>
+<url>db/journals/ijsn/ijsn13.html#NejiBR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/netys/NejiBR17" mdate="2017-05-15">
+<author pid="132/9003">Wafa Neji</author>
+<author pid="29/5808">Kaouther Blibech</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Incoercible Fully-Remote Electronic Voting Protocol.</title>
+<pages>355-369</pages>
+<year>2017</year>
+<booktitle>NETYS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-59647-1_26</ee>
+<crossref>conf/netys/2017</crossref>
+<url>db/conf/netys/netys2017.html#NejiBR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/Berrima0GR17" mdate="2021-07-25">
+<author pid="10/8342">Mouhebeddine Berrima</author>
+<author orcid="0000-0002-4459-511X" pid="l/PascalLafourcade">Pascal Lafourcade 0001</author>
+<author pid="195/3197">Matthieu Giraud</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Formal Analyze of a Private Access Control Protocol to a Cloud Storage.</title>
+<pages>495-500</pages>
+<year>2017</year>
+<booktitle>SECRYPT</booktitle>
+<ee>https://doi.org/10.5220/0006461604950500</ee>
+<crossref>conf/secrypt/2017</crossref>
+<url>db/conf/secrypt/secrypt2017.html#Berrima0GR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/scn/NejiBR16" mdate="2020-09-10">
+<author pid="132/9003">Wafa Neji</author>
+<author pid="29/5808">Kaouther Blibech Sinaoui</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Distributed key generation protocol with a new complaint management strategy.</title>
+<pages>4585-4595</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Secur. Commun. Networks</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/sec.1651</ee>
+<url>db/journals/scn/scn9.html#NejiBR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/BerrimaNR16" mdate="2018-11-06">
+<author pid="10/8342">Mouhebeddine Berrima</author>
+<author pid="190/2078">A&#239;cha Katajina Nasr</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Co-location Resistant Strategy with Full Resources Optimization.</title>
+<pages>3-10</pages>
+<year>2016</year>
+<booktitle>CCSW</booktitle>
+<ee>https://doi.org/10.1145/2996429.2996435</ee>
+<crossref>conf/ccs/2016ccsw</crossref>
+<url>db/conf/ccs/ccsw2016.html#BerrimaNR16</url>
+</inproceedings>
+</r>
+<r><article key="journals/topnoc/RadhouaniILR15" mdate="2020-10-26">
+<author pid="137/1698">Amira Radhouani</author>
+<author orcid="0000-0003-2267-3639" pid="i/AkramIdani">Akram Idani</author>
+<author pid="l/YvesLedru">Yves Ledru</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Symbolic Search of Insider Attack Scenarios from a Formal Information System Modeling.</title>
+<pages>131-152</pages>
+<year>2015</year>
+<volume>10</volume>
+<journal>Trans. Petri Nets Other Model. Concurr.</journal>
+<ee>https://doi.org/10.1007/978-3-662-48650-4_7</ee>
+<crossref>journals/topnoc/2015-10</crossref>
+<url>db/journals/topnoc/topnoc10.html#RadhouaniILR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/RadhouaniILR14" mdate="2023-03-10">
+<author pid="137/1698">Amira Radhouani</author>
+<author pid="i/AkramIdani">Akram Idani</author>
+<author pid="l/YvesLedru">Yves Ledru</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Extraction of Insider Attack Scenarios from a Formal Information System Modeling.</title>
+<pages>5-19</pages>
+<year>2014</year>
+<booktitle>FMS @ Petri Nets</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1158/paper1.pdf</ee>
+<crossref>conf/apn/2014fms</crossref>
+<url>db/conf/apn/fms2014.html#RadhouaniILR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijisp/MarzoukiRR13" mdate="2020-08-13">
+<author pid="137/1630">Khaoula Marzouki</author>
+<author pid="137/1698">Amira Radhouani</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Formal Verification of Secrecy, Coercion Resistance and Verifiability Properties for a Remote Electronic Voting Protocol.</title>
+<pages>57-85</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Int. J. Inf. Secur. Priv.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/jisp.2013040104</ee>
+<url>db/journals/ijisp/ijisp7.html#MarzoukiRR13</url>
+</article>
+</r>
+<r><article key="journals/ita/BerrimaRC11" mdate="2026-04-07">
+<author pid="10/8342">Mouhebeddine Berrima</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author orcid="0009-0003-1651-3927" pid="65/550">V&#233;ronique Cortier</author>
+<title>Deciding knowledge in security protocols under some e-voting theories.</title>
+<pages>269-299</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>RAIRO Theor. Informatics Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1051/ita/2011119</ee>
+<url>db/journals/ita/ita45.html#BerrimaRC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cans/AraujoRRTY10" mdate="2024-10-06">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<title>Towards Practical and Secure Coercion-Resistant Electronic Elections.</title>
+<pages>278-297</pages>
+<year>2010</year>
+<booktitle>CANS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17619-7_20</ee>
+<crossref>conf/cans/2010</crossref>
+<url>db/conf/cans/cans2010.html#AraujoRRTY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlt/BerrimaR10" mdate="2017-05-26">
+<author pid="10/8342">Mouhebeddine Berrima</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Linking Algebraic Observational Equivalence and Bisimulation.</title>
+<pages>76-87</pages>
+<year>2010</year>
+<booktitle>Developments in Language Theory</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14455-4_9</ee>
+<crossref>conf/dlt/2010</crossref>
+<url>db/conf/dlt/dlt2010.html#BerrimaR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/RajebNRT09" mdate="2024-10-06">
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author orcid="0000-0001-5367-973X" pid="57/7127">Brahim Nasraoui</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="23/6190">Tayssir Touili</author>
+<title>Verifying Multithreaded Recursive Programs with Integer Variables.</title>
+<pages>143-154</pages>
+<year>2009</year>
+<crossref>conf/infinity/2006-07-08</crossref>
+<booktitle>INFINITY</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2009.05.036</ee>
+<url>db/journals/entcs/entcs239.html#RajebNRT09</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Rajeb97" mdate="2022-05-12">
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<title>Preuves par induction implicite: cas des th&#233;ories associatives-commutatives et observationnelles. (Proofs by implicit induction: case of associative-commutative and observational theories).</title>
+<year>1997</year>
+<school>Henri Poincar&#233; University, Nancy, France</school>
+<ee>https://hal.archives-ouvertes.fr/tel-01747440</ee>
+</phdthesis>
+</r>
+<coauthors n="19" nc="2">
+<co c="0"><na f="a/Ara=uacute=jo_0001:Roberto" pid="145/5123">Roberto Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Berrima:Mouhebeddine" pid="10/8342">Mouhebeddine Berrima</na></co>
+<co c="0"><na f="c/Cortier:V=eacute=ronique" pid="65/550">V&#233;ronique Cortier</na></co>
+<co c="0"><na f="g/Giraud:Matthieu" pid="195/3197">Matthieu Giraud</na></co>
+<co c="1"><na f="i/Idani:Akram" pid="i/AkramIdani">Akram Idani</na></co>
+<co c="0"><na f="k/Kalai:Rym" pid="344/9489">Rym Kalai</na></co>
+<co c="0"><na f="l/Lafourcade_0001:Pascal" pid="l/PascalLafourcade">Pascal Lafourcade 0001</na></co>
+<co c="1"><na f="l/Ledru:Yves" pid="l/YvesLedru">Yves Ledru</na></co>
+<co c="0"><na f="l/Louhichi:Wa=euml=l" pid="214/1172">Wa&#235;l Louhichi</na></co>
+<co c="1"><na f="m/Marzouki:Khaoula" pid="137/1630">Khaoula Marzouki</na></co>
+<co c="0"><na f="n/Nasr:A=iuml=cha_Katajina" pid="190/2078">A&#239;cha Katajina Nasr</na></co>
+<co c="0"><na f="n/Nasraoui:Brahim" pid="57/7127">Brahim Nasraoui</na></co>
+<co c="0"><na f="n/Neji:Wafa" pid="132/9003">Wafa Neji</na></co>
+<co c="1"><na f="r/Radhouani:Amira" pid="137/1698">Amira Radhouani</na></co>
+<co c="0"><na f="r/Robbana:Riadh" pid="15/5421">Riadh Robbana</na></co>
+<co c="0" n="2"><na f="s/Sinaoui:Kaouther_Blibech" pid="29/5808">Kaouther Blibech Sinaoui</na><na>Kaouther Blibech</na></co>
+<co c="0"><na f="t/Touili:Tayssir" pid="23/6190">Tayssir Touili</na></co>
+<co c="0"><na f="t/Traor=eacute=:Jacques" pid="82/1924">Jacques Traor&#233;</na></co>
+<co c="0"><na f="y/Yousfi:Souheib" pid="32/8559">Souheib Yousfi</na></co>
+</coauthors>
+</dblpperson>
+

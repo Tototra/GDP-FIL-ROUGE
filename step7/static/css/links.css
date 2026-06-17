@@ -1,0 +1,23 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#1a1a2e;color:#eee;font-family:'Segoe UI',sans-serif;padding-bottom:3rem}
+.container{max-width:960px;margin:0 auto;padding:1.5rem}
+h1{font-size:1.2rem;color:#42D4F4;margin-bottom:1.5rem}
+.card{background:#16213e;border:1px solid #0f3460;border-radius:12px;
+  padding:1.5rem;margin-bottom:1.5rem}
+.card h2{font-size:.95rem;color:#42D4F4;margin-bottom:1rem;text-transform:uppercase;
+  letter-spacing:.06em}
+pre{background:#0d0d1a;padding:1rem;border-radius:8px;font-size:.82rem;
+  color:#aaccff;overflow-x:auto;line-height:1.6}
+table{border-collapse:collapse;width:100%;font-size:.85rem}
+th{background:#0f3460;color:#42D4F4;padding:.6rem 1rem;text-align:left}
+td{padding:.5rem 1rem;border-bottom:1px solid #0f346060}
+tr:nth-child(even) td{background:#0f3460}
+.notice{background:#0f3460;border-radius:10px;padding:1.5rem;color:#aaa;line-height:1.7}
+.notice code{background:#16213e;padding:.15rem .4rem;border-radius:4px;
+  font-size:.85rem;color:#42D4F4}
+.score{color:#42D4F4;font-weight:600;font-family:monospace}
+.model-badge{display:inline-block;background:#911EB4;color:#fff;border-radius:6px;
+  padding:.2rem .7rem;font-size:.78rem;font-weight:700;margin-bottom:.75rem}
+.ethics{border:1px solid #F58231;background:#1a1a2e;border-radius:10px;
+  padding:1rem 1.25rem;color:#aaa;font-size:.83rem;line-height:1.6;margin-top:1.5rem}
+.ethics strong{color:#F58231}

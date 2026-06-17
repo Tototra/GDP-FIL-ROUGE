@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<dblpperson name="Florian Cafiero" pid="249/2543" n="21">
+<person key="homepages/249/2543" mdate="2019-09-24">
+<author pid="249/2543">Florian Cafiero</author>
+</person>
+<r><inproceedings key="conf/esws/LeskinenHLBBRMC26" mdate="2026-05-20">
+<author orcid="0000-0003-2327-6942" pid="173/2587">Petri Leskinen</author>
+<author orcid="0000-0003-1695-5840" pid="82/5790">Eero Hyv&#246;nen</author>
+<author pid="435/1858">Alexandre Lionnet</author>
+<author pid="436/1138">Blandine Blukacz-Louisfert</author>
+<author orcid="0000-0003-1651-5909" pid="435/1849">Pierre-&#201;tienne Bourneuf</author>
+<author orcid="0000-0002-0947-4515" pid="435/1874">Davide Rodogno</author>
+<author orcid="0000-0003-4619-7251" pid="435/1867">Gr&#233;goire Mallard</author>
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<title>A Linked Open Data Service and Semantic Portal to Study the Assembly Minutes and Prosopography of the League of Nations (1920-1946).</title>
+<booktitle>ESWC (2)</booktitle>
+<year>2026</year>
+<pages>3-20</pages>
+<crossref>conf/esws/2026-2</crossref>
+<ee>https://doi.org/10.1007/978-3-032-25159-6_1</ee>
+<url>db/conf/esws/esws2026-2.html#LeskinenHLBBRMC26</url>
+<stream>streams/conf/esws</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-15753" mdate="2026-03-29">
+<author pid="266/0754">Chahan Vidal-Gor&#232;ne</author>
+<author pid="301/5253">Bastien Kindt</author>
+<author pid="249/2543">Florian Cafiero</author>
+<title>Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.15753</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.15753</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-15753</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-21803" mdate="2026-04-15">
+<author pid="432/9987">Yaelle Zribi</author>
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="433/0296">Vincent L&#233;pinay</author>
+<author pid="266/0754">Chahan Vidal-Gor&#232;ne</author>
+<title>Timing In stand-up Comedy: Text, Audio, Laughter, Kinesics (TIC-TALK): Pipeline and Database for the Multimodal Study of Comedic Timing.</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.21803</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.21803</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-21803</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><data key="data/12/LeskinenHCMBRL25" mdate="2026-05-18">
+<author orcid="0000-0003-2327-6942" pid="173/2587">Petri Leskinen</author>
+<author orcid="0000-0003-1695-5840" pid="82/5790">Eero Hyv&#246;nen</author>
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author orcid="0000-0003-4619-7251" pid="435/1867">Gr&#233;goire Mallard</author>
+<author orcid="0000-0003-1651-5909" pid="435/1849">Pierre-&#201;tienne Bourneuf</author>
+<author orcid="0000-0002-0947-4515" pid="435/1874">Davide Rodogno</author>
+<author pid="435/1858">Alexandre Lionnet</author>
+<title>League of Nations-Minutes of Multilaterilism.</title>
+<publisher>Zenodo</publisher>
+<year>2025</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.17791448</ee>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.17791447" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-02552" mdate="2026-01-23">
+<author pid="424/7529">Francesco Paolo Savatteri</author>
+<author pid="266/0754">Chahan Vidal-Gor&#232;ne</author>
+<author pid="249/2543">Florian Cafiero</author>
+<title>What Signals Really Matter for Misinformation Tasks? Evaluating Fake-News Detection and Virality Prediction under Real-World Constraints.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.02552</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.02552</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-02552</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-10068" mdate="2025-11-15">
+<author pid="159/2419">Thibault Cl&#233;rice</author>
+<author pid="305/3390">Juliette Janes</author>
+<author pid="392/9391">Hugo Scheithauer</author>
+<author pid="393/0462">Sarah B&#233;ni&#232;re</author>
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author pid="21/4228">Laurent Romary</author>
+<author pid="265/6099">Simon Gabay</author>
+<author pid="66/1016">Beno&#238;t Sagot</author>
+<title>Diachronic Document Dataset for Semantic Layout Analysis.</title>
+<year>2024</year>
+<volume>abs/2411.10068</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.10068</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-10068</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/jocs/Cafiero23" mdate="2023-09-30">
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<title>Datafying diplomacy: How to enable the computational analysis and support of international negotiations.</title>
+<pages>102056</pages>
+<year>2023</year>
+<volume>71</volume>
+<journal>J. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jocs.2023.102056</ee>
+<url>db/journals/jocs/jocs71.html#Cafiero23</url>
+</article>
+</r>
+<r><article key="journals/lalc/CafieroC23" mdate="2024-03-22">
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author orcid="0000-0003-0385-7037" pid="215/3456">Jean-Baptiste Camps</author>
+<title>Who could be behind QAnon? Authorship attribution with supervised machine-learning.</title>
+<pages>1418-1430</pages>
+<year>2023</year>
+<month>November</month>
+<volume>38</volume>
+<journal>Digit. Scholarsh. Humanit.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1093/llc/fqad061</ee>
+<url>db/journals/lalc/lalc38.html#CafieroC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/chr/RudloffGCD23" mdate="2023-11-27">
+<author pid="361/3376">Juan Barrios Rudloff</author>
+<author pid="265/6099">Simon Gabay</author>
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="64/11389">Martin Debban&#233;</author>
+<title>Detecting Psychological Disorders with Stylometry: the Case of ADHD in Adolescent Autobiographical Narratives.</title>
+<pages>661-675</pages>
+<year>2023</year>
+<booktitle>CHR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3558/paper7400.pdf</ee>
+<crossref>conf/chr/2023</crossref>
+<url>db/conf/chr/chr2023.html#RudloffGCD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/CafieroP23" mdate="2023-08-02">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="221/9677">Marie Puren</author>
+<title>Colette, Curnonsky, and the Willy workshop. Assessing relative contributions and influences beyond &#34;collaborative authorship&#34;.</title>
+<year>2023</year>
+<booktitle>DH</booktitle>
+<ee>https://doi.org/10.5281/zenodo.8107691</ee>
+<crossref>conf/dihu/2023</crossref>
+<url>db/conf/dihu/dh2023.html#CafieroP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-02078" mdate="2025-11-15">
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author pid="215/3456">Jean-Baptiste Camps</author>
+<title>Who could be behind QAnon? Authorship attribution with supervised machine-learning.</title>
+<year>2023</year>
+<volume>abs/2303.02078</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.02078</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-02078</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-06965" mdate="2022-04-09">
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author pid="284/7893">Jeremy K. Ward</author>
+<title>Reinforcement of vaccine mandates and public attitudes towards vaccines: What can we learn from google search activity ?</title>
+<year>2022</year>
+<volume>abs/2201.06965</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.06965</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-06965</url>
+</article>
+</r>
+<r><article key="journals/jdmdh/CampsGFCC21" mdate="2023-08-06">
+<author orcid="0000-0003-0385-7037" pid="215/3456">Jean-Baptiste Camps</author>
+<author orcid="0000-0001-9094-4475" pid="265/6099">Simon Gabay</author>
+<author pid="265/6398">Paul Fi&#232;vre</author>
+<author orcid="0000-0003-1852-9204" pid="159/2419">Thibault Cl&#233;rice</author>
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<title>Corpus and Models for Lemmatisation and POS-tagging of Classical French Theatre.</title>
+<year>2021</year>
+<volume>2021</volume>
+<journal>J. Data Min. Digit. Humanit.</journal>
+<ee type="oa">https://doi.org/10.46298/jdmdh.6485</ee>
+<url>db/journals/jdmdh/jdmdh2021.html#CampsGFCC21</url>
+</article>
+</r>
+<r><article key="journals/socnet/CafieroGW21" mdate="2022-10-02">
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<author pid="249/2746">Paul Guille-Escuret</author>
+<author orcid="0000-0003-3389-6870" pid="284/7893">Jeremy K. Ward</author>
+<title>&#34;I'm not an antivaxxer, but...&#34;: Spurious and authentic diversity among vaccine critical activists.</title>
+<pages>63-70</pages>
+<year>2021</year>
+<volume>65</volume>
+<journal>Soc. Networks</journal>
+<ee>https://doi.org/10.1016/j.socnet.2020.11.004</ee>
+<url>db/journals/socnet/socnet65.html#CafieroGW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/chr/CafieroC21" mdate="2023-03-10">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="215/3456">Jean-Baptiste Camps</author>
+<title>'Psych&#233;' as a Rosetta Stone? Assessing Collaborative Authorship in the French 17th Century Theatre.</title>
+<pages>377-391</pages>
+<year>2021</year>
+<booktitle>CHR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2989/long_paper51.pdf</ee>
+<crossref>conf/chr/2021</crossref>
+<url>db/conf/chr/chr2021.html#CafieroC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-09113" mdate="2021-04-26">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="249/2746">Paul Guille-Escuret</author>
+<author pid="284/7893">Jeremy K. Ward</author>
+<title>No comments: Addressing commentary sections in websites' analyses.</title>
+<year>2021</year>
+<volume>abs/2104.09113</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.09113</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-09113</url>
+</article>
+</r>
+<r><inproceedings key="conf/dihu/CafieroP20" mdate="2020-07-21">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="221/9677">Marie Puren</author>
+<title>&#34;On the record&#34;: transcribing and valorizing qualitative interviews with XML-TEI.</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/517_OntherecordtranscribingandvalorizingqualitativeinterviewswithXMLTEI.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#CafieroP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/Guille-EscuretC20" mdate="2021-02-09">
+<author pid="249/2746">Paul Guille-Escuret</author>
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="284/7893">Jeremy K. Ward</author>
+<title>No comment : Addressing comment sections in web analysis.</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/350_NocommentAddressingcommentsectionsinwebanalysis.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#Guille-EscuretC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-01595" mdate="2020-01-10">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="215/3456">Jean-Baptiste Camps</author>
+<title>Why Moli&#232;re most likely did write his plays.</title>
+<year>2020</year>
+<volume>abs/2001.01595</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/2001.01595</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-01595</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-07505" mdate="2021-01-23">
+<author pid="215/3456">Jean-Baptiste Camps</author>
+<author pid="265/6099">Simon Gabay</author>
+<author pid="265/6398">Paul Fi&#232;vre</author>
+<author pid="159/2419">Thibault Cl&#233;rice</author>
+<author orcid="0000-0002-1951-6942" pid="249/2543">Florian Cafiero</author>
+<title>Corpus and Models for Lemmatisation and POS-tagging of Classical French Theatre.</title>
+<year>2020</year>
+<volume>abs/2005.07505</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.07505</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-07505</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-08311" mdate="2021-02-09">
+<author pid="74/7661">Floriana Gargiulo</author>
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="249/2746">Paul Guille-Escuret</author>
+<author pid="249/2633">Valerie Seror</author>
+<author pid="284/7893">Jeremy K. Ward</author>
+<title>Beyond polarization: the asymmetry of vaccine controversies in France.</title>
+<year>2019</year>
+<volume>abs/1909.08311</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.08311</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-08311</url>
+</article>
+</r>
+<coauthors n="28" nc="3">
+<co c="0"><na f="b/B=eacute=ni=egrave=re:Sarah" pid="393/0462">Sarah B&#233;ni&#232;re</na></co>
+<co c="1"><na f="b/Blukacz=Louisfert:Blandine" pid="436/1138">Blandine Blukacz-Louisfert</na></co>
+<co c="1"><na f="b/Bourneuf:Pierre==Eacute=tienne" pid="435/1849">Pierre-&#201;tienne Bourneuf</na></co>
+<co c="0"><na f="c/Camps:Jean=Baptiste" pid="215/3456">Jean-Baptiste Camps</na></co>
+<co c="0"><na f="c/Cl=eacute=rice:Thibault" pid="159/2419">Thibault Cl&#233;rice</na></co>
+<co c="0"><na f="d/Debban=eacute=:Martin" pid="64/11389">Martin Debban&#233;</na></co>
+<co c="0"><na f="f/Fi=egrave=vre:Paul" pid="265/6398">Paul Fi&#232;vre</na></co>
+<co c="0"><na f="g/Gabay:Simon" pid="265/6099">Simon Gabay</na></co>
+<co c="2"><na f="g/Gargiulo:Floriana" pid="74/7661">Floriana Gargiulo</na></co>
+<co c="2"><na f="g/Guille=Escuret:Paul" pid="249/2746">Paul Guille-Escuret</na></co>
+<co c="1"><na f="h/Hyv=ouml=nen:Eero" pid="82/5790">Eero Hyv&#246;nen</na></co>
+<co c="0"><na f="j/Janes:Juliette" pid="305/3390">Juliette Janes</na></co>
+<co c="0"><na f="k/Kindt:Bastien" pid="301/5253">Bastien Kindt</na></co>
+<co c="0"><na f="l/L=eacute=pinay:Vincent" pid="433/0296">Vincent L&#233;pinay</na></co>
+<co c="1"><na f="l/Leskinen:Petri" pid="173/2587">Petri Leskinen</na></co>
+<co c="1"><na f="l/Lionnet:Alexandre" pid="435/1858">Alexandre Lionnet</na></co>
+<co c="1"><na f="m/Mallard:Gr=eacute=goire" pid="435/1867">Gr&#233;goire Mallard</na></co>
+<co c="0"><na f="p/Puren:Marie" pid="221/9677">Marie Puren</na></co>
+<co c="1"><na f="r/Rodogno:Davide" pid="435/1874">Davide Rodogno</na></co>
+<co c="0"><na f="r/Romary:Laurent" pid="21/4228">Laurent Romary</na></co>
+<co c="0"><na f="r/Rudloff:Juan_Barrios" pid="361/3376">Juan Barrios Rudloff</na></co>
+<co c="0"><na f="s/Sagot:Beno=icirc=t" pid="66/1016">Beno&#238;t Sagot</na></co>
+<co c="0"><na f="s/Savatteri:Francesco_Paolo" pid="424/7529">Francesco Paolo Savatteri</na></co>
+<co c="0"><na f="s/Scheithauer:Hugo" pid="392/9391">Hugo Scheithauer</na></co>
+<co c="2"><na f="s/Seror:Valerie" pid="249/2633">Valerie Seror</na></co>
+<co c="0"><na f="v/Vidal=Gor=egrave=ne:Chahan" pid="266/0754">Chahan Vidal-Gor&#232;ne</na></co>
+<co c="2"><na f="w/Ward:Jeremy_K=" pid="284/7893">Jeremy K. Ward</na></co>
+<co c="0"><na f="z/Zribi:Yaelle" pid="432/9987">Yaelle Zribi</na></co>
+</coauthors>
+</dblpperson>
+

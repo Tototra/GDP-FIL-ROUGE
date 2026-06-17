@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<dblpperson name="Jim E. Newton" pid="08/7850" n="14">
+<person key="homepages/08/7850" mdate="2025-05-29">
+<author pid="08/7850">Jim E. Newton</author>
+<note type="affiliation">EPITA, LRDE, Le Kremlin-Bic&#234;tre, France</note>
+<note label="PhD 2018" type="affiliation">Sorbonne University, France</note>
+<url>https://www.lrde.epita.fr/~jnewton/</url>
+<url>https://www.lrde.epita.fr/wiki/User:Jnewton</url>
+<url>https://www.linkedin.com/in/jim-newton-463600a8</url>
+<url>https://orcid.org/0000-0002-1595-8655</url>
+<url>https://www.wikidata.org/entity/Q130955363</url>
+</person>
+<r><inproceedings key="conf/padl/Newton25" mdate="2025-04-08">
+<author orcid="0000-0002-1595-8655" pid="08/7850">Jim E. Newton</author>
+<title>Type-Checking Heterogeneous Sequences in a Simple Embeddable Type System.</title>
+<pages>18-34</pages>
+<year>2025</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-84924-4_2</ee>
+<crossref>conf/padl/2025</crossref>
+<url>db/conf/padl/padl2025.html#Newton25</url>
+<stream>streams/conf/padl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Newton23" mdate="2024-09-24">
+<author pid="08/7850">Jim E. Newton</author>
+<title>An Elegant and Fast Algorithm for Partitioning Types.</title>
+<pages>24-32</pages>
+<year>2023</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.7813576</ee>
+<crossref>conf/els/2023</crossref>
+<url>db/conf/els/els2023.html#Newton23</url>
+<stream>streams/conf/els</stream>
+</inproceedings>
+</r>
+<r><proceedings key="conf/els/2022" mdate="2024-09-20">
+<editor pid="08/7850">Jim E. Newton</editor>
+<title>Proceedings of the 15th European Lisp Symposium, ELS 2022, Porto, Portugal, April 21-22, 2022</title>
+<booktitle>ELS</booktitle>
+<publisher>ELSAA</publisher>
+<year>2022</year>
+<isbn>978-2-9557474-6-9</isbn>
+<url>db/conf/els/els2022.html</url>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2022.pdf</ee>
+</proceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonP21" mdate="2024-09-24">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<title>A Portable, Simple, Embeddable Type System.</title>
+<pages>11-20</pages>
+<year>2021</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.4709777</ee>
+<crossref>conf/els/2021</crossref>
+<url>db/conf/els/els2021.html#NewtonP21</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocl/NewtonV19" mdate="2025-01-19">
+<author orcid="0000-0002-1595-8655" pid="08/7850">Jim E. Newton</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>A Theoretical and Numerical Analysis of the Worst-Case Size of Reduced Ordered Binary Decision Diagrams.</title>
+<pages>6:1-6:36</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3274279</ee>
+<ee>https://www.wikidata.org/entity/Q128553517</ee>
+<url>db/journals/tocl/tocl20.html#NewtonV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/ValaisNV19" mdate="2019-11-13">
+<author pid="252/6878">L&#233;o Valais</author>
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Implementing Baker's SUBTYPEP Decision Procedure.</title>
+<pages>12-19</pages>
+<year>2019</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.2646982</ee>
+<crossref>conf/els/2019</crossref>
+<url>db/conf/els/els2019.html#ValaisNV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonV19" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Finite Automata Theory Based Optimization of Conditional Variable Binding.</title>
+<pages>26-33</pages>
+<year>2019</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.2635412</ee>
+<crossref>conf/els/2019</crossref>
+<url>db/conf/els/els2019.html#NewtonV19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Newton18" mdate="2021-01-12">
+<author pid="08/7850">Jim E. Newton</author>
+<title>Representing and computing with types in dynamically typed languages. (Repr&#233;sentation et calcul avec des types dans des langages &#224; typage dynamique).</title>
+<year>2018</year>
+<school>Sorbonne University, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-03018107</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/els/NewtonV18" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Strategies for TYPECASE Optimization.</title>
+<pages>23-31</pages>
+<year>2018</year>
+<booktitle>ELS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3323219</ee>
+<crossref>conf/els/2018</crossref>
+<url>db/conf/els/els2018.html#NewtonV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonVC17" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<author pid="67/9840">Maximilien Colange</author>
+<title>Programmatic Manipulation of Common Lisp Type Specifiers.</title>
+<pages>28-35</pages>
+<year>2017</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2017.pdf#section.0.4</ee>
+<crossref>conf/els/2017</crossref>
+<url>db/conf/els/els2017.html#NewtonVC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonDV16" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="14/133">Akim Demaille</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Type-Checking of Heterogeneous Sequences in Common Lisp.</title>
+<pages>13-20</pages>
+<year>2016</year>
+<booktitle>ELS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3005731</ee>
+<crossref>conf/els/2016</crossref>
+<url>db/conf/els/els2016.html#NewtonDV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/NewtonR08" mdate="2023-09-07">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="43/1473">Christophe Rhodes</author>
+<title>Custom Specializers in Object-Oriented Lisp.</title>
+<pages>3370-3388</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3217/jucs-014-20-3370</ee>
+<url>db/journals/jucs/jucs14.html#NewtonR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/NewtonR08" mdate="2019-11-14">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="43/1473">Christophe Rhodes</author>
+<title>Custom Specializers in Object-Oriented Lisp.</title>
+<pages>75-90</pages>
+<year>2008</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2008.pdf#page=81</ee>
+<crossref>conf/els/2008</crossref>
+<url>db/conf/els/els2008.html#NewtonR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Newton08" mdate="2019-11-14">
+<author pid="08/7850">Jim E. Newton</author>
+<title>VNS: Namespace Facility.</title>
+<pages>177-184</pages>
+<year>2008</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2008.pdf#page=185</ee>
+<crossref>conf/els/2008</crossref>
+<url>db/conf/els/els2008.html#Newton08</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="c/Colange:Maximilien" pid="67/9840">Maximilien Colange</na></co>
+<co c="0"><na f="d/Demaille:Akim" pid="14/133">Akim Demaille</na></co>
+<co c="0"><na f="p/Pommellet:Adrien" pid="125/0224">Adrien Pommellet</na></co>
+<co c="0"><na f="r/Rhodes:Christophe" pid="43/1473">Christophe Rhodes</na></co>
+<co c="0"><na f="v/Valais:L=eacute=o" pid="252/6878">L&#233;o Valais</na></co>
+<co c="0"><na f="v/Verna:Didier" pid="06/2458">Didier Verna</na></co>
+</coauthors>
+</dblpperson>
+

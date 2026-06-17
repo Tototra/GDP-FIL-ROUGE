@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<dblpperson name="Simon Abelard" pid="207/8207" n="13">
+<person key="homepages/207/8207" mdate="2017-11-02">
+<author pid="207/8207">Simon Abelard</author>
+</person>
+<r><article key="journals/aaecc/AbelardCL24" mdate="2025-12-07">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<author pid="40/4210">Alain Couvreur</author>
+<author orcid="0009-0002-6530-4294" pid="43/1794">Gr&#233;goire Lecerf</author>
+<title>Efficient computation of Riemann-Roch spaces for plane curves with ordinary singularities.</title>
+<pages>739-804</pages>
+<year>2024</year>
+<month>November</month>
+<volume>35</volume>
+<journal>Appl. Algebra Eng. Commun. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00200-022-00588-x</ee>
+<url>db/journals/aaecc/aaecc35.html#AbelardCL24</url>
+<stream>streams/journals/aaecc</stream>
+</article>
+</r>
+<r><article key="journals/cic/DupinA24" mdate="2024-06-21">
+<author pid="222/6718">Aur&#233;lien Dupin</author>
+<author pid="207/8207">Simon Abelard</author>
+<title>Broadcast Encryption using Sum-Product decomposition of Boolean functions.</title>
+<pages>18</pages>
+<year>2024</year>
+<volume>1</volume>
+<journal>IACR Commun. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.62056/av4fe0iuc</ee>
+<url>db/journals/cic/cic1.html#DupinA24</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DupinA24" mdate="2024-02-16">
+<author pid="222/6718">Aur&#233;lien Dupin</author>
+<author pid="207/8207">Simon Abelard</author>
+<title>Broadcast Encryption using Sum-Product decomposition of Boolean functions.</title>
+<pages>154</pages>
+<year>2024</year>
+<volume>2024</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2024/154</ee>
+<url>db/journals/iacr/iacr2024.html#DupinA24</url>
+</article>
+</r>
+<r><article key="journals/jc/AbelardBCL22" mdate="2025-12-07">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<author orcid="0000-0002-0202-0131" pid="239/5694">Elena Berardini</author>
+<author pid="40/4210">Alain Couvreur</author>
+<author orcid="0009-0002-6530-4294" pid="43/1794">Gr&#233;goire Lecerf</author>
+<title>Computing Riemann-Roch spaces via Puiseux expansions.</title>
+<pages>101666</pages>
+<year>2022</year>
+<volume>73</volume>
+<journal>J. Complex.</journal>
+<ee>https://doi.org/10.1016/j.jco.2022.101666</ee>
+<ee>https://www.wikidata.org/entity/Q114163582</ee>
+<url>db/journals/jc/jc73.html#AbelardBCL22</url>
+</article>
+</r>
+<r><article key="journals/jc/Abelard20" mdate="2025-10-14">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<title>Counting points on hyperelliptic curves with explicit real multiplication in arbitrary genus.</title>
+<pages>101440</pages>
+<year>2020</year>
+<volume>57</volume>
+<journal>J. Complex.</journal>
+<ee>https://doi.org/10.1016/j.jco.2019.101440</ee>
+<ee>https://www.wikidata.org/entity/Q127003268</ee>
+<url>db/journals/jc/jc57.html#Abelard20</url>
+</article>
+</r>
+<r><inproceedings key="conf/casc/Abelard20" mdate="2025-10-14">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<title>On the Complexity of Computing Integral Bases of Function Fields.</title>
+<pages>42-62</pages>
+<year>2020</year>
+<booktitle>CASC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60026-6_3</ee>
+<crossref>conf/casc/2020</crossref>
+<url>db/conf/casc/casc2020.html#Abelard20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/AbelardCL20" mdate="2025-12-07">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<author pid="40/4210">Alain Couvreur</author>
+<author orcid="0009-0002-6530-4294" pid="43/1794">Gr&#233;goire Lecerf</author>
+<title>Sub-quadratic time for riemann-roch spaces: case of smooth divisors over nodal plane projective curves.</title>
+<pages>14-21</pages>
+<year>2020</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/3373207.3404053</ee>
+<ee>https://www.wikidata.org/entity/Q131130150</ee>
+<crossref>conf/issac/2020</crossref>
+<url>db/conf/issac/issac2020.html#AbelardCL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-03964" mdate="2020-05-14">
+<author pid="207/8207">Simon Abelard</author>
+<title>On the complexity of computing integral bases of function fields.</title>
+<year>2020</year>
+<volume>abs/2005.03964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.03964</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-03964</url>
+</article>
+</r>
+<r><article key="journals/focm/AbelardGS19" mdate="2025-10-14">
+<author orcid="0009-0006-0613-2639" pid="207/8207">Simon Abelard</author>
+<author pid="94/2869">Pierrick Gaudry</author>
+<author orcid="0000-0001-7906-0505" pid="62/7805">Pierre-Jean Spaenlehauer</author>
+<title>Improved Complexity Bounds for Counting Points on Hyperelliptic Curves.</title>
+<pages>591-621</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Found. Comput. Math.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10208-018-9392-1</ee>
+<ee>https://www.wikidata.org/entity/Q129643498</ee>
+<url>db/journals/focm/focm19.html#AbelardGS19</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Abelard18" mdate="2020-07-21">
+<author pid="207/8207">Simon Abelard</author>
+<title>Counting points on hyperelliptic curves in large characteristic : algorithms and complexity. (Comptage de points de courbes hyperelliptiques en grande caract&#233;ristique : algorithmes et complexit&#233;).</title>
+<year>2018</year>
+<school>University of Lorraine, Nancy, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01876314</ee>
+</phdthesis>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-05834" mdate="2018-08-13">
+<author pid="207/8207">Simon Abelard</author>
+<author pid="94/2869">Pierrick Gaudry</author>
+<author pid="62/7805">Pierre-Jean Spaenlehauer</author>
+<title>Counting points on genus-3 hyperelliptic curves with explicit real multiplication.</title>
+<year>2018</year>
+<volume>abs/1806.05834</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.05834</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-05834</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-11068" mdate="2018-11-01">
+<author pid="207/8207">Simon Abelard</author>
+<title>Counting points on hyperelliptic curves with explicit real multiplication in arbitrary genus.</title>
+<year>2018</year>
+<volume>abs/1810.11068</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.11068</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-11068</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-03448" mdate="2018-08-13">
+<author pid="207/8207">Simon Abelard</author>
+<author pid="94/2869">Pierrick Gaudry</author>
+<author pid="62/7805">Pierre-Jean Spaenlehauer</author>
+<title>Improved Complexity Bounds for Counting Points on Hyperelliptic Curves.</title>
+<year>2017</year>
+<volume>abs/1710.03448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.03448</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-03448</url>
+</article>
+</r>
+<coauthors n="6" nc="2">
+<co c="0"><na f="b/Berardini:Elena" pid="239/5694">Elena Berardini</na></co>
+<co c="0"><na f="c/Couvreur:Alain" pid="40/4210">Alain Couvreur</na></co>
+<co c="-1"><na f="d/Dupin:Aur=eacute=lien" pid="222/6718">Aur&#233;lien Dupin</na></co>
+<co c="1"><na f="g/Gaudry:Pierrick" pid="94/2869">Pierrick Gaudry</na></co>
+<co c="0"><na f="l/Lecerf:Gr=eacute=goire" pid="43/1794">Gr&#233;goire Lecerf</na></co>
+<co c="1"><na f="s/Spaenlehauer:Pierre=Jean" pid="62/7805">Pierre-Jean Spaenlehauer</na></co>
+</coauthors>
+</dblpperson>
+

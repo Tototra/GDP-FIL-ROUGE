@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<dblpperson name="Ghada Gharbi" pid="118/0800" n="9">
+<person key="homepages/118/0800" mdate="2012-09-04">
+<author pid="118/0800">Ghada Gharbi</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2510-09675" mdate="2025-11-11">
+<author pid="419/7662">Khaoula Sghaier</author>
+<author pid="145/3079">Badis Hammi</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="148/7110">Pierre Merdrignac</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Advancing Security in Software-Defined Vehicles: A Comprehensive Survey and Taxonomy.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.09675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.09675</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-09675</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/vstte/PeyrasGB24" mdate="2025-06-11">
+<author pid="197/3171">Quentin Peyras</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author orcid="0000-0001-8140-0273" pid="76/2574">Souheib Baarir</author>
+<title>Towards Verifying Security Policies for Infinite-State Systems.</title>
+<pages>15-27</pages>
+<year>2024</year>
+<booktitle>VSTTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-86695-1_2</ee>
+<crossref>conf/vstte/2024</crossref>
+<url>db/conf/vstte/vstte2024.html#PeyrasGB24</url>
+<stream>streams/conf/vstte</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/AlayaDG17" mdate="2023-03-24">
+<author pid="118/0824">Mahdi Ben Alaya</author>
+<author pid="08/1934">Khalil Drira</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<title>Semantic-Aware IoT Platforms.</title>
+<pages>8-13</pages>
+<year>2017</year>
+<booktitle>AIMS@SERVICES</booktitle>
+<ee>https://doi.org/10.1109/AIMS.2017.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AIMS.2017.15</ee>
+<crossref>conf/services/2017aims</crossref>
+<url>db/conf/services/aims2017.html#AlayaDG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijaacs/EichlerGMSG16" mdate="2020-08-30">
+<author pid="133/4056">C&#233;dric Eichler</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="74/2587">Thierry Monteil 0001</author>
+<author orcid="0000-0001-5169-1831" pid="49/3338">Patricia Stolf</author>
+<author pid="97/469">Nawal Guermouche</author>
+<title>Self-management of machine-to-machine communications: a multi-models approach.</title>
+<pages>288-309</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Int. J. Auton. Adapt. Commun. Syst.</journal>
+<number>3/4</number>
+<ee>https://doi.org/10.1504/IJAACS.2016.079626</ee>
+<url>db/journals/ijaacs/ijaacs9.html#EichlerGMSG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ant/KhabouRGJ14" mdate="2025-11-02">
+<author orcid="0000-0003-0461-8820" pid="92/11159">Nesrine Khabou</author>
+<author orcid="0000-0002-5605-7415" pid="85/794">Ismael Bouassida Rodriguez</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="58/6741">Mohamed Jmaiel</author>
+<title>A Threshold based Context Change Detection in Pervasive Environments: Application to a Smart Campus.</title>
+<pages>461-468</pages>
+<year>2014</year>
+<booktitle>ANT/SEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2014.05.448</ee>
+<crossref>conf/ant/2014</crossref>
+<url>db/conf/ant/ant2014.html#KhabouRGJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ant/GharbiGM14" mdate="2025-11-02">
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="97/469">Nawal Guermouche</author>
+<author pid="74/2587">Thierry Monteil 0001</author>
+<title>Timed Verification of Machine-to-Machine communications.</title>
+<pages>1071-1078</pages>
+<year>2014</year>
+<booktitle>ANT/SEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2014.05.535</ee>
+<crossref>conf/ant/2014</crossref>
+<url>db/conf/ant/ant2014.html#GharbiGM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/GharbiGM14" mdate="2023-03-24">
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="97/469">Nawal Guermouche</author>
+<author pid="74/2587">Thierry Monteil 0001</author>
+<title>Temporal verification of mobile publish/subscribe machine-to-machine communications.</title>
+<pages>1-3</pages>
+<year>2014</year>
+<booktitle>WoWMoM</booktitle>
+<ee>https://doi.org/10.1109/WoWMoM.2014.6919022</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WoWMoM.2014.6919022</ee>
+<crossref>conf/wowmom/2014</crossref>
+<url>db/conf/wowmom/wowmom2014.html#GharbiGM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/EichlerGGMS13" mdate="2024-12-24">
+<author orcid="0000-0003-3026-1749" pid="133/4056">C&#233;dric Eichler</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="97/469">Nawal Guermouche</author>
+<author pid="74/2587">Thierry Monteil 0001</author>
+<author pid="49/3338">Patricia Stolf</author>
+<title>Graph-Based Formalism for Machine-to-Machine Self-Managed Communications.</title>
+<pages>74-79</pages>
+<year>2013</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2013.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2013.45</ee>
+<crossref>conf/wetice/2013</crossref>
+<url>db/conf/wetice/wetice2013.html#EichlerGGMS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/GharbiADE12" mdate="2023-03-23">
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="118/0824">Mahdi Ben Alaya</author>
+<author pid="48/10767">Cod&#233; Diop</author>
+<author orcid="0000-0002-3543-2909" pid="17/3806">Ernesto Exposito</author>
+<title>AODA: An Autonomic and Ontology-Driven Architecture for Service-Oriented and Event-Driven Systems.</title>
+<pages>72-77</pages>
+<year>2012</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2012.84</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2012.84</ee>
+<crossref>conf/wetice/2012</crossref>
+<url>db/conf/wetice/wetice2012.html#GharbiADE12</url>
+</inproceedings>
+</r>
+<coauthors n="18" nc="3">
+<co c="0"><na f="a/Alaya:Mahdi_Ben" pid="118/0824">Mahdi Ben Alaya</na></co>
+<co c="2"><na f="b/Baarir:Souheib" pid="76/2574">Souheib Baarir</na></co>
+<co c="0"><na f="d/Diop:Cod=eacute=" pid="48/10767">Cod&#233; Diop</na></co>
+<co c="0"><na f="d/Drira:Khalil" pid="08/1934">Khalil Drira</na></co>
+<co c="0"><na f="e/Eichler:C=eacute=dric" pid="133/4056">C&#233;dric Eichler</na></co>
+<co c="0"><na f="e/Exposito:Ernesto" pid="17/3806">Ernesto Exposito</na></co>
+<co c="0"><na f="g/Guermouche:Nawal" pid="97/469">Nawal Guermouche</na></co>
+<co c="1"><na f="h/Hammi:Badis" pid="145/3079">Badis Hammi</na></co>
+<co c="0"><na f="j/Jmaiel:Mohamed" pid="58/6741">Mohamed Jmaiel</na></co>
+<co c="0"><na f="k/Khabou:Nesrine" pid="92/11159">Nesrine Khabou</na></co>
+<co c="1"><na f="m/Merdrignac:Pierre" pid="148/7110">Pierre Merdrignac</na></co>
+<co c="0"><na f="m/Monteil_0001:Thierry" pid="74/2587">Thierry Monteil 0001</na></co>
+<co c="1"><na f="p/Parrend:Pierre" pid="83/6244">Pierre Parrend</na></co>
+<co c="2"><na f="p/Peyras:Quentin" pid="197/3171">Quentin Peyras</na></co>
+<co c="0"><na f="r/Rodriguez:Ismael_Bouassida" pid="85/794">Ismael Bouassida Rodriguez</na></co>
+<co c="1"><na f="s/Sghaier:Khaoula" pid="419/7662">Khaoula Sghaier</na></co>
+<co c="0"><na f="s/Stolf:Patricia" pid="49/3338">Patricia Stolf</na></co>
+<co c="1"><na f="v/Verna:Didier" pid="06/2458">Didier Verna</na></co>
+</coauthors>
+</dblpperson>
+

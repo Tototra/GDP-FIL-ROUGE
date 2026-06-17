@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<dblpperson name="Marc Espie" pid="87/4881" n="3">
+<person key="homepages/87/4881" mdate="2009-06-10">
+<author pid="87/4881">Marc Espie</author>
+</person>
+<r><inproceedings key="conf/aina/BeserraNCEE025" mdate="2025-05-07">
+<author pid="166/8810">David Beserra</author>
+<author pid="404/4315">Robert Nantchouang</author>
+<author pid="404/1908">Mickael Chau</author>
+<author pid="87/4881">Marc Espie</author>
+<author pid="18/8101">Patricia Takako Endo</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<title>How Effective are OS-Level Virtualization Tools for Managing Containers?</title>
+<pages>151-162</pages>
+<year>2025</year>
+<booktitle>AINA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87772-8_13</ee>
+<crossref>conf/aina/2025-4</crossref>
+<url>db/conf/aina/aina2025-4.html#BeserraNCEE025</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/IzouletBEEA25" mdate="2026-02-11">
+<author pid="426/6275">Aurelien Izoulet</author>
+<author pid="166/8810">David Beserra</author>
+<author pid="87/4881">Marc Espie</author>
+<author pid="18/8101">Patricia Takako Endo</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<title>Performance Evaluation of Proxmox for High-Performance Computing in Resource-Shared Environments.</title>
+<booktitle>SMC</booktitle>
+<year>2025</year>
+<pages>4096-4101</pages>
+<crossref>conf/smc/2025</crossref>
+<ee>https://doi.org/10.1109/SMC58881.2025.11342990</ee>
+<url>db/conf/smc/smc2025.html#IzouletBEEA25</url>
+<stream>streams/conf/smc</stream>
+</inproceedings>
+</r>
+<r><article key="journals/ijac/CassaigneEKNH01" mdate="2020-08-25">
+<author pid="85/4176">Julien Cassaigne</author>
+<author pid="87/4881">Marc Espie</author>
+<author pid="97/3247">Daniel Krob</author>
+<author pid="11/3970">Jean-Christophe Novelli</author>
+<author pid="11/6883">Florent Hivert</author>
+<title>The Chinese Monoid.</title>
+<pages>301-334</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Int. J. Algebra Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0218196701000425</ee>
+<url>db/journals/ijac/ijac11.html#CassaigneEKNH01</url>
+</article>
+</r>
+<coauthors n="10" nc="2">
+<co c="0"><na f="a/Araujo_0001:Jean" pid="59/10512">Jean Araujo 0001</na></co>
+<co c="0"><na f="b/Beserra:David" pid="166/8810">David Beserra</na></co>
+<co c="1"><na f="c/Cassaigne:Julien" pid="85/4176">Julien Cassaigne</na></co>
+<co c="0"><na f="c/Chau:Mickael" pid="404/1908">Mickael Chau</na></co>
+<co c="0"><na f="e/Endo:Patricia_Takako" pid="18/8101">Patricia Takako Endo</na></co>
+<co c="1"><na f="h/Hivert:Florent" pid="11/6883">Florent Hivert</na></co>
+<co c="0"><na f="i/Izoulet:Aurelien" pid="426/6275">Aurelien Izoulet</na></co>
+<co c="1"><na f="k/Krob:Daniel" pid="97/3247">Daniel Krob</na></co>
+<co c="0"><na f="n/Nantchouang:Robert" pid="404/4315">Robert Nantchouang</na></co>
+<co c="1"><na f="n/Novelli:Jean=Christophe" pid="11/3970">Jean-Christophe Novelli</na></co>
+</coauthors>
+</dblpperson>
+

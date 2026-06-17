@@ -1,0 +1,21 @@
+Link prediction — split temporel leak-free (train ≤ 2022, valid 2023, test > 2023)
+
+## ComplEx  (best embedding_dim=128, val MRR=0.0178)
+réglages essayés: dim=64,lr=0.01,epochs=200 -> valMRR=0.0161 | dim=128,lr=0.01,epochs=200 -> valMRR=0.0178
+relation      n_test      MRR     H@1     H@3    H@10
+-----------------------------------------------------
+ALL             1809   0.0050                        
+coAuthorOf      1718   0.0040  0.0006  0.0017  0.0061
+memberOf           5   0.0013  0.0000  0.0000  0.0000
+hasTopic          86   0.0253  0.0058  0.0174  0.0523
+
+## RotatE  (best embedding_dim=128, val MRR=0.0492)
+réglages essayés: dim=64,lr=0.001,epochs=200 -> valMRR=0.0488 | dim=128,lr=0.001,epochs=200 -> valMRR=0.0492
+relation      n_test      MRR     H@1     H@3    H@10
+-----------------------------------------------------
+ALL             1809   0.0178                        
+coAuthorOf      1718   0.0065  0.0009  0.0041  0.0172
+memberOf           5   0.3042  0.2000  0.4000  0.4000
+hasTopic          86   0.2265  0.1628  0.2267  0.3372
+
+Note: graphe LRE petit -> métriques modestes et bruitées d'un run à l'autre (attendu). Le split est leak-free : les publications postérieures à Y_TRAIN sont entièrement exclues du train.

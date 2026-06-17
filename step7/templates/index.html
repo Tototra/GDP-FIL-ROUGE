@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>LRE Knowledge Graph</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/autocomplete.css') }}">
+</head>
+<body>
+  <div>
+    <h1>LRE Knowledge Graph</h1>
+    <p class="subtitle" style="margin-top:.5rem">
+      Réseau de co-auteurs du laboratoire LRE · EPITA
+    </p>
+  </div>
+
+  <div style="width:100%;max-width:920px">
+    <p class="section-label" style="margin-bottom:.75rem">Graphes interactifs</p>
+    <div class="cards">
+      <div class="card">
+        <h2>Vue d'ensemble</h2>
+        <p>Chercheurs LRE, co-auteurs externes, publications et équipes — séparés visuellement.</p>
+        <a class="btn btn-blue" href="/overview">Ouvrir</a>
+      </div>
+      <div class="card">
+        <h2>Co-authorship</h2>
+        <p>Graphe des liens de co-authorship uniquement, coloré par équipe.</p>
+        <a class="btn btn-blue" href="/full">Ouvrir</a>
+      </div>
+      <div class="card">
+        <h2>Focus chercheur</h2>
+        <p>Tapez un nom — l'autocomplete filtre en temps réel.</p>
+        <form action="/focus" method="get">
+          <div class="ac-wrapper">
+            <input type="text" id="ac-index" name="name"
+                   placeholder="Ex: Jean Dupont" autocomplete="off" required>
+            <div class="ac-dropdown" id="ac-index-drop"></div>
+          </div>
+          <input type="submit" class="btn btn-purple" value="Visualiser">
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div style="width:100%;max-width:920px">
+    <p class="section-label" style="margin-bottom:.75rem">Analyse</p>
+    <div class="cards">
+      <div class="card">
+        <h2>Statistiques &amp; Tendances</h2>
+        <p>Publications par an, par équipe, top chercheurs, venues et topics.</p>
+        <a class="btn btn-green" href="/stats">Explorer</a>
+      </div>
+      <div class="card">
+        <h2>Requêtes SPARQL</h2>
+        <p>8 requêtes illustrant les capacités d'interrogation du KG.</p>
+        <a class="btn btn-green" href="/queries">Voir les résultats</a>
+      </div>
+      <div class="card">
+        <h2>Prédiction de liens</h2>
+        <p>ComplEx &amp; RotatE — métriques MRR / Hits@k et collaborations prédites.</p>
+        <a class="btn btn-orange" href="/links">Voir les résultats</a>
+      </div>
+    </div>
+  </div>
+  <script src="{{ url_for('static', filename='js/autocomplete.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</body>
+</html>

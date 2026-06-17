@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<dblpperson name="Marie Puren" pid="221/9677" n="15">
+<person key="homepages/221/9677" mdate="2018-06-28">
+<author pid="221/9677">Marie Puren</author>
+</person>
+<r><article key="journals/lalc/PurenLPV25" mdate="2025-12-07">
+<author orcid="0000-0001-5452-3913" pid="221/9677">Marie Puren</author>
+<author pid="312/3012">Fanny Lebreton</author>
+<author pid="320/0573">Aur&#233;lien Pellet</author>
+<author orcid="0000-0002-9335-7070" pid="222/1020">Pierre Vernus</author>
+<title>From parliamentary history to digital and computational history: a NLP-friendly TEI model for historical parliamentary proceedings.</title>
+<pages>75-</pages>
+<year>2025</year>
+<volume>40</volume>
+<journal>Digit. Scholarsh. Humanit.</journal>
+<number>Supplement_1</number>
+<ee>https://doi.org/10.1093/llc/fqae071</ee>
+<url>db/journals/lalc/lalc40.html#PurenLPV25</url>
+<stream>streams/journals/lalc</stream>
+</article>
+</r>
+<r><article key="journals/dhq/PurenV24" mdate="2025-01-13">
+<author pid="221/9677">Marie Puren</author>
+<author pid="222/1020">Pierre Vernus</author>
+<title>Conceptual Modeling of European Silk Heritage with the SILKNOW Data Model and Extension.</title>
+<year>2024</year>
+<volume>18</volume>
+<journal>Digit. Humanit. Q.</journal>
+<number>3</number>
+<ee type="oa">http://www.digitalhumanities.org/dhq/vol/18/3/000754/000754.html</ee>
+<url>db/journals/dhq/dhq18.html#PurenV24</url>
+<stream>streams/journals/dhq</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-14222" mdate="2024-11-27">
+<author pid="221/9677">Marie Puren</author>
+<title>Digital Humanities in the TIME-US Project: Richness and Contribution of Interdisciplinary Methods for Labour History.</title>
+<year>2024</year>
+<volume>abs/2410.14222</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.14222</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-14222</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/dihu/CafieroP23" mdate="2023-08-02">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="221/9677">Marie Puren</author>
+<title>Colette, Curnonsky, and the Willy workshop. Assessing relative contributions and influences beyond &#34;collaborative authorship&#34;.</title>
+<year>2023</year>
+<booktitle>DH</booktitle>
+<ee>https://doi.org/10.5281/zenodo.8107691</ee>
+<crossref>conf/dihu/2023</crossref>
+<url>db/conf/dihu/dh2023.html#CafieroP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhn/BourgeoisPP22" mdate="2023-03-10">
+<author pid="78/3891">Nicolas Bourgeois</author>
+<author pid="320/0573">Aur&#233;lien Pellet</author>
+<author pid="221/9677">Marie Puren</author>
+<title>Using Topic Generation Model to explore the French Parliamentary Debates during the early Third Republic (1881-1899).</title>
+<pages>35-51</pages>
+<year>2022</year>
+<booktitle>DiPaDA@DHNB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3133/paper03.pdf</ee>
+<crossref>conf/dhn/2022dipada</crossref>
+<url>db/conf/dhn/dipada2022.html#BourgeoisPP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-15341" mdate="2025-12-07">
+<author pid="221/9677">Marie Puren</author>
+<author orcid="0000-0002-9335-7070" pid="222/1020">Pierre Vernus</author>
+<title>Towards a Domain Ontology for the Analysis of Ancient Fabrics The SILKNOW Project and the Case of European Silk Heritage.</title>
+<year>2021</year>
+<volume>abs/2112.15341</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.15341</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-15341</url>
+</article>
+</r>
+<r><inproceedings key="conf/dihu/CafieroP20" mdate="2020-07-21">
+<author pid="249/2543">Florian Cafiero</author>
+<author pid="221/9677">Marie Puren</author>
+<title>&#34;On the record&#34;: transcribing and valorizing qualitative interviews with XML-TEI.</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/517_OntherecordtranscribingandvalorizingqualitativeinterviewswithXMLTEI.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#CafieroP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/ChaguePMCVT20" mdate="2020-07-22">
+<author pid="222/4781">Alix Chagu&#233;</author>
+<author pid="221/9677">Marie Puren</author>
+<author pid="222/4390">Manuela Martini</author>
+<author pid="54/5373">&#201;ric de la Clergerie</author>
+<author pid="222/1020">Pierre Vernus</author>
+<author pid="222/4541">Lionel Tadjou</author>
+<title>Reconstructing the gendered division of labor in the French textile trades. Distant reading of primary qualitative sources with NLP tools (18th century-beginning of the 20th century).</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/415_ReconstructingthegendereddivisionoflaborintheFrenchtextiletradesDistantreadingofprimaryqualitativesourceswithNLPtools18thcenturybeginningofthe20thcentury.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#ChaguePMCVT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/PurenV20" mdate="2020-07-21">
+<author pid="221/9677">Marie Puren</author>
+<author pid="222/1020">Pierre Vernus</author>
+<title>Revenge of the Silk. Elaborating and using a CIDOC CRM extension: a case study on silk-related artefacts.</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/343_RevengeoftheSilkElaboratingandusingaCIDOCCRMextensionacasestudyonsilkrelatedartefacts.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#PurenV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/PurenV20a" mdate="2020-07-21">
+<author pid="221/9677">Marie Puren</author>
+<author pid="222/1020">Pierre Vernus</author>
+<title>Better preserving the European Silk Heritage with the SILKNOW ontology. A CRM extension for modelizing the production process of silk artefacts.</title>
+<year>2020</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2020.adho.org/wp-content/uploads/2020/07/341_BetterpreservingtheEuropeanSilkHeritagewiththeSILKNOWontologyACRMextensionformodelizingtheproductionprocessofsilkartefacts.html</ee>
+<crossref>conf/dihu/2020</crossref>
+<url>db/conf/dihu/dh2020.html#PurenV20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/JoffresRSBGPRAN18" mdate="2018-07-05">
+<author pid="221/9674">Adeline Joffres</author>
+<author pid="75/82">Rocio Ruiz-Rodarte</author>
+<author pid="64/4471">Roberto Scopigno</author>
+<author pid="179/0294">George Bruseker</author>
+<author pid="179/0193">Ana&#239;s Guillem</author>
+<author pid="221/9677">Marie Puren</author>
+<author pid="221/9897">Charles Riondet</author>
+<author pid="98/1937">Pierre Alliez</author>
+<author pid="11/9387">Franco Niccolucci</author>
+<title>Building Bridges With Interactive Visual Technologies.</title>
+<pages>76-78</pages>
+<year>2018</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2018.adho.org/en/building-bridges-with-interactive-visual-technologies/</ee>
+<crossref>conf/dihu/2018</crossref>
+<url>db/conf/dihu/dh2018.html#JoffresRSBGPRAN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/ClergerieMPRC18" mdate="2019-10-10">
+<author pid="54/5373">&#201;ric de la Clergerie</author>
+<author pid="222/4390">Manuela Martini</author>
+<author pid="221/9677">Marie Puren</author>
+<author pid="221/9897">Charles Riondet</author>
+<author pid="222/4781">Alix Chagu&#233;</author>
+<title>The Time-Us project. Creating gold data to understand the gender gap in the French textile trades (17th-20th century).</title>
+<pages>471-472</pages>
+<year>2018</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2018.adho.org/en/the-time-us-project-creating-gold-data-to-understand-the-gender-gap-in-the-french-textile-trades-17th-20th-century/</ee>
+<crossref>conf/dihu/2018</crossref>
+<url>db/conf/dihu/dh2018.html#ClergerieMPRC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/PurenRTRS18" mdate="2018-07-05">
+<author pid="221/9677">Marie Puren</author>
+<author pid="21/4228">Laurent Romary</author>
+<author pid="222/4541">Lionel Tadjou</author>
+<author pid="221/9897">Charles Riondet</author>
+<author pid="222/4426">Dorian Seillier</author>
+<title>SSK by example. Make your Arts and Humanities research go standard.</title>
+<pages>654</pages>
+<year>2018</year>
+<booktitle>DH</booktitle>
+<ee>https://dh2018.adho.org/en/ssk-by-example-make-your-arts-and-humanities-research-go-standard/</ee>
+<crossref>conf/dihu/2018</crossref>
+<url>db/conf/dihu/dh2018.html#PurenRTRS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhd/BaillotBPMR17" mdate="2023-04-17">
+<author pid="177/9234">Anne Baillot</author>
+<author orcid="0000-0001-5584-4807" pid="270/2242">Anna Busch</author>
+<author pid="221/9677">Marie Puren</author>
+<author pid="177/9164">Mike Mertens</author>
+<author pid="21/4228">Laurent Romary</author>
+<title>Nachhaltigkeit durch Zusammenschluss: Die DARIAH Data Re-Use Charter.</title>
+<year>2017</year>
+<booktitle>DHd</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.4622656</ee>
+<crossref>conf/dhd/2017</crossref>
+<url>db/conf/dhd/dhd2017.html#BaillotBPMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/BaillotPRR17" mdate="2020-03-12">
+<author pid="177/9234">Anne Baillot</author>
+<author pid="221/9677">Marie Puren</author>
+<author pid="221/9897">Charles Riondet</author>
+<author pid="21/4228">Laurent Romary</author>
+<title>Access To Cultural Heritage Data: A Challenge For The Digital Humanities.</title>
+<year>2017</year>
+<booktitle>DH</booktitle>
+<ee type="oa">https://dh2017.adho.org/abstracts/345/345.pdf</ee>
+<crossref>conf/dihu/2017</crossref>
+<url>db/conf/dihu/dh2017.html#BaillotPRR17</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="1">
+<co c="0"><na f="a/Alliez:Pierre" pid="98/1937">Pierre Alliez</na></co>
+<co c="0"><na f="b/Baillot:Anne" pid="177/9234">Anne Baillot</na></co>
+<co c="0"><na f="b/Bourgeois:Nicolas" pid="78/3891">Nicolas Bourgeois</na></co>
+<co c="0"><na f="b/Bruseker:George" pid="179/0294">George Bruseker</na></co>
+<co c="0"><na f="b/Busch:Anna" pid="270/2242">Anna Busch</na></co>
+<co c="0"><na f="c/Cafiero:Florian" pid="249/2543">Florian Cafiero</na></co>
+<co c="0"><na f="c/Chagu=eacute=:Alix" pid="222/4781">Alix Chagu&#233;</na></co>
+<co c="0" n="2"><na f="c/Clergerie:=Eacute=ric_Villemonte_de_la" pid="54/5373">&#201;ric Villemonte de la Clergerie</na><na>&#201;ric de la Clergerie</na></co>
+<co c="0"><na f="g/Guillem:Ana=iuml=s" pid="179/0193">Ana&#239;s Guillem</na></co>
+<co c="0"><na f="j/Joffres:Adeline" pid="221/9674">Adeline Joffres</na></co>
+<co c="0"><na f="l/Lebreton:Fanny" pid="312/3012">Fanny Lebreton</na></co>
+<co c="0"><na f="m/Martini:Manuela" pid="222/4390">Manuela Martini</na></co>
+<co c="0"><na f="m/Mertens:Mike" pid="177/9164">Mike Mertens</na></co>
+<co c="0"><na f="n/Niccolucci:Franco" pid="11/9387">Franco Niccolucci</na></co>
+<co c="0"><na f="p/Pellet:Aur=eacute=lien" pid="320/0573">Aur&#233;lien Pellet</na></co>
+<co c="0"><na f="r/Riondet:Charles" pid="221/9897">Charles Riondet</na></co>
+<co c="0"><na f="r/Romary:Laurent" pid="21/4228">Laurent Romary</na></co>
+<co c="0"><na f="r/Ruiz=Rodarte:Rocio" pid="75/82">Rocio Ruiz-Rodarte</na></co>
+<co c="0"><na f="s/Scopigno:Roberto" pid="64/4471">Roberto Scopigno</na></co>
+<co c="0"><na f="s/Seillier:Dorian" pid="222/4426">Dorian Seillier</na></co>
+<co c="0"><na f="t/Tadjou:Lionel" pid="222/4541">Lionel Tadjou</na></co>
+<co c="0"><na f="v/Vernus:Pierre" pid="222/1020">Pierre Vernus</na></co>
+</coauthors>
+</dblpperson>
+

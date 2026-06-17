@@ -1,0 +1,122 @@
+[
+  {
+    "researcher": "Riadh Robbana",
+    "team": "AA",
+    "score": -3.609,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Didier Verna",
+    "team": "TIRF",
+    "score": -3.6163,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Alexandre Duret-Lutz",
+    "team": "TIRF",
+    "score": -3.7978,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Réda Dehak",
+    "team": "TIRF",
+    "score": -3.8107,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Narjes Ben Rajeb",
+    "team": "S%C3%89CUSYS",
+    "score": -3.8552,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Thierry Géraud",
+    "team": "AA",
+    "score": -3.9058,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Marie Puren",
+    "team": "AA",
+    "score": -3.9249,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Guillaume Tochon",
+    "team": "AA",
+    "score": -3.9337,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Nicolas Boutry",
+    "team": "AA",
+    "score": -3.9346,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Daniel Stan",
+    "team": "S%C3%89CUSYS",
+    "score": -3.9672,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Élodie Puybareau",
+    "team": "AA",
+    "score": -3.974,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Nicolas Boutry",
+    "team": "S%C3%89CUSYS",
+    "score": -3.975,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Idir Benouaret",
+    "team": "TIRF",
+    "score": -3.9869,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "David Beserra",
+    "team": "AA",
+    "score": -3.9928,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Edwin Carlinet",
+    "team": "AA",
+    "score": -3.9938,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Laurence Denneulin",
+    "team": "S%C3%89CUSYS",
+    "score": -4.0012,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Ghada Gharbi",
+    "team": "AA",
+    "score": -4.004,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Ludovic Perret",
+    "team": "AA",
+    "score": -4.0068,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Pierre Parrend",
+    "team": "AA",
+    "score": -4.0125,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Marc Plantevit",
+    "team": "AA",
+    "score": -4.0181,
+    "model": "RotatE"
+  }
+]

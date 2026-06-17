@@ -1,0 +1,181 @@
+team,topic,nb_publications
+AA,Computational Theory and Mathematics,59
+AA,Artificial Intelligence,33
+AA,Computer Networks and Communications,19
+AA,Management Science and Operations Research,6
+AA,Information Systems,6
+AA,Computer Vision and Pattern Recognition,5
+AA,Numerical Analysis,2
+AA,Electrical and Electronic Engineering,2
+AA,Condensed Matter Physics,2
+AA,History and Philosophy of Science,2
+AA,Hardware and Architecture,2
+AA,Computer Graphics and Computer-Aided Design,1
+AA,Computer Science Applications,1
+AA,Literature and Literary Theory,1
+AA,Human-Computer Interaction,1
+AA,Social Psychology,1
+AA,History,1
+AA,Mathematical Physics,1
+AA,Cognitive Neuroscience,1
+AA,Automotive Engineering,1
+AA,Clinical Psychology,1
+AA,Developmental and Educational Psychology,1
+AA,Economics and Econometrics,1
+AA,Information Systems and Management,1
+AA,Education,1
+AA,Molecular Biology,1
+AA,Mechanical Engineering,1
+AA,Genetics,1
+AA,Epidemiology,1
+IA,Artificial Intelligence,138
+IA,Information Systems,40
+IA,Signal Processing,36
+IA,Statistics and Probability,35
+IA,Computer Networks and Communications,22
+IA,Computer Vision and Pattern Recognition,18
+IA,Electrical and Electronic Engineering,16
+IA,Management Science and Operations Research,16
+IA,Computational Theory and Mathematics,14
+IA,Molecular Biology,10
+IA,Control and Systems Engineering,5
+IA,Sensory Systems,5
+IA,Geometry and Topology,5
+IA,Statistical and Nonlinear Physics,4
+IA,Ocean Engineering,3
+IA,Finance,3
+IA,Experimental and Cognitive Psychology,3
+IA,Nuclear and High Energy Physics,3
+IA,Computational Mechanics,3
+IA,Hardware and Architecture,2
+IA,Global and Planetary Change,2
+IA,"Statistics, Probability and Uncertainty",2
+IA,Biomedical Engineering,2
+IA,Media Technology,2
+IA,Transportation,2
+IA,Computer Graphics and Computer-Aided Design,2
+IA,Aerospace Engineering,2
+IA,Biophysics,2
+IA,Cognitive Neuroscience,2
+IA,Safety Research,2
+IA,Building and Construction,2
+IA,Astronomy and Astrophysics,2
+IA,Psychiatry and Mental health,1
+IA,Environmental Engineering,1
+IA,Philosophy,1
+IA,Instrumentation,1
+IA,Mechanical Engineering,1
+IA,Emergency Medical Services,1
+IA,Physiology,1
+IA,Economics and Econometrics,1
+IA,General Psychology,1
+IA,Education,1
+IA,Software,1
+IA,Automotive Engineering,1
+IA,General Health Professions,1
+IA,Cardiology and Cardiovascular Medicine,1
+IA,"Atomic and Molecular Physics, and Optics",1
+IA,Computational Mathematics,1
+IA,Linguistics and Language,1
+IA,Genetics,1
+IA,Information Systems and Management,1
+IA,Infectious Diseases,1
+IA,Museology,1
+IA,Developmental and Educational Psychology,1
+IA,Pollution,1
+MNSHS,Artificial Intelligence,3
+MNSHS,General Social Sciences,3
+MNSHS,Literature and Literary Theory,2
+MNSHS,Visual Arts and Performing Arts,2
+MNSHS,Computer Vision and Pattern Recognition,2
+MNSHS,Information Systems,2
+MNSHS,Sociology and Political Science,1
+MNSHS,Education,1
+MNSHS,Automotive Engineering,1
+MNSHS,Communication,1
+MNSHS,Social Psychology,1
+MNSHS,Economics and Econometrics,1
+S%C3%89CUSYS,Artificial Intelligence,103
+S%C3%89CUSYS,Computational Theory and Mathematics,48
+S%C3%89CUSYS,Computer Networks and Communications,36
+S%C3%89CUSYS,Information Systems,22
+S%C3%89CUSYS,Computer Vision and Pattern Recognition,13
+S%C3%89CUSYS,Hardware and Architecture,9
+S%C3%89CUSYS,Biomedical Engineering,5
+S%C3%89CUSYS,Management Information Systems,4
+S%C3%89CUSYS,Geometry and Topology,4
+S%C3%89CUSYS,Electrical and Electronic Engineering,4
+S%C3%89CUSYS,Software,3
+S%C3%89CUSYS,Sociology and Political Science,3
+S%C3%89CUSYS,Emergency Medical Services,3
+S%C3%89CUSYS,Signal Processing,2
+S%C3%89CUSYS,Molecular Biology,2
+S%C3%89CUSYS,Genetics,2
+S%C3%89CUSYS,Management Science and Operations Research,2
+S%C3%89CUSYS,Civil and Structural Engineering,2
+S%C3%89CUSYS,Industrial and Manufacturing Engineering,1
+S%C3%89CUSYS,Physiology,1
+S%C3%89CUSYS,Aerospace Engineering,1
+S%C3%89CUSYS,Mathematical Physics,1
+S%C3%89CUSYS,Experimental and Cognitive Psychology,1
+S%C3%89CUSYS,Discrete Mathematics and Combinatorics,1
+S%C3%89CUSYS,Conservation,1
+S%C3%89CUSYS,Condensed Matter Physics,1
+S%C3%89CUSYS,Control and Systems Engineering,1
+S%C3%89CUSYS,Computational Mechanics,1
+S%C3%89CUSYS,Education,1
+S%C3%89CUSYS,Strategy and Management,1
+S%C3%89CUSYS,Computer Science Applications,1
+S%C3%89CUSYS,Statistics and Probability,1
+S%C3%89CUSYS,Social Psychology,1
+S%C3%89CUSYS,"Atomic and Molecular Physics, and Optics",1
+S%C3%89CUSYS,Information Systems and Management,1
+TIRF,Computer Vision and Pattern Recognition,99
+TIRF,Artificial Intelligence,23
+TIRF,Computational Theory and Mathematics,16
+TIRF,Media Technology,11
+TIRF,Signal Processing,8
+TIRF,Ocean Engineering,7
+TIRF,Geometry and Topology,6
+TIRF,Information Systems,5
+TIRF,Human-Computer Interaction,5
+TIRF,Hardware and Architecture,4
+TIRF,Management Science and Operations Research,4
+TIRF,"Pediatrics, Perinatology and Child Health",3
+TIRF,Cardiology and Cardiovascular Medicine,3
+TIRF,Genetics,3
+TIRF,Computer Networks and Communications,3
+TIRF,"Geography, Planning and Development",3
+TIRF,Biophysics,3
+TIRF,Literature and Literary Theory,2
+TIRF,Cognitive Neuroscience,2
+TIRF,Archeology,2
+TIRF,Computer Graphics and Computer-Aided Design,2
+TIRF,"Safety, Risk, Reliability and Quality",2
+TIRF,Atmospheric Science,2
+TIRF,Statistical and Nonlinear Physics,2
+TIRF,Experimental and Cognitive Psychology,1
+TIRF,Oncology,1
+TIRF,Surgery,1
+TIRF,Physiology,1
+TIRF,Molecular Biology,1
+TIRF,Water Science and Technology,1
+TIRF,Computational Mechanics,1
+TIRF,Ecology,1
+TIRF,"Surfaces, Coatings and Films",1
+TIRF,Mathematical Physics,1
+TIRF,Geology,1
+TIRF,Cell Biology,1
+TIRF,Education,1
+TIRF,Political Science and International Relations,1
+TIRF,Biomedical Engineering,1
+TIRF,Sociology and Political Science,1
+TIRF,Industrial and Manufacturing Engineering,1
+TIRF,"Statistics, Probability and Uncertainty",1
+TIRF,"Atomic and Molecular Physics, and Optics",1
+TIRF,Neurology,1
+TIRF,Condensed Matter Physics,1
+TIRF,"Tourism, Leisure and Hospitality Management",1
+TIRF,Aerospace Engineering,1
+TIRF,Electrical and Electronic Engineering,1
+TIRF,"Radiology, Nuclear Medicine and Imaging",1

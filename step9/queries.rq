@@ -1,0 +1,150 @@
+# SPARQL queries — LRE Knowledge Graph
+# Run against output/lre_kg.ttl
+# Prefixes shared by all queries:
+#   PREFIX lre:     <http://lre.epita.fr/kg/>
+#   PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+#   PREFIX dcterms: <http://purl.org/dc/terms/>
+#   PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+# Q1 — Publications per year (chronological overview)
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?year (COUNT(DISTINCT ?pub) AS ?nb_publications)
+WHERE {
+  ?pub rdf:type lre:Publication ;
+       lre:inYear ?y .
+  BIND(STRAFTER(STR(?y), "year_") AS ?year)
+}
+GROUP BY ?year
+ORDER BY ASC(?year)
+
+# Q2 — Number of publications per LRE team
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?team (COUNT(DISTINCT ?pub) AS ?nb_publications)
+WHERE {
+  ?pub rdf:type lre:Publication ;
+       lre:authoredBy ?r .
+  ?r   lre:memberOf ?t .
+  BIND(STRAFTER(STR(?t), "team_") AS ?team)
+}
+GROUP BY ?team
+ORDER BY DESC(?nb_publications)
+
+# Q3 — Top 5 most prolific LRE researchers
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?name ?team (COUNT(DISTINCT ?pub) AS ?nb_publications)
+WHERE {
+  ?r   rdf:type lre:Researcher ;
+       foaf:name ?name ;
+       lre:memberOf ?t .
+  BIND(STRAFTER(STR(?t), "team_") AS ?team)
+  ?pub lre:authoredBy ?r .
+}
+GROUP BY ?name ?team
+ORDER BY DESC(?nb_publications)
+LIMIT 5
+
+# Q4 — Researchers with the most distinct co-authors (network hubs)
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?name ?team (COUNT(DISTINCT ?co) AS ?nb_coauthors)
+WHERE {
+  ?r   rdf:type lre:Researcher ;
+       foaf:name ?name ;
+       lre:memberOf ?t ;
+       lre:coAuthorOf ?co .
+  BIND(STRAFTER(STR(?t), "team_") AS ?team)
+}
+GROUP BY ?name ?team
+ORDER BY DESC(?nb_coauthors)
+LIMIT 10
+
+# Q5 — Cross-team collaborations (shared publications between teams)
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?team1 ?team2 (COUNT(DISTINCT ?pub) AS ?shared_publications)
+WHERE {
+  ?pub rdf:type lre:Publication ;
+       lre:authoredBy ?r1 ;
+       lre:authoredBy ?r2 .
+  ?r1  lre:memberOf ?t1 .
+  ?r2  lre:memberOf ?t2 .
+  FILTER(?t1 != ?t2 && STR(?t1) < STR(?t2))
+  BIND(STRAFTER(STR(?t1), "team_") AS ?team1)
+  BIND(STRAFTER(STR(?t2), "team_") AS ?team2)
+}
+GROUP BY ?team1 ?team2
+ORDER BY DESC(?shared_publications)
+
+# Q6 — Research topics per team (requires hasTopic in the graph)
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?team ?topic (COUNT(DISTINCT ?pub) AS ?nb_publications)
+WHERE {
+  ?pub rdf:type lre:Publication ;
+       lre:hasTopic ?top ;
+       lre:authoredBy ?r .
+  ?r   lre:memberOf ?t .
+  ?top dcterms:title ?topic .
+  BIND(STRAFTER(STR(?t), "team_") AS ?team)
+}
+GROUP BY ?team ?topic
+ORDER BY ?team DESC(?nb_publications)
+
+# Q7 — LRE researcher pairs 2 hops apart with NO direct co-authorship
+#       (candidate links for the embedding model to rank)
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT DISTINCT ?name1 ?team1 ?name2 ?team2
+WHERE {
+  ?r1  rdf:type lre:Researcher ;
+       foaf:name ?name1 ;
+       lre:memberOf ?t1 ;
+       lre:coAuthorOf ?mid .
+  ?mid lre:coAuthorOf ?r2 .
+  ?r2  rdf:type lre:Researcher ;
+       foaf:name ?name2 ;
+       lre:memberOf ?t2 .
+  FILTER(?r1 != ?r2 && STR(?r1) < STR(?r2))
+  FILTER NOT EXISTS { ?r1 lre:coAuthorOf ?r2 }
+  BIND(STRAFTER(STR(?t1), "team_") AS ?team1)
+  BIND(STRAFTER(STR(?t2), "team_") AS ?team2)
+}
+ORDER BY ?team1 ?name1
+LIMIT 30
+
+# Q8 — Top 10 most used publication venues
+
+PREFIX lre:     <http://lre.epita.fr/kg/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?venue_title (COUNT(DISTINCT ?pub) AS ?nb_publications)
+WHERE {
+  ?pub rdf:type lre:Publication ;
+       lre:publishedIn ?v .
+  ?v   dcterms:title ?venue_title .
+}
+GROUP BY ?venue_title
+ORDER BY DESC(?nb_publications)
+LIMIT 10

@@ -1,0 +1,6 @@
+.ac-wrapper { position:relative; }
+.ac-dropdown { position:absolute; top:100%; left:0; right:0; background:#16213e;
+  border:1px solid #42D4F4; border-top:none; border-radius:0 0 8px 8px;
+  z-index:100; display:none; max-height:260px; overflow-y:auto; }
+.ac-item { padding:.55rem 1rem; cursor:pointer; font-size:.88rem; color:#eee; }
+.ac-item:hover, .ac-item.active { background:#0f3460; color:#42D4F4; }

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<dblpperson name="Abdul-Qadir Khan" pid="373/0583" n="5">
+<person key="homepages/373/0583" mdate="2024-04-15">
+<author pid="373/0583">Abdul-Qadir Khan</author>
+</person>
+<r><article key="journals/eswa/KhanTJ26" mdate="2025-08-05">
+<author orcid="0000-0002-4713-2559" pid="373/0583">Abdul-Qadir Khan</author>
+<author orcid="0000-0001-9447-4159" pid="62/9806">Nouredine Tamani</author>
+<author orcid="0000-0002-1938-9963" pid="197/6985">Saad El Jaouhari</author>
+<title>Parallelized derivation algorithm for anomaly detection in internet of things environments.</title>
+<pages>128958</pages>
+<year>2026</year>
+<volume>296</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2025.128958</ee>
+<url>db/journals/eswa/eswa296.html#KhanTJ26</url>
+<stream>streams/journals/eswa</stream>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Khan24a" mdate="2025-06-30">
+<author pid="373/0583">Abdul-Qadir Khan</author>
+<title>Knowledge-based Systems for Cybersecurity in Internet of Things Environments. (Approche s&#233;mantique pour la d&#233;tection d'anomalies dans les environnements IoT).</title>
+<year>2024</year>
+<school>Sorbonne University, Paris, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-05088131</ee>
+</phdthesis>
+</r>
+<r><article key="journals/eaai/KhanJTM24" mdate="2024-08-02">
+<author orcid="0000-0002-4713-2559" pid="373/0583">Abdul-Qadir Khan</author>
+<author orcid="0000-0002-1938-9963" pid="197/6985">Saad El Jaouhari</author>
+<author orcid="0000-0001-9447-4159" pid="62/9806">Nouredine Tamani</author>
+<author orcid="0000-0002-3051-0760" pid="38/5795">Lina Mroueh</author>
+<title>Knowledge-based anomaly detection: Survey, challenges, and future directions.</title>
+<pages>108996</pages>
+<year>2024</year>
+<volume>136</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2024.108996</ee>
+<url>db/journals/eaai/eaai136.html#KhanJTM24</url>
+<stream>streams/journals/eaai</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aina/TamaniJKP24" mdate="2024-04-15">
+<author pid="62/9806">Nouredine Tamani</author>
+<author pid="197/6985">Saad El Jaouhari</author>
+<author pid="373/0583">Abdul-Qadir Khan</author>
+<author pid="373/1073">Bastien Pauchet</author>
+<title>Improving ML/DL Solutions for Anomaly Detection in IoT Environments.</title>
+<pages>193-206</pages>
+<year>2024</year>
+<booktitle>AINA (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57942-4_20</ee>
+<crossref>conf/aina/2024-6</crossref>
+<url>db/conf/aina/aina2024-6.html#TamaniJKP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/KhanTJM23" mdate="2024-06-04">
+<author pid="373/0583">Abdul-Qadir Khan</author>
+<author pid="62/9806">Nouredine Tamani</author>
+<author pid="197/6985">Saad El Jaouhari</author>
+<author pid="38/5795">Lina Mroueh</author>
+<title>A Contextual Derivation Algorithm for Cybersecurity in IoT Environments.</title>
+<pages>1430-1435</pages>
+<year>2023</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom60117.2023.00195</ee>
+<crossref>conf/trustcom/2023</crossref>
+<url>db/conf/trustcom/trustcom2023.html#KhanTJM23</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="j/Jaouhari:Saad_El" pid="197/6985">Saad El Jaouhari</na></co>
+<co c="0"><na f="m/Mroueh:Lina" pid="38/5795">Lina Mroueh</na></co>
+<co c="0"><na f="p/Pauchet:Bastien" pid="373/1073">Bastien Pauchet</na></co>
+<co c="0"><na f="t/Tamani:Nouredine" pid="62/9806">Nouredine Tamani</na></co>
+</coauthors>
+</dblpperson>
+
