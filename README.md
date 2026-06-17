@@ -1,13 +1,14 @@
 # LRE Knowledge Graph & Link Prediction
 
-**Équipe :** Yako Lemeilleur, Thomas Trahant — EPITA MGD 2025–2026
+**Équipe :** Yako Lemeilleur, Thomas Trahant, Tristan Faure, Felix Muhlke, Eliot Mercier-Del-Forno — EPITA MGD 2025–2026
 
 Graphe de connaissances RDF sur les publications des chercheurs du LRE (EPITA), construit à partir des données DBLP. Ontologie OWL, requêtes SPARQL, analyse de réseau networkx et prédiction de liens avec PyKEEN.
 
 ## Installation
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate
+python3.11 -m venv .venv
+source ./.venv/bin/activate
 uv pip install -r requirements.txt
 ```
 
@@ -16,35 +17,35 @@ uv pip install -r requirements.txt
 ### 1 — Construire le graphe
 
 ```bash
-python step4/build_graph.py
+python3 step4/build_graph.py
 # → output/lre_kg.ttl (~18 475 triplets)
 ```
 
 ### 2 — Générer les figures
 
 ```bash
-python step8/trends.py
+python3 step8/trends.py
 # → step8/figures/*.png (7 figures)
 ```
 
 ### 3 — Requêtes SPARQL
 
 ```bash
-python step9/run_queries.py
+python3 step9/run_queries.py
 # → step9/results/Q*.csv (8 fichiers)
 ```
 
 ### 4 — Link prediction
 
 ```bash
-python step10/link_prediction.py
+python3 step10/link_prediction.py
 # → step10/metrics.txt, step10/predictions.json
 ```
 
 ### 5 — Interface web
 
 ```bash
-python step7/app.py
+python3 step7/app.py
 # → http://localhost:5050
 ```
 
