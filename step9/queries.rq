@@ -1,5 +1,4 @@
 # SPARQL queries — LRE Knowledge Graph
-# Run against output/lre_kg.ttl
 # Prefixes shared by all queries:
 #   PREFIX lre:     <http://lre.epita.fr/kg/>
 #   PREFIX foaf:    <http://xmlns.com/foaf/0.1/>

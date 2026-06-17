@@ -1,122 +1,122 @@
 [
   {
-    "researcher": "Riadh Robbana",
-    "team": "AA",
-    "score": -3.609,
-    "model": "RotatE"
-  },
-  {
     "researcher": "Didier Verna",
     "team": "TIRF",
-    "score": -3.6163,
+    "score": -3.4447,
     "model": "RotatE"
   },
   {
-    "researcher": "Alexandre Duret-Lutz",
-    "team": "TIRF",
-    "score": -3.7978,
+    "researcher": "Riadh Robbana",
+    "team": "AA",
+    "score": -3.5923,
     "model": "RotatE"
   },
   {
-    "researcher": "Réda Dehak",
-    "team": "TIRF",
-    "score": -3.8107,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "Narjes Ben Rajeb",
-    "team": "S%C3%89CUSYS",
-    "score": -3.8552,
+    "researcher": "Baptiste Esteban",
+    "team": "AA",
+    "score": -3.6261,
     "model": "RotatE"
   },
   {
     "researcher": "Thierry Géraud",
     "team": "AA",
-    "score": -3.9058,
+    "score": -3.6659,
     "model": "RotatE"
   },
   {
-    "researcher": "Marie Puren",
-    "team": "AA",
-    "score": -3.9249,
+    "researcher": "Narjes Ben Rajeb",
+    "team": "SÉCUSYS",
+    "score": -3.6836,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Ludovic Perret",
+    "team": "MNSHS",
+    "score": -3.6999,
     "model": "RotatE"
   },
   {
     "researcher": "Guillaume Tochon",
     "team": "AA",
-    "score": -3.9337,
+    "score": -3.7063,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Walid Ghandour",
+    "team": "AA",
+    "score": -3.7086,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Florian Cafiero",
+    "team": "SÉCUSYS",
+    "score": -3.7443,
     "model": "RotatE"
   },
   {
     "researcher": "Nicolas Boutry",
     "team": "AA",
-    "score": -3.9346,
+    "score": -3.7566,
     "model": "RotatE"
   },
   {
-    "researcher": "Daniel Stan",
-    "team": "S%C3%89CUSYS",
-    "score": -3.9672,
+    "researcher": "Alexandre Duret-Lutz",
+    "team": "SÉCUSYS",
+    "score": -3.7672,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Jim E. Newton",
+    "team": "TIRF",
+    "score": -3.7697,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Joseph Chazalon",
+    "team": "AA",
+    "score": -3.7736,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Marie Puren",
+    "team": "SÉCUSYS",
+    "score": -3.7975,
+    "model": "RotatE"
+  },
+  {
+    "researcher": "Loïc Rouquette",
+    "team": "AA",
+    "score": -3.8225,
     "model": "RotatE"
   },
   {
     "researcher": "Élodie Puybareau",
     "team": "AA",
-    "score": -3.974,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "Nicolas Boutry",
-    "team": "S%C3%89CUSYS",
-    "score": -3.975,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "Idir Benouaret",
-    "team": "TIRF",
-    "score": -3.9869,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "David Beserra",
-    "team": "AA",
-    "score": -3.9928,
+    "score": -3.8346,
     "model": "RotatE"
   },
   {
     "researcher": "Edwin Carlinet",
     "team": "AA",
-    "score": -3.9938,
+    "score": -3.8369,
     "model": "RotatE"
   },
   {
-    "researcher": "Laurence Denneulin",
-    "team": "S%C3%89CUSYS",
-    "score": -4.0012,
+    "researcher": "Alexandre Duret-Lutz",
+    "team": "TIRF",
+    "score": -3.8381,
     "model": "RotatE"
   },
   {
-    "researcher": "Ghada Gharbi",
+    "researcher": "Réda Dehak",
     "team": "AA",
-    "score": -4.004,
+    "score": -3.8395,
     "model": "RotatE"
   },
   {
-    "researcher": "Ludovic Perret",
-    "team": "AA",
-    "score": -4.0068,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "Pierre Parrend",
-    "team": "AA",
-    "score": -4.0125,
-    "model": "RotatE"
-  },
-  {
-    "researcher": "Marc Plantevit",
-    "team": "AA",
-    "score": -4.0181,
+    "researcher": "Laurent Beaudoin",
+    "team": "SÉCUSYS",
+    "score": -3.8641,
     "model": "RotatE"
   }
 ]

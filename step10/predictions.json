@@ -1,122 +1,122 @@
 [
   {
-    "name_a": "Élodie Puybareau",
-    "name_b": "Guillaume Tochon",
-    "score": -2.7138,
+    "name_a": "Baptiste Esteban",
+    "name_b": "Jim E. Newton",
+    "score": -3.1967,
     "model": "RotatE"
   },
   {
-    "name_a": "Élodie Puybareau",
-    "name_b": "Baptiste Esteban",
-    "score": -3.3859,
+    "name_a": "Alexandre Duret-Lutz",
+    "name_b": "Jim E. Newton",
+    "score": -3.259,
     "model": "RotatE"
   },
   {
-    "name_a": "Jim E. Newton",
-    "name_b": "Florian Renkin",
-    "score": -3.499,
+    "name_a": "Baptiste Esteban",
+    "name_b": "Nicolas Boutry",
+    "score": -3.2868,
     "model": "RotatE"
   },
   {
-    "name_a": "Élodie Puybareau",
-    "name_b": "Gonzalo Romero-Garcia",
-    "score": -3.5724,
+    "name_a": "Baptiste Esteban",
+    "name_b": "Élodie Puybareau",
+    "score": -3.295,
     "model": "RotatE"
   },
   {
-    "name_a": "Nicolas Boutry",
-    "name_b": "Baptiste Esteban",
-    "score": -3.5969,
+    "name_a": "Didier Verna",
+    "name_b": "Thierry Géraud",
+    "score": -3.3581,
     "model": "RotatE"
   },
   {
     "name_a": "Baptiste Esteban",
     "name_b": "Jonathan Fabrizio",
-    "score": -3.6795,
+    "score": -3.3844,
     "model": "RotatE"
   },
   {
-    "name_a": "Baptiste Esteban",
-    "name_b": "Joseph Chazalon",
-    "score": -3.7338,
+    "name_a": "Jim E. Newton",
+    "name_b": "Florian Renkin",
+    "score": -3.3949,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Joseph Chazalon",
+    "name_b": "Baptiste Esteban",
+    "score": -3.5015,
     "model": "RotatE"
   },
   {
     "name_a": "Alexandre Duret-Lutz",
-    "name_b": "Jim E. Newton",
-    "score": -3.7368,
+    "name_b": "Didier Verna",
+    "score": -3.5057,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Gonzalo Romero-Garcia",
+    "name_b": "Réda Dehak",
+    "score": -3.5156,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Didier Verna",
+    "name_b": "Joseph Chazalon",
+    "score": -3.5472,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Narjes Ben Rajeb",
+    "name_b": "Adrien Pommellet",
+    "score": -3.5765,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Jim E. Newton",
+    "name_b": "Edwin Carlinet",
+    "score": -3.6036,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Jimmy Randrianasoa",
+    "name_b": "Jonathan Fabrizio",
+    "score": -3.6036,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Didier Verna",
+    "name_b": "Adrien Pommellet",
+    "score": -3.6207,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Réda Dehak",
+    "name_b": "Walid Ghandour",
+    "score": -3.6291,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Jim E. Newton",
+    "name_b": "Thierry Géraud",
+    "score": -3.6497,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Jonathan Fabrizio",
+    "name_b": "Didier Verna",
+    "score": -3.6965,
     "model": "RotatE"
   },
   {
     "name_a": "Edwin Carlinet",
     "name_b": "Alexandre Duret-Lutz",
-    "score": -3.7909,
+    "score": -3.6979,
     "model": "RotatE"
   },
   {
-    "name_a": "Élodie Puybareau",
-    "name_b": "Jimmy Randrianasoa",
-    "score": -3.8522,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Alexandre Duret-Lutz",
-    "name_b": "Nicolas Boutry",
-    "score": -3.8546,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Joseph Chazalon",
-    "name_b": "Alexandre Duret-Lutz",
-    "score": -3.8732,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Jimmy Randrianasoa",
-    "name_b": "Guillaume Tochon",
-    "score": -3.8766,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "David Beserra",
-    "name_b": "Loïc Rouquette",
-    "score": -3.8874,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Jimmy Randrianasoa",
-    "name_b": "Thierry Géraud",
-    "score": -3.8876,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Élodie Puybareau",
-    "name_b": "Alexandre Duret-Lutz",
-    "score": -3.8998,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Thierry Géraud",
-    "name_b": "Didier Verna",
-    "score": -3.9025,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "David Beserra",
-    "name_b": "Daniel Stan",
-    "score": -3.9087,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Adrien Pommellet",
-    "name_b": "Riadh Robbana",
-    "score": -3.9152,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Baptiste Esteban",
-    "name_b": "Jim E. Newton",
-    "score": -3.9155,
+    "name_a": "Ghiles Ziat",
+    "name_b": "Florian Renkin",
+    "score": -3.7045,
     "model": "RotatE"
   }
 ]

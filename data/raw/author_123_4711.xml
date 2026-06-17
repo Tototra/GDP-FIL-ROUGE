@@ -1,9 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="Edwin Carlinet" pid="123/4711" n="50">
+<dblpperson name="Edwin Carlinet" pid="123/4711" n="51">
 <person key="homepages/123/4711" mdate="2025-11-26">
 <author pid="123/4711">Edwin Carlinet</author>
 <url>https://orcid.org/0000-0001-5737-5266</url>
 </person>
+<r><inproceedings key="conf/isbi/DuboscFABCAG26" mdate="2026-05-27">
+<author pid="423/5449">Marius Dubosc</author>
+<author pid="423/6143">Yann Fischer</author>
+<author pid="423/5843">Zacharie Auray</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="97/8035">Michael Atlan</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Improving Segmentation of Retinal Arteries and Veins Using Cardiac Signal in Doppler Holograms.</title>
+<booktitle>ISBI</booktitle>
+<year>2026</year>
+<pages>1-5</pages>
+<crossref>conf/isbi/2026</crossref>
+<ee>https://doi.org/10.1109/ISBI61048.2026.11515426</ee>
+<url>db/conf/isbi/isbi2026.html#DuboscFABCAG26</url>
+<stream>streams/conf/isbi</stream>
+</inproceedings>
+</r>
 <r><article key="journals/roia/TualADCC25" mdate="2025-12-22">
 <author pid="340/7220">Solenn Tual</author>
 <author pid="34/8684">Nathalie Abadie</author>

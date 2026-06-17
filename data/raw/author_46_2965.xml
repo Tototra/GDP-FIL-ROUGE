@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marc Plantevit" pid="46/2965" n="117">
+<dblpperson name="Marc Plantevit" pid="46/2965" n="118">
 <person key="homepages/46/2965" mdate="2022-02-15">
 <author pid="46/2965">Marc Plantevit</author>
 <url>http://liris.cnrs.fr/~mplantev/doku/doku.php</url>
@@ -10,6 +10,24 @@
 <url>https://www.wikidata.org/entity/Q58924817</url>
 <note type="affiliation">Universit&#233; Lyon 1, LIRIS, France</note>
 </person>
+<r><article key="journals/datamine/RagnoPPPR26" mdate="2026-06-01">
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="436/7678">Pierre-Angelo Peyrie</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="23/1886">Ruggero G. Pensa</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>Differentiable parameter-less co-clustering using graph neural networks.</title>
+<year>2026</year>
+<month>August</month>
+<pages>48</pages>
+<volume>40</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10618-026-01211-0</ee>
+<url>db/journals/datamine/datamine40.html#RagnoPPPR26</url>
+<stream>streams/journals/datamine</stream>
+</article>
+</r>
 <r><article key="journals/ml/BatelPBR26" mdate="2026-04-26">
 <author pid="388/7308">Arthur Batel</author>
 <author pid="46/2965">Marc Plantevit</author>
@@ -1713,7 +1731,7 @@
 <url>db/conf/pkdd/pkdd2005.html#PlantevitCLLT05</url>
 </inproceedings>
 </r>
-<coauthors n="101" nc="1">
+<coauthors n="103" nc="1">
 <co c="0"><na f="a/Abreu:Bernardo_A=" pid="209/8783">Bernardo A. Abreu</na></co>
 <co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
 <co c="0" n="2"><na f="a/Atzm=uuml=ller:Martin" pid="22/4732">Martin Atzm&#252;ller</na><na>Martin Atzmueller</na></co>
@@ -1790,7 +1808,9 @@
 <co c="0"><na f="n/Nguyen:Kim=Ngan" pid="71/9841">Kim-Ngan Nguyen</na></co>
 <co c="0"><na f="o/Orman:G=uuml=nce_Keziban" pid="81/7439">G&#252;nce Keziban Orman</na></co>
 <co c="0"><na f="p/Palumbo:Simone" pid="359/9600">Simone Palumbo</na></co>
+<co c="0"><na f="p/Pensa:Ruggero_G=" pid="23/1886">Ruggero G. Pensa</na></co>
 <co c="0"><na f="p/Perez:Julien" pid="91/5931">Julien Perez</na></co>
+<co c="0"><na f="p/Peyrie:Pierre=Angelo" pid="436/7678">Pierre-Angelo Peyrie</na></co>
 <co c="0"><na f="p/Pierre:Erwan" pid="186/6081">Erwan Pierre</na></co>
 <co c="0"><na f="p/Pitarch:Yoann" pid="44/5181">Yoann Pitarch</na></co>
 <co c="0"><na f="p/Poncelet:Pascal" pid="68/525">Pascal Poncelet</na></co>

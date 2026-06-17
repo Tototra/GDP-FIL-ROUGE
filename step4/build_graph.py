@@ -10,7 +10,7 @@ def build():
     graph = LREGraph()
 
     try:
-        authors = pd.read_csv("data/ec.csv")
+        authors = pd.read_csv("data/ec.csv", )
     except FileNotFoundError:
         authors = pd.read_csv("data/2026_05_LRE_EC.csv", sep=";")
 

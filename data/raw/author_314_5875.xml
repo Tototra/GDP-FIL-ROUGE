@@ -1,14 +1,32 @@
 <?xml version="1.0"?>
-<dblpperson name="Alessio Ragno" pid="314/5875" n="17">
+<dblpperson name="Alessio Ragno" pid="314/5875" n="18">
 <person key="homepages/314/5875" mdate="2026-03-02">
 <author pid="314/5875">Alessio Ragno</author>
 <url>https://orcid.org/0000-0002-8477-2088</url>
 </person>
-<r><inproceedings key="conf/aaai/ValerioPRC26" mdate="2026-05-20">
+<r><article key="journals/datamine/RagnoPPPR26" mdate="2026-06-01">
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="436/7678">Pierre-Angelo Peyrie</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="23/1886">Ruggero G. Pensa</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>Differentiable parameter-less co-clustering using graph neural networks.</title>
+<year>2026</year>
+<month>August</month>
+<pages>48</pages>
+<volume>40</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10618-026-01211-0</ee>
+<url>db/journals/datamine/datamine40.html#RagnoPPPR26</url>
+<stream>streams/journals/datamine</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ValerioPRC26" mdate="2026-06-03">
 <author pid="392/1394">Federico Di Valerio</author>
 <author pid="359/8065">Michela Proietti</author>
 <author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
-<author pid="132/9032">Roberto Capobianco</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
 <title>CIP-Net: Continual Interpretable Prototype-based Network.</title>
 <pages>20772-20780</pages>
 <year>2026</year>
@@ -254,7 +272,7 @@
 <url>db/journals/corr/corr2202.html#abs-2202-05704</url>
 </article>
 </r>
-<coauthors n="27" nc="1">
+<coauthors n="29" nc="1">
 <co c="0"><na f="a/Antonini:Lorenzo" pid="305/8904">Lorenzo Antonini</na></co>
 <co c="0"><na f="a/Astolfi:Roberta" pid="398/7703">Roberta Astolfi</na></co>
 <co c="0"><na f="b/Borghini:Alessia" pid="392/1385">Alessia Borghini</na></co>
@@ -271,6 +289,8 @@
 <co c="0"><na f="o/Oliva:Alessandra" pid="398/8288">Alessandra Oliva</na></co>
 <co c="0"><na f="p/Palumbo:Simone" pid="359/9600">Simone Palumbo</na></co>
 <co c="0"><na f="p/Papa:Rosanna" pid="398/7473">Rosanna Papa</na></co>
+<co c="0"><na f="p/Pensa:Ruggero_G=" pid="23/1886">Ruggero G. Pensa</na></co>
+<co c="0"><na f="p/Peyrie:Pierre=Angelo" pid="436/7678">Pierre-Angelo Peyrie</na></co>
 <co c="0"><na f="p/Plantevit:Marc" pid="46/2965">Marc Plantevit</na></co>
 <co c="0"><na f="p/Proia:Eleonora" pid="328/1414">Eleonora Proia</na></co>
 <co c="0"><na f="p/Proietti:Michela" pid="359/8065">Michela Proietti</na></co>

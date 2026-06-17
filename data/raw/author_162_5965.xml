@@ -1,8 +1,22 @@
 <?xml version="1.0"?>
-<dblpperson name="&#201;lodie Puybareau" pid="162/5965" n="42">
+<dblpperson name="&#201;lodie Puybareau" pid="162/5965" n="43">
 <person key="homepages/162/5965" mdate="2015-05-18">
 <author pid="162/5965">&#201;lodie Puybareau</author>
 </person>
+<r><inproceedings key="conf/isbi/LepinayMP26" mdate="2026-05-27">
+<author pid="436/5836">Jules-Victor Lepinay</author>
+<author pid="436/5131">Oscar Morand</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<title>Spooky Vascular Skeletons: A Study of Skeletonization Algorithms and their Evaluation on 2D Vascular Datasets.</title>
+<booktitle>ISBI</booktitle>
+<year>2026</year>
+<pages>1-5</pages>
+<crossref>conf/isbi/2026</crossref>
+<ee>https://doi.org/10.1109/ISBI61048.2026.11515604</ee>
+<url>db/conf/isbi/isbi2026.html#LepinayMP26</url>
+<stream>streams/conf/isbi</stream>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/dgmm/BottenmullerTHPA25" mdate="2025-11-10">
 <author pid="401/6989">Antoine Bottenmuller</author>
 <author pid="121/6439">Guillaume Tochon</author>
@@ -342,13 +356,13 @@
 <url>db/journals/corr/corr2201.html#abs-2201-03186</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2208-07167" mdate="2025-08-05">
+<r><article publtype="informal" key="journals/corr/abs-2208-07167" mdate="2026-06-03">
 <author orcid="0000-0001-5753-428X" pid="150/2899">Carole H. Sudre</author>
 <author pid="245/7451">Kimberlin M. H. van Wijnen</author>
 <author pid="186/7845">Florian Dubost</author>
 <author orcid="0000-0003-3687-2508" pid="273/8180">Hieab Adams</author>
 <author orcid="0000-0003-1124-6666" pid="45/6663">David Atkinson</author>
-<author pid="116/1982">Frederik Barkhof</author>
+<author orcid="0000-0003-3543-3706" pid="116/1982">Frederik Barkhof</author>
 <author pid="239/1960">Mahlet A. Birhanu</author>
 <author orcid="0000-0002-5778-9263" pid="150/7319">Esther E. Bron</author>
 <author pid="275/9013">Robin Camarasa</author>
@@ -772,7 +786,7 @@
 <url>db/journals/corr/corr2001.html#abs-2001-09193</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2004-12314" mdate="2026-05-06">
+<r><article publtype="informal" key="journals/corr/abs-2004-12314" mdate="2026-06-15">
 <author pid="217/2319">Zhaohan Xiong</author>
 <author pid="62/2726-2">Qing Xia 0002</author>
 <author pid="40/3396">Zhiqiang Hu</author>
@@ -814,7 +828,7 @@
 <author pid="18/665">Qian Tao</author>
 <author pid="163/9787">Marta Nu&#241;ez Garcia</author>
 <author pid="20/3217">Oscar Camara 0001</author>
-<author pid="223/4097">Nicol&#243; Savioli</author>
+<author pid="223/4097">Nicol&#242; Savioli</author>
 <author pid="42/1947">Pablo Lamata</author>
 <author pid="87/5278">Jichao Zhao</author>
 <title>A Global Benchmark of Algorithms for Segmenting Late Gadolinium-Enhanced Cardiac Magnetic Resonance Imaging.</title>
@@ -1258,7 +1272,7 @@
 <url>db/conf/ismm/ismm2015.html#PuybareauLT15</url>
 </inproceedings>
 </r>
-<coauthors n="470" nc="1">
+<coauthors n="472" nc="2">
 <co c="0"><na f="a/Adams:Hieab" pid="273/8180">Hieab Adams</na></co>
 <co c="0"><na f="a/Adamsbaum:Catherine" pid="57/4999">Catherine Adamsbaum</na></co>
 <co c="0" n="2"><na f="a/Adler:Tim" pid="236/0060">Tim Adler</na><na>Tim J. Adler</na></co>
@@ -1483,6 +1497,7 @@
 <co c="0"><na f="l/Lee:Minho" pid="99/2069">Minho Lee</na></co>
 <co c="0"><na f="l/Lehnert:Sebastian" pid="303/0533">Sebastian Lehnert</na></co>
 <co c="0"><na f="l/L=eacute=onard:Marc" pid="162/5996">Marc L&#233;onard</na></co>
+<co c="1"><na f="l/Lepinay:Jules=Victor" pid="436/5836">Jules-Victor Lepinay</na></co>
 <co c="0" n="2"><na f="l/Le=szlig=mann:Nikolas" pid="143/4290">Nikolas Le&#223;mann</na><na>Nikolas Lessmann</na></co>
 <co c="0"><na f="l/Li_0088:Bo" pid="50/3402-88">Bo Li 0088</na></co>
 <co c="0"><na f="l/Li:Caizi" pid="236/7989">Caizi Li</na></co>
@@ -1535,6 +1550,7 @@
 <co c="0"><na f="m/Moeskops:Pim" pid="157/6531">Pim Moeskops</na></co>
 <co c="0"><na f="m/Molinuevo:Jos=eacute=_Luis" pid="192/1370">Jos&#233; Luis Molinuevo</na></co>
 <co c="0"><na f="m/Morais:Pedro" pid="131/3073">Pedro Morais</na></co>
+<co c="1"><na f="m/Morand:Oscar" pid="436/5131">Oscar Morand</na></co>
 <co c="0"><na f="m/Morel:Baptiste" pid="168/5536">Baptiste Morel</na></co>
 <co c="0"><na f="m/Mulay:Supriti" pid="239/1824">Supriti Mulay</na></co>
 <co c="0"><na f="m/Mumme:Raymond_P=" pid="294/9332">Raymond P. Mumme</na></co>
@@ -1600,7 +1616,7 @@
 <co c="0"><na f="s/Sahu:Manish" pid="188/6278">Manish Sahu</na></co>
 <co c="0"><na f="s/Sako:Chiharu" pid="265/3498">Chiharu Sako</na></co>
 <co c="0"><na f="s/Sanroma:Gerard" pid="98/1638">Gerard Sanroma</na></co>
-<co c="0"><na f="s/Savioli:Nicol=oacute=" pid="223/4097">Nicol&#243; Savioli</na></co>
+<co c="0"><na f="s/Savioli:Nicol=ograve=" pid="223/4097">Nicol&#242; Savioli</na></co>
 <co c="0"><na f="s/Schreiber:Laura_Maria" pid="128/5557">Laura Maria Schreiber</na></co>
 <co c="0"><na f="s/Sekuboyina:Anjany" pid="198/0458">Anjany Sekuboyina</na></co>
 <co c="0"><na f="s/Sermesant:Maxime" pid="92/5704">Maxime Sermesant</na></co>

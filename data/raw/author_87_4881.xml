@@ -1,8 +1,21 @@
 <?xml version="1.0"?>
-<dblpperson name="Marc Espie" pid="87/4881" n="3">
+<dblpperson name="Marc Espie" pid="87/4881" n="4">
 <person key="homepages/87/4881" mdate="2009-06-10">
 <author pid="87/4881">Marc Espie</author>
 </person>
+<r><inproceedings key="conf/asiaccs/EspieMP26" mdate="2026-06-09">
+<author pid="87/4881">Marc Espie</author>
+<author pid="437/5595">Hugo Mayer</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>A Differentiated Approach for Post-Quantum DNSSEC.</title>
+<pages>489-501</pages>
+<year>2026</year>
+<booktitle>AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/3779208.3805967</ee>
+<crossref>conf/asiaccs/2026</crossref>
+<url>db/conf/asiaccs/asiaccs2026.html#EspieMP26</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/aina/BeserraNCEE025" mdate="2025-05-07">
 <author pid="166/8810">David Beserra</author>
 <author pid="404/4315">Robert Nantchouang</author>
@@ -51,7 +64,7 @@
 <url>db/journals/ijac/ijac11.html#CassaigneEKNH01</url>
 </article>
 </r>
-<coauthors n="10" nc="2">
+<coauthors n="12" nc="3">
 <co c="0"><na f="a/Araujo_0001:Jean" pid="59/10512">Jean Araujo 0001</na></co>
 <co c="0"><na f="b/Beserra:David" pid="166/8810">David Beserra</na></co>
 <co c="1"><na f="c/Cassaigne:Julien" pid="85/4176">Julien Cassaigne</na></co>
@@ -60,8 +73,10 @@
 <co c="1"><na f="h/Hivert:Florent" pid="11/6883">Florent Hivert</na></co>
 <co c="0"><na f="i/Izoulet:Aurelien" pid="426/6275">Aurelien Izoulet</na></co>
 <co c="1"><na f="k/Krob:Daniel" pid="97/3247">Daniel Krob</na></co>
+<co c="2"><na f="m/Mayer:Hugo" pid="437/5595">Hugo Mayer</na></co>
 <co c="0"><na f="n/Nantchouang:Robert" pid="404/4315">Robert Nantchouang</na></co>
 <co c="1"><na f="n/Novelli:Jean=Christophe" pid="11/3970">Jean-Christophe Novelli</na></co>
+<co c="2"><na f="p/Perret:Ludovic" pid="42/3351">Ludovic Perret</na></co>
 </coauthors>
 </dblpperson>
 

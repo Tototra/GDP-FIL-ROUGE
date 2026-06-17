@@ -729,12 +729,12 @@
 <url>db/conf/depcos/depcos2007.html#MajdoubR07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/isola/BensalemKMRT07" mdate="2014-04-24">
+<r><inproceedings key="conf/isola/BensalemKMRT07" mdate="2026-06-08">
 <author pid="01/5624">Saddek Bensalem</author>
 <author pid="55/5851">Moez Krichen</author>
 <author pid="69/6144">Lotfi Majdoub</author>
 <author pid="15/5421">Riadh Robbana</author>
-<author pid="85/6852">Stavros Tripakis</author>
+<author pid="85/6852-1">Stavros Tripakis 0001</author>
 <title>A Simplified Approach for Testing Real-Time Systems Based on Action Refinement.</title>
 <pages>191-202</pages>
 <year>2007</year>
@@ -930,7 +930,7 @@
 <co c="0"><na f="t/Touili:Tayssir" pid="23/6190">Tayssir Touili</na></co>
 <co c="0"><na f="t/Trabelsi:Oussama" pid="271/1204">Oussama Trabelsi</na></co>
 <co c="0"><na f="t/Traor=eacute=:Jacques" pid="82/1924">Jacques Traor&#233;</na></co>
-<co c="0"><na f="t/Tripakis:Stavros" pid="85/6852">Stavros Tripakis</na></co>
+<co c="0"><na f="t/Tripakis_0001:Stavros" pid="85/6852-1">Stavros Tripakis 0001</na></co>
 <co c="6"><na f="y/Youn=egrave=s:Sana" pid="64/3745">Sana Youn&#232;s</na></co>
 <co c="0"><na f="y/Yousfi:Souheib" pid="32/8559">Souheib Yousfi</na></co>
 </coauthors>

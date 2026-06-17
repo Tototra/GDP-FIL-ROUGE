@@ -1,122 +1,122 @@
 [
   {
-    "publication": "Cosine Similarity Scoring without Score Normalization Techniques.",
+    "publication": "Binary partition tree-based local spectral unmixing.",
+    "topic": "Media Technology",
+    "score": -3.0005,
+    "model": "RotatE"
+  },
+  {
+    "publication": "On blind multiuser forward link channel estimation by the subspace method: identifiability results.",
     "topic": "Signal Processing",
-    "score": -3.1004,
+    "score": -3.0446,
     "model": "RotatE"
   },
   {
-    "publication": "Algebraic Attack against Variants of McEliece with Goppa Polynomial of a Special Form.",
-    "topic": "Cryptography",
-    "score": -3.197,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Underwater Calibration in Near Real Time: Focus on Detection Optimized by AI and Selection of Calibration Patterns.",
-    "topic": "Remote Sensing and 3D Vision",
-    "score": -3.2001,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Underwater Field Equipment of a Network of Landmarks Optimized for Automatic Detection by AI.",
-    "topic": "Remote Sensing and 3D Vision",
-    "score": -3.2222,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Polynomial Equivalence Problems: Algorithmic and Theoretical Aspects.",
-    "topic": "Cryptography",
-    "score": -3.2336,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Vectorization of Historical Maps Using Deep Edge Filtering and Closed Shape Extraction.",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.2337,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Efficient Computation of Attributes and Saliency Maps on Tree-Based Image Representations.",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.2411,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Continuous Well-Composedness Implies Digital Well-Composedness in n-D.",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.263,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation.",
-    "topic": "Digital Humanities",
-    "score": -3.3332,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Real time detection of forest fires and volcanic eruptions from Meteosat Second Generation images using a neural network.",
-    "topic": "Remote Sensing and 3D Vision",
-    "score": -3.3536,
-    "model": "RotatE"
-  },
-  {
-    "publication": "A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.3835,
+    "publication": "Unmixing-based gas plume tracking in LWIR hyperspectral video sequences.",
+    "topic": "Media Technology",
+    "score": -3.0499,
     "model": "RotatE"
   },
   {
     "publication": "Introducing the Dahu Pseudo-Distance.",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.3872,
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -3.1421,
     "model": "RotatE"
   },
   {
-    "publication": "The SCRIBO Module of the Olena Platform: A Free Software Framework for Document Image Analysis.",
-    "topic": "Image Processing and Computer Vision",
-    "score": -3.4152,
+    "publication": "Binary partition tree-based local spectral unmixing.",
+    "topic": "Safety, Risk, Reliability and Quality",
+    "score": -3.1505,
     "model": "RotatE"
   },
   {
-    "publication": "Language Recognition via i-vectors and Dimensionality Reduction.",
+    "publication": "In-variance of subspace based estimators.",
     "topic": "Signal Processing",
-    "score": -3.4288,
+    "score": -3.1546,
     "model": "RotatE"
   },
   {
-    "publication": "Three SCC-Based Emptiness Checks for Generalized Büchi Automata.",
-    "topic": "Formal Methods and Verification",
-    "score": -3.4298,
+    "publication": "From local to global unmixing of hyperspectral images to reveal spectral variability.",
+    "topic": "Safety, Risk, Reliability and Quality",
+    "score": -3.1591,
     "model": "RotatE"
   },
   {
-    "publication": "A New Perturbation for Multivariate Public Key Schemes such as HFE and UOV.",
-    "topic": "Cryptography",
-    "score": -3.4584,
+    "publication": "Vers la découverte de modèles exceptionnels locaux : des règles descriptives liant les molécules à leurs odeurs.",
+    "topic": "Statistical and Nonlinear Physics",
+    "score": -3.1622,
     "model": "RotatE"
   },
   {
-    "publication": "Local-Global MCMC kernels: the best of both worlds.",
-    "topic": "Optimization and Statistics",
-    "score": -3.4691,
+    "publication": "A new extended linear mixing model to address spectral variability.",
+    "topic": "Media Technology",
+    "score": -3.1646,
     "model": "RotatE"
   },
   {
-    "publication": "Surrogate Based Centralized SON: Application to Interference Mitigation in LTE-A HetNets.",
-    "topic": "Optimization and Statistics",
-    "score": -3.4793,
+    "publication": "An Equivalence Relation Between Morphological Dynamics and Persistent Homology in 1D.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -3.1778,
     "model": "RotatE"
   },
   {
-    "publication": "Surrogate Based Centralized Automated Optimization Applied to LTE Mobility Load Balancing.",
-    "topic": "Optimization and Statistics",
-    "score": -3.482,
+    "publication": "Asymptotically invariant Gaussianity test for causal invertible time series.",
+    "topic": "Signal Processing",
+    "score": -3.1778,
     "model": "RotatE"
   },
   {
-    "publication": "Nachhaltigkeit durch Zusammenschluss: Die DARIAH Data Re-Use Charter.",
-    "topic": "Digital Humanities",
-    "score": -3.4863,
+    "publication": "Low complexity spatial interpolation for cellular coverage analysis.",
+    "topic": "Electrical and Electronic Engineering",
+    "score": -3.1857,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Sequential Data Mining for Information Extraction from Texts.",
+    "topic": "Molecular Biology",
+    "score": -3.1921,
+    "model": "RotatE"
+  },
+  {
+    "publication": "A Tutorial on Well-Composedness.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -3.2095,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Editorial.",
+    "topic": "Signal Processing",
+    "score": -3.2192,
+    "model": "RotatE"
+  },
+  {
+    "publication": "SCHEDA: Lightweight euclidean-like heuristics for anomaly detection in periodic time series.",
+    "topic": "Biomedical Engineering",
+    "score": -3.2235,
+    "model": "RotatE"
+  },
+  {
+    "publication": "From neonatal to adult brain MR image segmentation in a few seconds using 3D-like fully convolutional network and transfer learning.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -3.2316,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Getting a morphological tree of shapes for multivariate images: Paths, traps, and pitfalls.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -3.2349,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Management of digital records with RADAR by data dilution into Complex System.",
+    "topic": "Biomedical Engineering",
+    "score": -3.2358,
+    "model": "RotatE"
+  },
+  {
+    "publication": "A new extended linear mixing model to address spectral variability.",
+    "topic": "Safety, Risk, Reliability and Quality",
+    "score": -3.2385,
     "model": "RotatE"
   }
 ]

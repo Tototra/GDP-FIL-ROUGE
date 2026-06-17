@@ -8,14 +8,9 @@
 
 # Classes
 
-lre:ThingWithTopic a owl:Class ;
-    rdfs:label "thing with topic" ;
-    rdfs:comment "Superclass for entities that can be assigned a research topic." .
-
 lre:Researcher a owl:Class ;
     rdfs:label "Researcher" ;
     rdfs:comment "A member of the LRE faculty." ;
-    rdfs:subClassOf lre:ThingWithTopic ;
     rdfs:subClassOf foaf:Person .
 
 lre:Team a owl:Class ;
@@ -25,7 +20,6 @@ lre:Team a owl:Class ;
 lre:Publication a owl:Class ;
     rdfs:label "Publication" ;
     rdfs:comment "A published academic work (article, proceedings, thesis)." ;
-    rdfs:subClassOf lre:ThingWithTopic .
 
 lre:Venue a owl:Class ;
     rdfs:label "Venue" ;
@@ -70,7 +64,6 @@ lre:publishedIn a owl:ObjectProperty ;
 
 lre:hasTopic a owl:ObjectProperty ;
     rdfs:label "hasTopic" ;
-    rdfs:domain lre:ThingWithTopic ;
     rdfs:range  lre:Topic .
 
 lre:inYear a owl:ObjectProperty ;
@@ -94,3 +87,17 @@ lre:source a owl:DatatypeProperty ;
     rdfs:label "source" ;
     rdfs:domain lre:Venue ;
     rdfs:range  xsd:string .
+
+dcterms:title a owl:DatatypeProperty ;
+    rdfs:label "title" ;
+    rdfs:range  xsd:string .
+
+foaf:name a owl:DatatypeProperty;
+    rdfs:label "name" ;
+    rdfs:domain lre:Researcher;
+    rdfs:range xsd:string
+
+lre:url a owl:DatatypeProperty ;
+    rdfs:label "url"
+    rdfs:domain lre:Publication ;
+    rdfs:range xsd:string .

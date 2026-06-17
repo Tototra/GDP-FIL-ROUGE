@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alexandre Duret-Lutz" pid="43/6032" n="56">
+<dblpperson name="Alexandre Duret-Lutz" pid="43/6032" n="57">
 <person key="homepages/43/6032" mdate="2024-09-08">
 <author pid="43/6032">Alexandre Duret-Lutz</author>
 <url>https://orcid.org/0000-0002-6623-2512</url>
@@ -23,6 +23,23 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2604.26688</ee>
 <url>db/journals/corr/corr2604.html#abs-2604-26688</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2605-12372" mdate="2026-06-08">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="42/2563">Marcin Jurdzinski</author>
+<author pid="p/NPiterman">Nir Piterman</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<author pid="141/7718-1">Shufang Zhu 0001</author>
+<title>Fast Obligation Translation and Synthesis.</title>
+<year>2026</year>
+<month>May</month>
+<volume>abs/2605.12372</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2605.12372</ee>
+<url>db/journals/corr/corr2605.html#abs-2605-12372</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -852,7 +869,7 @@
 <url>db/conf/icpr/icpr2000-4.html#GeraudFD00</url>
 </inproceedings>
 </r>
-<coauthors n="82" nc="2">
+<coauthors n="83" nc="2">
 <co c="0"><na f="a/Abraham:Remco" pid="322/0023">Remco Abraham</na></co>
 <co c="0"><na f="a/Aisse:Alexandre_Gbaguidi" pid="326/0184">Alexandre Gbaguidi Aisse</na></co>
 <co c="0"><na f="a/Alon:Nadav" pid="435/9892">Nadav Alon</na></co>
@@ -885,6 +902,7 @@
 <co c="0"><na f="g/Giacomo:Giuseppe_De" pid="g/GDGiacomo">Giuseppe De Giacomo</na></co>
 <co c="0"><na f="g/Gillard:Cl=eacute=ment" pid="322/9514">Cl&#233;ment Gillard</na></co>
 <co c="0"><na f="j/Jacobs:Swen" pid="73/6880">Swen Jacobs</na></co>
+<co c="0"><na f="j/Jurdzinski:Marcin" pid="42/2563">Marcin Jurdzinski</na></co>
 <co c="0"><na f="k/Khalimov_0001:Ayrat" pid="124/8925">Ayrat Khalimov 0001</na></co>
 <co c="0" n="2"><na f="k/Klai:Ka=iuml=s" pid="06/1858">Ka&#239;s Klai</na><na>Kais Klai</na></co>
 <co c="0"><na f="k/Klein_0001:Felix" pid="80/8313-1">Felix Klein 0001</na></co>

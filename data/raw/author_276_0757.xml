@@ -1,8 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Florian Renkin" pid="276/0757" n="12">
+<dblpperson name="Florian Renkin" pid="276/0757" n="13">
 <person key="homepages/276/0757" mdate="2020-10-13">
 <author pid="276/0757">Florian Renkin</author>
 </person>
+<r><article key="journals/sttt/RinoFRA26" mdate="2026-06-02">
+<author pid="323/8041">Neha Rino</author>
+<author pid="188/4770">Mohammed Foughali</author>
+<author pid="276/0757">Florian Renkin</author>
+<author pid="12/4673">Eugene Asarin</author>
+<title>Efficiently computable temporal robustness for a practical STL fragment.</title>
+<year>2026</year>
+<month>February</month>
+<pages>71-103</pages>
+<volume>28</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10009-026-00852-2</ee>
+<url>db/journals/sttt/sttt28.html#RinoFRA26</url>
+<stream>streams/journals/sttt</stream>
+</article>
+</r>
 <r><article key="journals/sttt/JacobsPABCCDDDFFKKLMMPR24" mdate="2026-03-05">
 <author pid="73/6880">Swen Jacobs</author>
 <author orcid="0000-0002-1200-4952" pid="135/6266">Guillermo A. P&#233;rez</author>
@@ -223,9 +240,10 @@
 <url>db/conf/atva/atva2020.html#RenkinDP20</url>
 </inproceedings>
 </r>
-<coauthors n="32" nc="1">
+<coauthors n="35" nc="2">
 <co c="0"><na f="a/Abraham:Remco" pid="322/0023">Remco Abraham</na></co>
 <co c="0"><na f="a/Aisse:Alexandre_Gbaguidi" pid="326/0184">Alexandre Gbaguidi Aisse</na></co>
+<co c="1"><na f="a/Asarin:Eugene" pid="12/4673">Eugene Asarin</na></co>
 <co c="0"><na f="b/Bruy=egrave=re:V=eacute=ronique" pid="b/VeroniqueBruyere">V&#233;ronique Bruy&#232;re</na></co>
 <co c="0"><na f="c/Cadilhac:Micha=euml=l" pid="54/2541">Micha&#235;l Cadilhac</na></co>
 <co c="0"><na f="c/Casares:Antonio" pid="279/6559">Antonio Casares</na></co>
@@ -236,6 +254,7 @@
 <co c="0"><na f="d/Duret=Lutz:Alexandre" pid="43/6032">Alexandre Duret-Lutz</na></co>
 <co c="0"><na f="f/Faymonville:Peter" pid="05/7445">Peter Faymonville</na></co>
 <co c="0"><na f="f/Finkbeiner:Bernd" pid="73/4443">Bernd Finkbeiner</na></co>
+<co c="1"><na f="f/Foughali:Mohammed" pid="188/4770">Mohammed Foughali</na></co>
 <co c="0"><na f="g/Gillard:Cl=eacute=ment" pid="322/9514">Cl&#233;ment Gillard</na></co>
 <co c="0"><na f="j/Jacobs:Swen" pid="73/6880">Swen Jacobs</na></co>
 <co c="0"><na f="k/Khalimov_0001:Ayrat" pid="124/8925">Ayrat Khalimov 0001</na></co>
@@ -249,6 +268,7 @@
 <co c="0"><na f="p/P=eacute=rez:Guillermo_A=" pid="135/6266">Guillermo A. P&#233;rez</na></co>
 <co c="0"><na f="p/Pommellet:Adrien" pid="125/0224">Adrien Pommellet</na></co>
 <co c="0"><na f="r/Renault:Etienne" pid="41/9726">Etienne Renault</na></co>
+<co c="1"><na f="r/Rino:Neha" pid="323/8041">Neha Rino</na></co>
 <co c="0"><na f="s/Sakr:Mouhammad" pid="203/8091">Mouhammad Sakr</na></co>
 <co c="0" n="2"><na f="s/Schlehuber=Caissier:Philipp" pid="158/9158">Philipp Schlehuber-Caissier</na><na>Philipp Schlehuber</na></co>
 <co c="0"><na f="s/Sickert:Salomon" pid="129/1369">Salomon Sickert</na></co>

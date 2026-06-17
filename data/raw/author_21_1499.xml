@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Thierry G&#233;raud" pid="21/1499" n="110">
+<dblpperson name="Thierry G&#233;raud" pid="21/1499" n="111">
 <person key="homepages/21/1499" mdate="2022-11-26">
 <author pid="21/1499">Thierry G&#233;raud</author>
 <url>https://zbmath.org/authors/?q=ai:geraud.thierry</url>
@@ -26,6 +26,24 @@
 <url>db/journals/tmi/tmi45.html#GuTLWGDX26</url>
 <stream>streams/journals/tmi</stream>
 </article>
+</r>
+<r><inproceedings key="conf/isbi/DuboscFABCAG26" mdate="2026-05-27">
+<author pid="423/5449">Marius Dubosc</author>
+<author pid="423/6143">Yann Fischer</author>
+<author pid="423/5843">Zacharie Auray</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="97/8035">Michael Atlan</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Improving Segmentation of Retinal Arteries and Veins Using Cardiac Signal in Doppler Holograms.</title>
+<booktitle>ISBI</booktitle>
+<year>2026</year>
+<pages>1-5</pages>
+<crossref>conf/isbi/2026</crossref>
+<ee>https://doi.org/10.1109/ISBI61048.2026.11515426</ee>
+<url>db/conf/isbi/isbi2026.html#DuboscFABCAG26</url>
+<stream>streams/conf/isbi</stream>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/icassp/ZhengHYZZXG25" mdate="2025-07-07">
 <author pid="370/7474">Weixi Zheng</author>
@@ -469,7 +487,7 @@
 <url>db/conf/iwcia/iwcia2020.html#BoutryGNG20</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2004-12314" mdate="2026-05-06">
+<r><article publtype="informal" key="journals/corr/abs-2004-12314" mdate="2026-06-15">
 <author pid="217/2319">Zhaohan Xiong</author>
 <author pid="62/2726-2">Qing Xia 0002</author>
 <author pid="40/3396">Zhiqiang Hu</author>
@@ -511,7 +529,7 @@
 <author pid="18/665">Qian Tao</author>
 <author pid="163/9787">Marta Nu&#241;ez Garcia</author>
 <author pid="20/3217">Oscar Camara 0001</author>
-<author pid="223/4097">Nicol&#243; Savioli</author>
+<author pid="223/4097">Nicol&#242; Savioli</author>
 <author pid="42/1947">Pablo Lamata</author>
 <author pid="87/5278">Jichao Zhao</author>
 <title>A Global Benchmark of Algorithms for Segmenting Late Gadolinium-Enhanced Cardiac Magnetic Resonance Imaging.</title>
@@ -1732,7 +1750,7 @@
 <co c="0"><na f="r/Rivet:Julie" pid="244/7883">Julie Rivet</na></co>
 <co c="0"><na f="r/Roynard:Micha=euml=l" pid="243/7347">Micha&#235;l Roynard</na></co>
 <co c="0"><na f="r/Rueckert:Daniel" pid="69/2478">Daniel Rueckert</na></co>
-<co c="0"><na f="s/Savioli:Nicol=oacute=" pid="223/4097">Nicol&#243; Savioli</na></co>
+<co c="0"><na f="s/Savioli:Nicol=ograve=" pid="223/4097">Nicol&#242; Savioli</na></co>
 <co c="0"><na f="s/Sermesant:Maxime" pid="92/5704">Maxime Sermesant</na></co>
 <co c="0"><na f="s/Shi:Tianyi" pid="136/9778">Tianyi Shi</na></co>
 <co c="0"><na f="s/Si:Weixin" pid="49/9062">Weixin Si</na></co>

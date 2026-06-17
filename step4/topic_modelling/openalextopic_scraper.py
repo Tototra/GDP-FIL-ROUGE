@@ -1,3 +1,8 @@
+"""
+This file allows us to request the OpenAlex's API to get the different
+research topics, and store it in 'data/openalex_taxonomy.json' file as
+a lookup table.
+"""
 import requests
 import json
 

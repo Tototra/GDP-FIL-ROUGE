@@ -51,6 +51,7 @@ def _decode_team(raw: str) -> str:
 
 
 def _parse_queries(text: str) -> list[tuple[str, str]]:
+    """Split queries.rq into (title, full_sparql) pairs."""
     blocks = []
     pattern = re.compile(r"(#\s*Q\d+[^\n]*\n)(.*?)(?=\n#\s*Q\d+|\Z)", re.DOTALL)
     for m in pattern.finditer(text):

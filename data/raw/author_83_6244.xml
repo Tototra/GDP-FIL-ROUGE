@@ -3,8 +3,8 @@
 <person key="homepages/83/6244" mdate="2009-06-10">
 <author pid="83/6244">Pierre Parrend</author>
 </person>
-<r><inproceedings key="conf/evoapps/VialatouxP26" mdate="2026-05-14">
-<author pid="394/8770">C&#244;me Frapp&#233; Vialatoux</author>
+<r><inproceedings key="conf/evoapps/VialatouxP26" mdate="2026-06-03">
+<author orcid="0009-0000-9787-2638" pid="394/8770">C&#244;me Frapp&#233; Vialatoux</author>
 <author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
 <title>Hybrid Evolutionary-ML Surrogate Models for Cyber-Attack Detection in Water Distribution Networks.</title>
 <booktitle>EvoApplications</booktitle>

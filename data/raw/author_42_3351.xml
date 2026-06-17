@@ -1,8 +1,21 @@
 <?xml version="1.0"?>
-<dblpperson name="Ludovic Perret" pid="42/3351" n="113">
+<dblpperson name="Ludovic Perret" pid="42/3351" n="114">
 <person key="homepages/42/3351" mdate="2009-06-10">
 <author pid="42/3351">Ludovic Perret</author>
 </person>
+<r><inproceedings key="conf/asiaccs/EspieMP26" mdate="2026-06-09">
+<author pid="87/4881">Marc Espie</author>
+<author pid="437/5595">Hugo Mayer</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>A Differentiated Approach for Post-Quantum DNSSEC.</title>
+<pages>489-501</pages>
+<year>2026</year>
+<booktitle>AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/3779208.3805967</ee>
+<crossref>conf/asiaccs/2026</crossref>
+<url>db/conf/asiaccs/asiaccs2026.html#EspieMP26</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/iacr/HorkosP26" mdate="2026-03-21">
 <author pid="429/8466">Dayane Horkos</author>
 <author pid="42/3351">Ludovic Perret</author>
@@ -1589,7 +1602,7 @@
 <url>db/conf/indocrypt/indocrypt2003.html#Levy-dit-VehelP03</url>
 </inproceedings>
 </r>
-<coauthors n="82" nc="2">
+<coauthors n="84" nc="3">
 <co c="0"><na f="a/Albrecht:Martin_R=" pid="92/7397">Martin R. Albrecht</na></co>
 <co c="0"><na f="a/Armknecht:Frederik" pid="65/6856">Frederik Armknecht</na></co>
 <co c="0"><na f="a/Augot:Daniel" pid="85/3827">Daniel Augot</na></co>
@@ -1606,6 +1619,7 @@
 <co c="0"><na f="d/D=iacute=az:Ra=uacute=l_Dur=aacute=n" pid="84/3288">Ra&#250;l Dur&#225;n D&#237;az</na></co>
 <co c="0"><na f="d/Dullien:Thomas" pid="17/9961">Thomas Dullien</na></co>
 <co c="0"><na f="e/Encinas:Luis_Hern=aacute=ndez" pid="58/6004">Luis Hern&#225;ndez Encinas</na></co>
+<co c="2"><na f="e/Espie:Marc" pid="87/4881">Marc Espie</na></co>
 <co c="0"><na f="f/Farshim:Pooya" pid="64/5418">Pooya Farshim</na></co>
 <co c="0"><na f="f/Faug=egrave=re:Jean=Charles" pid="08/1571">Jean-Charles Faug&#232;re</na></co>
 <co c="1"><na f="f/Fazio:Nelly" pid="98/3299">Nelly Fazio</na></co>
@@ -1638,6 +1652,7 @@
 <co c="0"><na f="m/Malhou:Mohamed" pid="342/2793">Mohamed Malhou</na></co>
 <co c="0"><na f="m/Marinari:Maria_Grazia" pid="14/1433">Maria Grazia Marinari</na></co>
 <co c="0"><na f="m/Markovski:Smile" pid="71/5912">Smile Markovski</na></co>
+<co c="2"><na f="m/Mayer:Hugo" pid="437/5595">Hugo Mayer</na></co>
 <co c="0"><na f="m/Monetta:Carmine" pid="358/2840">Carmine Monetta</na></co>
 <co c="0"><na f="m/Mora:Teo" pid="06/1536">Teo Mora</na></co>
 <co c="1"><na f="n/Nicolosi:Antonio" pid="58/1326">Antonio Nicolosi</na></co>

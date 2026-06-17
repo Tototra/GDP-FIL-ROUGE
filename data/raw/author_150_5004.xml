@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Nicolas Boutry" pid="150/5004" n="61">
+<dblpperson name="Nicolas Boutry" pid="150/5004" n="62">
 <person key="homepages/150/5004" mdate="2025-01-10">
 <author pid="150/5004">Nicolas Boutry</author>
 <url>https://orcid.org/0000-0001-6278-4638</url>
@@ -17,6 +17,24 @@
 <url>db/journals/tmlr/tmlr2026.html#RodriguesBN26</url>
 <stream>streams/journals/tmlr</stream>
 </article>
+</r>
+<r><inproceedings key="conf/isbi/DuboscFABCAG26" mdate="2026-05-27">
+<author pid="423/5449">Marius Dubosc</author>
+<author pid="423/6143">Yann Fischer</author>
+<author pid="423/5843">Zacharie Auray</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="97/8035">Michael Atlan</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Improving Segmentation of Retinal Arteries and Veins Using Cardiac Signal in Doppler Holograms.</title>
+<booktitle>ISBI</booktitle>
+<year>2026</year>
+<pages>1-5</pages>
+<crossref>conf/isbi/2026</crossref>
+<ee>https://doi.org/10.1109/ISBI61048.2026.11515426</ee>
+<url>db/conf/isbi/isbi2026.html#DuboscFABCAG26</url>
+<stream>streams/conf/isbi</stream>
+</inproceedings>
 </r>
 <r><article publtype="software" key="journals/softx/JaberMBP25" mdate="2025-10-14">
 <author pid="381/5988">Majed Jaber</author>
