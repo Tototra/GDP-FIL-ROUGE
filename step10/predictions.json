@@ -1,122 +1,122 @@
 [
   {
-    "name_a": "Baptiste Esteban",
+    "name_a": "Alexandre Duret-Lutz",
     "name_b": "Jim E. Newton",
-    "score": -3.1967,
+    "score": -2.9347,
     "model": "RotatE"
   },
   {
-    "name_a": "Alexandre Duret-Lutz",
-    "name_b": "Jim E. Newton",
-    "score": -3.259,
+    "name_a": "Didier Verna",
+    "name_b": "Thierry Géraud",
+    "score": -2.9362,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Thierry Géraud",
+    "name_b": "Gonzalo Romero-Garcia",
+    "score": -2.9606,
     "model": "RotatE"
   },
   {
     "name_a": "Baptiste Esteban",
     "name_b": "Nicolas Boutry",
-    "score": -3.2868,
+    "score": -2.961,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Jim E. Newton",
+    "name_b": "Baptiste Esteban",
+    "score": -2.9773,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Élodie Puybareau",
+    "name_b": "Baptiste Esteban",
+    "score": -3.0147,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Gonzalo Romero-Garcia",
+    "name_b": "Jonathan Fabrizio",
+    "score": -3.0384,
     "model": "RotatE"
   },
   {
     "name_a": "Baptiste Esteban",
-    "name_b": "Élodie Puybareau",
-    "score": -3.295,
+    "name_b": "Joseph Chazalon",
+    "score": -3.1316,
     "model": "RotatE"
   },
   {
     "name_a": "Didier Verna",
-    "name_b": "Thierry Géraud",
-    "score": -3.3581,
+    "name_b": "Élodie Puybareau",
+    "score": -3.1427,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Didier Verna",
+    "name_b": "Adrien Pommellet",
+    "score": -3.1563,
     "model": "RotatE"
   },
   {
     "name_a": "Baptiste Esteban",
     "name_b": "Jonathan Fabrizio",
-    "score": -3.3844,
+    "score": -3.1666,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Didier Verna",
+    "name_b": "Nicolas Boutry",
+    "score": -3.1789,
     "model": "RotatE"
   },
   {
     "name_a": "Jim E. Newton",
     "name_b": "Florian Renkin",
-    "score": -3.3949,
+    "score": -3.1809,
     "model": "RotatE"
   },
   {
     "name_a": "Joseph Chazalon",
-    "name_b": "Baptiste Esteban",
-    "score": -3.5015,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Alexandre Duret-Lutz",
     "name_b": "Didier Verna",
-    "score": -3.5057,
+    "score": -3.187,
     "model": "RotatE"
   },
   {
-    "name_a": "Gonzalo Romero-Garcia",
-    "name_b": "Réda Dehak",
-    "score": -3.5156,
+    "name_a": "Adrien Pommellet",
+    "name_b": "Narjes Ben Rajeb",
+    "score": -3.1954,
     "model": "RotatE"
   },
   {
-    "name_a": "Didier Verna",
-    "name_b": "Joseph Chazalon",
-    "score": -3.5472,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Narjes Ben Rajeb",
-    "name_b": "Adrien Pommellet",
-    "score": -3.5765,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Jim E. Newton",
-    "name_b": "Edwin Carlinet",
-    "score": -3.6036,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Jimmy Randrianasoa",
-    "name_b": "Jonathan Fabrizio",
-    "score": -3.6036,
+    "name_a": "Idir Benouaret",
+    "name_b": "Lamine Diop",
+    "score": -3.208,
     "model": "RotatE"
   },
   {
     "name_a": "Didier Verna",
-    "name_b": "Adrien Pommellet",
-    "score": -3.6207,
+    "name_b": "Alexandre Duret-Lutz",
+    "score": -3.2206,
+    "model": "RotatE"
+  },
+  {
+    "name_a": "Nicolas Boutry",
+    "name_b": "Gonzalo Romero-Garcia",
+    "score": -3.2271,
     "model": "RotatE"
   },
   {
     "name_a": "Réda Dehak",
-    "name_b": "Walid Ghandour",
-    "score": -3.6291,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Jim E. Newton",
-    "name_b": "Thierry Géraud",
-    "score": -3.6497,
+    "name_b": "Gonzalo Romero-Garcia",
+    "score": -3.2377,
     "model": "RotatE"
   },
   {
     "name_a": "Jonathan Fabrizio",
     "name_b": "Didier Verna",
-    "score": -3.6965,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Edwin Carlinet",
-    "name_b": "Alexandre Duret-Lutz",
-    "score": -3.6979,
-    "model": "RotatE"
-  },
-  {
-    "name_a": "Ghiles Ziat",
-    "name_b": "Florian Renkin",
-    "score": -3.7045,
+    "score": -3.2477,
     "model": "RotatE"
   }
 ]

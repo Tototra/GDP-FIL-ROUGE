@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+<dblpperson name="Edwin Carlinet" pid="123/4711" n="50">
+<person key="homepages/123/4711" mdate="2025-11-26">
+<author pid="123/4711">Edwin Carlinet</author>
+<url>https://orcid.org/0000-0001-5737-5266</url>
+</person>
+<r><article key="journals/roia/TualADCC25" mdate="2025-12-22">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>Cr&#233;ation d'un graphe de connaissances g&#233;ohistorique &#224; partir d'annuaires du commerce parisien du X I X e si&#232;cle : application aux m&#233;tiers de la photographie.</title>
+<pages>179-200</pages>
+<year>2025</year>
+<volume>6</volume>
+<journal>Rev. Ouverte Intell. Artif.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.5802/roia.98</ee>
+<url>db/journals/roia/roia6.html#TualADCC25</url>
+<stream>streams/journals/roia</stream>
+</article>
+</r>
+<r><article key="journals/tip/CarlinetKB25" mdate="2025-08-05">
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0009-0006-6445-7255" pid="411/7530">Quentin Kaci</author>
+<author orcid="0009-0004-2951-6059" pid="247/4361">Nicolas Blin</author>
+<title>An Alpha-Tree Algorithm for Massively Parallel Architectures.</title>
+<pages>4402-4413</pages>
+<year>2025</year>
+<volume>34</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2025.3586495</ee>
+<url>db/journals/tip/tip34.html#CarlinetKB25</url>
+<stream>streams/journals/tip</stream>
+</article>
+</r>
+<r><inproceedings key="conf/dgmm/RomeroGarciaMC25" mdate="2025-11-15">
+<author orcid="0000-0003-1971-6204" pid="321/7746">Gonzalo Romero-Garc&#237;a</author>
+<author pid="419/6833">Alberto Mart&#237;n-Izquierdo</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>Spectrogram Denoising by Filtering Max-Trees.</title>
+<pages>224-236</pages>
+<year>2025</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-09544-2_16</ee>
+<crossref>conf/dgmm/2025</crossref>
+<url>db/conf/dgmm/dgmm2025.html#RomeroGarciaMC25</url>
+<stream>streams/conf/dgmm</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/CarlinetE25" mdate="2025-11-15">
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<title>The Tree of Shapes as a Distance Transform: Building the ToS on High-Dynamic Range Images.</title>
+<pages>303-314</pages>
+<year>2025</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-09544-2_22</ee>
+<crossref>conf/dgmm/2025</crossref>
+<url>db/conf/dgmm/dgmm2025.html#CarlinetE25</url>
+<stream>streams/conf/dgmm</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/LinTLJCWCCPADCLSZDPVKLB25" mdate="2025-10-15">
+<author orcid="0000-0002-0815-9636" pid="210/8162-1">Yijun Lin 0001</author>
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-9603-9329" pid="150/2008-7">Zekun Li 0007</author>
+<author orcid="0009-0006-5087-0225" pid="350/4998">Leeje Jang</author>
+<author orcid="0000-0002-8923-0130" pid="39/2145">Yao-Yi Chiang</author>
+<author orcid="0000-0002-2247-8174" pid="50/2682">Jerod J. Weinman</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-1685-783X" pid="176/7085">Ta-Chien Chan</author>
+<author pid="374/7164">Hsiung-Ming Liao</author>
+<author pid="415/5923">Wen-Rong Su</author>
+<author pid="353/2412">Mengjie Zou</author>
+<author pid="346/6027">Tianhao Dai</author>
+<author orcid="0000-0001-9138-6727" pid="284/2661">R&#233;mi Petitpierre</author>
+<author orcid="0000-0002-2379-2974" pid="333/4236">Beatrice Vaienti</author>
+<author orcid="0000-0002-6991-5730" pid="66/3345">Fr&#233;d&#233;ric Kaplan</author>
+<author orcid="0000-0002-1747-9164" pid="185/7844">Isabella di Lenardo</author>
+<author orcid="0000-0001-7001-4641" pid="130/0386">Youngmin Baek</author>
+<author pid="70/4243">Michael Hentschel</author>
+<author orcid="0000-0002-5837-8212" pid="254/2883">Yu Nakagome</author>
+<author pid="415/6289">Ichimura Shuta</author>
+<author pid="219/6854">Jeongtae Lee</author>
+<author orcid="0000-0002-9166-2100" pid="169/6632">Chankyu Choi</author>
+<title>ICDAR 2025 Competition on Historical Map Text Detection, Recognition, and Linking.</title>
+<pages>568-585</pages>
+<year>2025</year>
+<booktitle>ICDAR (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04630-7_33</ee>
+<crossref>conf/icdar/2025-5</crossref>
+<url>db/conf/icdar/icdar2025-5.html#LinTLJCWCCPADCLSZDPVKLB25</url>
+<stream>streams/conf/icdar</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2511-14654" mdate="2026-01-14">
+<author pid="423/5449">Marius Dubosc</author>
+<author pid="423/6143">Yann Fischer</author>
+<author pid="423/5843">Zacharie Auray</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="97/8035">Michael Atlan</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Improving segmentation of retinal arteries and veins using cardiac signal in doppler holograms.</title>
+<year>2025</year>
+<month>November</month>
+<volume>abs/2511.14654</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2511.14654</ee>
+<url>db/journals/corr/corr2511.html#abs-2511-14654</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pr/NgocCFG23" mdate="2023-05-01">
+<author orcid="0000-0003-1758-0673" pid="221/8949">Minh On Vu Ngoc</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0003-1494-286X" pid="90/2799">Jonathan Fabrizio</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>The Dahu graph-cut for interactive segmentation on 2D/3D images.</title>
+<pages>109207</pages>
+<year>2023</year>
+<month>April</month>
+<volume>136</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2022.109207</ee>
+<url>db/journals/pr/pr136.html#NgocCFG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/caip/EstebanTCV23" mdate="2023-10-14">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Structural Analysis of the Additive Noise Impact on the &#945; -tree.</title>
+<pages>223-232</pages>
+<year>2023</year>
+<booktitle>CAIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-44240-7_22</ee>
+<crossref>conf/caip/2023-2</crossref>
+<url>db/conf/caip/caip2023-2.html#EstebanTCV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-ic/TualADCC23" mdate="2023-07-07">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>Cr&#233;ation d'un graphe de connaissances g&#233;ohistorique &#224; partir d'annuaires du commerce parisien du 19&#232;me si&#232;cle: application aux m&#233;tiers de la photographie.</title>
+<pages>9-14</pages>
+<year>2023</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2023</crossref>
+<url>db/conf/f-ic/ic2023.html#TualADCC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/TualACDC23" mdate="2023-08-31">
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents.</title>
+<pages>115-131</pages>
+<year>2023</year>
+<booktitle>ICDAR (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-41682-8_8</ee>
+<crossref>conf/icdar/2023-3</crossref>
+<url>db/conf/icdar/icdar2023-3.html#TualACDC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/BernetCCBP23" mdate="2023-09-14">
+<author orcid="0000-0002-3343-6631" pid="348/6676">Philippe Bernet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0009-0004-0689-6220" pid="348/6848">Alexandre Bourquelot</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images Using Multiple Object Tracking.</title>
+<pages>454-471</pages>
+<year>2023</year>
+<booktitle>ICDAR (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-41734-4_28</ee>
+<crossref>conf/icdar/2023-5</crossref>
+<url>db/conf/icdar/icdar2023-5.html#BernetCCBP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08948" mdate="2023-02-23">
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>Entry Separation using a Mixed Visual and Textual Language Model: Application to 19th century French Trade Directories.</title>
+<year>2023</year>
+<volume>abs/2302.08948</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08948</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-10204" mdate="2023-02-23">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents.</title>
+<year>2023</year>
+<volume>abs/2302.10204</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.10204</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-10204</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16968" mdate="2023-06-07">
+<author pid="348/6676">Philippe Bernet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="348/6848">Alexandre Bourquelot</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images using Multiple Object Tracking.</title>
+<year>2023</year>
+<volume>abs/2305.16968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16968</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16968</url>
+</article>
+</r>
+<r><article key="journals/tpds/BlinCLLG22" mdate="2022-07-25">
+<author pid="247/4361">Nicolas Blin</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author pid="195/3071">Florian Lemaitre</author>
+<author pid="81/3164">Lionel Lacassagne</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Max-Tree Computation on GPUs.</title>
+<pages>3520-3531</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TPDS.2022.3158488</ee>
+<url>db/journals/tpds/tpds33.html#BlinCLLG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/das/AbadieCCD22" mdate="2022-06-13">
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dumenieu</author>
+<title>A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19<sup>th</sup> Century French Directories.</title>
+<pages>445-460</pages>
+<year>2022</year>
+<booktitle>DAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-06555-2_30</ee>
+<crossref>conf/das/2022</crossref>
+<url>db/conf/das/das2022.html#AbadieCCD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/RoynardCG22" mdate="2025-01-19">
+<author pid="243/7347">Micha&#235;l Roynard</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A Modern C++ Point of View of Programming in Image Processing.</title>
+<pages>164-171</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568692</ee>
+<ee>https://www.wikidata.org/entity/Q130986954</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#RoynardCG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/EstebanCTV22" mdate="2023-09-30">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="06/2458">Didier Verna</author>
+<title>The Cost of Dynamism in Static Languages for Image Processing.</title>
+<pages>172-178</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568693</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#EstebanCTV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/EstebanTCV22" mdate="2024-10-06">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Estimation of the noise level function for color images using mathematical morphology and non-parametric statistics.</title>
+<pages>428-434</pages>
+<year>2022</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR56361.2022.9956218</ee>
+<crossref>conf/icpr/2022</crossref>
+<url>db/conf/icpr/icpr2022.html#EstebanTCV22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-05109" mdate="2022-10-02">
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="130/1624">S&#233;bastien Crozet</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>A Proof of the Tree of Shapes in n-D.</title>
+<year>2022</year>
+<volume>abs/2206.05109</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.05109</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-05109</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/NgocCBCCMG21" mdate="2026-03-24">
+<author pid="221/8949">Minh On Vu Ngoc</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Introducing the Boundary-Aware loss for deep image segmentation.</title>
+<publnr>215</publnr>
+<year>2021</year>
+<booktitle>BMVC</booktitle>
+<ee type="archive">https://www.bmvc2021-virtualconference.com/assets/papers/1546.pdf</ee>
+<crossref>conf/bmvc/2021</crossref>
+<url>db/conf/bmvc/bmvc2021.html#NgocCBCCMG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/ChenCCMDP21" mdate="2021-07-25">
+<author pid="250/4440">Yizi Chen</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation.</title>
+<pages>79-92</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_5</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#ChenCCMDP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonC21" mdate="2021-09-16">
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>Revisiting the Coco Panoptic Metric to Enable Visual and Qualitative Analysis of Historical Map Instance Segmentation.</title>
+<pages>367-382</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_25</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChazalonC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChenCCMDP21" mdate="2021-09-20">
+<author orcid="0000-0003-1637-0092" pid="250/4440">Yizi Chen</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2675-165X" pid="26/8109">Cl&#233;ment Mallet</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Vectorization of Historical Maps Using Deep Edge Filtering and Closed Shape Extraction.</title>
+<pages>510-525</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_34</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChenCCMDP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonCCPDMGN21" mdate="2021-09-24">
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0003-1637-0092" pid="250/4440">Yizi Chen</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-2675-165X" pid="26/8109">Cl&#233;ment Mallet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0003-2271-6918" pid="20/2617">Vincent Nguyen 0001</author>
+<author pid="47/6264">Nam Nguyen</author>
+<author orcid="0000-0003-1923-5355" pid="286/7366">Josef Baloun</author>
+<author orcid="0000-0002-1066-7269" pid="19/9854">Ladislav Lenc</author>
+<author orcid="0000-0002-3096-675X" pid="50/4970">Pavel Kr&#225;l</author>
+<title>ICDAR 2021 Competition on Historical Map Segmentation.</title>
+<pages>693-707</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_46</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChazalonCCPDMGN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-02144" mdate="2021-07-25">
+<author pid="250/4440">Yizi Chen</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation.</title>
+<year>2021</year>
+<volume>abs/2101.02144</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.02144</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-02144</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13265" mdate="2021-09-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="79/5311">Julien Perret</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="20/2617">Vincent Nguyen 0001</author>
+<author pid="47/6264">Nam Nguyen</author>
+<author pid="286/7366">Josef Baloun</author>
+<author pid="19/9854">Ladislav Lenc</author>
+<author pid="50/4970">Pavel Kr&#225;l</author>
+<title>ICDAR 2021 Competition on Historical Map Segmentation.</title>
+<year>2021</year>
+<volume>abs/2105.13265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13265</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13265</url>
+</article>
+</r>
+<r><inproceedings key="conf/ismm/CarlinetG19" mdate="2019-06-19">
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Introducing Multivariate Connected Openings and Closings.</title>
+<pages>215-227</pages>
+<year>2019</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20867-7_17</ee>
+<crossref>conf/ismm/2019</crossref>
+<url>db/conf/ismm/ismm2019.html#CarlinetG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/PuybareauCBT19" mdate="2024-08-04">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="158/9578">Alessandro Benfenati</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<title>Spherical Fluorescent Particle Segmentation and Tracking in 3D Confocal Microscopy.</title>
+<pages>520-531</pages>
+<year>2019</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20867-7_40</ee>
+<crossref>conf/ismm/2019</crossref>
+<url>db/conf/ismm/ismm2019.html#PuybareauCBT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CarlinetCG18" mdate="2018-09-11">
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="130/1624">S&#233;bastien Crozet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>The Tree of Shapes Turned into a Max-Tree: A Simple and Efficient Linear Algorithm.</title>
+<pages>1488-1492</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451180</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#CarlinetCG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/CarlinetG18" mdate="2019-03-21">
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Intervertebral Disc Segmentation Using Mathematical Morphology - A CNN-Free Approach.</title>
+<pages>105-118</pages>
+<year>2018</year>
+<booktitle>CSI@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-13736-6_9</ee>
+<crossref>conf/miccai/2018csi</crossref>
+<url>db/conf/miccai/csi2018.html#CarlinetG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/PuybareauZKCXLG18" mdate="2019-03-05">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="236/7950">Younes Khoudli</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="236/7755">J&#233;r&#244;me Lacotte</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Left Atrial Segmentation in a Few Seconds Using Fully Convolutional Network and Transfer Learning.</title>
+<pages>339-347</pages>
+<year>2018</year>
+<booktitle>STACOM@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12029-0_37</ee>
+<crossref>conf/miccai/2018stacom</crossref>
+<url>db/conf/miccai/stacom2018.html#PuybareauZKCXLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rrpr/RoynardCG18" mdate="2022-10-02">
+<author orcid="0000-0001-8469-4131" pid="243/7347">Micha&#235;l Roynard</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>An Image Processing Library in Modern C++: Getting Simplicity and Efficiency with Generic Programming.</title>
+<pages>121-137</pages>
+<year>2018</year>
+<booktitle>RRPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-23987-9_12</ee>
+<crossref>conf/rrpr/2018</crossref>
+<url>db/conf/rrpr/rrpr2018.html#RoynardCG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/XuCGN17" mdate="2020-05-30">
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Hierarchical Segmentation Using Tree-Based Shape Spaces.</title>
+<pages>457-469</pages>
+<year>2017</year>
+<volume>39</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPAMI.2016.2554550</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2016.2554550</ee>
+<ee>https://www.wikidata.org/entity/Q89272307</ee>
+<url>db/journals/pami/pami39.html#XuCGN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ismm/GeraudXCB17" mdate="2017-09-16">
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<title>Introducing the Dahu Pseudo-Distance.</title>
+<pages>55-67</pages>
+<year>2017</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57240-6_5</ee>
+<crossref>conf/ismm/2017</crossref>
+<url>db/conf/ismm/ismm2017.html#GeraudXCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/CavallaroMCGFB16" mdate="2024-05-07">
+<author orcid="0000-0002-3239-9904" pid="19/7252">Gabriele Cavallaro</author>
+<author orcid="0000-0002-9656-9087" pid="85/8964">Mauro Dalla Mura</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0003-3307-6098" pid="121/8070">Nicola Falco</author>
+<author orcid="0000-0003-0621-9647" pid="79/3767">J&#243;n Atli Benediktsson</author>
+<title>Region-based classification of remote sensing images with the morphological tree of shapes.</title>
+<pages>5087-5090</pages>
+<year>2016</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2016.7730326</ee>
+<ee>https://www.wikidata.org/entity/Q61451618</ee>
+<crossref>conf/igarss/2016</crossref>
+<url>db/conf/igarss/igarss2016.html#CavallaroMCGFB16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Carlinet15" mdate="2020-07-21">
+<author pid="123/4711">Edwin Carlinet</author>
+<title>A Tree of shapes for multivariate images. (Un arbre des formes pour les images multivari&#233;es).</title>
+<year>2015</year>
+<school>University of Paris-Est, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01280131</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tip/CarlinetG15" mdate="2020-05-10">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>MToS: A Tree of Shapes for Multivariate Images.</title>
+<pages>5330-5342</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TIP.2015.2480599</ee>
+<ee>https://www.wikidata.org/entity/Q40490873</ee>
+<url>db/journals/tip/tip24.html#CarlinetG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipta/CarlinetG15" mdate="2017-06-15">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Morphological object picking based on the color tree of shapes.</title>
+<pages>125-130</pages>
+<year>2015</year>
+<booktitle>IPTA</booktitle>
+<ee>https://doi.org/10.1109/IPTA.2015.7367111</ee>
+<crossref>conf/ipta/2015</crossref>
+<url>db/conf/ipta/ipta2015.html#CarlinetG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/CarlinetG15" mdate="2017-06-15">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>A Color Tree of Shapes with Illustrations on Filtering, Simplification, and Segmentation.</title>
+<pages>363-374</pages>
+<year>2015</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18720-4_31</ee>
+<crossref>conf/ismm/2015</crossref>
+<url>db/conf/ismm/ismm2015.html#CarlinetG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/GeraudCC15" mdate="2017-06-15">
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="130/1624">S&#233;bastien Crozet</author>
+<title>Self-duality and Digital Topology: Links Between the Morphological Tree of Shapes and Well-Composed Gray-Level Images.</title>
+<pages>573-584</pages>
+<year>2015</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18720-4_48</ee>
+<crossref>conf/ismm/2015</crossref>
+<url>db/conf/ismm/ismm2015.html#GeraudCC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/XuCGN15" mdate="2017-06-15">
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Efficient Computation of Attributes and Saliency Maps on Tree-Based Image Representations.</title>
+<pages>693-704</pages>
+<year>2015</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18720-4_58</ee>
+<crossref>conf/ismm/2015</crossref>
+<url>db/conf/ismm/ismm2015.html#XuCGN15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/CarlinetG14" mdate="2020-05-10">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>A Comparative Review of Component Tree Computation Algorithms.</title>
+<pages>3885-3895</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIP.2014.2336551</ee>
+<ee>https://www.wikidata.org/entity/Q38229147</ee>
+<url>db/journals/tip/tip23.html#CarlinetG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciarp/LevillainGNC14" mdate="2018-12-23">
+<author pid="94/3585">Roland Levillain</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>Practical Genericity: Writing Image Processing Algorithms Both Reusable and Efficient.</title>
+<pages>70-79</pages>
+<year>2014</year>
+<booktitle>CIARP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-12568-8_9</ee>
+<crossref>conf/ciarp/2014</crossref>
+<url>db/conf/ciarp/ciarp2014.html#LevillainGNC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CarlinetG14" mdate="2017-06-15">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Getting a morphological tree of shapes for multivariate images: Paths, traps, and pitfalls.</title>
+<pages>615-619</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7025123</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#CarlinetG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/XuCGN14" mdate="2017-06-15">
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Meaningful disjoint level lines selection.</title>
+<pages>2938-2942</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7025594</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#XuCGN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/CarlinetG14" mdate="2023-03-24">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>A Morphological Tree of Shapes for Color Images.</title>
+<pages>1132-1137</pages>
+<year>2014</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2014.204</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2014.204</ee>
+<crossref>conf/icpr/2014</crossref>
+<url>db/conf/icpr/icpr2014.html#CarlinetG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/CarlinetG13" mdate="2017-06-15">
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>A Comparison of Many Max-tree Computation Algorithms.</title>
+<pages>73-85</pages>
+<year>2013</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38294-9_7</ee>
+<crossref>conf/ismm/2013</crossref>
+<url>db/conf/ismm/ismm2013.html#CarlinetG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/GeraudCCN13" mdate="2017-06-15">
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="130/1624">S&#233;bastien Crozet</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>A Quasi-linear Algorithm to Compute the Tree of Shapes of <i>n</i>D Images.</title>
+<pages>98-110</pages>
+<year>2013</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38294-9_9</ee>
+<crossref>conf/ismm/2013</crossref>
+<url>db/conf/ismm/ismm2013.html#GeraudCCN13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-1819" mdate="2018-08-13">
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A fair comparison of many max-tree computation algorithms (Extended version of the paper submitted to ISMM 2013</title>
+<ee type="oa">http://arxiv.org/abs/1212.1819</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.1819</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-1819</url>
+</article>
+</r>
+<coauthors n="66" nc="2">
+<co c="0"><na f="a/Abadie:Nathalie" pid="34/8684">Nathalie Abadie</na></co>
+<co c="0"><na f="a/Atlan:Michael" pid="97/8035">Michael Atlan</na></co>
+<co c="0"><na f="a/Auray:Zacharie" pid="423/5843">Zacharie Auray</na></co>
+<co c="0"><na f="b/Baek:Youngmin" pid="130/0386">Youngmin Baek</na></co>
+<co c="0"><na f="b/Baloun:Josef" pid="286/7366">Josef Baloun</na></co>
+<co c="0"><na f="b/Benediktsson:J=oacute=n_Atli" pid="79/3767">J&#243;n Atli Benediktsson</na></co>
+<co c="0"><na f="b/Benfenati:Alessandro" pid="158/9578">Alessandro Benfenati</na></co>
+<co c="0"><na f="b/Bernet:Philippe" pid="348/6676">Philippe Bernet</na></co>
+<co c="0"><na f="b/Blin:Nicolas" pid="247/4361">Nicolas Blin</na></co>
+<co c="0"><na f="b/Bourquelot:Alexandre" pid="348/6848">Alexandre Bourquelot</na></co>
+<co c="0"><na f="b/Boutry:Nicolas" pid="150/5004">Nicolas Boutry</na></co>
+<co c="0"><na f="c/Cavallaro:Gabriele" pid="19/7252">Gabriele Cavallaro</na></co>
+<co c="0"><na f="c/Chan:Ta=Chien" pid="176/7085">Ta-Chien Chan</na></co>
+<co c="0"><na f="c/Chazalon:Joseph" pid="00/7894">Joseph Chazalon</na></co>
+<co c="0"><na f="c/Chen:Yizi" pid="250/4440">Yizi Chen</na></co>
+<co c="0"><na f="c/Chiang:Yao=Yi" pid="39/2145">Yao-Yi Chiang</na></co>
+<co c="0"><na f="c/Choi:Chankyu" pid="169/6632">Chankyu Choi</na></co>
+<co c="0"><na f="c/Crozet:S=eacute=bastien" pid="130/1624">S&#233;bastien Crozet</na></co>
+<co c="0"><na f="d/Dai:Tianhao" pid="346/6027">Tianhao Dai</na></co>
+<co c="0" n="2"><na f="d/diLenardo:Isabella" pid="185/7844">Isabella diLenardo</na><na>Isabella di Lenardo</na></co>
+<co c="0"><na f="d/Dubosc:Marius" pid="423/5449">Marius Dubosc</na></co>
+<co c="0" n="2"><na f="d/Dumenieu:Bertrand" pid="165/1412">Bertrand Dumenieu</na><na>Bertrand Dum&#233;nieu</na></co>
+<co c="0"><na f="e/Esteban:Baptiste" pid="247/5302">Baptiste Esteban</na></co>
+<co c="0"><na f="f/Fabrizio:Jonathan" pid="90/2799">Jonathan Fabrizio</na></co>
+<co c="0"><na f="f/Falco:Nicola" pid="121/8070">Nicola Falco</na></co>
+<co c="0"><na f="f/Fischer:Yann" pid="423/6143">Yann Fischer</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="0"><na f="h/Hentschel:Michael" pid="70/4243">Michael Hentschel</na></co>
+<co c="0"><na f="j/Jang:Leeje" pid="350/4998">Leeje Jang</na></co>
+<co c="0"><na f="k/Kaci:Quentin" pid="411/7530">Quentin Kaci</na></co>
+<co c="0"><na f="k/Kaplan:Fr=eacute=d=eacute=ric" pid="66/3345">Fr&#233;d&#233;ric Kaplan</na></co>
+<co c="0"><na f="k/Khoudli:Younes" pid="236/7950">Younes Khoudli</na></co>
+<co c="0"><na f="k/Kr=aacute=l:Pavel" pid="50/4970">Pavel Kr&#225;l</na></co>
+<co c="0"><na f="l/Lacassagne:Lionel" pid="81/3164">Lionel Lacassagne</na></co>
+<co c="0"><na f="l/Lacotte:J=eacute=r=ocirc=me" pid="236/7755">J&#233;r&#244;me Lacotte</na></co>
+<co c="0"><na f="l/Lee:Jeongtae" pid="219/6854">Jeongtae Lee</na></co>
+<co c="0"><na f="l/Lemaitre:Florian" pid="195/3071">Florian Lemaitre</na></co>
+<co c="0"><na f="l/Lenc:Ladislav" pid="19/9854">Ladislav Lenc</na></co>
+<co c="0"><na f="l/Levillain:Roland" pid="94/3585">Roland Levillain</na></co>
+<co c="0"><na f="l/Li_0007:Zekun" pid="150/2008-7">Zekun Li 0007</na></co>
+<co c="0"><na f="l/Liao:Hsiung=Ming" pid="374/7164">Hsiung-Ming Liao</na></co>
+<co c="0"><na f="l/Lin_0001:Yijun" pid="210/8162-1">Yijun Lin 0001</na></co>
+<co c="0"><na f="m/Mallet:Cl=eacute=ment" pid="26/8109">Cl&#233;ment Mallet</na></co>
+<co c="1"><na f="m/Mart=iacute=n=Izquierdo:Alberto" pid="419/6833">Alberto Mart&#237;n-Izquierdo</na></co>
+<co c="0"><na f="m/Mura:Mauro_Dalla" pid="85/8964">Mauro Dalla Mura</na></co>
+<co c="0"><na f="n/Najman:Laurent" pid="68/4192">Laurent Najman</na></co>
+<co c="0"><na f="n/Nakagome:Yu" pid="254/2883">Yu Nakagome</na></co>
+<co c="0"><na f="n/Ngoc:Minh_On_Vu" pid="221/8949">Minh On Vu Ngoc</na></co>
+<co c="0"><na f="n/Nguyen:Nam" pid="47/6264">Nam Nguyen</na></co>
+<co c="0"><na f="n/Nguyen_0001:Vincent" pid="20/2617">Vincent Nguyen 0001</na></co>
+<co c="0"><na f="p/Perret:Julien" pid="79/5311">Julien Perret</na></co>
+<co c="0"><na f="p/Petitpierre:R=eacute=mi" pid="284/2661">R&#233;mi Petitpierre</na></co>
+<co c="0"><na f="p/Puybareau:=Eacute=lodie" pid="162/5965">&#201;lodie Puybareau</na></co>
+<co c="1"><na f="r/Romero=Garc=iacute=a:Gonzalo" pid="321/7746">Gonzalo Romero-Garc&#237;a</na></co>
+<co c="0"><na f="r/Roynard:Micha=euml=l" pid="243/7347">Micha&#235;l Roynard</na></co>
+<co c="0"><na f="s/Shuta:Ichimura" pid="415/6289">Ichimura Shuta</na></co>
+<co c="0"><na f="s/Su:Wen=Rong" pid="415/5923">Wen-Rong Su</na></co>
+<co c="0"><na f="t/Talbot:Hugues" pid="00/1609">Hugues Talbot</na></co>
+<co c="0"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="t/Tual:Solenn" pid="340/7220">Solenn Tual</na></co>
+<co c="0"><na f="v/Vaienti:Beatrice" pid="333/4236">Beatrice Vaienti</na></co>
+<co c="0"><na f="v/Verna:Didier" pid="06/2458">Didier Verna</na></co>
+<co c="0"><na f="w/Weinman:Jerod_J=" pid="50/2682">Jerod J. Weinman</na></co>
+<co c="0"><na f="x/Xu:Yongchao" pid="86/11269">Yongchao Xu</na></co>
+<co c="0"><na f="z/Zhao:Zhou" pid="75/7785">Zhou Zhao</na></co>
+<co c="0"><na f="z/Zou:Mengjie" pid="353/2412">Mengjie Zou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<dblpperson name="Martina Vigorito" pid="358/2836" n="6">
+<person key="homepages/358/2836" mdate="2023-10-16">
+<author pid="358/2836">Martina Vigorito</author>
+</person>
+<r><article key="journals/dcc/CaminataGMVV26" mdate="2026-05-06">
+<author pid="202/2081">Alessio Caminata</author>
+<author pid="56/4603">Elisa Gorla</author>
+<author pid="413/3354">Madison Mabe</author>
+<author pid="358/2836">Martina Vigorito</author>
+<author pid="172/0904">Irene Villa</author>
+<title>Cryptanalysis of a multivariate CCZ scheme.</title>
+<year>2026</year>
+<month>April</month>
+<pages>75</pages>
+<volume>94</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10623-025-01793-8</ee>
+<url>db/journals/dcc/dcc94.html#CaminataGMVV26</url>
+<stream>streams/journals/dcc</stream>
+</article>
+</r>
+<r><article key="journals/jmc/KahrobaeiMPTV25" mdate="2025-10-14">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="358/2840">Carmine Monetta</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="128/6168">Maria Tota</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Investigation of metabelian platform groups for protocols based on (simultaneous) conjugacy search problem.</title>
+<year>2025</year>
+<month>February</month>
+<volume>19</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1515/jmc-2023-0036</ee>
+<url>db/journals/jmc/jmc19.html#KahrobaeiMPTV25</url>
+<stream>streams/journals/jmc</stream>
+</article>
+</r>
+<r><article key="journals/jmc/KahrobaeiPV25" mdate="2025-10-14">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Security analysis of ZKPoK based on MQ problem in the multi-instance setting.</title>
+<year>2025</year>
+<month>February</month>
+<volume>19</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1515/jmc-2024-0046</ee>
+<url>db/journals/jmc/jmc19.html#KahrobaeiPV25</url>
+<stream>streams/journals/jmc</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-15449" mdate="2026-03-24">
+<author pid="202/2081">Alessio Caminata</author>
+<author orcid="0000-0002-6418-4887" pid="56/4603">Elisa Gorla</author>
+<author pid="413/3354">Madison Mabe</author>
+<author pid="358/2836">Martina Vigorito</author>
+<author pid="172/0904">Irene Villa</author>
+<title>Cryptanalysis of a multivariate CCZ scheme.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.15449</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.15449</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-15449</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CaminataGMVV25" mdate="2025-08-28">
+<author pid="202/2081">Alessio Caminata</author>
+<author pid="56/4603">Elisa Gorla</author>
+<author pid="413/3354">Madison Mabe</author>
+<author pid="358/2836">Martina Vigorito</author>
+<author pid="172/0904">Irene Villa</author>
+<title>Cryptanalysis of a multivariate CCZ scheme.</title>
+<pages>1329</pages>
+<year>2025</year>
+<volume>2025</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2025/1329</ee>
+<url>db/journals/iacr/iacr2025.html#CaminataGMVV25</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-13928" mdate="2024-02-05">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="358/2840">Carmine Monetta</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="128/6168">Maria Tota</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Cryptanalysis of protocols using (Simultaneous) Conjugacy Search Problem in certain Metabelian Platform Groups.</title>
+<year>2023</year>
+<volume>abs/2309.13928</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.13928</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-13928</url>
+</article>
+</r>
+<coauthors n="8" nc="2">
+<co c="0"><na f="c/Caminata:Alessio" pid="202/2081">Alessio Caminata</na></co>
+<co c="0"><na f="g/Gorla:Elisa" pid="56/4603">Elisa Gorla</na></co>
+<co c="1"><na f="k/Kahrobaei:Delaram" pid="71/4705">Delaram Kahrobaei</na></co>
+<co c="0"><na f="m/Mabe:Madison" pid="413/3354">Madison Mabe</na></co>
+<co c="1"><na f="m/Monetta:Carmine" pid="358/2840">Carmine Monetta</na></co>
+<co c="1"><na f="p/Perret:Ludovic" pid="42/3351">Ludovic Perret</na></co>
+<co c="1"><na f="t/Tota:Maria" pid="128/6168">Maria Tota</na></co>
+<co c="0"><na f="v/Villa:Irene" pid="172/0904">Irene Villa</na></co>
+</coauthors>
+</dblpperson>
+

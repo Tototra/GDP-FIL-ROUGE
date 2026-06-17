@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eric Moulines" pid="54/2358" n="356">
+<dblpperson name="Eric Moulines" pid="54/2358" n="351">
 <person key="homepages/54/2358" mdate="2020-05-29">
 <author pid="54/2358">Eric Moulines</author>
 <author pid="54/2358">&#201;ric Moulines</author>
@@ -19,9 +19,9 @@
 <stream>streams/journals/cce</stream>
 </article>
 </r>
-<r><article key="journals/cce/QassimeSEM26a" mdate="2026-06-03">
+<r><article key="journals/cce/QassimeSEM26a" mdate="2026-05-04">
 <author pid="401/0179">Mehdi Abou El Qassime</author>
-<author orcid="0000-0002-0453-2923" pid="145/7138">Ahmed Shokry</author>
+<author pid="145/7138">Ahmed Shokry</author>
 <author pid="145/7155">Antonio Espu&#241;a</author>
 <author pid="54/2358">Eric Moulines</author>
 <title>A novel machine learning-based framework for integrating scheduling and control in continuous multiproduct chemical process operations.</title>
@@ -179,75 +179,6 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2603.14514</ee>
 <url>db/journals/corr/corr2603.html#abs-2603-14514</url>
-<stream>streams/journals/corr</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2605-05520" mdate="2026-06-08">
-<author pid="323/4391">Badr Moufad</author>
-<author pid="432/0926">Albina Ilina</author>
-<author pid="225/9942">Hai Victor Habi</author>
-<author pid="228/8314">Salem Lahlou</author>
-<author pid="303/6011">Yazid Janati</author>
-<author pid="m/HagitMesser">Hagit Messer</author>
-<author pid="54/2358">Eric Moulines</author>
-<title>Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors.</title>
-<year>2026</year>
-<month>May</month>
-<volume>abs/2605.05520</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2605.05520</ee>
-<url>db/journals/corr/corr2605.html#abs-2605-05520</url>
-<stream>streams/journals/corr</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2605-10816" mdate="2026-06-08">
-<author pid="293/7256">Avik Kar</author>
-<author pid="283/6211">Siddharth Chandak</author>
-<author pid="74/5590">Rahul Singh</author>
-<author pid="359/8080">Soumitra Sinhahajari</author>
-<author pid="54/2358">Eric Moulines</author>
-<author pid="71/2542">Shalabh Bhatnagar</author>
-<author pid="b/NicholasBambos">Nicholas Bambos</author>
-<title>Policy Gradient Methods for Non-Markovian Reinforcement Learning.</title>
-<year>2026</year>
-<month>May</month>
-<volume>abs/2605.10816</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2605.10816</ee>
-<url>db/journals/corr/corr2605.html#abs-2605-10816</url>
-<stream>streams/journals/corr</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2605-22765" mdate="2026-06-12">
-<author pid="426/4917">Samson Gourevitch</author>
-<author pid="303/6011">Yazid Janati</author>
-<author pid="383/8913">Dario Shariatian</author>
-<author pid="14/8615">Umut Simsekli</author>
-<author pid="54/2358">Eric Moulines</author>
-<author pid="36/3855">Eric P. Xing</author>
-<author pid="01/11275">Alain Durmus</author>
-<title>Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation.</title>
-<year>2026</year>
-<month>May</month>
-<volume>abs/2605.22765</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2605.22765</ee>
-<url>db/journals/corr/corr2605.html#abs-2605-22765</url>
-<stream>streams/journals/corr</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2605-24357" mdate="2026-06-14">
-<author pid="368/4738">Safwan Labbi</author>
-<author pid="298/1535">Paul Mangold</author>
-<author pid="267/5445">Daniil Tiapkin</author>
-<author pid="54/2358">Eric Moulines</author>
-<title>Refined Analysis of Entropy-Regularized Actor-Critic.</title>
-<year>2026</year>
-<month>May</month>
-<volume>abs/2605.24357</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2605.24357</ee>
-<url>db/journals/corr/corr2605.html#abs-2605-24357</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -516,19 +447,6 @@
 <ee>https://aclanthology.org/2025.icnlsp-1.30/</ee>
 <crossref>conf/icnlsp/2025</crossref>
 <url>db/conf/icnlsp/icnlsp2025.html#OualiSBDHM25</url>
-</inproceedings>
-</r>
-<r><inproceedings key="conf/nips/SamsonovSMN25" mdate="2026-06-15">
-<author pid="23/8962">Sergey Samsonov</author>
-<author pid="348/5731">Marina Sheshukova</author>
-<author pid="54/2358">Eric Moulines</author>
-<author pid="196/2848">Alexey Naumov</author>
-<title>Statistical inference for Linear Stochastic Approximation with Markovian Noise.</title>
-<year>2025</year>
-<booktitle>NeurIPS</booktitle>
-<ee type="oa">http://papers.nips.cc/paper_files/paper/2025/hash/ff45bac2fc44064fd8ae85301b40b41e-Abstract-Conference.html</ee>
-<crossref>conf/nips/2025</crossref>
-<url>db/conf/nips/neurips2025.html#SamsonovSMN25</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2501-19144" mdate="2025-02-27">
@@ -5213,7 +5131,7 @@
 <url>db/conf/interspeech/ecst1987.html#SorinDBEFLSMP87</url>
 </inproceedings>
 </r>
-<coauthors n="349" nc="5">
+<coauthors n="346" nc="5">
 <co c="0"><na f="a/Abbahaddou:Yassine" pid="371/2750">Yassine Abbahaddou</na></co>
 <co c="4"><na f="a/Abdi:Moussa" pid="116/5322">Moussa Abdi</na></co>
 <co c="0"><na f="a/Abdine:Hadi" pid="292/2458">Hadi Abdine</na></co>
@@ -5338,7 +5256,6 @@
 <co c="3"><na f="g/Guisiano:Jade_Eva" pid="266/9747">Jade Eva Guisiano</na></co>
 <co c="0"><na f="g/Guizani:Mohsen" pid="15/1123">Mohsen Guizani</na></co>
 <co c="0"><na f="g/Gushchin:Nikita" pid="332/1999">Nikita Gushchin</na></co>
-<co c="0"><na f="h/Habi:Hai_Victor" pid="225/9942">Hai Victor Habi</na></co>
 <co c="0"><na f="h/Hachem:Walid" pid="99/6458">Walid Hachem</na></co>
 <co c="0"><na f="h/Haddouche:Maxime" pid="267/5693">Maxime Haddouche</na></co>
 <co c="0"><na f="h/Ha=iuml=ssaguerre:Michel" pid="61/10150">Michel Ha&#239;ssaguerre</na></co>
@@ -5427,7 +5344,6 @@
 <co c="0"><na f="m/Mayrargue:Sylvie" pid="77/10845">Sylvie Mayrargue</na></co>
 <co c="0"><na f="m/M=eacute=nard:Pierre" pid="176/5039">Pierre M&#233;nard</na></co>
 <co c="0"><na f="m/Mesnard:Thomas" pid="168/8149">Thomas Mesnard</na></co>
-<co c="0"><na f="m/Messer:Hagit" pid="m/HagitMesser">Hagit Messer</na></co>
 <co c="0"><na f="m/Meyn:Sean_P=" pid="25/6516">Sean P. Meyn</na></co>
 <co c="0" n="2"><na f="m/Mhamdi:El_Mahdi_El" pid="198/0984">El Mahdi El Mhamdi</na><na>El-Mahdi El-Mhamdi</na></co>
 <co c="0"><na f="m/Miasojedow:Blazej" pid="164/9794">Blazej Miasojedow</na></co>
@@ -5520,7 +5436,6 @@
 <co c="0"><na f="s/Shtanchaev:Abduragim" pid="304/3495">Abduragim Shtanchaev</na></co>
 <co c="0"><na f="s/Simsekli:Umut" pid="14/8615">Umut Simsekli</na></co>
 <co c="0"><na f="s/Singh:Rahul" pid="74/5590">Rahul Singh</na></co>
-<co c="0"><na f="s/Sinhahajari:Soumitra" pid="359/8080">Soumitra Sinhahajari</na></co>
 <co c="0"><na f="s/Slock:Dirk_T=_M=" pid="57/1614">Dirk T. M. Slock</na></co>
 <co c="0"><na f="s/Sorin:Christel" pid="23/2465">Christel Sorin</na></co>
 <co c="0"><na f="s/Soulier:Philippe" pid="139/9514">Philippe Soulier</na></co>

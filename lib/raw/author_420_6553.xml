@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<dblpperson name="Elloh Adja" pid="420/6553" n="1">
+<person key="homepages/420/6553" mdate="2025-11-20">
+<author pid="420/6553">Elloh Adja</author>
+</person>
+<r><inproceedings key="conf/ic3k/MeddouriSBA25" mdate="2025-11-20">
+<author pid="25/4391">Nida Meddouri</author>
+<author pid="17/11478">Lo&#239;c Salmon</author>
+<author pid="166/8810">David Beserra</author>
+<author pid="420/6553">Elloh Adja</author>
+<title>Decision Rule-Based Learning of Terrorist Threats.</title>
+<pages>448-456</pages>
+<year>2025</year>
+<booktitle>IC3K (KDIR)</booktitle>
+<ee>https://doi.org/10.5220/0013774400004000</ee>
+<crossref>conf/ic3k/2025-1</crossref>
+<url>db/conf/ic3k/ic3k2025-1.html#MeddouriSBA25</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="b/Beserra:David" pid="166/8810">David Beserra</na></co>
+<co c="0"><na f="m/Meddouri:Nida" pid="25/4391">Nida Meddouri</na></co>
+<co c="0"><na f="s/Salmon:Lo=iuml=c" pid="17/11478">Lo&#239;c Salmon</na></co>
+</coauthors>
+</dblpperson>
+

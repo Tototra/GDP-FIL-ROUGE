@@ -1,0 +1,1677 @@
+<?xml version="1.0"?>
+<dblpperson name="Ludovic Perret" pid="42/3351" n="113">
+<person key="homepages/42/3351" mdate="2009-06-10">
+<author pid="42/3351">Ludovic Perret</author>
+</person>
+<r><article publtype="informal" key="journals/iacr/HorkosP26" mdate="2026-03-21">
+<author pid="429/8466">Dayane Horkos</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>SoK: On Cryptography for Multi-Cloud Storage.</title>
+<year>2026</year>
+<pages>207</pages>
+<volume>2026</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2026/207</ee>
+<url>db/journals/iacr/iacr2026.html#HorkosP26</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><article key="journals/jmc/KahrobaeiMPTV25" mdate="2025-10-14">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="358/2840">Carmine Monetta</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="128/6168">Maria Tota</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Investigation of metabelian platform groups for protocols based on (simultaneous) conjugacy search problem.</title>
+<year>2025</year>
+<month>February</month>
+<volume>19</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1515/jmc-2023-0036</ee>
+<url>db/journals/jmc/jmc19.html#KahrobaeiMPTV25</url>
+<stream>streams/journals/jmc</stream>
+</article>
+</r>
+<r><article key="journals/jmc/KahrobaeiPV25" mdate="2025-10-14">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Security analysis of ZKPoK based on MQ problem in the multi-instance setting.</title>
+<year>2025</year>
+<month>February</month>
+<volume>19</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1515/jmc-2024-0046</ee>
+<url>db/journals/jmc/jmc19.html#KahrobaeiPV25</url>
+<stream>streams/journals/jmc</stream>
+</article>
+</r>
+<r><inproceedings key="conf/issac/CoscojuelaMPRS25" mdate="2026-03-05">
+<author orcid="0000-0002-0484-6834" pid="354/1397">Pilar Coscojuela</author>
+<author orcid="0009-0005-6581-0244" pid="427/4659">Krishna Mahavadi</author>
+<author orcid="0009-0005-7453-8705" pid="42/3351">Ludovic Perret</author>
+<author orcid="0000-0003-1553-8885" pid="427/5956">Alex Ryba</author>
+<author orcid="0000-0002-7626-9159" pid="33/10867">Simona Samardjiska</author>
+<title>On the complexity of the relative eigenvector problem.</title>
+<pages>97-105</pages>
+<year>2025</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/3747199.3747551</ee>
+<crossref>conf/issac/2025</crossref>
+<url>db/conf/issac/issac2025.html#CoscojuelaMPRS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/MalhouPL25" mdate="2026-02-03">
+<author orcid="0009-0005-8412-4135" pid="342/2793">Mohamed Malhou</author>
+<author orcid="0009-0005-7453-8705" pid="42/3351">Ludovic Perret</author>
+<author orcid="0000-0002-1320-696X" pid="08/1510">Kristin E. Lauter</author>
+<title>AI for Code-based Cryptography.</title>
+<pages>489-518</pages>
+<year>2025</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-10536-3_18</ee>
+<crossref>conf/sacrypt/2025</crossref>
+<url>db/conf/sacrypt/sacrypt2025.html#MalhouPL25</url>
+<stream>streams/conf/sacrypt</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-14722" mdate="2026-01-26">
+<author pid="342/2793">Mohamed Malhou</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1510">Kristin E. Lauter</author>
+<title>HATSolver: Learning Groebner Bases with Hierarchical Attention Transformers.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.14722</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.14722</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-14722</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/MalhouPL25" mdate="2025-03-17">
+<author pid="342/2793">Mohamed Malhou</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1510">Kristin E. Lauter</author>
+<title>AI for Code-based Cryptography.</title>
+<pages>440</pages>
+<year>2025</year>
+<volume>2025</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2025/440</ee>
+<url>db/journals/iacr/iacr2025.html#MalhouPL25</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BattarbeeSPRV25" mdate="2025-07-25">
+<author pid="292/8067">Christopher Battarbee</author>
+<author pid="128/5113">Christoph Striecks</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="191/5895">Sebastian Ramacher</author>
+<author pid="393/3100">Kevin Verhaeghe</author>
+<title>Quantum-Safe Hybrid Key Exchanges with KEM-Based Authentication.</title>
+<pages>1228</pages>
+<year>2025</year>
+<volume>2025</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2025/1228</ee>
+<url>db/journals/iacr/iacr2025.html#BattarbeeSPRV25</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/MalhouPL25a" mdate="2026-01-13">
+<author pid="342/2793">Mohamed Malhou</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1510">Kristin E. Lauter</author>
+<title>HATSolver: Learning Groebner Bases with Hierarchical Attention Transformers.</title>
+<pages>2219</pages>
+<year>2025</year>
+<volume>2025</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2025/2219</ee>
+<url>db/journals/iacr/iacr2025.html#MalhouPL25a</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/acns/BettaleKPV24" mdate="2025-10-14">
+<author pid="46/2642">Luk Bettale</author>
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="175/5885">Javier A. Verbel</author>
+<title>Biscuit: New MPCitH Signature Scheme from Structured Multivariate Polynomials.</title>
+<pages>457-486</pages>
+<year>2024</year>
+<booktitle>ACNS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-54770-6_18</ee>
+<crossref>conf/acns/2024-1</crossref>
+<url>db/conf/acns/acns2024-1.html#BettaleKPV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/africacrypt/FerreiraP24" mdate="2024-07-20">
+<author pid="370/6390">River Moreira Ferreira</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial-Time Key-Recovery Attack on the NIST Specification of PROV.</title>
+<pages>222-235</pages>
+<year>2024</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-64381-1_10</ee>
+<crossref>conf/africacrypt/2024</crossref>
+<url>db/conf/africacrypt/africacrypt2024.html#FerreiraP24</url>
+<stream>streams/conf/africacrypt</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/BattarbeeKPS24" mdate="2025-10-14">
+<author pid="292/8067">Christopher Battarbee</author>
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>A Subexponential Quantum Algorithm for the Semidirect Discrete Logarithm Problem.</title>
+<pages>202-226</pages>
+<year>2024</year>
+<booktitle>PQCrypto (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-62743-9_7</ee>
+<crossref>conf/pqcrypto/2024-1</crossref>
+<url>db/conf/pqcrypto/pqcrypto2024-1.html#BattarbeeKPS24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-04030" mdate="2025-01-01">
+<author pid="292/8067">Christopher Battarbee</author>
+<author pid="128/5113">Christoph Striecks</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="191/5895">Sebastian Ramacher</author>
+<author pid="393/3100">Kevin Verhaeghe</author>
+<title>Quantum-Safe Hybrid Key Exchanges with KEM-Based Authentication.</title>
+<year>2024</year>
+<volume>abs/2411.04030</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.04030</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-04030</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FerreiraP24" mdate="2024-03-18">
+<author pid="370/6390">River Moreira Ferreira</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial-Time Key-Recovery Attack on the ${\tt NIST}$ Specification of ${\tt PROV}$.</title>
+<pages>279</pages>
+<year>2024</year>
+<volume>2024</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2024/279</ee>
+<url>db/journals/iacr/iacr2024.html#FerreiraP24</url>
+</article>
+</r>
+<r><inproceedings key="conf/pqcrypto/BattarbeeKPS23" mdate="2024-02-05">
+<author pid="292/8067">Christopher Battarbee</author>
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>SPDH-Sign: Towards Efficient, Post-quantum Group-Based Signatures.</title>
+<pages>113-138</pages>
+<year>2023</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-40003-2_5</ee>
+<crossref>conf/pqcrypto/2023</crossref>
+<url>db/conf/pqcrypto/pqcrypto2023.html#BattarbeeKPS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-12900" mdate="2023-05-03">
+<author pid="292/8067">Christopher Battarbee</author>
+<author pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>SPDH-Sign: towards Efficient, Post-quantum Group-based Signatures.</title>
+<year>2023</year>
+<volume>abs/2304.12900</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.12900</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-12900</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-13928" mdate="2024-02-05">
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="358/2840">Carmine Monetta</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="128/6168">Maria Tota</author>
+<author pid="358/2836">Martina Vigorito</author>
+<title>Cryptanalysis of protocols using (Simultaneous) Conjugacy Search Problem in certain Metabelian Platform Groups.</title>
+<year>2023</year>
+<volume>abs/2309.13928</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.13928</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-13928</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BattarbeeKPS23" mdate="2023-06-05">
+<author pid="292/8067">Christopher Battarbee</author>
+<author pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>SPDH-Sign: towards Efficient, Post-quantum Group-based Signatures.</title>
+<pages>595</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/595</ee>
+<url>db/journals/iacr/iacr2023.html#BattarbeeKPS23</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BettaleKPV23" mdate="2023-12-08">
+<author pid="46/2642">Luk Bettale</author>
+<author pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="175/5885">Javier A. Verbel</author>
+<title>Biscuit: New MPCitH Signature Scheme from Structured Multivariate Polynomials.</title>
+<pages>1760</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/1760</ee>
+<url>db/journals/iacr/iacr2023.html#BettaleKPV23</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-02814" mdate="2024-02-05">
+<author pid="292/8067">Christopher Battarbee</author>
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>A Subexponential Quantum Algorithm for the Semidirect Discrete Logarithm Problem.</title>
+<year>2022</year>
+<volume>abs/2209.02814</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.02814</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-02814</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereMPP22" mdate="2022-03-22">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="94/611">Gilles Macario-Rat</author>
+<author pid="00/4060">Jacques Patarin</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>A New Perturbation for Multivariate Public Key Schemes such as HFE and UOV.</title>
+<pages>203</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2022/203</ee>
+<url>db/journals/iacr/iacr2022.html#FaugereMPP22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BattarbeeKPS22" mdate="2022-09-27">
+<author pid="292/8067">Christopher Battarbee</author>
+<author pid="71/4705">Delaram Kahrobaei</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/SFShahandashti">Siamak F. Shahandashti</author>
+<title>A Subexponential Quantum Algorithm for the Semidirect Discrete Logarithm Problem.</title>
+<pages>1165</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2022/1165</ee>
+<url>db/journals/iacr/iacr2022.html#BattarbeeKPS22</url>
+</article>
+</r>
+<r><article key="journals/dcc/ChakrabortyFP21" mdate="2021-06-15">
+<author orcid="0000-0003-0396-908X" pid="286/2742">Olive Chakraborty</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of the extension field cancellation cryptosystem.</title>
+<pages>1335-1364</pages>
+<year>2021</year>
+<volume>89</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10623-021-00873-9</ee>
+<url>db/journals/dcc/dcc89.html#ChakrabortyFP21</url>
+</article>
+</r>
+<r><article key="journals/jsc/BenderFPT21" mdate="2021-01-21">
+<author orcid="0000-0001-9341-287X" pid="183/1989">Mat&#237;as R. Bender</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<title>A nearly optimal algorithm to decompose binary forms.</title>
+<pages>71-96</pages>
+<year>2021</year>
+<volume>105</volume>
+<journal>J. Symb. Comput.</journal>
+<ee>https://doi.org/10.1016/j.jsc.2020.06.002</ee>
+<url>db/journals/jsc/jsc105.html#BenderFPT21</url>
+</article>
+</r>
+<r><article key="journals/iet-ifs/PenaDFEP19" mdate="2020-08-27">
+<author pid="142/1550">Marta Conde Pena</author>
+<author pid="84/3288">Ra&#250;l Dur&#225;n D&#237;az</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0001-6980-2683" pid="58/6004">Luis Hern&#225;ndez Encinas</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Non-quantum cryptanalysis of the noisy version of Aaronson-Christiano's quantum money scheme.</title>
+<pages>362-366</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>IET Inf. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/iet-ifs.2018.5307</ee>
+<url>db/journals/iet-ifs/iet-ifs13.html#PenaDFEP19</url>
+</article>
+</r>
+<r><article key="journals/tches/FaugerePR19" mdate="2020-02-06">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="242/0031">Jocelyn Ryckeghem</author>
+<title>Software Toolkit for HFE-based Multivariate Schemes.</title>
+<pages>257-304</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2019.i3.257-304</ee>
+<url>db/journals/tches/tches2019.html#FaugerePR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/BeullensFKMPP19" mdate="2019-12-12">
+<author pid="198/8288">Ward Beullens</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="223/9667">Eliane Koussa</author>
+<author pid="94/611">Gilles Macario-Rat</author>
+<author pid="00/4060">Jacques Patarin</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>PKP-Based Signature Scheme.</title>
+<pages>3-22</pages>
+<year>2019</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35423-7_1</ee>
+<crossref>conf/indocrypt/2019</crossref>
+<url>db/conf/indocrypt/indocrypt2019.html#BeullensFKMPP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcsintell/KoussaFMPP18" mdate="2023-03-10">
+<author pid="223/9667">Eliane Koussa</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="94/611">Gilles Macario-Rat</author>
+<author pid="00/4060">Jacques Patarin</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Combinatorial Digital Signature Scheme.</title>
+<pages>48-54</pages>
+<year>2018</year>
+<booktitle>BDCSIntell</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2343/paper11.pdf</ee>
+<crossref>conf/bdcsintell/2018</crossref>
+<url>db/conf/bdcsintell/bdcsintell2018.html#KoussaFMPP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-12588" mdate="2018-11-08">
+<author pid="183/1989">Mat&#237;as R. Bender</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<title>A nearly optimal algorithm to decompose binary forms.</title>
+<year>2018</year>
+<volume>abs/1810.12588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.12588</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-12588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereKMPP18" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="223/9667">Eliane Koussa</author>
+<author pid="94/611">Gilles Macario-Rat</author>
+<author pid="00/4060">Jacques Patarin</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>PKP-Based Signature Scheme.</title>
+<pages>714</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/714</ee>
+<url>db/journals/iacr/iacr2018.html#FaugereKMPP18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07211" mdate="2024-02-05">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="211/7966">Kelsey Horan</author>
+<author orcid="0000-0001-5467-7832" pid="71/4705">Delaram Kahrobaei</author>
+<author pid="65/2581">Marc Kaplan</author>
+<author pid="70/563">Elham Kashefi</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Fast Quantum Algorithm for Solving Multivariate Quadratic Equations.</title>
+<year>2017</year>
+<volume>abs/1712.07211</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07211</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereHKKKP17" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="211/7966">Kelsey Horan</author>
+<author pid="71/4705">Delaram Kahrobaei</author>
+<author pid="65/2581">Marc Kaplan</author>
+<author pid="70/563">Elham Kashefi</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Fast Quantum Algorithm for Solving Multivariate Quadratic Equations.</title>
+<pages>1236</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/1236</ee>
+<url>db/journals/iacr/iacr2017.html#FaugereHKKKP17</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Perret16" mdate="2017-09-30">
+<author pid="42/3351">Ludovic Perret</author>
+<title>Bases de Gr&#246;bner en Cryptographie Post-Quantique. (Gr&#246;bner bases techniques in Quantum-Safe Cryptography).</title>
+<year>2016</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-01417808</ee>
+</book>
+</r>
+<r><article key="journals/dcc/FaugereOPPT16" mdate="2019-06-17">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Structural cryptanalysis of McEliece schemes with compact keys.</title>
+<pages>87-112</pages>
+<year>2016</year>
+<volume>79</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10623-015-0036-z</ee>
+<ee>https://www.wikidata.org/entity/Q62039155</ee>
+<url>db/journals/dcc/dcc79.html#FaugereOPPT16</url>
+</article>
+</r>
+<r><article key="journals/dcc/AlbrechtFFHP16" mdate="2019-06-17">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="64/5418">Pooya Farshim</author>
+<author pid="47/11389">Gottfried Herold</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polly Cracker, revisited.</title>
+<pages>261-302</pages>
+<year>2016</year>
+<volume>79</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10623-015-0048-8</ee>
+<url>db/journals/dcc/dcc79.html#AlbrechtFFHP16</url>
+</article>
+</r>
+<r><article key="journals/tit/FaugereOPPT16" mdate="2020-03-10">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Folding Alternant and Goppa Codes With Non-Trivial Automorphism Groups.</title>
+<pages>184-198</pages>
+<year>2016</year>
+<volume>62</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TIT.2015.2493539</ee>
+<ee>https://www.wikidata.org/entity/Q62039152</ee>
+<url>db/journals/tit/tit62.html#FaugereOPPT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/issac/BenderFPT16" mdate="2020-10-25">
+<author orcid="0000-0001-9341-287X" pid="183/1989">Mat&#237;as R. Bender</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<title>A Superfast Randomized Algorithm to Decompose Binary Forms.</title>
+<pages>79-86</pages>
+<year>2016</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/2930889.2930896</ee>
+<crossref>conf/issac/2016</crossref>
+<url>db/conf/issac/issac2016.html#BenderFPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wisa/FaugereP16" mdate="2017-05-21">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>The Quantum-Safe Revolution.</title>
+<pages>258-266</pages>
+<year>2016</year>
+<booktitle>WISA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56549-1_22</ee>
+<crossref>conf/wisa/2016</crossref>
+<url>db/conf/wisa/wisa2016.html#FaugereP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/cca/AlbrechtCFFP15" mdate="2020-03-04">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic algorithms for LWE problems.</title>
+<pages>62</pages>
+<year>2015</year>
+<volume>49</volume>
+<journal>ACM Commun. Comput. Algebra</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2815111.2815158</ee>
+<url>db/journals/cca/cca49.html#AlbrechtCFFP15</url>
+</article>
+</r>
+<r><article key="journals/dcc/AlbrechtCFFP15" mdate="2019-06-17">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the complexity of the BKW algorithm on LWE.</title>
+<pages>325-354</pages>
+<year>2015</year>
+<volume>74</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10623-013-9864-x</ee>
+<url>db/journals/dcc/dcc74.html#AlbrechtCFFP15</url>
+</article>
+</r>
+<r><article key="journals/dcc/FazioINPS15" mdate="2019-06-17">
+<author pid="98/3299">Nelly Fazio</author>
+<author pid="22/1559">Kevin Iga</author>
+<author pid="58/1326">Antonio Nicolosi</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/4465">William E. Skeith III</author>
+<title>Hardness of learning problems over Burnside groups of exponent 3.</title>
+<pages>59-70</pages>
+<year>2015</year>
+<volume>75</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10623-013-9892-6</ee>
+<url>db/journals/dcc/dcc75.html#FazioINPS15</url>
+</article>
+</r>
+<r><article key="journals/jc/BerthomieuFP15" mdate="2021-02-16">
+<author pid="04/11287">J&#233;r&#233;my Berthomieu</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial-time algorithms for quadratic isomorphism of polynomials: The regular case.</title>
+<pages>590-616</pages>
+<year>2015</year>
+<volume>31</volume>
+<journal>J. Complex.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1016/j.jco.2015.04.001</ee>
+<url>db/journals/jc/jc31.html#BerthomieuFP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/pkc/FaugereGPST15" mdate="2019-08-20">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="66/1157">Danilo Gligoroski</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="33/10867">Simona Samardjiska</author>
+<author pid="32/10243">Enrico Thomae</author>
+<title>A Polynomial-Time Key-Recovery Attack on MQQ Cryptosystems.</title>
+<pages>150-174</pages>
+<year>2015</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46447-2_7</ee>
+<crossref>conf/pkc/2015</crossref>
+<url>db/conf/pkc/pkc2015.html#FaugereGPST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/PenaFP15" mdate="2019-08-20">
+<author pid="142/1550">Marta Conde Pena</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic Cryptanalysis of a Quantum Money Scheme The Noise-Free Case.</title>
+<pages>194-213</pages>
+<year>2015</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46447-2_9</ee>
+<crossref>conf/pkc/2015</crossref>
+<url>db/conf/pkc/pkc2015.html#PenaFP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/FaugereGGP14" mdate="2021-02-17">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0002-5780-2165" pid="137/9125">Domingo G&#243;mez-P&#233;rez</author>
+<author orcid="0000-0003-1892-3084" pid="12/1154-1">Jaime Gutierrez 0001</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Mathematical and computer algebra techniques in cryptology.</title>
+<pages>1-2</pages>
+<year>2014</year>
+<volume>64</volume>
+<journal>J. Symb. Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jsc.2013.12.001</ee>
+<url>db/journals/jsc/jsc64.html#FaugereGGP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/FaugerePP14" mdate="2018-12-23">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<title>Algebraic Attack against Variants of McEliece with Goppa Polynomial of a Special Form.</title>
+<pages>21-41</pages>
+<year>2014</year>
+<booktitle>ASIACRYPT (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-45611-8_2</ee>
+<crossref>conf/asiacrypt/2014-1</crossref>
+<url>db/conf/asiacrypt/asiacrypt2014-1.html#FaugerePP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/FaugereOPPT14" mdate="2019-06-02">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Structural weakness of compact variants of the McEliece cryptosystem.</title>
+<pages>1717-1721</pages>
+<year>2014</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2014.6875127</ee>
+<ee>https://www.wikidata.org/entity/Q62039167</ee>
+<crossref>conf/isit/2014</crossref>
+<url>db/conf/isit/isit2014.html#FaugereOPPT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/AlbrechtFFP14" mdate="2018-06-26">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Lazy Modulus Switching for the BKW Algorithm on LWE.</title>
+<pages>429-445</pages>
+<year>2014</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54631-0_25</ee>
+<crossref>conf/pkc/2014</crossref>
+<url>db/conf/pkc/pkc2014.html#AlbrechtFFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/AlbrechtFFPTX14" mdate="2020-09-05">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author orcid="0000-0002-6839-4777" pid="44/10381">Yosuke Todo</author>
+<author orcid="0000-0002-6832-9940" pid="17/5868">Keita Xagawa</author>
+<title>Practical Cryptanalysis of a Public-Key Encryption Scheme Based on New Multivariate Quadratic Assumptions.</title>
+<pages>446-464</pages>
+<year>2014</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54631-0_26</ee>
+<crossref>conf/pkc/2014</crossref>
+<url>db/conf/pkc/pkc2014.html#AlbrechtFFPTX14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FaugereOPPT14" mdate="2018-08-13">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Folding Alternant and Goppa Codes with Non-Trivial Automorphism Groups.</title>
+<year>2014</year>
+<volume>abs/1405.5101</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.5101</ee>
+<url>db/journals/corr/corr1405.html#FaugereOPPT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtFFP14" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Lazy Modulus Switching for the BKW Algorithm on LWE.</title>
+<pages>19</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/019</ee>
+<url>db/journals/iacr/iacr2014.html#AlbrechtFFP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereOPPT14" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Structural Cryptanalysis of McEliece Schemes with Compact Keys.</title>
+<pages>210</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/210</ee>
+<url>db/journals/iacr/iacr2014.html#FaugereOPPT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereOPPT14a" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Folding Alternant and Goppa Codes with Non-Trivial Automorphism Groups.</title>
+<pages>353</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/353</ee>
+<url>db/journals/iacr/iacr2014.html#FaugereOPPT14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereGPST14" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="66/1157">Danilo Gligoroski</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="33/10867">Simona Samardjiska</author>
+<author pid="32/10243">Enrico Thomae</author>
+<title>A Polynomial-Time Key-Recovery Attack on MQQ Cryptosystems.</title>
+<pages>811</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/811</ee>
+<url>db/journals/iacr/iacr2014.html#FaugereGPST14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtCFFP14" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic Algorithms for LWE Problems.</title>
+<pages>1018</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/1018</ee>
+<url>db/journals/iacr/iacr2014.html#AlbrechtCFFP14</url>
+</article>
+</r>
+<r><article key="journals/dcc/BettaleFP13" mdate="2023-08-28">
+<author orcid="0000-0002-8799-8568" pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of HFE, multi-HFE and variants for odd and even characteristic.</title>
+<pages>1-52</pages>
+<year>2013</year>
+<volume>69</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10623-012-9617-2</ee>
+<ee>https://www.wikidata.org/entity/Q114226851</ee>
+<url>db/journals/dcc/dcc69.html#BettaleFP13</url>
+</article>
+</r>
+<r><article key="journals/tit/FaugereGOPT13" mdate="2020-03-10">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0003-0909-7091" pid="60/10308">Val&#233;rie Gauthier-Uma&#241;a</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>A Distinguisher for High-Rate McEliece Cryptosystems.</title>
+<pages>6830-6844</pages>
+<year>2013</year>
+<volume>59</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TIT.2013.2272036</ee>
+<ee>https://www.wikidata.org/entity/Q62039169</ee>
+<url>db/journals/tit/tit59.html#FaugereGOPT13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BerthomieuFP13" mdate="2018-08-13">
+<author pid="04/11287">J&#233;r&#233;my Berthomieu</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial-Time Algorithms for Quadratic Isomorphism of Polynomials.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.4974</ee>
+<volume>abs/1307.4974</volume>
+<url>db/journals/corr/corr1307.html#BerthomieuFP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtFFP13" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Practical Cryptanalysis of a Public-Key Encryption Scheme Based on New Multivariate Quadratic Assumptions.</title>
+<pages>470</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/470</ee>
+<url>db/journals/iacr/iacr2013.html#AlbrechtFFP13</url>
+</article>
+</r>
+<r><article key="journals/ffa/LinFPW12" mdate="2021-02-12">
+<author pid="44/6488">Dongdai Lin</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="20/9199">Tianze Wang</author>
+<title>On enumeration of polynomial equivalence classes and their application to MPKC.</title>
+<pages>283-302</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>Finite Fields Their Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.ffa.2011.09.001</ee>
+<url>db/journals/ffa/ffa18.html#LinFPW12</url>
+</article>
+</r>
+<r><article key="journals/jsc/AlbrechtCFP12" mdate="2021-02-17">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the relation between the MXL family of algorithms and Gr&#246;bner basis algorithms.</title>
+<pages>926-941</pages>
+<year>2012</year>
+<volume>47</volume>
+<journal>J. Symb. Comput.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1016/j.jsc.2012.01.002</ee>
+<url>db/journals/jsc/jsc47.html#AlbrechtCFP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurocrypt/FaugerePPR12" mdate="2023-03-17">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author orcid="0000-0003-3482-6743" pid="52/2168-1">Christophe Petit 0001</author>
+<author pid="58/1586">Gu&#233;na&#235;l Renault</author>
+<title>Improving the Complexity of Index Calculus Algorithms in Elliptic Curves over Binary Fields.</title>
+<pages>27-44</pages>
+<year>2012</year>
+<booktitle>EUROCRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-29011-4_4</ee>
+<ee>https://www.wikidata.org/entity/Q62047260</ee>
+<crossref>conf/eurocrypt/2012</crossref>
+<url>db/conf/eurocrypt/eurocrypt2012.html#FaugerePPR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/BettaleFP12" mdate="2022-10-02">
+<author orcid="0000-0002-8799-8568" pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Solving polynomial systems over finite fields: improved analysis of the hybrid approach.</title>
+<pages>67-74</pages>
+<year>2012</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/2442829.2442843</ee>
+<crossref>conf/issac/2012</crossref>
+<url>db/conf/issac/issac2012.html#BettaleFP12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/eccc/AlbrechtFFHP12" mdate="2022-09-27">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="64/5418">Pooya Farshim</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="47/11389">Gottfried Herold</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polly Cracker, Revisited.</title>
+<publnr>TR12-165</publnr>
+<year>2012</year>
+<volume>TR12</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2012/165</ee>
+<url>db/journals/eccc/eccc19.html#AlbrechtFFHP12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtCFFP12" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="121/9476">Robert Fitzpatrick</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the Complexity of the BKW Algorithm on LWE.</title>
+<pages>636</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/636</ee>
+<url>db/journals/iacr/iacr2012.html#AlbrechtCFFP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/AlbrechtFFP11" mdate="2018-06-26">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="64/5418">Pooya Farshim</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polly Cracker, Revisited.</title>
+<pages>179-196</pages>
+<year>2011</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25385-0_10</ee>
+<crossref>conf/asiacrypt/2011</crossref>
+<url>db/conf/asiacrypt/asiacrypt2011.html#AlbrechtFFP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ima/ArmknechtAPS11" mdate="2024-10-06">
+<author orcid="0009-0003-9935-8095" pid="65/6856">Frederik Armknecht</author>
+<author pid="85/3827">Daniel Augot</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author>
+<title>On Constructing Homomorphic Encryption Schemes from Coding Theory.</title>
+<pages>23-40</pages>
+<year>2011</year>
+<booktitle>IMACC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25516-8_3</ee>
+<crossref>conf/ima/2011</crossref>
+<url>db/conf/ima/ima2011.html#ArmknechtAPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/intrust/GligoroskiOJPFKM11" mdate="2017-05-26">
+<author pid="66/1157">Danilo Gligoroski</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="92/8657">Rune Erlend Jensen</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="k/SveinJKnapskog">Svein Johan Knapskog</author>
+<author pid="71/5912">Smile Markovski</author>
+<title>MQQ-SIG - An Ultra-Fast and Provably CMA Resistant Digital Signature Scheme.</title>
+<pages>184-203</pages>
+<year>2011</year>
+<booktitle>INTRUST</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32298-3_13</ee>
+<crossref>conf/intrust/2011</crossref>
+<url>db/conf/intrust/intrust2011.html#GligoroskiOJPFKM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/FaugereGOPT11" mdate="2019-06-02">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0003-0909-7091" pid="60/10308">Val&#233;rie Gauthier-Uma&#241;a</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>A distinguisher for high rate McEliece cryptosystems.</title>
+<pages>282-286</pages>
+<year>2011</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2011.6089437</ee>
+<ee>https://www.wikidata.org/entity/Q62039172</ee>
+<crossref>conf/itw/2011</crossref>
+<url>db/conf/itw/itw2011.html#FaugereGOPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/BettaleFP11" mdate="2018-06-26">
+<author pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of Multivariate and Odd-Characteristic HFE Variants.</title>
+<pages>441-458</pages>
+<year>2011</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19379-8_27</ee>
+<crossref>conf/pkc/2011</crossref>
+<url>db/conf/pkc/pkc2011.html#BettaleFP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/BouillaguetFFP11" mdate="2025-10-14">
+<author orcid="0000-0001-9416-6244" pid="97/3320">Charles Bouillaguet</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0003-4997-2276" pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Practical Cryptanalysis of the Identification Scheme Based on the Isomorphism of Polynomial with One Secret Problem.</title>
+<pages>473-493</pages>
+<year>2011</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19379-8_29</ee>
+<crossref>conf/pkc/2011</crossref>
+<url>db/conf/pkc/pkc2011.html#BouillaguetFFP11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/LinFPW11" mdate="2020-05-11">
+<author pid="44/6488">Dongdai Lin</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="20/9199">Tianze Wang</author>
+<title>On Enumeration of Polynomial Equivalence Classes and Their Application to MPKC.</title>
+<pages>55</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/055</ee>
+<url>db/journals/iacr/iacr2011.html#LinFPW11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtCFP11" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the Relation Between the Mutant Strategy and the Normal Selection Strategy in Gr&#246;bner Basis Algorithms.</title>
+<pages>164</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/164</ee>
+<url>db/journals/iacr/iacr2011.html#AlbrechtCFP11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlbrechtFFP11" mdate="2020-05-11">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="64/5418">Pooya Farshim</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polly Cracker, Revisited.</title>
+<pages>289</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/289</ee>
+<url>db/journals/iacr/iacr2011.html#AlbrechtFFP11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ArmknechtAPS11" mdate="2020-05-11">
+<author pid="65/6856">Frederik Armknecht</author>
+<author pid="85/3827">Daniel Augot</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author>
+<title>On Constructing Homomorphic Encryption Schemes from Coding Theory.</title>
+<pages>309</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/309</ee>
+<url>db/journals/iacr/iacr2011.html#ArmknechtAPS11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FazioINPS11" mdate="2020-05-11">
+<author pid="98/3299">Nelly Fazio</author>
+<author pid="22/1559">Kevin Iga</author>
+<author pid="58/1326">Antonio Nicolosi</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/4465">William E. Skeith III</author>
+<title>Random Self-Reducibility Properties of Learning Problems over Burnside Groups of Exponent 3.</title>
+<pages>398</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/398</ee>
+<url>db/journals/iacr/iacr2011.html#FazioINPS11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BettaleFP11" mdate="2020-05-11">
+<author pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of HFE, Multi-HFE and Variants for Odd and Even Characteristic.</title>
+<pages>399</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/399</ee>
+<url>db/journals/iacr/iacr2011.html#BettaleFP11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugerePPR11" mdate="2023-03-17">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="52/2168-1">Christophe Petit 0001</author>
+<author pid="58/1586">Gu&#233;na&#235;l Renault</author>
+<title>New Subexponential Algorithms for Factoring in SL(2, fq).</title>
+<pages>598</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/598</ee>
+<url>db/journals/iacr/iacr2011.html#FaugerePPR11</url>
+</article>
+</r>
+<r><article key="journals/dcc/Levy-dit-VehelP10" mdate="2026-04-21">
+<author orcid="0009-0004-2306-1516" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Security analysis of word problem-based cryptosystems.</title>
+<pages>29-41</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10623-009-9307-x</ee>
+<url>db/journals/dcc/dcc54.html#Levy-dit-VehelP10</url>
+</article>
+</r>
+<r><article key="journals/mics/FaugereP10" mdate="2020-08-12">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Foreword.</title>
+<pages>127-128</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Math. Comput. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11786-009-0017-6</ee>
+<url>db/journals/mics/mics3.html#FaugereP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cans/FaugereOPG10" mdate="2017-05-24">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="66/1157">Danilo Gligoroski</author>
+<title>Analysis of the MQQ Public Key Cryptosystem.</title>
+<pages>169-183</pages>
+<year>2010</year>
+<booktitle>CANS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17619-7_13</ee>
+<crossref>conf/cans/2010</crossref>
+<url>db/conf/cans/cans2010.html#FaugereOPG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cisc/AlbrechtCDFP10" mdate="2017-05-22">
+<author pid="92/7397">Martin R. Albrecht</author>
+<author pid="19/2372">Carlos Cid</author>
+<author pid="17/9961">Thomas Dullien</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic Precomputations in Differential and Integral Cryptanalysis.</title>
+<pages>387-403</pages>
+<year>2010</year>
+<booktitle>Inscrypt</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21518-6_27</ee>
+<crossref>conf/cisc/2010</crossref>
+<url>db/conf/cisc/inscrypt2010.html#AlbrechtCDFP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/FaugereOPT10" mdate="2019-06-02">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0001-8176-8692" pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>Algebraic Cryptanalysis of McEliece Variants with Compact Keys.</title>
+<pages>279-298</pages>
+<year>2010</year>
+<booktitle>EUROCRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13190-5_14</ee>
+<ee>https://www.wikidata.org/entity/Q62039175</ee>
+<crossref>conf/eurocrypt/2010</crossref>
+<url>db/conf/eurocrypt/eurocrypt2010.html#FaugereOPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/FaugereGP10" mdate="2018-11-06">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="g/JvzGathen">Joachim von zur Gathen</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Decomposition of generic multivariate polynomials.</title>
+<pages>131-137</pages>
+<year>2010</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/1837934.1837963</ee>
+<crossref>conf/issac/2010</crossref>
+<url>db/conf/issac/issac2010.html#FaugereGP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/FaugereJPT10" mdate="2022-12-07">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0000-0003-2682-6508" pid="j/AntoineJoux">Antoine Joux</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="44/7080">Joana Treger</author>
+<title>Cryptanalysis of the Hidden Matrix Cryptosystem.</title>
+<pages>241-254</pages>
+<year>2010</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14712-8_15</ee>
+<crossref>conf/latincrypt/2010</crossref>
+<url>db/conf/latincrypt/latincrypt2010.html#FaugereJPT10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-3163" mdate="2018-08-13">
+<author pid="66/1157">Danilo Gligoroski</author>
+<author pid="k/SveinJKnapskog">Svein Johan Knapskog</author>
+<author pid="71/5912">Smile Markovski</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="92/8657">Rune Erlend Jensen</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<title>The Digital Signature Scheme MQQ-SIG</title>
+<ee type="oa">http://arxiv.org/abs/1010.3163</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.3163</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-3163</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereGOPT10" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="60/10308">Val&#233;rie Gauthier</author>
+<author pid="94/1801">Ayoub Otmani</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>A Distinguisher for High Rate McEliece Cryptosystems.</title>
+<pages>331</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/331</ee>
+<url>db/journals/iacr/iacr2010.html#FaugereGOPT10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BouillaguetFFP10" mdate="2020-05-11">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Practical Cryptanalysis of the Identification Scheme Based on the Isomorphism of Polynomial with One Secret Problem.</title>
+<pages>504</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/504</ee>
+<url>db/journals/iacr/iacr2010.html#BouillaguetFFP10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GligoroskiOJPFKM10" mdate="2020-05-11">
+<author pid="66/1157">Danilo Gligoroski</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="92/8657">Rune Erlend Jensen</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="k/SveinJKnapskog">Svein Johan Knapskog</author>
+<author pid="71/5912">Smile Markovski</author>
+<title>The Digital Signature Scheme MQQ-SIG.</title>
+<pages>527</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/527</ee>
+<url>db/journals/iacr/iacr2010.html#GligoroskiOJPFKM10</url>
+</article>
+</r>
+<r><article key="journals/jmc/BettaleFP09" mdate="2022-10-02">
+<author orcid="0000-0002-8799-8568" pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Hybrid approach for solving multivariate systems over finite fields.</title>
+<pages>177-197</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1515/JMC.2009.009</ee>
+<url>db/journals/jmc/jmc3.html#BettaleFP09</url>
+</article>
+</r>
+<r><article key="journals/jsc/AugotFP09" mdate="2021-02-17">
+<author pid="85/3827">Daniel Augot</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Foreword.</title>
+<pages>1605-1607</pages>
+<year>2009</year>
+<volume>44</volume>
+<journal>J. Symb. Comput.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.1016/j.jsc.2008.11.004</ee>
+<url>db/journals/jsc/jsc44.html#AugotFP09</url>
+</article>
+</r>
+<r><article key="journals/jsc/FaugereP09" mdate="2021-02-17">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>An efficient algorithm for decomposing multivariate polynomials and its applications to cryptography.</title>
+<pages>1676-1689</pages>
+<year>2009</year>
+<volume>44</volume>
+<journal>J. Symb. Comput.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.1016/j.jsc.2008.02.005</ee>
+<url>db/journals/jsc/jsc44.html#FaugereP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cisc/FaugereP09" mdate="2017-05-22">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic Cryptanalysis of Curry and Flurry Using Correlated Messages.</title>
+<pages>266-277</pages>
+<year>2009</year>
+<booktitle>Inscrypt</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16342-5_19</ee>
+<crossref>conf/cisc/2009</crossref>
+<url>db/conf/cisc/inscrypt2009.html#FaugereP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/FaugereP09" mdate="2018-11-06">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>High order derivatives and decomposition of multivariate polynomials.</title>
+<pages>207-214</pages>
+<year>2009</year>
+<booktitle>ISSAC</booktitle>
+<ee>https://doi.org/10.1145/1576702.1576732</ee>
+<crossref>conf/issac/2009</crossref>
+<url>db/conf/issac/issac2009.html#FaugereP09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/09/Levy-dit-VehelMPT09" mdate="2026-04-21">
+<author orcid="0009-0004-2306-1516" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="14/1433">Maria Grazia Marinari</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="39/258">Carlo Traverso</author>
+<title>A Survey on Polly Cracker Systems.</title>
+<pages>285-305</pages>
+<year>2009</year>
+<booktitle>Gr&#246;bner Bases, Coding, and Cryptography</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-93806-4_16</ee>
+<crossref>books/sp/09/SSMTP2009</crossref>
+<url>db/books/collections/SSMTP2009.html#Levy-dit-VehelMPT09</url>
+</incollection>
+</r>
+<r><book key="books/sp/09/SSMTP2009" mdate="2019-09-16">
+<editor orcid="0000-0002-7266-5146" pid="19/1809">Massimiliano Sala</editor>
+<editor pid="33/880">Shojiro Sakata</editor>
+<editor pid="06/1536">Teo Mora</editor>
+<editor pid="39/258">Carlo Traverso</editor>
+<editor pid="42/3351">Ludovic Perret</editor>
+<title>Gr&#246;bner Bases, Coding, and Cryptography</title>
+<publisher>Springer</publisher>
+<year>2009</year>
+<isbn>978-3-540-93805-7</isbn>
+<ee>https://doi.org/10.1007/978-3-540-93806-4</ee>
+<url>db/books/collections/SSMTP2009.html</url>
+</book>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereP09" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the Security of UOV.</title>
+<pages>483</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/483</ee>
+<url>db/journals/iacr/iacr2009.html#FaugereP09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BouillaguetFFP09" mdate="2020-05-11">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Differential-Algebraic Algorithms for the Isomorphism of Polynomials Problem.</title>
+<pages>583</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/583</ee>
+<url>db/journals/iacr/iacr2009.html#BouillaguetFFP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/BettaleFP08" mdate="2017-05-22">
+<author pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of the TRMS Signature Scheme of PKC'05.</title>
+<pages>143-155</pages>
+<year>2008</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68164-9_10</ee>
+<crossref>conf/africacrypt/2008</crossref>
+<url>db/conf/africacrypt/africacrypt2008.html#BettaleFP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cisc/BettaleFP08" mdate="2017-05-22">
+<author pid="46/2642">Luk Bettale</author>
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Security Analysis of Multivariate Polynomials for Hashing.</title>
+<pages>115-124</pages>
+<year>2008</year>
+<booktitle>Inscrypt</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01440-6_11</ee>
+<crossref>conf/cisc/2008x</crossref>
+<url>db/conf/cisc/inscrypt2008x.html#BettaleFP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/FaugereLP08" mdate="2026-04-21">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author orcid="0009-0004-2306-1516" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of MinRank.</title>
+<pages>280-296</pages>
+<year>2008</year>
+<booktitle>CRYPTO</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85174-5_16</ee>
+<crossref>conf/crypto/2008</crossref>
+<url>db/conf/crypto/crypto2008.html#FaugereLP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/FouqueMPS08" mdate="2017-05-24">
+<author pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="94/611">Gilles Macario-Rat</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="57/570">Jacques Stern</author>
+<title>Total Break of the <i>l</i>-IC Signature Scheme.</title>
+<pages>1-17</pages>
+<year>2008</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78440-1_1</ee>
+<crossref>conf/pkc/2008</crossref>
+<url>db/conf/pkc/pkc2008.html#FouqueMPS08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereP08" mdate="2020-05-11">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Algebraic Cryptanalysis of Curry and Flurry using Correlated Messages.</title>
+<pages>402</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/402</ee>
+<url>db/journals/iacr/iacr2008.html#FaugereP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fse/SugitaKPI07" mdate="2017-05-23">
+<author pid="12/2049">Makoto Sugita</author>
+<author pid="68/3620">Mitsuru Kawazoe</author>
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="14/1398">Hideki Imai</author>
+<title>Algebraic Cryptanalysis of 58-Round SHA-1.</title>
+<pages>349-365</pages>
+<year>2007</year>
+<crossref>conf/fse/2007</crossref>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74619-5_22</ee>
+<url>db/conf/fse/fse2007.html#SugitaKPI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/FaugereP06" mdate="2017-05-26">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Cryptanalysis of 2R<sup>-</sup> Schemes.</title>
+<pages>357-372</pages>
+<year>2006</year>
+<crossref>conf/crypto/2006</crossref>
+<booktitle>CRYPTO</booktitle>
+<ee>https://doi.org/10.1007/11818175_21</ee>
+<url>db/conf/crypto/crypto2006.html#FaugereP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/FaugereP06" mdate="2018-06-26">
+<author pid="08/1571">Jean-Charles Faug&#232;re</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial Equivalence Problems: Algorithmic and Theoretical Aspects.</title>
+<pages>30-47</pages>
+<year>2006</year>
+<crossref>conf/eurocrypt/2006</crossref>
+<booktitle>EUROCRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/11761679_3</ee>
+<url>db/conf/eurocrypt/eurocrypt2006.html#FaugereP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/Perret05" mdate="2017-05-24">
+<author pid="42/3351">Ludovic Perret</author>
+<title>A Fast Cryptanalysis of the Isomorphism of Polynomials with One Secret Problem.</title>
+<pages>354-370</pages>
+<year>2005</year>
+<crossref>conf/eurocrypt/2005</crossref>
+<booktitle>EUROCRYPT</booktitle>
+<ee>https://doi.org/10.1007/11426639_21</ee>
+<url>db/conf/eurocrypt/eurocrypt2005.html#Perret05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcc/Levy-dit-VehelP05" mdate="2026-04-21">
+<author orcid="0009-0004-2306-1516" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the Wagner-Magyarik Cryptosystem.</title>
+<pages>316-329</pages>
+<year>2005</year>
+<crossref>conf/wcc/2005</crossref>
+<booktitle>WCC</booktitle>
+<ee>https://doi.org/10.1007/11779360_25</ee>
+<url>db/conf/wcc/wcc2005.html#Levy-dit-VehelP05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/Perret05" mdate="2020-05-11">
+<author pid="42/3351">Ludovic Perret</author>
+<title>A Chosen Ciphertext Attack on a Public Key Cryptosystem Based on Lyndon Words.</title>
+<pages>14</pages>
+<year>2005</year>
+<volume>2005</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2005/014</ee>
+<url>db/journals/iacr/iacr2005.html#Perret05</url>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/Levy-dit-VehelP04" mdate="2026-04-21">
+<author orcid="0009-0004-2306-1516" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Attacks on Public Key Cryptosystems Based on Free Partially Commutative Monoids and Groups.</title>
+<pages>275-289</pages>
+<ee>https://doi.org/10.1007/978-3-540-30556-9_22</ee>
+<year>2004</year>
+<crossref>conf/indocrypt/2004</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2004.html#Levy-dit-VehelP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/PerretB04" mdate="2019-03-12">
+<author pid="42/3351">Ludovic Perret</author>
+<author pid="24/10726">Abdelmejid Bayad</author>
+<title>A differential approach to a polynomial equivalence problem.</title>
+<pages>142</pages>
+<year>2004</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2004.1365177</ee>
+<crossref>conf/isit/2004</crossref>
+<url>db/conf/isit/isit2004.html#PerretB04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/eccc/ECCC-TR04-116" mdate="2022-09-28">
+<author pid="42/3351">Ludovic Perret</author>
+<title>On the computational complexity of some equivalence problems of polynomial systems of equations over finite fields</title>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<year>2004</year>
+<volume>TR04</volume>
+<publnr>TR04-116</publnr>
+<url>db/journals/eccc/eccc11.html#TR04-116</url>
+<ee type="oa">https://eccc.weizmann.ac.il/eccc-reports/2004/TR04-116/index.html</ee>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/Levy-dit-VehelP03" mdate="2017-05-19">
+<author pid="10/4863">Fran&#231;oise Levy-dit-Vehel</author>
+<author pid="42/3351">Ludovic Perret</author>
+<title>Polynomial Equivalence Problems and Applications to Multivariate Cryptosystems.</title>
+<pages>235-251</pages>
+<ee>https://doi.org/10.1007/978-3-540-24582-7_18</ee>
+<year>2003</year>
+<crossref>conf/indocrypt/2003</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2003.html#Levy-dit-VehelP03</url>
+</inproceedings>
+</r>
+<coauthors n="82" nc="2">
+<co c="0"><na f="a/Albrecht:Martin_R=" pid="92/7397">Martin R. Albrecht</na></co>
+<co c="0"><na f="a/Armknecht:Frederik" pid="65/6856">Frederik Armknecht</na></co>
+<co c="0"><na f="a/Augot:Daniel" pid="85/3827">Daniel Augot</na></co>
+<co c="0"><na f="b/Battarbee:Christopher" pid="292/8067">Christopher Battarbee</na></co>
+<co c="-1"><na f="b/Bayad:Abdelmejid" pid="24/10726">Abdelmejid Bayad</na></co>
+<co c="0"><na f="b/Bender:Mat=iacute=as_R=" pid="183/1989">Mat&#237;as R. Bender</na></co>
+<co c="0"><na f="b/Berthomieu:J=eacute=r=eacute=my" pid="04/11287">J&#233;r&#233;my Berthomieu</na></co>
+<co c="0"><na f="b/Bettale:Luk" pid="46/2642">Luk Bettale</na></co>
+<co c="0"><na f="b/Beullens:Ward" pid="198/8288">Ward Beullens</na></co>
+<co c="0"><na f="b/Bouillaguet:Charles" pid="97/3320">Charles Bouillaguet</na></co>
+<co c="0"><na f="c/Chakraborty:Olive" pid="286/2742">Olive Chakraborty</na></co>
+<co c="0"><na f="c/Cid:Carlos" pid="19/2372">Carlos Cid</na></co>
+<co c="0"><na f="c/Coscojuela:Pilar" pid="354/1397">Pilar Coscojuela</na></co>
+<co c="0"><na f="d/D=iacute=az:Ra=uacute=l_Dur=aacute=n" pid="84/3288">Ra&#250;l Dur&#225;n D&#237;az</na></co>
+<co c="0"><na f="d/Dullien:Thomas" pid="17/9961">Thomas Dullien</na></co>
+<co c="0"><na f="e/Encinas:Luis_Hern=aacute=ndez" pid="58/6004">Luis Hern&#225;ndez Encinas</na></co>
+<co c="0"><na f="f/Farshim:Pooya" pid="64/5418">Pooya Farshim</na></co>
+<co c="0"><na f="f/Faug=egrave=re:Jean=Charles" pid="08/1571">Jean-Charles Faug&#232;re</na></co>
+<co c="1"><na f="f/Fazio:Nelly" pid="98/3299">Nelly Fazio</na></co>
+<co c="-1"><na f="f/Ferreira:River_Moreira" pid="370/6390">River Moreira Ferreira</na></co>
+<co c="0"><na f="f/Fitzpatrick:Robert" pid="121/9476">Robert Fitzpatrick</na></co>
+<co c="0"><na f="f/Fouque:Pierre=Alain" pid="76/6163">Pierre-Alain Fouque</na></co>
+<co c="0"><na f="g/Gathen:Joachim_von_zur" pid="g/JvzGathen">Joachim von zur Gathen</na></co>
+<co c="0" n="2"><na f="g/Gauthier:Val=eacute=rie" pid="60/10308">Val&#233;rie Gauthier</na><na>Val&#233;rie Gauthier-Uma&#241;a</na></co>
+<co c="0"><na f="g/Gligoroski:Danilo" pid="66/1157">Danilo Gligoroski</na></co>
+<co c="0"><na f="g/G=oacute=mez=P=eacute=rez:Domingo" pid="137/9125">Domingo G&#243;mez-P&#233;rez</na></co>
+<co c="0"><na f="g/Gutierrez_0001:Jaime" pid="12/1154-1">Jaime Gutierrez 0001</na></co>
+<co c="0"><na f="h/Herold:Gottfried" pid="47/11389">Gottfried Herold</na></co>
+<co c="0"><na f="h/Horan:Kelsey" pid="211/7966">Kelsey Horan</na></co>
+<co c="-1"><na f="h/Horkos:Dayane" pid="429/8466">Dayane Horkos</na></co>
+<co c="1"><na f="i/Iga:Kevin" pid="22/1559">Kevin Iga</na></co>
+<co c="0"><na f="i/Imai:Hideki" pid="14/1398">Hideki Imai</na></co>
+<co c="0"><na f="j/Jensen:Rune_Erlend" pid="92/8657">Rune Erlend Jensen</na></co>
+<co c="0"><na f="j/Joux:Antoine" pid="j/AntoineJoux">Antoine Joux</na></co>
+<co c="0"><na f="k/Kahrobaei:Delaram" pid="71/4705">Delaram Kahrobaei</na></co>
+<co c="0"><na f="k/Kaplan:Marc" pid="65/2581">Marc Kaplan</na></co>
+<co c="0"><na f="k/Kashefi:Elham" pid="70/563">Elham Kashefi</na></co>
+<co c="0"><na f="k/Kawazoe:Mitsuru" pid="68/3620">Mitsuru Kawazoe</na></co>
+<co c="0" n="2"><na f="k/Knapskog:Svein_J=" pid="k/SveinJKnapskog">Svein J. Knapskog</na><na>Svein Johan Knapskog</na></co>
+<co c="0"><na f="k/Koussa:Eliane" pid="223/9667">Eliane Koussa</na></co>
+<co c="0"><na f="l/Lauter:Kristin_E=" pid="08/1510">Kristin E. Lauter</na></co>
+<co c="0"><na f="l/Levy=dit=Vehel:Fran=ccedil=oise" pid="10/4863">Fran&#231;oise Levy-dit-Vehel</na></co>
+<co c="0"><na f="l/Lin:Dongdai" pid="44/6488">Dongdai Lin</na></co>
+<co c="0"><na f="m/Macario=Rat:Gilles" pid="94/611">Gilles Macario-Rat</na></co>
+<co c="0"><na f="m/Mahavadi:Krishna" pid="427/4659">Krishna Mahavadi</na></co>
+<co c="0"><na f="m/Malhou:Mohamed" pid="342/2793">Mohamed Malhou</na></co>
+<co c="0"><na f="m/Marinari:Maria_Grazia" pid="14/1433">Maria Grazia Marinari</na></co>
+<co c="0"><na f="m/Markovski:Smile" pid="71/5912">Smile Markovski</na></co>
+<co c="0"><na f="m/Monetta:Carmine" pid="358/2840">Carmine Monetta</na></co>
+<co c="0"><na f="m/Mora:Teo" pid="06/1536">Teo Mora</na></co>
+<co c="1"><na f="n/Nicolosi:Antonio" pid="58/1326">Antonio Nicolosi</na></co>
+<co c="0"><na f="=/=Oslash=deg=aring=rd:Rune_Steinsmo" pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</na></co>
+<co c="0"><na f="o/Otmani:Ayoub" pid="94/1801">Ayoub Otmani</na></co>
+<co c="0"><na f="p/Patarin:Jacques" pid="00/4060">Jacques Patarin</na></co>
+<co c="0"><na f="p/Pena:Marta_Conde" pid="142/1550">Marta Conde Pena</na></co>
+<co c="0"><na f="p/Petit_0001:Christophe" pid="52/2168-1">Christophe Petit 0001</na></co>
+<co c="0"><na f="p/Portzamparc:Fr=eacute=d=eacute=ric_de" pid="143/4445">Fr&#233;d&#233;ric de Portzamparc</na></co>
+<co c="0"><na f="r/Ramacher:Sebastian" pid="191/5895">Sebastian Ramacher</na></co>
+<co c="0"><na f="r/Renault:Gu=eacute=na=euml=l" pid="58/1586">Gu&#233;na&#235;l Renault</na></co>
+<co c="0"><na f="r/Ryba:Alex" pid="427/5956">Alex Ryba</na></co>
+<co c="0"><na f="r/Ryckeghem:Jocelyn" pid="242/0031">Jocelyn Ryckeghem</na></co>
+<co c="0"><na f="s/Sadeghi:Ahmad=Reza" pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</na></co>
+<co c="0"><na f="s/Sakata:Shojiro" pid="33/880">Shojiro Sakata</na></co>
+<co c="0"><na f="s/Sala:Massimiliano" pid="19/1809">Massimiliano Sala</na></co>
+<co c="0"><na f="s/Samardjiska:Simona" pid="33/10867">Simona Samardjiska</na></co>
+<co c="0"><na f="s/Shahandashti:Siamak_F=" pid="s/SFShahandashti">Siamak F. Shahandashti</na></co>
+<co c="1"><na f="s/Skeith_III:William_E=" pid="53/4465">William E. Skeith III</na></co>
+<co c="0"><na f="s/Stern:Jacques" pid="57/570">Jacques Stern</na></co>
+<co c="0"><na f="s/Striecks:Christoph" pid="128/5113">Christoph Striecks</na></co>
+<co c="0"><na f="s/Sugita:Makoto" pid="12/2049">Makoto Sugita</na></co>
+<co c="0"><na f="t/Thomae:Enrico" pid="32/10243">Enrico Thomae</na></co>
+<co c="0"><na f="t/Tillich:Jean=Pierre" pid="53/7044">Jean-Pierre Tillich</na></co>
+<co c="0"><na f="t/Todo:Yosuke" pid="44/10381">Yosuke Todo</na></co>
+<co c="0"><na f="t/Tota:Maria" pid="128/6168">Maria Tota</na></co>
+<co c="0"><na f="t/Traverso:Carlo" pid="39/258">Carlo Traverso</na></co>
+<co c="0"><na f="t/Treger:Joana" pid="44/7080">Joana Treger</na></co>
+<co c="0"><na f="t/Tsigaridas:Elias_P=" pid="77/4694">Elias P. Tsigaridas</na></co>
+<co c="0"><na f="v/Verbel:Javier_A=" pid="175/5885">Javier A. Verbel</na></co>
+<co c="0"><na f="v/Verhaeghe:Kevin" pid="393/3100">Kevin Verhaeghe</na></co>
+<co c="0"><na f="v/Vigorito:Martina" pid="358/2836">Martina Vigorito</na></co>
+<co c="0"><na f="w/Wang:Tianze" pid="20/9199">Tianze Wang</na></co>
+<co c="0"><na f="x/Xagawa:Keita" pid="17/5868">Keita Xagawa</na></co>
+</coauthors>
+</dblpperson>
+

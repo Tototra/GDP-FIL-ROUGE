@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<dblpperson name="Baptiste Esteban" pid="247/5302" n="5">
+<person key="homepages/247/5302" mdate="2019-08-23">
+<author pid="247/5302">Baptiste Esteban</author>
+</person>
+<r><inproceedings key="conf/dgmm/CarlinetE25" mdate="2025-11-15">
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<title>The Tree of Shapes as a Distance Transform: Building the ToS on High-Dynamic Range Images.</title>
+<pages>303-314</pages>
+<year>2025</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-09544-2_22</ee>
+<crossref>conf/dgmm/2025</crossref>
+<url>db/conf/dgmm/dgmm2025.html#CarlinetE25</url>
+<stream>streams/conf/dgmm</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caip/EstebanTCV23" mdate="2023-10-14">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Structural Analysis of the Additive Noise Impact on the &#945; -tree.</title>
+<pages>223-232</pages>
+<year>2023</year>
+<booktitle>CAIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-44240-7_22</ee>
+<crossref>conf/caip/2023-2</crossref>
+<url>db/conf/caip/caip2023-2.html#EstebanTCV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/EstebanCTV22" mdate="2023-09-30">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="06/2458">Didier Verna</author>
+<title>The Cost of Dynamism in Static Languages for Image Processing.</title>
+<pages>172-178</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568693</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#EstebanCTV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/EstebanTCV22" mdate="2024-10-06">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Estimation of the noise level function for color images using mathematical morphology and non-parametric statistics.</title>
+<pages>428-434</pages>
+<year>2022</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR56361.2022.9956218</ee>
+<crossref>conf/icpr/2022</crossref>
+<url>db/conf/icpr/icpr2022.html#EstebanTCV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caip/EstebanTG19" mdate="2023-09-30">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Estimating the Noise Level Function with the Tree of Shapes and Non-parametric Statistics.</title>
+<pages>377-388</pages>
+<year>2019</year>
+<booktitle>CAIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-29891-3_33</ee>
+<crossref>conf/caip/2019-2</crossref>
+<url>db/conf/caip/caip2019-2.html#EstebanTG19</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="0"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="v/Verna:Didier" pid="06/2458">Didier Verna</na></co>
+</coauthors>
+</dblpperson>
+

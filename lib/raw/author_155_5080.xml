@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel Stan" pid="155/5080" n="18">
+<person key="homepages/155/5080" mdate="2017-12-20">
+<author pid="155/5080">Daniel Stan</author>
+<url>https://depend.cs.uni-saarland.de/~dstan/</url>
+<note type="affiliation">Saarland University, SIC, Saarbr&#252;cken, Germany</note>
+<note type="affiliation">ENS Cachan/Paris-Saclay, France</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2602-21073" mdate="2026-03-29">
+<author pid="155/5080">Daniel Stan</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<author pid="430/8740">Juliette Jacquot</author>
+<title>Automata Learning with an Incomplete but Inductive Teacher.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.21073</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.21073</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-21073</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cav/JiangLMRS25" mdate="2025-11-02">
+<author pid="225/1627">Hongjian Jiang</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony W. Lin</author>
+<author orcid="0000-0003-4817-4563" pid="234/7983">Oliver Markgraf</author>
+<author orcid="0000-0002-2733-7098" pid="79/5611">Philipp R&#252;mmer</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<title>sfHornStr: Invariant Synthesis for Regular Model Checking as Constrained Horn Clauses.</title>
+<pages>200-214</pages>
+<year>2025</year>
+<booktitle>CAV (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-98668-0_10</ee>
+<crossref>conf/cav/2025-1</crossref>
+<url>db/conf/cav/cav2025-1.html#JiangLMRS25</url>
+<stream>streams/conf/cav</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-15959" mdate="2025-06-25">
+<author pid="225/1627">Hongjian Jiang</author>
+<author pid="38/2655">Anthony W. Lin</author>
+<author pid="234/7983">Oliver Markgraf</author>
+<author pid="79/5611">Philipp R&#252;mmer</author>
+<author pid="155/5080">Daniel Stan</author>
+<title>HornStr: Invariant Synthesis for Regular Model Checking as Constrained Horn Clauses(Technical Report).</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15959</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15959</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15959</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2509-20166" mdate="2025-10-18">
+<author pid="240/8651">Lauren Deason</author>
+<author pid="418/0070">Adam Bali</author>
+<author pid="417/9533">Ciprian Bejean</author>
+<author pid="417/9767">Diana Bolocan</author>
+<author pid="384/9369">James Crnkovich</author>
+<author pid="198/1028">Ioana Croitoru</author>
+<author pid="417/8817">Krishna Durai</author>
+<author pid="418/0025">Chase Midler</author>
+<author pid="417/9754">Calin Miron</author>
+<author pid="97/2954">David Molnar</author>
+<author pid="417/9063">Brad Moon</author>
+<author pid="417/9989">Bruno Ostarcevic</author>
+<author pid="417/9160">Alberto Peltea</author>
+<author pid="298/8172">Matt Rosenberg</author>
+<author pid="417/8526">Catalin Sandu</author>
+<author pid="417/9501">Arthur Saputkin</author>
+<author pid="19/5992">Sagar Shah</author>
+<author pid="155/5080">Daniel Stan</author>
+<author pid="417/8870">Ernest Szocs</author>
+<author pid="203/9729">Shengye Wan</author>
+<author pid="145/1893">Spencer Whitman</author>
+<author pid="25/4140">Sven Krasser</author>
+<author pid="139/1298">Joshua Saxe</author>
+<title>CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning.</title>
+<year>2025</year>
+<month>September</month>
+<volume>abs/2509.20166</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2509.20166</ee>
+<url>db/journals/corr/corr2509.html#abs-2509-20166</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/csl/StanNLA24" mdate="2025-07-04">
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<author orcid="0000-0002-6289-5124" pid="227/1165">Muhammad Najib</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony Widjaja Lin</author>
+<author pid="a/PAAbdulla">Parosh Aziz Abdulla</author>
+<title>Concurrent Stochastic Lossy Channel Games.</title>
+<pages>46:1-46:19</pages>
+<year>2024</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2024.46</ee>
+<crossref>conf/csl/2024</crossref>
+<url>db/conf/csl/csl2024.html#StanNLA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcar/PommelletSS24" mdate="2024-08-02">
+<author pid="125/0224">Adrien Pommellet</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<author pid="368/5923">Simon Scatton</author>
+<title>SAT-Based Learning of Computation Tree Logic.</title>
+<pages>366-385</pages>
+<year>2024</year>
+<booktitle>IJCAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-63498-7_22</ee>
+<crossref>conf/ijcar/2024-1</crossref>
+<url>db/conf/ijcar/ijcar2024-1.html#PommelletSS24</url>
+<stream>streams/conf/ijcar</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-06366" mdate="2024-02-16">
+<author pid="125/0224">Adrien Pommellet</author>
+<author pid="155/5080">Daniel Stan</author>
+<author pid="368/5923">Simon Scatton</author>
+<title>SAT-based Learning of Computation Tree Logic.</title>
+<year>2024</year>
+<volume>abs/2402.06366</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.06366</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-06366</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-17037" mdate="2025-07-04">
+<author pid="155/5080">Daniel Stan</author>
+<author pid="227/1165">Muhammad Najib</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony Widjaja Lin</author>
+<author pid="a/PAAbdulla">Parosh Aziz Abdulla</author>
+<title>Concurrent Stochastic Lossy Channel Games.</title>
+<year>2023</year>
+<volume>abs/2311.17037</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.17037</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-17037</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/StanL21" mdate="2022-07-20">
+<author pid="155/5080">Daniel Stan</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony W. Lin</author>
+<title>Regular Model Checking Approach to Knowledge Reasoning over Parameterized Systems.</title>
+<pages>1254-1262</pages>
+<year>2021</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1254.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3463952.3464097</ee>
+<crossref>conf/atal/2021</crossref>
+<url>db/conf/atal/aamas2021.html#StanL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/MarkgrafSL20" mdate="2021-07-29">
+<author orcid="0000-0003-4817-4563" pid="234/7983">Oliver Markgraf</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<author orcid="0000-0003-4715-5096" pid="38/2655">Anthony W. Lin</author>
+<title>Learning Union of Integer Hypercubes with Queries - (with Applications to Monadic Decomposition).</title>
+<pages>243-265</pages>
+<year>2021</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-81688-9_12</ee>
+<crossref>conf/cav/2021-2</crossref>
+<url>db/conf/cav/cav2021-2.html#MarkgrafSL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-04361" mdate="2021-02-24">
+<author pid="155/5080">Daniel Stan</author>
+<author pid="38/2655">Anthony Widjaja Lin</author>
+<title>Regular Model Checking Approach to Knowledge Reasoning over Parameterized Systems (technical report).</title>
+<year>2021</year>
+<volume>abs/2102.04361</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.04361</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-04361</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13071" mdate="2021-06-01">
+<author pid="234/7983">Oliver Markgraf</author>
+<author pid="155/5080">Daniel Stan</author>
+<author pid="38/2655">Anthony W. Lin</author>
+<title>Learning Union of Integer Hypercubes with Queries (Technical Report).</title>
+<year>2021</year>
+<volume>abs/2105.13071</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13071</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13071</url>
+</article>
+</r>
+<r><inproceedings key="conf/vmcai/FoxSH19" mdate="2021-10-14">
+<author pid="206/8408">Gereon Fox</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<author pid="h/HolgerHermanns">Holger Hermanns</author>
+<title>Syntactic Partial Order Compression for Probabilistic Reachability.</title>
+<pages>446-467</pages>
+<year>2019</year>
+<booktitle>VMCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-11245-5_21</ee>
+<crossref>conf/vmcai/2019</crossref>
+<url>db/conf/vmcai/vmcai2019.html#FoxSH19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Stan17" mdate="2021-10-14">
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<title>Randomized strategies in concurrent games. (Strat&#233;gies randomis&#233;es dans les jeux concurrents).</title>
+<year>2017</year>
+<school>University of Paris-Saclay, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01519354</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icalp/BouyerMRSS16" mdate="2021-10-14">
+<author pid="b/PatriciaBouyer">Patricia Bouyer</author>
+<author pid="m/NicolasMarkey">Nicolas Markey</author>
+<author pid="49/10827">Mickael Randour</author>
+<author orcid="0000-0002-6731-0340" pid="45/2701">Arnaud Sangnier</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<title>Reachability in Networks of Register Protocols under Stochastic Schedulers.</title>
+<pages>106:1-106:14</pages>
+<year>2016</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2016.106</ee>
+<crossref>conf/icalp/2016</crossref>
+<url>db/conf/icalp/icalp2016.html#BouyerMRSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/BouyerMS16" mdate="2021-10-14">
+<author pid="b/PatriciaBouyer">Patricia Bouyer</author>
+<author orcid="0000-0003-1977-7525" pid="m/NicolasMarkey">Nicolas Markey</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<title>Stochastic Equilibria under Imprecise Deviations in Terminal-Reward Concurrent Games.</title>
+<booktitle>GandALF</booktitle>
+<year>2016</year>
+<pages>61-75</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.226.5</ee>
+<ee type="oa">http://arxiv.org/abs/1609.04089</ee>
+<crossref>journals/corr/CantoneD16</crossref>
+<url>db/series/eptcs/eptcs226.html#BouyerMS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BouyerMRSS16" mdate="2018-08-13">
+<author pid="b/PatriciaBouyer">Patricia Bouyer</author>
+<author pid="m/NicolasMarkey">Nicolas Markey</author>
+<author pid="49/10827">Mickael Randour</author>
+<author pid="45/2701">Arnaud Sangnier</author>
+<author pid="155/5080">Daniel Stan</author>
+<title>Reachability in Networks of Register Protocols under Stochastic Schedulers.</title>
+<year>2016</year>
+<volume>abs/1602.05928</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.05928</ee>
+<url>db/journals/corr/corr1602.html#BouyerMRSS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/fsttcs/BouyerMS14" mdate="2021-10-14">
+<author pid="b/PatriciaBouyer">Patricia Bouyer</author>
+<author pid="m/NicolasMarkey">Nicolas Markey</author>
+<author orcid="0000-0002-4723-5742" pid="155/5080">Daniel Stan</author>
+<title>Mixed Nash Equilibria in Concurrent Terminal-Reward Games.</title>
+<pages>351-363</pages>
+<year>2014</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2014.351</ee>
+<crossref>conf/fsttcs/2014</crossref>
+<url>db/conf/fsttcs/fsttcs2014.html#BouyerMS14</url>
+</inproceedings>
+</r>
+<coauthors n="37" nc="3">
+<co c="1"><na f="a/Abdulla:Parosh_Aziz" pid="a/PAAbdulla">Parosh Aziz Abdulla</na></co>
+<co c="0"><na f="b/Bali:Adam" pid="418/0070">Adam Bali</na></co>
+<co c="0"><na f="b/Bejean:Ciprian" pid="417/9533">Ciprian Bejean</na></co>
+<co c="0"><na f="b/Bolocan:Diana" pid="417/9767">Diana Bolocan</na></co>
+<co c="1"><na f="b/Bouyer:Patricia" pid="b/PatriciaBouyer">Patricia Bouyer</na></co>
+<co c="0"><na f="c/Crnkovich:James" pid="384/9369">James Crnkovich</na></co>
+<co c="0"><na f="c/Croitoru:Ioana" pid="198/1028">Ioana Croitoru</na></co>
+<co c="0"><na f="d/Deason:Lauren" pid="240/8651">Lauren Deason</na></co>
+<co c="0"><na f="d/Durai:Krishna" pid="417/8817">Krishna Durai</na></co>
+<co c="1"><na f="f/Fox:Gereon" pid="206/8408">Gereon Fox</na></co>
+<co c="1"><na f="h/Hermanns:Holger" pid="h/HolgerHermanns">Holger Hermanns</na></co>
+<co c="2"><na f="j/Jacquot:Juliette" pid="430/8740">Juliette Jacquot</na></co>
+<co c="1"><na f="j/Jiang:Hongjian" pid="225/1627">Hongjian Jiang</na></co>
+<co c="0"><na f="k/Krasser:Sven" pid="25/4140">Sven Krasser</na></co>
+<co c="1" n="2"><na f="l/Lin:Anthony_Widjaja" pid="38/2655">Anthony Widjaja Lin</na><na>Anthony W. Lin</na></co>
+<co c="1"><na f="m/Markey:Nicolas" pid="m/NicolasMarkey">Nicolas Markey</na></co>
+<co c="1"><na f="m/Markgraf:Oliver" pid="234/7983">Oliver Markgraf</na></co>
+<co c="0"><na f="m/Midler:Chase" pid="418/0025">Chase Midler</na></co>
+<co c="0"><na f="m/Miron:Calin" pid="417/9754">Calin Miron</na></co>
+<co c="0"><na f="m/Molnar:David" pid="97/2954">David Molnar</na></co>
+<co c="0"><na f="m/Moon:Brad" pid="417/9063">Brad Moon</na></co>
+<co c="1"><na f="n/Najib:Muhammad" pid="227/1165">Muhammad Najib</na></co>
+<co c="0"><na f="o/Ostarcevic:Bruno" pid="417/9989">Bruno Ostarcevic</na></co>
+<co c="0"><na f="p/Peltea:Alberto" pid="417/9160">Alberto Peltea</na></co>
+<co c="2"><na f="p/Pommellet:Adrien" pid="125/0224">Adrien Pommellet</na></co>
+<co c="1"><na f="r/Randour:Mickael" pid="49/10827">Mickael Randour</na></co>
+<co c="0"><na f="r/Rosenberg:Matt" pid="298/8172">Matt Rosenberg</na></co>
+<co c="1"><na f="r/R=uuml=mmer:Philipp" pid="79/5611">Philipp R&#252;mmer</na></co>
+<co c="0"><na f="s/Sandu:Catalin" pid="417/8526">Catalin Sandu</na></co>
+<co c="1"><na f="s/Sangnier:Arnaud" pid="45/2701">Arnaud Sangnier</na></co>
+<co c="0"><na f="s/Saputkin:Arthur" pid="417/9501">Arthur Saputkin</na></co>
+<co c="0"><na f="s/Saxe:Joshua" pid="139/1298">Joshua Saxe</na></co>
+<co c="2"><na f="s/Scatton:Simon" pid="368/5923">Simon Scatton</na></co>
+<co c="0"><na f="s/Shah:Sagar" pid="19/5992">Sagar Shah</na></co>
+<co c="0"><na f="s/Szocs:Ernest" pid="417/8870">Ernest Szocs</na></co>
+<co c="0"><na f="w/Wan:Shengye" pid="203/9729">Shengye Wan</na></co>
+<co c="0"><na f="w/Whitman:Spencer" pid="145/1893">Spencer Whitman</na></co>
+</coauthors>
+</dblpperson>
+

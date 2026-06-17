@@ -1,0 +1,940 @@
+<?xml version="1.0"?>
+<dblpperson name="Alexandre Duret-Lutz" pid="43/6032" n="56">
+<person key="homepages/43/6032" mdate="2024-09-08">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<url>https://orcid.org/0000-0002-6623-2512</url>
+<url>https://www.wikidata.org/entity/Q126388696</url>
+<url>https://dl.acm.org/profile/81100233744</url>
+<url>https://scholar.google.com/citations?user=ftaim7AAAAAJ</url>
+<note type="affiliation">LRDE, France</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2604-26688" mdate="2026-05-19">
+<author pid="435/9892">Nadav Alon</author>
+<author pid="34/4525">Supratik Chakraborty</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="74/9853">Dror Fried</author>
+<author pid="137/3715">Lucas M. Tabajara</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<author pid="141/7718-1">Shufang Zhu 0001</author>
+<title>On-the-fly LTLf Synthesis under Partial Observability.</title>
+<year>2026</year>
+<month>April</month>
+<volume>abs/2604.26688</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2604.26688</ee>
+<url>db/journals/corr/corr2604.html#abs-2604-26688</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/apn/DuretLutzPT25" mdate="2025-12-25">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0009-0007-5038-7804" pid="10/683">Denis Poitrenaud</author>
+<author orcid="0000-0001-7775-1978" pid="91/1769">Yann Thierry-Mieg</author>
+<title>Simplifying LTL Model Checking Given Prior Knowledge.</title>
+<pages>433-456</pages>
+<year>2025</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94634-9_21</ee>
+<crossref>conf/apn/2025</crossref>
+<url>db/conf/apn/pn2025.html#DuretLutzPT25</url>
+<stream>streams/conf/apn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wia/DuretLutzZPGV25" mdate="2025-09-11">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0002-5922-8750" pid="141/7718-1">Shufang Zhu 0001</author>
+<author orcid="0000-0002-8242-5357" pid="p/NPiterman">Nir Piterman</author>
+<author orcid="0000-0001-9680-7658" pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author orcid="0000-0002-0661-5773" pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Engineering an LTL<sub>f</sub> Synthesis Tool.</title>
+<pages>129-147</pages>
+<year>2025</year>
+<booktitle>CIAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-02602-6_10</ee>
+<crossref>conf/wia/2025</crossref>
+<url>db/conf/wia/ciaa2025.html#DuretLutzZPGV25</url>
+<stream>streams/conf/wia</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-16891" mdate="2025-04-15">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<author pid="91/1769">Yann Thierry-Mieg</author>
+<title>Simplifying LTL Model Checking Given Prior Knowledge.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.16891</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.16891</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-16891</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-02491" mdate="2025-08-10">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="141/7718-1">Shufang Zhu 0001</author>
+<author pid="p/NPiterman">Nir Piterman</author>
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Engineering an LTLf Synthesis Tool.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.02491</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.02491</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-02491</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/sttt/JacobsPABCCDDDFFKKLMMPR24" mdate="2026-03-05">
+<author pid="73/6880">Swen Jacobs</author>
+<author orcid="0000-0002-1200-4952" pid="135/6266">Guillermo A. P&#233;rez</author>
+<author pid="322/0023">Remco Abraham</author>
+<author pid="b/VeroniqueBruyere">V&#233;ronique Bruy&#232;re</author>
+<author pid="54/2541">Micha&#235;l Cadilhac</author>
+<author pid="67/9840">Maximilien Colange</author>
+<author pid="322/0002">Charly Delfosse</author>
+<author pid="126/8210">Tom van Dijk</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="05/7445">Peter Faymonville</author>
+<author pid="73/4443">Bernd Finkbeiner</author>
+<author pid="124/8925">Ayrat Khalimov 0001</author>
+<author pid="80/8313-1">Felix Klein 0001</author>
+<author pid="62/964">Michael Luttenberger</author>
+<author pid="118/3833">Klara J. Meyer</author>
+<author pid="167/2076">Thibaud Michaud</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<author pid="276/0757">Florian Renkin</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author orcid="0000-0002-5160-0327" pid="203/8091">Mouhammad Sakr</author>
+<author pid="129/1369">Salomon Sickert</author>
+<author pid="276/5060">Ga&#235;tan Staquet</author>
+<author pid="245/2655">Cl&#233;ment Tamines</author>
+<author pid="143/2715">Leander Tentrup</author>
+<author orcid="0000-0003-3772-5745" pid="42/4767">Adam Walker</author>
+<title>The Reactive Synthesis Competition (SYNTCOMP): 2018-2021.</title>
+<pages>551-567</pages>
+<year>2024</year>
+<month>October</month>
+<volume>26</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10009-024-00754-1</ee>
+<url>db/journals/sttt/sttt26.html#JacobsPABCCDDDFFKKLMMPR24</url>
+<stream>streams/journals/sttt</stream>
+</article>
+</r>
+<r><inproceedings key="conf/wia/MartinRD24" mdate="2024-09-20">
+<author orcid="0000-0002-3263-7669" pid="40/1510">Antoine Martin</author>
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Translation of Semi-extended Regular Expressions Using Derivatives.</title>
+<pages>234-248</pages>
+<year>2024</year>
+<booktitle>CIAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-71112-1_17</ee>
+<crossref>conf/wia/2024</crossref>
+<url>db/conf/wia/ciaa2024.html#MartinRD24</url>
+<stream>streams/conf/wia</stream>
+</inproceedings>
+</r>
+<r><article key="journals/scp/RenkinSDP23" mdate="2023-10-27">
+<author pid="276/0757">Florian Renkin</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<title>The Mealy-machine reduction functions of Spot.</title>
+<pages>102995</pages>
+<year>2023</year>
+<month>August</month>
+<volume>230</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2023.102995</ee>
+<url>db/journals/scp/scp230.html#RenkinSDP23</url>
+</article>
+</r>
+<r><article key="journals/fmsd/RenkinSDP22" mdate="2024-03-16">
+<author orcid="0000-0002-5066-1726" pid="276/0757">Florian Renkin</author>
+<author orcid="0000-0002-6611-9659" pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0001-5530-152X" pid="125/0224">Adrien Pommellet</author>
+<title>Dissecting ltlsynt.</title>
+<pages>248-289</pages>
+<year>2022</year>
+<month>December</month>
+<volume>61</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10703-022-00407-6</ee>
+<url>db/journals/fmsd/fmsd61.html#RenkinSDP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/Duret-LutzRCRAS22" mdate="2024-12-09">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0003-4769-3302" pid="67/9840">Maximilien Colange</author>
+<author orcid="0000-0002-5066-1726" pid="276/0757">Florian Renkin</author>
+<author pid="326/0184">Alexandre Gbaguidi Aisse</author>
+<author orcid="0000-0002-6611-9659" pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author pid="322/9158">Thomas Medioni</author>
+<author orcid="0000-0002-3263-7669" pid="40/1510">Antoine Martin</author>
+<author pid="64/9170">J&#233;r&#244;me Dubois</author>
+<author pid="322/9514">Cl&#233;ment Gillard</author>
+<author orcid="0000-0002-5422-5884" pid="178/2897">Henrich Lauko</author>
+<title>From Spot 2.0 to Spot 2.10: What's New?</title>
+<pages>174-187</pages>
+<year>2022</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-13188-2_9</ee>
+<crossref>conf/cav/2022-2</crossref>
+<url>db/conf/cav/cav2022-2.html#Duret-LutzRCRAS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/RenkinSDP22" mdate="2022-06-28">
+<author orcid="0000-0002-5066-1726" pid="276/0757">Florian Renkin</author>
+<author orcid="0000-0002-6611-9659" pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0001-5530-152X" pid="125/0224">Adrien Pommellet</author>
+<title>Effective Reductions of Mealy Machines.</title>
+<pages>114-130</pages>
+<year>2022</year>
+<booktitle>FORTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-08679-3_8</ee>
+<crossref>conf/forte/2022</crossref>
+<url>db/conf/forte/forte2022.html#RenkinSDP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/CasaresDMRS22" mdate="2022-04-29">
+<author orcid="0000-0002-6539-2020" pid="279/6559">Antonio Casares</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0003-1334-9079" pid="118/3833">Klara J. Meyer</author>
+<author orcid="0000-0002-5066-1726" pid="276/0757">Florian Renkin</author>
+<author orcid="0000-0002-0280-8981" pid="129/1369">Salomon Sickert</author>
+<title>Practical Applications of the Alternating Cycle Decomposition.</title>
+<pages>99-117</pages>
+<year>2022</year>
+<booktitle>TACAS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-99527-0_6</ee>
+<crossref>conf/tacas/2022-2</crossref>
+<url>db/conf/tacas/tacas2022-2.html#CasaresDMRS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-05376" mdate="2024-05-07">
+<author pid="276/0757">Florian Renkin</author>
+<author pid="158/9158">Philipp Schlehuber</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<title>Improvements to ltlsynt.</title>
+<year>2022</year>
+<volume>abs/2201.05376</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.05376</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-05376</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-00251" mdate="2026-03-05">
+<author pid="73/6880">Swen Jacobs</author>
+<author pid="135/6266">Guillermo A. P&#233;rez</author>
+<author pid="322/0023">Remco Abraham</author>
+<author pid="b/VeroniqueBruyere">V&#233;ronique Bruy&#232;re</author>
+<author pid="54/2541">Micha&#235;l Cadilhac</author>
+<author pid="67/9840">Maximilien Colange</author>
+<author pid="322/0002">Charly Delfosse</author>
+<author pid="126/8210">Tom van Dijk</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="05/7445">Peter Faymonville</author>
+<author pid="73/4443">Bernd Finkbeiner</author>
+<author pid="124/8925">Ayrat Khalimov 0001</author>
+<author pid="80/8313-1">Felix Klein 0001</author>
+<author pid="62/964">Michael Luttenberger</author>
+<author pid="118/3833">Klara J. Meyer</author>
+<author pid="167/2076">Thibaud Michaud</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<author pid="276/0757">Florian Renkin</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author pid="203/8091">Mouhammad Sakr</author>
+<author pid="129/1369">Salomon Sickert</author>
+<author pid="276/5060">Ga&#235;tan Staquet</author>
+<author pid="245/2655">Cl&#233;ment Tamines</author>
+<author pid="143/2715">Leander Tentrup</author>
+<author orcid="0000-0003-3772-5745" pid="42/4767">Adam Walker</author>
+<title>The Reactive Synthesis Competition (SYNTCOMP): 2018-2021.</title>
+<year>2022</year>
+<volume>abs/2206.00251</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.00251</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-00251</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-10228" mdate="2022-06-27">
+<author pid="276/0757">Florian Renkin</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="125/0224">Adrien Pommellet</author>
+<title>Effective Reductions of Mealy Machines.</title>
+<year>2022</year>
+<volume>abs/2206.10228</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.10228</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-10228</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11366" mdate="2023-01-30">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="41/9726">Etienne Renault</author>
+<author pid="67/9840">Maximilien Colange</author>
+<author pid="276/0757">Florian Renkin</author>
+<author pid="326/0184">Alexandre Gbaguidi Aisse</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<author pid="322/9158">Thomas Medioni</author>
+<author pid="40/1510">Antoine Martin</author>
+<author pid="64/9170">J&#233;r&#244;me Dubois</author>
+<author pid="322/9514">Cl&#233;ment Gillard</author>
+<author pid="178/2897">Henrich Lauko</author>
+<title>From Spot 2.0 to Spot 2.10: What's New?</title>
+<year>2022</year>
+<volume>abs/2206.11366</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11366</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11366</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/RenkinDP20" mdate="2020-10-20">
+<author orcid="0000-0002-5066-1726" pid="276/0757">Florian Renkin</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0001-5530-152X" pid="125/0224">Adrien Pommellet</author>
+<title>Practical &#34;Paritizing&#34; of Emerson-Lei Automata.</title>
+<pages>127-143</pages>
+<year>2020</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59152-6_7</ee>
+<crossref>conf/atva/2020</crossref>
+<url>db/conf/atva/atva2020.html#RenkinDP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BlahoudekDS20" mdate="2022-03-16">
+<author orcid="0000-0003-1880-5379" pid="131/6892">Frantisek Blahoudek</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0001-5873-403X" pid="37/1716">Jan Strejcek</author>
+<title>Seminator 2 Can Complement Generalized B&#252;chi Automata via Improved Semi-determinization.</title>
+<pages>15-27</pages>
+<year>2020</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-53291-8_2</ee>
+<ee>https://www.wikidata.org/entity/Q108123885</ee>
+<crossref>conf/cav/2020-2</crossref>
+<url>db/conf/cav/cav2020-2.html#BlahoudekDS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/BloemenDP19" mdate="2025-01-19">
+<author pid="175/6602">Vincent Bloemen</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="p/JvdPol">Jaco van de Pol</author>
+<title>Model checking with generalized Rabin and Fin-less automata.</title>
+<pages>307-324</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10009-019-00508-4</ee>
+<ee>https://www.wikidata.org/entity/Q128384038</ee>
+<url>db/journals/sttt/sttt21.html#BloemenDP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/BaierBD00S19" mdate="2024-08-04">
+<author orcid="0000-0002-5321-9343" pid="b/ChristelBaier">Christel Baier</author>
+<author orcid="0000-0003-1880-5379" pid="131/6892">Frantisek Blahoudek</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="k/JoachimKlein1">Joachim Klein 0001</author>
+<author pid="139/8389-1">David M&#252;ller 0001</author>
+<author pid="37/1716">Jan Strejcek</author>
+<title>Generic Emptiness Check for Fun and Profit.</title>
+<pages>445-461</pages>
+<year>2019</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31784-3_26</ee>
+<crossref>conf/atva/2019</crossref>
+<url>db/conf/atva/atva2019.html#BaierBD00S19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/BarnatBDLPPR18" mdate="2020-12-29">
+<author pid="b/JiriBarnat">Jiri Barnat</author>
+<author pid="175/6602">Vincent Bloemen</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0002-2433-4174" pid="05/7913">Alfons Laarman</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<author pid="p/JvdPol">Jaco van de Pol</author>
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<title>Parallel Model Checking Algorithms for Linear-Time Temporal Logic.</title>
+<pages>457-507</pages>
+<year>2018</year>
+<booktitle>Handbook of Parallel Constraint Reasoning</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63516-3_12</ee>
+<crossref>books/sp/HS2018</crossref>
+<url>db/books/collections/HS2018.html#BarnatBDLPPR18</url>
+</incollection>
+</r>
+<r><article key="journals/sttt/RenaultDKP17" mdate="2020-09-05">
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>Variations on parallel explicit emptiness checks for generalized B&#252;chi automata.</title>
+<pages>653-673</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10009-016-0422-5</ee>
+<url>db/journals/sttt/sttt19.html#RenaultDKP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpar/BlahoudekDKKS17" mdate="2021-08-15">
+<author pid="131/6892">Frantisek Blahoudek</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="203/3299">Mikul&#225;s Klokocka</author>
+<author pid="k/MojmirKretinsky">Mojm&#237;r Kret&#237;nsk&#253;</author>
+<author pid="37/1716">Jan Strejcek</author>
+<title>Seminator: A Tool for Semi-Determinization of Omega-Automata.</title>
+<pages>356-367</pages>
+<year>2017</year>
+<booktitle>LPAR</booktitle>
+<ee type="oa">https://doi.org/10.29007/k5nl</ee>
+<crossref>conf/lpar/2017</crossref>
+<url>db/conf/lpar/lpar2017.html#BlahoudekDKKS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/BloemenDP17" mdate="2018-11-06">
+<author pid="175/6602">Vincent Bloemen</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="p/JvdPol">Jaco van de Pol</author>
+<title>Explicit state model checking with generalized B&#252;chi and Rabin automata.</title>
+<pages>50-59</pages>
+<year>2017</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1145/3092282.3092288</ee>
+<crossref>conf/spin/2017</crossref>
+<url>db/conf/spin/spin2017.html#BloemenDP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzLFMRX16" mdate="2020-09-05">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="187/1632">Alexandre Lewkowicz</author>
+<author pid="187/1605">Amaury Fauchille</author>
+<author pid="167/2076">Thibaud Michaud</author>
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author pid="187/1553">Laurent Xu</author>
+<title>Spot 2.0 - A Framework for LTL and \omega -Automata Manipulation.</title>
+<pages>122-129</pages>
+<year>2016</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46520-3_8</ee>
+<crossref>conf/atva/2016</crossref>
+<url>db/conf/atva/atva2016.html#Duret-LutzLFMRX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzKPR16" mdate="2020-09-05">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<title>Heuristics for Checking Liveness Properties with Partial Order Reductions.</title>
+<pages>340-356</pages>
+<year>2016</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46520-3_22</ee>
+<crossref>conf/atva/2016</crossref>
+<url>db/conf/atva/atva2016.html#Duret-LutzKPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BabiakBDKKM0S15" mdate="2022-04-09">
+<author pid="55/7588">Tom&#225;s Babiak</author>
+<author orcid="0000-0003-1880-5379" pid="131/6892">Frantisek Blahoudek</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author orcid="0000-0003-4681-6964" pid="k/JoachimKlein1">Joachim Klein 0001</author>
+<author pid="95/6511">Jan Kret&#237;nsk&#253;</author>
+<author pid="139/8389-1">David M&#252;ller 0001</author>
+<author orcid="0000-0003-4137-8862" pid="33/3095">David Parker 0001</author>
+<author orcid="0000-0001-5873-403X" pid="37/1716">Jan Strejcek</author>
+<title>The Hanoi Omega-Automata Format.</title>
+<pages>479-486</pages>
+<year>2015</year>
+<booktitle>CAV (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-21690-4_31</ee>
+<crossref>conf/cav/2015-1</crossref>
+<url>db/conf/cav/cav2015-1.html#BabiakBDKKM0S15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/BaarirD15" mdate="2017-09-16">
+<author pid="76/2574">Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>SAT-Based Minimization of Deterministic \omega -Automata.</title>
+<pages>79-87</pages>
+<year>2015</year>
+<booktitle>LPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-48899-7_6</ee>
+<crossref>conf/lpar/2015</crossref>
+<url>db/conf/lpar/lpar2015.html#BaarirD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/BlahoudekDRS15" mdate="2019-10-19">
+<author orcid="0000-0003-1880-5379" pid="131/6892">Frantisek Blahoudek</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="167/2243">Vojtech Rujbr</author>
+<author orcid="0000-0001-5873-403X" pid="37/1716">Jan Strejcek</author>
+<title>On Refinement of B&#252;chi Automata for Explicit Model Checking.</title>
+<pages>66-83</pages>
+<year>2015</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23404-5_6</ee>
+<crossref>conf/spin/2015</crossref>
+<url>db/conf/spin/spin2015.html#BlahoudekDRS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/MichaudD15" mdate="2017-09-16">
+<author pid="167/2076">Thibaud Michaud</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Practical Stutter-Invariance Checks for &#969;-Regular Languages.</title>
+<pages>84-101</pages>
+<year>2015</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23404-5_7</ee>
+<crossref>conf/spin/2015</crossref>
+<url>db/conf/spin/spin2015.html#MichaudD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP15" mdate="2020-09-05">
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>Parallel Explicit Model Checking for Generalized B&#252;chi Automata.</title>
+<pages>613-627</pages>
+<year>2015</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46681-0_56</ee>
+<crossref>conf/tacas/2015</crossref>
+<url>db/conf/tacas/tacas2015.html#RenaultDKP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/Duret-Lutz14" mdate="2020-09-10">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>LTL translation improvements in Spot 1.0.</title>
+<pages>31-54</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>Int. J. Crit. Comput. Based Syst.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJCCBS.2014.059594</ee>
+<url>db/journals/ijccbs/ijccbs5.html#Duret-Lutz14</url>
+</article>
+</r>
+<r><inproceedings key="conf/forte/BaarirD14" mdate="2018-06-26">
+<author pid="76/2574">Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Mechanizing the Minimization of Deterministic Generalized B&#252;chi Automata.</title>
+<pages>266-283</pages>
+<year>2014</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43613-4_17</ee>
+<crossref>conf/forte/2014</crossref>
+<url>db/conf/forte/forte2014.html#BaarirD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/BlahoudekDKS14" mdate="2019-10-19">
+<author orcid="0000-0003-1880-5379" pid="131/6892">Frantisek Blahoudek</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="k/MojmirKretinsky">Mojm&#237;r Kret&#237;nsk&#253;</author>
+<author orcid="0000-0001-5873-403X" pid="37/1716">Jan Strejcek</author>
+<title>Is there a best b&#252;chi automaton for explicit model checking?</title>
+<pages>68-76</pages>
+<year>2014</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1145/2632362.2632377</ee>
+<crossref>conf/spin/2014</crossref>
+<url>db/conf/spin/spin2014.html#BlahoudekDKS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/SalemDKT14" mdate="2018-11-02">
+<author pid="121/4067">Ala-Eddine Ben Salem</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978" pid="91/1769">Yann Thierry-Mieg</author>
+<title>Symbolic Model Checking of Stutter-Invariant Properties Using Generalized Testing Automata.</title>
+<pages>440-454</pages>
+<year>2014</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54862-8_38</ee>
+<crossref>conf/tacas/2014</crossref>
+<url>db/conf/tacas/tacas2014.html#SalemDKT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wia/DemailleDLSS14" mdate="2017-09-16">
+<author pid="14/133">Akim Demaille</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="54/1797">Sylvain Lombardy</author>
+<author pid="23/9">Luca Saiu</author>
+<author pid="29/910">Jacques Sakarovitch</author>
+<title>A Type System for Weighted Automata and Rational Expressions.</title>
+<pages>162-175</pages>
+<year>2014</year>
+<booktitle>CIAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08846-4_12</ee>
+<crossref>conf/wia/2014</crossref>
+<url>db/conf/wia/ciaa2014.html#DemailleDLSS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/Duret-Lutz13" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Manipulating LTL Formulas Using Spot 1.0.</title>
+<pages>442-445</pages>
+<year>2013</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-02444-8_31</ee>
+<crossref>conf/atva/2013</crossref>
+<url>db/conf/atva/atva2013.html#Duret-Lutz13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/FroncD13" mdate="2017-09-16">
+<author pid="97/10567">Lukasz Fronc</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>LTL Model Checking with Neco.</title>
+<pages>451-454</pages>
+<year>2013</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-02444-8_33</ee>
+<crossref>conf/atva/2013</crossref>
+<url>db/conf/atva/atva2013.html#FroncD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/RenaultDKP13" mdate="2020-09-05">
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>Three SCC-Based Emptiness Checks for Generalized B&#252;chi Automata.</title>
+<pages>668-682</pages>
+<year>2013</year>
+<booktitle>LPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45221-5_44</ee>
+<crossref>conf/lpar/2013</crossref>
+<url>db/conf/lpar/lpar2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/BabiakBDKS13" mdate="2017-09-16">
+<author pid="55/7588">Tom&#225;s Babiak</author>
+<author pid="130/3633">Thomas Badie</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="k/MojmirKretinsky">Mojm&#237;r Kret&#237;nsk&#253;</author>
+<author pid="37/1716">Jan Strejcek</author>
+<title>Compositional Approach to Suspension and Other Improvements to LTL Translation.</title>
+<pages>81-98</pages>
+<year>2013</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39176-7_6</ee>
+<crossref>conf/spin/2013</crossref>
+<url>db/conf/spin/spin2013.html#BabiakBDKS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP13" mdate="2020-09-05">
+<author orcid="0000-0001-9013-4413" pid="41/9726">Etienne Renault</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>Strength-Based Decomposition of the Property B&#252;chi Automaton for Faster Model Checking.</title>
+<pages>580-593</pages>
+<year>2013</year>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36742-7_42</ee>
+<crossref>conf/tacas/2013</crossref>
+<url>db/conf/tacas/tacas2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wia/DemailleDLS13" mdate="2017-09-16">
+<author pid="14/133">Akim Demaille</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="54/1797">Sylvain Lombardy</author>
+<author pid="29/910">Jacques Sakarovitch</author>
+<title>Implementation Concepts in Vaucanson 2.</title>
+<pages>122-133</pages>
+<year>2013</year>
+<booktitle>CIAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39274-0_12</ee>
+<crossref>conf/wia/2013</crossref>
+<url>db/conf/wia/ciaa2013.html#DemailleDLS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/topnoc/SalemDK12" mdate="2020-03-13">
+<author pid="121/4067">Ala-Eddine Ben Salem</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="07/2336">Fabrice Kordon</author>
+<title>Model Checking Using Generalized Testing Automata.</title>
+<pages>94-122</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Trans. Petri Nets Other Model. Concurr.</journal>
+<ee>https://doi.org/10.1007/978-3-642-35179-2_5</ee>
+<crossref>journals/topnoc/2012-6</crossref>
+<url>db/journals/topnoc/topnoc6.html#SalemDK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzKPT11" mdate="2018-11-02">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="06/1858">Kais Klai</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<author orcid="0000-0001-7775-1978" pid="91/1769">Yann Thierry-Mieg</author>
+<title>Self-Loop Aggregation Product - A New Hybrid Approach to On-the-Fly LTL Model Checking.</title>
+<pages>336-350</pages>
+<year>2011</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24372-1_24</ee>
+<crossref>conf/atva/2011</crossref>
+<url>db/conf/atva/atva2011.html#Duret-LutzKPT11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1106-5700" mdate="2018-08-13">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="06/1858">Kais Klai</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<author pid="91/1769">Yann Thierry-Mieg</author>
+<title>Combining Explicit and Symbolic Approaches for Better On-the-Fly LTL Model Checking</title>
+<ee type="oa">http://arxiv.org/abs/1106.5700</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1106.5700</volume>
+<url>db/journals/corr/corr1106.html#abs-1106-5700</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzPC09" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<author pid="32/1671">Jean-Michel Couvreur</author>
+<title>On-the-fly Emptiness Check of Transition-Based Streett Automata.</title>
+<pages>213-227</pages>
+<year>2009</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04761-9_17</ee>
+<crossref>conf/atva/2009</crossref>
+<url>db/conf/atva/atva2009.html#Duret-LutzPC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsmnlp/DemailleDLLST08" mdate="2019-10-19">
+<author pid="14/133">Akim Demaille</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="24/6434">Florian Lesaint</author>
+<author pid="54/1797">Sylvain Lombardy</author>
+<author pid="29/910">Jacques Sakarovitch</author>
+<author pid="72/2500">Florent Terrones</author>
+<title>An XML Format Proposal for the Description of Weighted Automata, Transducers and Regular Expressions.</title>
+<pages>199-206</pages>
+<year>2008</year>
+<booktitle>FSMNLP</booktitle>
+<ee>https://doi.org/10.3233/978-1-58603-975-2-199</ee>
+<crossref>conf/fsmnlp/2008</crossref>
+<url>db/conf/fsmnlp/fsmnlp2008.html#DemailleDLLST08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/BaarirD07" mdate="2023-03-24">
+<author pid="76/2574">Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Emptiness Check of Powerset Buchi Automata using Inclusion Tests.</title>
+<pages>41-50</pages>
+<year>2007</year>
+<crossref>conf/acsd/2007</crossref>
+<booktitle>ACSD</booktitle>
+<ee>https://doi.org/10.1109/ACSD.2007.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ACSD.2007.49</ee>
+<url>db/conf/acsd/acsd2007.html#BaarirD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cae/GermanBDPPS07" mdate="2020-08-18">
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="16/2557">Lloyd Burchill</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="70/6384">S&#233;bastien P&#233;rez-Duarte</author>
+<author pid="84/3830">Emmanuel P&#233;rez-Duarte</author>
+<author pid="62/5061">Josh Sommers</author>
+<title>Flattening the Viewable Sphere.</title>
+<pages>23-28</pages>
+<year>2007</year>
+<crossref>conf/cae/2007</crossref>
+<booktitle>CAe</booktitle>
+<ee>https://doi.org/10.2312/COMPAESTH/COMPAESTH07/023-028</ee>
+<url>db/conf/cae/cae2007.html#GermanBDPPS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/CouvreurDP05" mdate="2017-09-16">
+<author pid="32/1671">Jean-Michel Couvreur</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>On-the-Fly Emptiness Checks for Generalized B&#252;chi Automata.</title>
+<pages>169-184</pages>
+<year>2005</year>
+<crossref>conf/spin/2005</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/11537328_15</ee>
+<url>db/conf/spin/spin2005.html#CouvreurDP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/Duret-LutzP04" mdate="2023-03-23">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="10/683">Denis Poitrenaud</author>
+<title>SPOT: An Extensible Model Checking Library Using Transition-Based Generalized B&#252;chi Automata.</title>
+<pages>76-83</pages>
+<year>2004</year>
+<crossref>conf/mascots/2004</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2004.1348184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MASCOT.2004.1348184</ee>
+<url>db/conf/mascots/mascots2004.html#Duret-LutzP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/XueGD03" mdate="2017-09-16">
+<author pid="27/687">H. Xue</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Multiband segmentation using morphological clustering and fusion $application to color image segmentation.</title>
+<pages>353-356</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2003-1.html#XueGD03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246971</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/Duret-Lutz01" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Expression Templates in Ada.</title>
+<pages>191-202</pages>
+<year>2001</year>
+<crossref>conf/adaEurope/2001</crossref>
+<booktitle>Ada-Europe</booktitle>
+<ee>https://doi.org/10.1007/3-540-45136-6_15</ee>
+<url>db/conf/adaEurope/adaEurope2001.html#Duret-Lutz01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coots/Duret-LutzGD01" mdate="2021-02-02">
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="14/133">Akim Demaille</author>
+<title>Design Patterns for Generic Programming in C++.</title>
+<pages>189-202</pages>
+<year>2001</year>
+<crossref>conf/coots/2001</crossref>
+<booktitle>COOTS</booktitle>
+<ee type="oa">http://www.usenix.org/publications/library/proceedings/coots01/duret.html</ee>
+<url>db/conf/coots/coots2001.html#Duret-LutzGD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europlop/GeraudD00" mdate="2020-03-12">
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Generic Programming Redesign of Patterns.</title>
+<pages>283-294</pages>
+<year>2000</year>
+<booktitle>EuroPLoP</booktitle>
+<ee type="oa">http://hillside.net/europlop/HillsideEurope/Papers/EuroPLoP2000/2000_GeraudEtAl_GenericProgrammingRedesignOfPatterns.pdf</ee>
+<crossref>conf/europlop/2000</crossref>
+<url>db/conf/europlop/europlop2000.html#GeraudD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/GeraudFD00" mdate="2023-03-24">
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="20/6085">Yoann Fabre</author>
+<author orcid="0000-0002-6623-2512" pid="43/6032">Alexandre Duret-Lutz</author>
+<title>Obtaining Genericity for Image Processing and Pattern Recognition Algorithms.</title>
+<pages>4816-4819</pages>
+<year>2000</year>
+<crossref>conf/icpr/2000</crossref>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2000.903042</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2000.903042</ee>
+<url>db/conf/icpr/icpr2000-4.html#GeraudFD00</url>
+</inproceedings>
+</r>
+<coauthors n="82" nc="2">
+<co c="0"><na f="a/Abraham:Remco" pid="322/0023">Remco Abraham</na></co>
+<co c="0"><na f="a/Aisse:Alexandre_Gbaguidi" pid="326/0184">Alexandre Gbaguidi Aisse</na></co>
+<co c="0"><na f="a/Alon:Nadav" pid="435/9892">Nadav Alon</na></co>
+<co c="0"><na f="b/Baarir:Souheib" pid="76/2574">Souheib Baarir</na></co>
+<co c="0"><na f="b/Babiak:Tom=aacute=s" pid="55/7588">Tom&#225;s Babiak</na></co>
+<co c="0"><na f="b/Badie:Thomas" pid="130/3633">Thomas Badie</na></co>
+<co c="0"><na f="b/Baier:Christel" pid="b/ChristelBaier">Christel Baier</na></co>
+<co c="0"><na f="b/Barnat:Jiri" pid="b/JiriBarnat">Jiri Barnat</na></co>
+<co c="0"><na f="b/Blahoudek:Frantisek" pid="131/6892">Frantisek Blahoudek</na></co>
+<co c="0"><na f="b/Bloemen:Vincent" pid="175/6602">Vincent Bloemen</na></co>
+<co c="0"><na f="b/Bruy=egrave=re:V=eacute=ronique" pid="b/VeroniqueBruyere">V&#233;ronique Bruy&#232;re</na></co>
+<co c="1"><na f="b/Burchill:Lloyd" pid="16/2557">Lloyd Burchill</na></co>
+<co c="0"><na f="c/Cadilhac:Micha=euml=l" pid="54/2541">Micha&#235;l Cadilhac</na></co>
+<co c="0"><na f="c/Casares:Antonio" pid="279/6559">Antonio Casares</na></co>
+<co c="0"><na f="c/Chakraborty:Supratik" pid="34/4525">Supratik Chakraborty</na></co>
+<co c="0"><na f="c/Colange:Maximilien" pid="67/9840">Maximilien Colange</na></co>
+<co c="0"><na f="c/Couvreur:Jean=Michel" pid="32/1671">Jean-Michel Couvreur</na></co>
+<co c="0"><na f="d/Delfosse:Charly" pid="322/0002">Charly Delfosse</na></co>
+<co c="0"><na f="d/Demaille:Akim" pid="14/133">Akim Demaille</na></co>
+<co c="0"><na f="d/Dijk:Tom_van" pid="126/8210">Tom van Dijk</na></co>
+<co c="0"><na f="d/Dubois:J=eacute=r=ocirc=me" pid="64/9170">J&#233;r&#244;me Dubois</na></co>
+<co c="0"><na f="f/Fabre:Yoann" pid="20/6085">Yoann Fabre</na></co>
+<co c="0"><na f="f/Fauchille:Amaury" pid="187/1605">Amaury Fauchille</na></co>
+<co c="0"><na f="f/Faymonville:Peter" pid="05/7445">Peter Faymonville</na></co>
+<co c="0"><na f="f/Finkbeiner:Bernd" pid="73/4443">Bernd Finkbeiner</na></co>
+<co c="0"><na f="f/Fried:Dror" pid="74/9853">Dror Fried</na></co>
+<co c="0"><na f="f/Fronc:Lukasz" pid="97/10567">Lukasz Fronc</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="1"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Giacomo:Giuseppe_De" pid="g/GDGiacomo">Giuseppe De Giacomo</na></co>
+<co c="0"><na f="g/Gillard:Cl=eacute=ment" pid="322/9514">Cl&#233;ment Gillard</na></co>
+<co c="0"><na f="j/Jacobs:Swen" pid="73/6880">Swen Jacobs</na></co>
+<co c="0"><na f="k/Khalimov_0001:Ayrat" pid="124/8925">Ayrat Khalimov 0001</na></co>
+<co c="0" n="2"><na f="k/Klai:Ka=iuml=s" pid="06/1858">Ka&#239;s Klai</na><na>Kais Klai</na></co>
+<co c="0"><na f="k/Klein_0001:Felix" pid="80/8313-1">Felix Klein 0001</na></co>
+<co c="0"><na f="k/Klein_0001:Joachim" pid="k/JoachimKlein1">Joachim Klein 0001</na></co>
+<co c="0"><na f="k/Klokocka:Mikul=aacute=s" pid="203/3299">Mikul&#225;s Klokocka</na></co>
+<co c="0"><na f="k/Kordon:Fabrice" pid="07/2336">Fabrice Kordon</na></co>
+<co c="0"><na f="k/Kret=iacute=nsk=yacute=:Jan" pid="95/6511">Jan Kret&#237;nsk&#253;</na></co>
+<co c="0"><na f="k/Kret=iacute=nsk=yacute=:Mojm=iacute=r" pid="k/MojmirKretinsky">Mojm&#237;r Kret&#237;nsk&#253;</na></co>
+<co c="0"><na f="l/Laarman:Alfons" pid="05/7913">Alfons Laarman</na></co>
+<co c="0"><na f="l/Lauko:Henrich" pid="178/2897">Henrich Lauko</na></co>
+<co c="0"><na f="l/Lesaint:Florian" pid="24/6434">Florian Lesaint</na></co>
+<co c="0"><na f="l/Lewkowicz:Alexandre" pid="187/1632">Alexandre Lewkowicz</na></co>
+<co c="0"><na f="l/Lombardy:Sylvain" pid="54/1797">Sylvain Lombardy</na></co>
+<co c="0"><na f="l/Luttenberger:Michael" pid="62/964">Michael Luttenberger</na></co>
+<co c="0"><na f="m/Martin:Antoine" pid="40/1510">Antoine Martin</na></co>
+<co c="0"><na f="m/Medioni:Thomas" pid="322/9158">Thomas Medioni</na></co>
+<co c="0"><na f="m/Meyer:Klara_J=" pid="118/3833">Klara J. Meyer</na></co>
+<co c="0"><na f="m/Michaud:Thibaud" pid="167/2076">Thibaud Michaud</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:David" pid="139/8389-1">David M&#252;ller 0001</na></co>
+<co c="0"><na f="p/Parker_0001:David" pid="33/3095">David Parker 0001</na></co>
+<co c="0"><na f="p/P=eacute=rez:Guillermo_A=" pid="135/6266">Guillermo A. P&#233;rez</na></co>
+<co c="1"><na f="p/P=eacute=rez=Duarte:Emmanuel" pid="84/3830">Emmanuel P&#233;rez-Duarte</na></co>
+<co c="1"><na f="p/P=eacute=rez=Duarte:S=eacute=bastien" pid="70/6384">S&#233;bastien P&#233;rez-Duarte</na></co>
+<co c="0"><na f="p/Petrucci:Laure" pid="p/LaurePetrucci">Laure Petrucci</na></co>
+<co c="0"><na f="p/Piterman:Nir" pid="p/NPiterman">Nir Piterman</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis" pid="10/683">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Pol:Jaco_van_de" pid="p/JvdPol">Jaco van de Pol</na></co>
+<co c="0"><na f="p/Pommellet:Adrien" pid="125/0224">Adrien Pommellet</na></co>
+<co c="0"><na f="r/Renault:Etienne" pid="41/9726">Etienne Renault</na></co>
+<co c="0"><na f="r/Renkin:Florian" pid="276/0757">Florian Renkin</na></co>
+<co c="0"><na f="r/Rujbr:Vojtech" pid="167/2243">Vojtech Rujbr</na></co>
+<co c="0"><na f="s/Saiu:Luca" pid="23/9">Luca Saiu</na></co>
+<co c="0"><na f="s/Sakarovitch:Jacques" pid="29/910">Jacques Sakarovitch</na></co>
+<co c="0"><na f="s/Sakr:Mouhammad" pid="203/8091">Mouhammad Sakr</na></co>
+<co c="0"><na f="s/Salem:Ala=Eddine_Ben" pid="121/4067">Ala-Eddine Ben Salem</na></co>
+<co c="0" n="2"><na f="s/Schlehuber=Caissier:Philipp" pid="158/9158">Philipp Schlehuber-Caissier</na><na>Philipp Schlehuber</na></co>
+<co c="0"><na f="s/Sickert:Salomon" pid="129/1369">Salomon Sickert</na></co>
+<co c="1"><na f="s/Sommers:Josh" pid="62/5061">Josh Sommers</na></co>
+<co c="0"><na f="s/Staquet:Ga=euml=tan" pid="276/5060">Ga&#235;tan Staquet</na></co>
+<co c="0"><na f="s/Strejcek:Jan" pid="37/1716">Jan Strejcek</na></co>
+<co c="0"><na f="t/Tabajara:Lucas_M=" pid="137/3715">Lucas M. Tabajara</na></co>
+<co c="0"><na f="t/Tamines:Cl=eacute=ment" pid="245/2655">Cl&#233;ment Tamines</na></co>
+<co c="0"><na f="t/Tentrup:Leander" pid="143/2715">Leander Tentrup</na></co>
+<co c="0"><na f="t/Terrones:Florent" pid="72/2500">Florent Terrones</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann" pid="91/1769">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="v/Vardi:Moshe_Y=" pid="v/MosheYVardi">Moshe Y. Vardi</na></co>
+<co c="0"><na f="w/Walker:Adam" pid="42/4767">Adam Walker</na></co>
+<co c="0"><na f="x/Xu:Laurent" pid="187/1553">Laurent Xu</na></co>
+<co c="0"><na f="x/Xue:H=" pid="27/687">H. Xue</na></co>
+<co c="0"><na f="z/Zhu_0001:Shufang" pid="141/7718-1">Shufang Zhu 0001</na></co>
+</coauthors>
+</dblpperson>
+

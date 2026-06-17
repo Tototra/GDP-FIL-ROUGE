@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<dblpperson name="Hugo Bazille" pid="150/7498" n="25">
+<person key="homepages/150/7498" mdate="2014-09-15">
+<author pid="150/7498">Hugo Bazille</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2601-17537" mdate="2026-02-24">
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="163/9743">J&#233;r&#233;my Dubut</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Variants of Higher-Dimensional Automata.</title>
+<year>2026</year>
+<month>January</month>
+<volume>abs/2601.17537</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2601.17537</ee>
+<url>db/journals/corr/corr2601.html#abs-2601-17537</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-10036" mdate="2026-03-25">
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Automata on Graph Alphabets.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.10036</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.10036</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-10036</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tcs/AmraneBFZ25" mdate="2025-10-14">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author orcid="0000-0001-7695-4028" pid="177/0332">Krzysztof Ziemianski</author>
+<title>Closure and decision properties for higher-dimensional automata.</title>
+<pages>115156</pages>
+<year>2025</year>
+<volume>1036</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2025.115156</ee>
+<url>db/journals/tcs/tcs1036.html#AmraneBFZ25</url>
+<stream>streams/journals/tcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/apn/AmraneBFHS25" mdate="2025-07-06">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author orcid="0000-0001-9094-7625" pid="89/5538">Uli Fahrenberg</author>
+<author pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</author>
+<author orcid="0000-0002-6611-9659" pid="158/9158">Philipp Schlehuber-Caissier</author>
+<title>Petri Nets and Higher-Dimensional Automata.</title>
+<pages>18-40</pages>
+<year>2025</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94634-9_2</ee>
+<crossref>conf/apn/2025</crossref>
+<url>db/conf/apn/pn2025.html#AmraneBFHS25</url>
+<stream>streams/conf/apn</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-02354" mdate="2025-03-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<title>Petri Nets and Higher-Dimensional Automata.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.02354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.02354</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-02354</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-10461" mdate="2025-06-23">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>B&#252;chi-Elgot-Trakhtenbrot Theorem for Higher-Dimensional Automata.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.10461</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.10461</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-10461</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/lmcs/AkshayBGV24" mdate="2025-04-01">
+<author pid="28/6534">S. Akshay 0001</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="59/6859">Blaise Genest</author>
+<author pid="315/4945">Mihir Vahanwala</author>
+<title>On Robustness for the Skolem, Positivity and Ultimate Positivity Problems.</title>
+<year>2024</year>
+<volume>20</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-20(2:11)2024</ee>
+<url>db/journals/lmcs/lmcs20.html#AkshayBGV24</url>
+</article>
+</r>
+<r><inproceedings key="conf/RelMiCS/AmraneBCFZ24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Presenting Interval Pomsets with Interfaces.</title>
+<pages>28-45</pages>
+<year>2024</year>
+<booktitle>RAMiCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-68279-7_3</ee>
+<crossref>conf/RelMiCS/2024</crossref>
+<url>db/conf/RelMiCS/ramics2024.html#AmraneBCFZ24</url>
+<stream>streams/conf/RelMiCS</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/AmraneBCF24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Languages of Higher-Dimensional Timed Automata.</title>
+<pages>197-219</pages>
+<year>2024</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-61433-0_10</ee>
+<crossref>conf/apn/2024</crossref>
+<url>db/conf/apn/pn2024.html#AmraneBCF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlt/AmraneBFF24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<title>Logic and Languages of Higher-Dimensional Automata.</title>
+<pages>51-67</pages>
+<year>2024</year>
+<booktitle>DLT</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-66159-4_5</ee>
+<crossref>conf/dlt/2024</crossref>
+<url>db/conf/dlt/dlt2024.html#AmraneBFF24</url>
+<stream>streams/conf/dlt</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-17444" mdate="2024-02-07">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Languages of Higher-Dimensional Timed Automata.</title>
+<year>2024</year>
+<volume>abs/2401.17444</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.17444</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-17444</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16626" mdate="2024-04-09">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Presenting Interval Pomsets with Interfaces.</title>
+<year>2024</year>
+<volume>abs/2403.16626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16626</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16626</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-19526" mdate="2024-04-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<title>Logic and Languages of Higher-Dimensional Automata.</title>
+<year>2024</year>
+<volume>abs/2403.19526</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.19526</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-19526</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictac/AmraneBFZ23" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Closure and Decision Properties for Higher-Dimensional Automata.</title>
+<pages>295-312</pages>
+<year>2023</year>
+<booktitle>ICTAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47963-2_18</ee>
+<crossref>conf/ictac/2023</crossref>
+<url>db/conf/ictac/ictac2023.html#AmraneBFZ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-02873" mdate="2023-05-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Developments in Higher-Dimensional Automata Theory.</title>
+<year>2023</year>
+<volume>abs/2305.02873</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.02873</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-02873</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/0001BGV22" mdate="2023-08-19">
+<author pid="28/6534">S. Akshay 0001</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="59/6859">Blaise Genest</author>
+<author orcid="0009-0008-5709-899X" pid="315/4945">Mihir Vahanwala</author>
+<title>On Robustness for the Skolem and Positivity Problems.</title>
+<pages>5:1-5:20</pages>
+<year>2022</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2022.5</ee>
+<crossref>conf/stacs/2022</crossref>
+<url>db/conf/stacs/stacs2022.html#0001BGV22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02365" mdate="2023-08-19">
+<author pid="28/6534">S. Akshay 0001</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="59/6859">Blaise Genest</author>
+<author orcid="0009-0008-5709-899X" pid="315/4945">Mihir Vahanwala</author>
+<title>On Robustness for the Skolem, Positivity and Ultimate Positivity Problems.</title>
+<year>2022</year>
+<volume>abs/2211.02365</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02365</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02365</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/BazilleGJS20" mdate="2025-04-01">
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="59/6859">Blaise Genest</author>
+<author pid="33/10826">Cyrille J&#233;gourel</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Global PAC Bounds for Learning Discrete Time Markov Chains.</title>
+<pages>304-326</pages>
+<year>2020</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-53291-8_17</ee>
+<crossref>conf/cav/2020-2</crossref>
+<url>db/conf/cav/cav2020-2.html#BazilleGJS20</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Bazille19" mdate="2020-12-01">
+<author pid="150/7498">Hugo Bazille</author>
+<title>Detection and Quantification of Events in Stochastic Systems. (D&#233;tection et Quantification d'Evenements dans les Syst&#232;mes Stochastiques).</title>
+<year>2019</year>
+<school>University of Rennes, Inria, SUMO Team, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-02954814</ee>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-02415750</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/fsttcs/AkshayBFG19" mdate="2021-11-30">
+<author pid="28/6534">S. Akshay 0001</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="44/6606">Eric Fabre</author>
+<author pid="59/6859">Blaise Genest</author>
+<title>Classification Among Hidden Markov Models.</title>
+<pages>29:1-29:14</pages>
+<year>2019</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2019.29</ee>
+<crossref>conf/fsttcs/2019</crossref>
+<url>db/conf/fsttcs/fsttcs2019.html#AkshayBFG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BazilleBGP18" mdate="2024-05-07">
+<author pid="150/7498">Hugo Bazille</author>
+<author orcid="0000-0002-9218-1130" pid="04/2119">Olivier Bournez</author>
+<author orcid="0000-0002-8518-8908" pid="37/7589">Walid Gomaa 0001</author>
+<author orcid="0000-0002-2549-951X" pid="47/9960">Amaury Pouly</author>
+<title>On the complexity of bounded time and precision reachability for piecewise affine systems.</title>
+<pages>132-146</pages>
+<year>2018</year>
+<volume>735</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2016.09.021</ee>
+<url>db/journals/tcs/tcs735.html#BazilleBGP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fossacs/BazilleFG18" mdate="2018-06-26">
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="44/6606">Eric Fabre</author>
+<author orcid="0000-0002-5758-1876" pid="59/6859">Blaise Genest</author>
+<title>Symbolically Quantifying Response Time in Stochastic Models Using Moments and Semirings.</title>
+<pages>403-419</pages>
+<year>2018</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89366-2_22</ee>
+<crossref>conf/fossacs/2018</crossref>
+<url>db/conf/fossacs/fossacs2018.html#BazilleFG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/BazilleFG17" mdate="2018-01-24">
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="44/6606">Eric Fabre</author>
+<author pid="59/6859">Blaise Genest</author>
+<title>Diagnosability degree of stochastic discrete event systems.</title>
+<pages>5726-5731</pages>
+<year>2017</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2017.8264524</ee>
+<crossref>conf/cdc/2017</crossref>
+<url>db/conf/cdc/cdc2017.html#BazilleFG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BazilleBGP16" mdate="2024-05-07">
+<author pid="150/7498">Hugo Bazille</author>
+<author orcid="0000-0002-9218-1130" pid="04/2119">Olivier Bournez</author>
+<author pid="37/7589">Walid Gomaa 0001</author>
+<author pid="47/9960">Amaury Pouly</author>
+<title>On The Complexity of Bounded Time Reachability for Piecewise Affine Systems.</title>
+<year>2016</year>
+<volume>abs/1601.05353</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.05353</ee>
+<url>db/journals/corr/corr1601.html#BazilleBGP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/rp/BazilleBGP14" mdate="2021-08-16">
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="04/2119">Olivier Bournez</author>
+<author pid="37/7589">Walid Gomaa 0001</author>
+<author pid="47/9960">Amaury Pouly</author>
+<title>On The Complexity of Bounded Time Reachability for Piecewise Affine Systems.</title>
+<pages>20-31</pages>
+<year>2014</year>
+<booktitle>RP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11439-2_2</ee>
+<crossref>conf/rp/2014</crossref>
+<url>db/conf/rp/rp2014.html#BazilleBGP14</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="2">
+<co c="0"><na f="a/Akshay_0001:S=" pid="28/6534">S. Akshay 0001</na></co>
+<co c="0"><na f="a/Amrane:Amazigh" pid="237/1676">Amazigh Amrane</na></co>
+<co c="1"><na f="b/Bournez:Olivier" pid="04/2119">Olivier Bournez</na></co>
+<co c="0"><na f="c/Clement:Emily" pid="268/7880">Emily Clement</na></co>
+<co c="0"><na f="d/Dubut:J=eacute=r=eacute=my" pid="163/9743">J&#233;r&#233;my Dubut</na></co>
+<co c="0"><na f="f/Fabre:Eric" pid="44/6606">Eric Fabre</na></co>
+<co c="0"><na f="f/Fahrenberg:Uli" pid="89/5538">Uli Fahrenberg</na></co>
+<co c="0"><na f="f/Fortin:Marie" pid="177/6212">Marie Fortin</na></co>
+<co c="0"><na f="g/Genest:Blaise" pid="59/6859">Blaise Genest</na></co>
+<co c="1"><na f="g/Gomaa_0001:Walid" pid="37/7589">Walid Gomaa 0001</na></co>
+<co c="0"><na f="h/H=eacute=lou=euml=t:Lo=iuml=c" pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</na></co>
+<co c="0"><na f="j/J=eacute=gourel:Cyrille" pid="33/10826">Cyrille J&#233;gourel</na></co>
+<co c="1"><na f="p/Pouly:Amaury" pid="47/9960">Amaury Pouly</na></co>
+<co c="0"><na f="s/Schlehuber=Caissier:Philipp" pid="158/9158">Philipp Schlehuber-Caissier</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0"><na f="v/Vahanwala:Mihir" pid="315/4945">Mihir Vahanwala</na></co>
+<co c="0"><na f="z/Ziemianski:Krzysztof" pid="177/0332">Krzysztof Ziemianski</na></co>
+</coauthors>
+</dblpperson>
+

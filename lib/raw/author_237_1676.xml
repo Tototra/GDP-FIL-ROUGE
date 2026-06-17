@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<dblpperson name="Amazigh Amrane" pid="237/1676" n="21">
+<person key="homepages/237/1676" mdate="2019-03-12">
+<author pid="237/1676">Amazigh Amrane</author>
+</person>
+<r><inproceedings key="conf/fossacs/PommelletADPP26" mdate="2026-04-26">
+<author pid="125/0224">Adrien Pommellet</author>
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="397/3069">Edgar Delaporte</author>
+<author pid="433/8976">Geoffroy Du Prey</author>
+<author pid="433/9335">Oscar Peyron</author>
+<title>Active Learning Techniques for Pomset Recognizers.</title>
+<booktitle>FoSSaCS</booktitle>
+<year>2026</year>
+<pages>571-592</pages>
+<crossref>conf/fossacs/2026</crossref>
+<ee>https://doi.org/10.1007/978-3-032-22730-0_27</ee>
+<url>db/conf/fossacs/fossacs2026.html#PommelletADPP26</url>
+<stream>streams/conf/fossacs</stream>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/AmraneBFZ25" mdate="2025-10-14">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author orcid="0000-0001-7695-4028" pid="177/0332">Krzysztof Ziemianski</author>
+<title>Closure and decision properties for higher-dimensional automata.</title>
+<pages>115156</pages>
+<year>2025</year>
+<volume>1036</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2025.115156</ee>
+<url>db/journals/tcs/tcs1036.html#AmraneBFZ25</url>
+<stream>streams/journals/tcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/apn/AmraneBFHS25" mdate="2025-07-06">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author orcid="0000-0001-9094-7625" pid="89/5538">Uli Fahrenberg</author>
+<author pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</author>
+<author orcid="0000-0002-6611-9659" pid="158/9158">Philipp Schlehuber-Caissier</author>
+<title>Petri Nets and Higher-Dimensional Automata.</title>
+<pages>18-40</pages>
+<year>2025</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94634-9_2</ee>
+<crossref>conf/apn/2025</crossref>
+<url>db/conf/apn/pn2025.html#AmraneBFHS25</url>
+<stream>streams/conf/apn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fscd/PassemardAF25" mdate="2025-07-08">
+<author pid="401/9723">Luc Passemard</author>
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Higher-Dimensional Automata: Extension to Infinite Tracks.</title>
+<pages>31:1-31:23</pages>
+<year>2025</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2025.31</ee>
+<crossref>conf/fscd/2025</crossref>
+<url>db/conf/fscd/fscd2025.html#PassemardAF25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-03914" mdate="2025-02-18">
+<author pid="125/0224">Adrien Pommellet</author>
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="397/3069">Edgar Delaporte</author>
+<title>Active Learning Techniques for Pomset Recognizers.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.03914</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.03914</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-03914</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-02354" mdate="2025-03-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</author>
+<author pid="158/9158">Philipp Schlehuber-Caissier</author>
+<title>Petri Nets and Higher-Dimensional Automata.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.02354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.02354</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-02354</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-07881" mdate="2025-04-13">
+<author pid="401/9723">Luc Passemard</author>
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Higher-Dimensional Automata : Extension to Infinite Tracks.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.07881</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.07881</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-07881</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-10461" mdate="2025-06-23">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>B&#252;chi-Elgot-Trakhtenbrot Theorem for Higher-Dimensional Automata.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.10461</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.10461</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-10461</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/RelMiCS/AmraneBCFZ24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Presenting Interval Pomsets with Interfaces.</title>
+<pages>28-45</pages>
+<year>2024</year>
+<booktitle>RAMiCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-68279-7_3</ee>
+<crossref>conf/RelMiCS/2024</crossref>
+<url>db/conf/RelMiCS/ramics2024.html#AmraneBCFZ24</url>
+<stream>streams/conf/RelMiCS</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/AmraneBCF24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Languages of Higher-Dimensional Timed Automata.</title>
+<pages>197-219</pages>
+<year>2024</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-61433-0_10</ee>
+<crossref>conf/apn/2024</crossref>
+<url>db/conf/apn/pn2024.html#AmraneBCF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlt/AmraneBFF24" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<title>Logic and Languages of Higher-Dimensional Automata.</title>
+<pages>51-67</pages>
+<year>2024</year>
+<booktitle>DLT</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-66159-4_5</ee>
+<crossref>conf/dlt/2024</crossref>
+<url>db/conf/dlt/dlt2024.html#AmraneBFF24</url>
+<stream>streams/conf/dlt</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-17444" mdate="2024-02-07">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<title>Languages of Higher-Dimensional Timed Automata.</title>
+<year>2024</year>
+<volume>abs/2401.17444</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.17444</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-17444</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16626" mdate="2024-04-09">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="268/7880">Emily Clement</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Presenting Interval Pomsets with Interfaces.</title>
+<year>2024</year>
+<volume>abs/2403.16626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16626</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16626</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-19526" mdate="2024-04-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/6212">Marie Fortin</author>
+<title>Logic and Languages of Higher-Dimensional Automata.</title>
+<year>2024</year>
+<volume>abs/2403.19526</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.19526</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-19526</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictac/AmraneBFZ23" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author orcid="0009-0000-4920-3819" pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Closure and Decision Properties for Higher-Dimensional Automata.</title>
+<pages>295-312</pages>
+<year>2023</year>
+<booktitle>ICTAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47963-2_18</ee>
+<crossref>conf/ictac/2023</crossref>
+<url>db/conf/ictac/ictac2023.html#AmraneBFZ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-02873" mdate="2023-05-10">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="150/7498">Hugo Bazille</author>
+<author pid="89/5538">Uli Fahrenberg</author>
+<author pid="177/0332">Krzysztof Ziemianski</author>
+<title>Developments in Higher-Dimensional Automata Theory.</title>
+<year>2023</year>
+<volume>abs/2305.02873</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.02873</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-02873</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Amrane20" mdate="2021-05-25">
+<author pid="237/1676">Amazigh Amrane</author>
+<title>Posets s&#233;rie-parall&#232;les transfinis : automates, logiques et th&#233;ories &#233;quationnelles. (Series-parallel posets : automata, logic and equational theories).</title>
+<year>2020</year>
+<school>Normandy University, Caen, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-03215265</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tcs/AmraneB20" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="20/5954">Nicolas Bedon</author>
+<title>Logic and rational languages of scattered and countable series-parallel posets.</title>
+<pages>538-562</pages>
+<year>2020</year>
+<volume>809</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2020.01.015</ee>
+<ee>https://www.wikidata.org/entity/Q126329613</ee>
+<url>db/journals/tcs/tcs809.html#AmraneB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlt/AmraneB20" mdate="2025-04-01">
+<author orcid="0009-0008-7577-6715" pid="237/1676">Amazigh Amrane</author>
+<author pid="20/5954">Nicolas Bedon</author>
+<title>Equational Theories of Scattered and Countable Series-Parallel Posets.</title>
+<pages>1-13</pages>
+<year>2020</year>
+<booktitle>DLT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-48516-0_1</ee>
+<crossref>conf/dlt/2020</crossref>
+<url>db/conf/dlt/dlt2020.html#AmraneB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lata/AmraneB19" mdate="2019-03-12">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="20/5954">Nicolas Bedon</author>
+<title>Logic and Rational Languages of Scattered and Countable Series-Parallel Posets.</title>
+<pages>275-287</pages>
+<year>2019</year>
+<booktitle>LATA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-13435-8_20</ee>
+<crossref>conf/lata/2019</crossref>
+<url>db/conf/lata/lata2019.html#AmraneB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-10240" mdate="2020-01-03">
+<author pid="237/1676">Amazigh Amrane</author>
+<author pid="20/5954">Nicolas Bedon</author>
+<title>Logic and Rational Languages of Scattered and Countable Series-Parallel Posets.</title>
+<year>2019</year>
+<volume>abs/1912.10240</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.10240</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-10240</url>
+</article>
+</r>
+<coauthors n="13" nc="1">
+<co c="0"><na f="b/Bazille:Hugo" pid="150/7498">Hugo Bazille</na></co>
+<co c="-1"><na f="b/Bedon:Nicolas" pid="20/5954">Nicolas Bedon</na></co>
+<co c="0"><na f="c/Clement:Emily" pid="268/7880">Emily Clement</na></co>
+<co c="0"><na f="d/Delaporte:Edgar" pid="397/3069">Edgar Delaporte</na></co>
+<co c="0"><na f="f/Fahrenberg:Uli" pid="89/5538">Uli Fahrenberg</na></co>
+<co c="0"><na f="f/Fortin:Marie" pid="177/6212">Marie Fortin</na></co>
+<co c="0"><na f="h/H=eacute=lou=euml=t:Lo=iuml=c" pid="h/LoicHelouet">Lo&#239;c H&#233;lou&#235;t</na></co>
+<co c="0"><na f="p/Passemard:Luc" pid="401/9723">Luc Passemard</na></co>
+<co c="0"><na f="p/Peyron:Oscar" pid="433/9335">Oscar Peyron</na></co>
+<co c="0"><na f="p/Pommellet:Adrien" pid="125/0224">Adrien Pommellet</na></co>
+<co c="0"><na f="p/Prey:Geoffroy_Du" pid="433/8976">Geoffroy Du Prey</na></co>
+<co c="0"><na f="s/Schlehuber=Caissier:Philipp" pid="158/9158">Philipp Schlehuber-Caissier</na></co>
+<co c="0"><na f="z/Ziemianski:Krzysztof" pid="177/0332">Krzysztof Ziemianski</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<dblpperson name="Lamine Diop" pid="219/7167" n="25">
+<person key="homepages/219/7167" mdate="2018-05-22">
+<author pid="219/7167">Lamine Diop</author>
+</person>
+<r><article key="journals/computers/SarrCDSTHM26" mdate="2026-04-09">
+<author pid="432/0966">Aminata Sarr</author>
+<author orcid="0000-0002-3996-4443" pid="265/0081">Abhilash K. Chandel</author>
+<author orcid="0000-0002-1341-219X" pid="219/7167">Lamine Diop</author>
+<author orcid="0000-0002-8608-1803" pid="432/1356">Yr&#233;b&#233;gnan Moussa Soro</author>
+<author pid="432/0948">Alain K. Tossa</author>
+<author pid="341/0087">Smrutilipi Hota</author>
+<author orcid="0000-0002-8298-7157" pid="431/8406">Arunachalam Manimozhian</author>
+<title>Agroclimatic Sensing, Communication, and Computational Systems-Based Methods and Technologies for Precision Irrigation Management: Current State and Prospects.</title>
+<year>2026</year>
+<volume>15</volume>
+<journal>Comput.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/computers15020137</ee>
+<url>db/journals/computers/computers15.html#SarrCDSTHM26</url>
+<stream>streams/journals/computers</stream>
+</article>
+</r>
+<r><article key="journals/dke/BekkouchaDOCB26" mdate="2026-02-25">
+<author orcid="0009-0005-6385-5465" pid="377/0246">Djawad Bekkoucha</author>
+<author pid="219/7167">Lamine Diop</author>
+<author pid="146/4696">Abdelkader Ouali</author>
+<author pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<title>Efficiently sampling interval patterns from numerical databases.</title>
+<year>2026</year>
+<pages>102566</pages>
+<volume>163</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2026.102566</ee>
+<url>db/journals/dke/dke163.html#BekkouchaDOCB26</url>
+<stream>streams/journals/dke</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/DiopDD25" mdate="2026-03-17">
+<author pid="338/5395">Bara Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="219/7167">Lamine Diop</author>
+<title>One-Class Outlier Detection of Label-Induced Ambiguity in Knowledge Graphs.</title>
+<pages>5593-5602</pages>
+<year>2025</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData66926.2025.11401678</ee>
+<crossref>conf/bigdataconf/2025</crossref>
+<url>db/conf/bigdataconf/bigdataconf2025.html#DiopDD25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/KouaDDDD25" mdate="2026-03-18">
+<author pid="429/6131">Kpangni Alex J&#233;r&#233;mie Koua</author>
+<author pid="338/5395">Bara Diop</author>
+<author pid="152/1280">Mamadou Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="219/7167">Lamine Diop</author>
+<title>Ontology for Newborn Screening: Towards a Knowledge Graph for Sickle Cell Disease.</title>
+<pages>8040-8049</pages>
+<year>2025</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData66926.2025.11401918</ee>
+<crossref>conf/bigdataconf/2025</crossref>
+<url>db/conf/bigdataconf/bigdataconf2025.html#KouaDDDD25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-00105" mdate="2026-01-17">
+<author pid="377/0246">Djawad Bekkoucha</author>
+<author pid="219/7167">Lamine Diop</author>
+<author pid="146/4696">Abdelkader Ouali</author>
+<author pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<title>Efficiently Sampling Interval Patterns from Numerical Databases.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.00105</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.00105</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-00105</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/DiopP24" mdate="2025-02-24">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="46/2965">Marc Plantevit</author>
+<title>Scalable Sampling for High Utility Patterns.</title>
+<pages>104-109</pages>
+<year>2024</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData62323.2024.10826031</ee>
+<crossref>conf/bigdataconf/2024</crossref>
+<url>db/conf/bigdataconf/bigdataconf2024.html#DiopP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/DiopPS24" mdate="2025-02-24">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>RPS: A Generic Reservoir Patterns Sampler.</title>
+<pages>110-115</pages>
+<year>2024</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData62323.2024.10825601</ee>
+<crossref>conf/bigdataconf/2024</crossref>
+<url>db/conf/bigdataconf/bigdataconf2024.html#DiopPS24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-22964" mdate="2024-11-29">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="46/2965">Marc Plantevit</author>
+<title>Scalable Sampling for High Utility Patterns.</title>
+<year>2024</year>
+<volume>abs/2410.22964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.22964</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-22964</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-00074" mdate="2024-12-10">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>RPS: A Generic Reservoir Patterns Sampler.</title>
+<year>2024</year>
+<volume>abs/2411.00074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.00074</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-00074</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/jocch/DiopMS23" mdate="2025-01-19">
+<author orcid="0000-0003-4539-2549" pid="219/7167">Lamine Diop</author>
+<author orcid="0000-0002-5171-8499" pid="16/1677">B&#233;atrice Markhoff</author>
+<author orcid="0000-0001-8335-6069" pid="84/2151">Arnaud Soulet</author>
+<title>TTProfiler: Types and Terms Profile Building for Online Cultural Heritage Knowledge Graphs.</title>
+<pages>61:1-61:22</pages>
+<year>2023</year>
+<month>September</month>
+<volume>16</volume>
+<journal>ACM Journal on Computing and Cultural Heritage</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3588443</ee>
+<ee>https://www.wikidata.org/entity/Q125561043</ee>
+<url>db/journals/jocch/jocch16.html#DiopMS23</url>
+</article>
+</r>
+<r><article key="journals/arima/DiopDD22" mdate="2023-08-28">
+<author pid="338/5395">Bara Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="219/7167">Lamine Diop</author>
+<title>Une mesure s&#233;mantique pour la d&#233;tection de valeurs aberrantes dans un graphe de connaissances.</title>
+<pages>1</pages>
+<year>2022</year>
+<volume>35</volume>
+<journal>ARIMA J.</journal>
+<ee type="oa">https://doi.org/10.46298/arima.8679</ee>
+<ee>https://www.wikidata.org/entity/Q113199906</ee>
+<url>db/journals/arima/arima35.html#DiopDD22</url>
+</article>
+</r>
+<r><article key="journals/is/DiopDGS22" mdate="2023-08-28">
+<author orcid="0000-0003-4539-2549" pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author orcid="0000-0001-8335-6069" pid="84/2151">Arnaud Soulet</author>
+<title>Pattern on demand in transactional distributed databases.</title>
+<pages>101908</pages>
+<year>2022</year>
+<volume>104</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2021.101908</ee>
+<ee>https://www.wikidata.org/entity/Q120869832</ee>
+<url>db/journals/is/is104.html#DiopDGS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/DiopDGS22" mdate="2023-08-18">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>Trie-based Output Space Itemset Sampling.</title>
+<pages>6-15</pages>
+<year>2022</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData55660.2022.10020843</ee>
+<crossref>conf/bigdataconf/2022</crossref>
+<url>db/conf/bigdataconf/bigdataconf2022.html#DiopDGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/Diop22" mdate="2024-11-06">
+<author pid="219/7167">Lamine Diop</author>
+<title>Echantillonnage d'itemsets &#224; forte utilit&#233; moyenne sous contraintes de taille.</title>
+<pages>209-216</pages>
+<year>2022</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002729</ee>
+<crossref>conf/f-egc/2022</crossref>
+<url>db/conf/f-egc/egc2022.html#Diop22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/Diop22" mdate="2022-05-18">
+<author pid="219/7167">Lamine Diop</author>
+<title>High Average-Utility Itemset Sampling Under Length Constraints.</title>
+<pages>134-148</pages>
+<year>2022</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-05936-0_11</ee>
+<crossref>conf/pakdd/2022-2</crossref>
+<url>db/conf/pakdd/pakdd2022-2.html#Diop22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/DiopB21" mdate="2022-01-18">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="64/6885">Cheikh Ba</author>
+<title>Parallelization of Sequential Pattern Sampling.</title>
+<pages>5882-5884</pages>
+<year>2021</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData52589.2021.9672071</ee>
+<crossref>conf/bigdataconf/2021</crossref>
+<url>db/conf/bigdataconf/bigdataconf2021.html#DiopB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DiopB21" mdate="2024-11-06">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="64/6885">Cheikh Ba</author>
+<title>Parall&#233;lisation de l'&#233;chantillonnage de motifs s&#233;quentiels.</title>
+<pages>245-252</pages>
+<year>2021</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002653</ee>
+<crossref>conf/f-egc/2021</crossref>
+<url>db/conf/f-egc/egc2021.html#DiopB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swodch/DiopGMS21" mdate="2023-03-10">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="16/1677">B&#233;atrice Markhoff</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>TTProfiler: Computing Types and Terms Profiles of Assertional Knowledge Graphs.</title>
+<year>2021</year>
+<booktitle>SWODCH</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2949/paper4.pdf</ee>
+<crossref>conf/swodch/2021</crossref>
+<url>db/conf/swodch/swodch2021.html#DiopGMS21</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Diop20" mdate="2020-11-03">
+<author pid="219/7167">Lamine Diop</author>
+<title>Echantillonnage sous contraintes de motifs Structures. (Constrained Sampling of Structured Patterns).</title>
+<year>2020</year>
+<school>Gaston Berger University, Saint-Louis, Senegal</school>
+<ee>https://tel.archives-ouvertes.fr/tel-02948509</ee>
+</phdthesis>
+</r>
+<r><article key="journals/kais/DiopDGLS20" mdate="2020-05-04">
+<author orcid="0000-0003-4539-2549" pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="127/1603">Dominique Li</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>Sequential pattern sampling with norm-based utility.</title>
+<pages>2029-2065</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10115-019-01417-3</ee>
+<url>db/journals/kais/kais62.html#DiopDGLS20</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/OgilviePBBBDDDM20" mdate="2020-10-20">
+<author orcid="0000-0003-2604-3191" pid="04/3394">Andrew Ogilvie</author>
+<author orcid="0000-0001-9491-509X" pid="276/2429">Jean-Christophe Poussin</author>
+<author pid="276/2846">Jean-Claude Bader</author>
+<author orcid="0000-0002-6573-0456" pid="276/3112">Finda Bayo</author>
+<author orcid="0000-0003-3107-6019" pid="276/2627">Ansoumana Bodian</author>
+<author pid="276/2826">Honor&#233; Dacosta</author>
+<author pid="276/2523">Djiby Dia</author>
+<author orcid="0000-0002-1341-219X" pid="219/7167">Lamine Diop</author>
+<author pid="56/6277">Didier Martin</author>
+<author pid="276/2891">Soussou Sambou</author>
+<title>Combining Multi-Sensor Satellite Imagery to Improve Long-Term Monitoring of Temporary Surface Water Bodies in the Senegal River Floodplain.</title>
+<pages>3157</pages>
+<year>2020</year>
+<volume>12</volume>
+<journal>Remote. Sens.</journal>
+<number>19</number>
+<ee type="oa">https://doi.org/10.3390/rs12193157</ee>
+<url>db/journals/remotesensing/remotesensing12.html#OgilviePBBBDDDM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/DiopDGS20" mdate="2020-09-05">
+<author orcid="0000-0003-4539-2549" pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>Pattern Sampling in Distributed Databases.</title>
+<pages>60-74</pages>
+<year>2020</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-54832-2_7</ee>
+<crossref>conf/adbis/2020</crossref>
+<url>db/conf/adbis/adbis2020.html#DiopDGS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DiopDGLS19" mdate="2024-11-06">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="127/1603">Dominique Li</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>D&#233;couverte de motifs &#224; la demande dans une base de donn&#233;es distribu&#233;e.</title>
+<pages>21-32</pages>
+<year>2019</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002465</ee>
+<crossref>conf/f-egc/2019</crossref>
+<url>db/conf/f-egc/egc2019.html#DiopDGLS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DiopDGLS18" mdate="2024-11-06">
+<author pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="127/1603">Dominique Li</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>Echantillonnage de motifs s&#233;quentiels sous contrainte sur la norme.</title>
+<pages>35-46</pages>
+<year>2018</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002367</ee>
+<crossref>conf/f-egc/2018</crossref>
+<url>db/conf/f-egc/egc2018.html#DiopDGLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/DiopDGLS18" mdate="2020-06-15">
+<author orcid="0000-0003-4539-2549" pid="219/7167">Lamine Diop</author>
+<author pid="22/4285">Cheikh Talibouya Diop</author>
+<author pid="g/AGiacometti">Arnaud Giacometti</author>
+<author pid="127/1603">Dominique Li</author>
+<author pid="84/2151">Arnaud Soulet</author>
+<title>Sequential Pattern Sampling with Norm Constraints.</title>
+<pages>89-98</pages>
+<year>2018</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2018.00024</ee>
+<crossref>conf/icdm/2018</crossref>
+<url>db/conf/icdm/icdm2018.html#DiopDGLS18</url>
+</inproceedings>
+</r>
+<coauthors n="29" nc="3">
+<co c="-1"><na f="b/Ba:Cheikh" pid="64/6885">Cheikh Ba</na></co>
+<co c="1"><na f="b/Bader:Jean=Claude" pid="276/2846">Jean-Claude Bader</na></co>
+<co c="1"><na f="b/Bayo:Finda" pid="276/3112">Finda Bayo</na></co>
+<co c="0"><na f="b/Bekkoucha:Djawad" pid="377/0246">Djawad Bekkoucha</na></co>
+<co c="1"><na f="b/Bodian:Ansoumana" pid="276/2627">Ansoumana Bodian</na></co>
+<co c="0"><na f="b/Boizumault:Patrice" pid="29/2067">Patrice Boizumault</na></co>
+<co c="0" n="2"><na f="b/Bouchou=Markhoff:B=eacute=atrice" pid="16/1677">B&#233;atrice Bouchou-Markhoff</na><na>B&#233;atrice Markhoff</na></co>
+<co c="2"><na f="c/Chandel:Abhilash_K=" pid="265/0081">Abhilash K. Chandel</na></co>
+<co c="0"><na f="c/Cr=eacute=milleux:Bruno" pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</na></co>
+<co c="1"><na f="d/Dacosta:Honor=eacute=" pid="276/2826">Honor&#233; Dacosta</na></co>
+<co c="1"><na f="d/Dia:Djiby" pid="276/2523">Djiby Dia</na></co>
+<co c="0"><na f="d/Diop:Bara" pid="338/5395">Bara Diop</na></co>
+<co c="0"><na f="d/Diop:Cheikh_Talibouya" pid="22/4285">Cheikh Talibouya Diop</na></co>
+<co c="0"><na f="d/Diop:Mamadou" pid="152/1280">Mamadou Diop</na></co>
+<co c="0"><na f="g/Giacometti:Arnaud" pid="g/AGiacometti">Arnaud Giacometti</na></co>
+<co c="2"><na f="h/Hota:Smrutilipi" pid="341/0087">Smrutilipi Hota</na></co>
+<co c="0"><na f="k/Koua:Kpangni_Alex_J=eacute=r=eacute=mie" pid="429/6131">Kpangni Alex J&#233;r&#233;mie Koua</na></co>
+<co c="0"><na f="l/Li:Dominique" pid="127/1603">Dominique Li</na></co>
+<co c="2"><na f="m/Manimozhian:Arunachalam" pid="431/8406">Arunachalam Manimozhian</na></co>
+<co c="1"><na f="m/Martin:Didier" pid="56/6277">Didier Martin</na></co>
+<co c="1"><na f="o/Ogilvie:Andrew" pid="04/3394">Andrew Ogilvie</na></co>
+<co c="0"><na f="o/Ouali:Abdelkader" pid="146/4696">Abdelkader Ouali</na></co>
+<co c="0"><na f="p/Plantevit:Marc" pid="46/2965">Marc Plantevit</na></co>
+<co c="1"><na f="p/Poussin:Jean=Christophe" pid="276/2429">Jean-Christophe Poussin</na></co>
+<co c="1"><na f="s/Sambou:Soussou" pid="276/2891">Soussou Sambou</na></co>
+<co c="2"><na f="s/Sarr:Aminata" pid="432/0966">Aminata Sarr</na></co>
+<co c="2"><na f="s/Soro:Yr=eacute=b=eacute=gnan_Moussa" pid="432/1356">Yr&#233;b&#233;gnan Moussa Soro</na></co>
+<co c="0"><na f="s/Soulet:Arnaud" pid="84/2151">Arnaud Soulet</na></co>
+<co c="2"><na f="t/Tossa:Alain_K=" pid="432/0948">Alain K. Tossa</na></co>
+</coauthors>
+</dblpperson>
+

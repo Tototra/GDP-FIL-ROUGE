@@ -1,0 +1,1436 @@
+<?xml version="1.0"?>
+<dblpperson name="Nicolas Boutry" pid="150/5004" n="61">
+<person key="homepages/150/5004" mdate="2025-01-10">
+<author pid="150/5004">Nicolas Boutry</author>
+<url>https://orcid.org/0000-0001-6278-4638</url>
+<url>https://www.wikidata.org/entity/Q131115370</url>
+</person>
+<r><article key="journals/tmlr/RodriguesBN26" mdate="2026-03-30">
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="68/4192">Laurent Najman</author>
+<title>Explaining with trees: interpreting CNNs using hierarchies.</title>
+<year>2026</year>
+<volume>2026</volume>
+<journal>Trans. Mach. Learn. Res.</journal>
+<ee type="oa">https://openreview.net/forum?id=zjyWZh5IiI</ee>
+<url>db/journals/tmlr/tmlr2026.html#RodriguesBN26</url>
+<stream>streams/journals/tmlr</stream>
+</article>
+</r>
+<r><article publtype="software" key="journals/softx/JaberMBP25" mdate="2025-10-14">
+<author pid="381/5988">Majed Jaber</author>
+<author pid="14/8558">Julien Michel</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Cyberattack detection through GPML: Graph Processing for Machine Learning.</title>
+<pages>102308</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>SoftwareX</journal>
+<ee type="oa">https://doi.org/10.1016/j.softx.2025.102308</ee>
+<url>db/journals/softx/softx31.html#JaberMBP25</url>
+<stream>streams/journals/softx</stream>
+</article>
+</r>
+<r><inproceedings key="conf/eicc/JaberBP25" mdate="2025-07-06">
+<author orcid="0009-0005-2882-4647" pid="381/5988">Majed Jaber</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Spectral Graph Analysis of Bipartite Graphs for Advanced Attack Detection.</title>
+<pages>239-254</pages>
+<year>2025</year>
+<booktitle>EICC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94855-8_16</ee>
+<crossref>conf/eicc/2025</crossref>
+<url>db/conf/eicc/eicc2025.html#JaberBP25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-05471" mdate="2026-01-04">
+<author pid="348/6969">Miriam Doh</author>
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1485">Matei Mancas</author>
+<author pid="56/6658">Bernard Gosselin</author>
+<title>Found in Translation: semantic approaches for enhancing AI interpretability in face verification.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.05471</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.05471</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-05471</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-15588" mdate="2025-11-03">
+<author pid="170/4537">Gongning Luo</author>
+<author pid="337/1859">Mingwang Xu</author>
+<author pid="28/3046">Hongyu Chen</author>
+<author pid="322/3994">Xinjie Liang</author>
+<author pid="213/1924">Xing Tao</author>
+<author pid="02/450-1">Dong Ni 0001</author>
+<author pid="199/2521">Hyunsu Jeong</author>
+<author pid="38/1192">Chulhong Kim</author>
+<author pid="317/1224">Raphael Stock</author>
+<author pid="66/4721-1">Michael Baumgartner 0001</author>
+<author pid="348/6129">Yannick Kirchhoff</author>
+<author pid="398/6274">Maximilian Rokuss</author>
+<author orcid="0000-0002-6626-2463" pid="133/0183">Klaus H. Maier-Hein</author>
+<author pid="237/2789">Zhikai Yang</author>
+<author pid="238/6657">Tianyu Fan</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="398/6618">Dmitry Tereshchenko</author>
+<author pid="398/6060">Arthur Moine</author>
+<author pid="398/6948">Maximilien Charmetant</author>
+<author pid="362/9384">Jan Sauer</author>
+<author pid="13/6441">Hao Du</author>
+<author pid="398/6959">Xiang-Hui Bai</author>
+<author pid="213/3871">Vipul Pai Raikar</author>
+<author orcid="0009-0000-8383-9183" pid="361/2317">Ricardo Montoya-del-Angel</author>
+<author orcid="0000-0002-8080-2710" pid="94/470">Robert Marti</author>
+<author pid="235/3480">Miguel Luna</author>
+<author pid="221/7953">Dongmin Lee</author>
+<author pid="160/9037-2">Abdul Qayyum 0002</author>
+<author pid="204/7958">Moona Mazher</author>
+<author pid="398/6096">Qihui Guo</author>
+<author pid="339/9041">Changyan Wang</author>
+<author pid="284/2832">Navchetan Awasthi</author>
+<author pid="130/0270">Qiaochu Zhao</author>
+<author pid="35/7092-169">Wei Wang 0169</author>
+<author pid="32/6613">Kuanquan Wang</author>
+<author pid="209/8842">Qiucheng Wang</author>
+<author pid="193/8019">Suyu Dong</author>
+<title>Tumor Detection, Segmentation and Classification Challenge on Automated 3D Breast Ultrasound: The TDSC-ABUS Challenge.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.15588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.15588</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-15588</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-08964" mdate="2025-06-23">
+<author pid="381/5988">Majed Jaber</author>
+<author pid="14/8558">Julien Michel</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>GPML: Graph Processing for Machine Learning.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.08964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.08964</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-08964</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2511-14654" mdate="2026-01-14">
+<author pid="423/5449">Marius Dubosc</author>
+<author pid="423/6143">Yann Fischer</author>
+<author pid="423/5843">Zacharie Auray</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="97/8035">Michael Atlan</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Improving segmentation of retinal arteries and veins using cardiac signal in doppler holograms.</title>
+<year>2025</year>
+<month>November</month>
+<volume>abs/2511.14654</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2511.14654</ee>
+<url>db/journals/corr/corr2511.html#abs-2511-14654</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/isci/RodriguesBN24" mdate="2025-01-19">
+<author orcid="0000-0001-7838-3038" pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Unsupervised discovery of interpretable visual concepts.</title>
+<pages>120159</pages>
+<year>2024</year>
+<volume>661</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2024.120159</ee>
+<ee>https://www.wikidata.org/entity/Q129919319</ee>
+<url>db/journals/isci/isci661.html#RodriguesBN24</url>
+</article>
+</r>
+<r><article key="journals/jmiv/Boutry24" mdate="2024-01-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<title>Introducing Poset-Based Connected n-Manifolds and <i>P</i>-well-composedness in Partially Ordered Sets.</title>
+<pages>1-21</pages>
+<year>2024</year>
+<month>January</month>
+<volume>66</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10851-023-01159-6</ee>
+<url>db/journals/jmiv/jmiv66.html#Boutry24</url>
+</article>
+</r>
+<r><article key="journals/prl/RodriguesBN24" mdate="2024-08-02">
+<author orcid="0000-0001-7838-3038" pid="261/2054">Caroline Mazini Rodrigues</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Transforming gradient-based techniques into interpretable methods.</title>
+<pages>66-73</pages>
+<year>2024</year>
+<volume>184</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2024.06.006</ee>
+<url>db/journals/prl/prl184.html#RodriguesBN24</url>
+<stream>streams/journals/prl</stream>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/JaberBP24" mdate="2025-01-19">
+<author orcid="0009-0005-2882-4647" pid="381/5988">Majed Jaber</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Graph-Based Spectral Analysis for Detecting Cyber Attacks.</title>
+<pages>23:1-23:14</pages>
+<year>2024</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1145/3664476.3664498</ee>
+<ee>https://www.wikidata.org/entity/Q131115371</ee>
+<crossref>conf/IEEEares/2024</crossref>
+<url>db/conf/IEEEares/ares2024.html#JaberBP24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-14434" mdate="2026-01-04">
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Transforming gradient-based techniques into interpretable methods.</title>
+<year>2024</year>
+<volume>abs/2401.14434</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.14434</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-14434</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-08789" mdate="2026-01-04">
+<author pid="348/6969">Miriam Doh</author>
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author orcid="0000-0002-6539-6996" pid="21/1485">Matei Mancas</author>
+<author pid="69/3502">Hugues Bersini</author>
+<title>Bridging Human Concepts and Computer Vision for Explainable Face Verification.</title>
+<year>2024</year>
+<volume>abs/2403.08789</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.08789</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-08789</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-13257" mdate="2026-01-04">
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Reasoning with trees: interpreting CNNs using hierarchies.</title>
+<year>2024</year>
+<volume>abs/2406.13257</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.13257</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-13257</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BertrandBN23" mdate="2024-05-07">
+<author orcid="0009-0004-7294-7081" pid="b/GillesBertrand">Gilles Bertrand 0001</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Discrete Morse Functions and Watersheds.</title>
+<pages>787-801</pages>
+<year>2023</year>
+<month>October</month>
+<volume>65</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10851-023-01157-8</ee>
+<url>db/journals/jmiv/jmiv65.html#BertrandBN23</url>
+</article>
+</r>
+<r><inproceedings key="conf/beware/DohRBNMB23" mdate="2024-01-25">
+<author pid="348/6969">Miriam Doh</author>
+<author pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="68/4192">Laurent Najman</author>
+<author pid="21/1485">Matei Mancas</author>
+<author pid="69/3502">Hugues Bersini</author>
+<title>Bridging Human Concepts and Computer Vision for Explainable Face Verification.</title>
+<pages>15-29</pages>
+<year>2023</year>
+<booktitle>BEWARE@AI*IA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3615/paper2.pdf</ee>
+<crossref>conf/beware/2023</crossref>
+<url>db/conf/beware/beware2023.html#DohRBNMB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03840" mdate="2023-01-19">
+<author pid="b/GillesBertrand">Gilles Bertrand 0001</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="68/4192">Laurent Najman</author>
+<title>Discrete Morse Functions and Watersheds.</title>
+<year>2023</year>
+<volume>abs/2301.03840</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03840</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03840</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-00018" mdate="2024-02-05">
+<author orcid="0000-0001-7838-3038" pid="261/2054">Caroline Mazini Rodrigues</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Unsupervised discovery of Interpretable Visual Concepts.</title>
+<year>2023</year>
+<volume>abs/2309.00018</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.00018</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-00018</url>
+</article>
+</r>
+<r><article key="journals/jco/BoutryGJP22" mdate="2023-11-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author pid="35/3958">Mar&#237;a Jos&#233; Jim&#233;nez 0001</author>
+<author orcid="0000-0002-4280-5945" pid="223/8582">Eduardo Paluzo-Hidalgo</author>
+<title>Strong Euler well-composedness.</title>
+<pages>3038-3055</pages>
+<year>2022</year>
+<volume>44</volume>
+<journal>J. Comb. Optim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10878-021-00837-8</ee>
+<url>db/journals/jco/jco44.html#BoutryGJP22</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BoutryGNG22" mdate="2022-10-02">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Continuous Well-Composedness Implies Digital Well-Composedness in n-D.</title>
+<pages>131-150</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10851-021-01058-8</ee>
+<url>db/journals/jmiv/jmiv64.html#BoutryGNG22</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BoutryNG22" mdate="2022-10-02">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Some Equivalence Relation between Persistent Homology and Morphological Dynamics.</title>
+<pages>807-824</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s10851-022-01104-z</ee>
+<url>db/journals/jmiv/jmiv64.html#BoutryNG22</url>
+</article>
+</r>
+<r><article key="journals/tip/ShiBXG22" mdate="2022-04-27">
+<author orcid="0000-0002-8186-9183" pid="136/9778">Tianyi Shi</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-7253-3151" pid="86/11269">Yongchao Xu</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Local Intensity Order Transformation for Robust Curvilinear Object Segmentation.</title>
+<pages>2557-2569</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2022.3155954</ee>
+<url>db/journals/tip/tip31.html#ShiBXG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/brainles-ws/BouchetDCPPEB22" mdate="2023-08-18">
+<author orcid="0000-0003-3792-2976" pid="352/5212">Philippe Bouchet</author>
+<author orcid="0000-0001-5753-1994" pid="352/5885">Jean-Baptiste Deloges</author>
+<author orcid="0000-0002-3440-9328" pid="352/5762">Hugo Canton-Bacara</author>
+<author orcid="0000-0002-6249-5964" pid="352/5637">Ga&#235;tan Pusel</author>
+<author orcid="0000-0001-5528-7422" pid="352/5712">Lucas Pinot</author>
+<author orcid="0000-0002-0992-8345" pid="352/5552">Othman Elbaz</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<title>An Efficient Cascade of U-Net-Like Convolutional Neural Networks Devoted to Brain Tumor Segmentation.</title>
+<pages>149-161</pages>
+<year>2022</year>
+<booktitle>BrainLes@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-33842-7_13</ee>
+<crossref>conf/brainles-ws/2022</crossref>
+<url>db/conf/brainles-ws/brainles-ws2022.html#BouchetDCPPEB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/BoutryBN22" mdate="2024-05-07">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0009-0004-7294-7081" pid="b/GillesBertrand">Gilles Bertrand 0001</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Gradient Vector Fields of Discrete Morse Functions and Watershed-Cuts.</title>
+<pages>35-47</pages>
+<year>2022</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19897-7_4</ee>
+<crossref>conf/dgmm/2022</crossref>
+<url>db/conf/dgmm/dgmm2022.html#BoutryBN22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-12587" mdate="2022-03-03">
+<author pid="136/9778">Tianyi Shi</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Local Intensity Order Transformation for Robust Curvilinear Object Segmentation.</title>
+<year>2022</year>
+<volume>abs/2202.12587</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.12587</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-12587</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-11512" mdate="2024-02-05">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>Gradient Vector Fields of Discrete Morse Functions are Minimum Spanning Forests.</title>
+<year>2022</year>
+<volume>abs/2203.11512</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.11512</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-11512</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-12546" mdate="2022-10-02">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Some equivalence relation between persistent homology and morphological dynamics.</title>
+<year>2022</year>
+<volume>abs/2205.12546</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.12546</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-12546</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-05109" mdate="2022-10-02">
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="130/1624">S&#233;bastien Crozet</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>A Proof of the Tree of Shapes in n-D.</title>
+<year>2022</year>
+<volume>abs/2206.05109</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.05109</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-05109</url>
+</article>
+</r>
+<r><article key="journals/mia/AliDGBPTKHGMGVY21" mdate="2025-10-14">
+<author orcid="0000-0003-1313-3542" pid="14/11430">Sharib Ali</author>
+<author pid="165/7527">Mariia Dmitrieva</author>
+<author pid="153/6019">Noha M. Ghatwary</author>
+<author orcid="0000-0003-1329-4565" pid="159/3825">Sophia Bano</author>
+<author orcid="0000-0002-1499-3491" pid="225/3065">Gorkem Polat</author>
+<author orcid="0000-0001-6082-2573" pid="38/2114">Alptekin Temizel</author>
+<author orcid="0000-0002-1593-3300" pid="254/7044">Adrian Krenzer</author>
+<author orcid="0000-0002-7325-9107" pid="263/7916">Amar Hekalo</author>
+<author orcid="0000-0001-6804-4884" pid="372/9686">Yun Bo Guo</author>
+<author orcid="0000-0001-7195-2509" pid="35/5712">Bogdan J. Matuszewski</author>
+<author orcid="0000-0002-7998-0448" pid="59/9061">Mourad Gridach</author>
+<author orcid="0000-0002-9104-8012" pid="93/3855">Irina Voiculescu</author>
+<author pid="276/5543">Vishnusai Yoganand</author>
+<author orcid="0000-0002-6053-0703" pid="261/3846">Arnav Chavan</author>
+<author orcid="0000-0001-6789-3235" pid="261/3181">Aryan Raj</author>
+<author pid="32/7990">Nhan T. Nguyen</author>
+<author pid="254/3126">Dat Q. Tran</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-2684-7117" pid="145/3364">Shahadate Rezvy</author>
+<author pid="48/8544">Haijian Chen</author>
+<author pid="91/3975">Yoon Ho Choi</author>
+<author orcid="0000-0003-4711-5457" pid="37/882-4">Anand Subramanian 0004</author>
+<author pid="263/7902">Velmurugan Balasubramanian</author>
+<author pid="51/3645">Xiaohong W. Gao</author>
+<author orcid="0000-0002-3854-0585" pid="01/5023">Hongyu Hu</author>
+<author pid="37/4774">Yusheng Liao</author>
+<author pid="53/3543">Danail Stoyanov</author>
+<author orcid="0000-0002-6149-7132" pid="50/986">Christian Daul</author>
+<author pid="241/5027">Stefano Realdon</author>
+<author orcid="0000-0002-2020-222X" pid="260/0904">Renato Cannizzaro</author>
+<author orcid="0000-0002-0899-2222" pid="124/2566">Dominique Lamarque</author>
+<author pid="276/5361">Terry Tran-Nguyen</author>
+<author orcid="0000-0002-8371-2147" pid="22/5076">Adam Bailey</author>
+<author orcid="0000-0002-8534-6873" pid="158/2164">Barbara Braden</author>
+<author pid="285/6184">James E. East</author>
+<author pid="11/377">Jens Rittscher</author>
+<title>Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy.</title>
+<pages>102002</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>Medical Image Anal.</journal>
+<ee type="oa">https://doi.org/10.1016/j.media.2021.102002</ee>
+<url>db/journals/mia/mia70.html#AliDGBPTKHGMGVY21</url>
+</article>
+</r>
+<r><article key="journals/mia/SekuboyinaHBLLL21" mdate="2024-07-22">
+<author pid="198/0458">Anjany Sekuboyina</author>
+<author pid="258/4149">Malek El Husseini</author>
+<author pid="257/3280">Amirhossein Bayat</author>
+<author pid="141/6051">Maximilian L&#246;ffler</author>
+<author pid="166/9660">Hans Liebl</author>
+<author orcid="0000-0002-5328-6407" pid="39/5544-4">Hongwei Li 0004</author>
+<author pid="199/1967">Giles Tetteh</author>
+<author orcid="0000-0002-6644-0792" pid="207/8395">Jan Kukacka</author>
+<author pid="167/9663">Christian Payer</author>
+<author pid="02/8488">Darko Stern</author>
+<author orcid="0000-0001-5792-3971" pid="68/309">Martin Urschler</author>
+<author pid="257/3183">Maodong Chen</author>
+<author pid="08/8545">Dalong Cheng</author>
+<author pid="143/4290">Nikolas Lessmann</author>
+<author pid="41/5328">Yujin Hu</author>
+<author pid="25/3611">Tianfu Wang 0001</author>
+<author pid="33/412-5">Dong Yang 0005</author>
+<author pid="140/3604">Daguang Xu</author>
+<author pid="210/9120">Felix Ambellan</author>
+<author pid="303/0588">Tamaz Amiranashvili</author>
+<author pid="137/2114">Moritz Ehlke</author>
+<author pid="63/3053">Hans Lamecker</author>
+<author pid="303/0533">Sebastian Lehnert</author>
+<author pid="303/0813">Marilia Lirio</author>
+<author pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</author>
+<author pid="118/5445">Heiko Ramm</author>
+<author pid="188/6278">Manish Sahu</author>
+<author orcid="0000-0002-2418-7629" pid="176/5287">Alexander Tack</author>
+<author pid="42/294">Stefan Zachow</author>
+<author pid="181/2813">Tao Jiang</author>
+<author pid="117/3114">Xinjun Ma</author>
+<author pid="257/3379">Christoph Angerman</author>
+<author orcid="0000-0001-9546-6038" pid="10/5630-113">Xin Wang 0113</author>
+<author pid="145/7448">Kevin Brown</author>
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="12/414">Di Chen</author>
+<author pid="206/6703">Yiwei Bai</author>
+<author pid="303/0841">Brandon H. Rapazzo</author>
+<author pid="303/1302">Timyoas Yeah</author>
+<author pid="303/0914">Amber Zhang</author>
+<author pid="258/4098">Shangliang Xu</author>
+<author pid="65/8064">Feng Hou</author>
+<author pid="99/5332-2">Zhiqiang He 0002</author>
+<author pid="194/8018">Chan Zeng</author>
+<author pid="303/0784">Zheng Xiangshang</author>
+<author pid="303/0842">Xu Liming</author>
+<author orcid="0000-0003-1583-7121" pid="294/9412">Tucker J. Netherton</author>
+<author orcid="0000-0001-7383-6122" pid="294/9332">Raymond P. Mumme</author>
+<author pid="159/9542">Laurence E. Court</author>
+<author pid="276/1481">Zixun Huang</author>
+<author pid="272/1145">Chenhang He</author>
+<author pid="33/10711">Li-Wen Wang</author>
+<author pid="87/5538">Sai Ho Ling</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="171/9909">Roman Jakub&#237;cek</author>
+<author orcid="0000-0001-9950-6279" pid="207/7257">Jir&#237; Chmel&#237;k</author>
+<author pid="239/1824">Supriti Mulay</author>
+<author pid="07/3856">Mohanasankar Sivaprakasam</author>
+<author pid="239/8775">Johannes C. Paetzold</author>
+<author orcid="0000-0003-4435-7207" pid="154/8612">Suprosanna Shit</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author orcid="0000-0002-2963-7772" pid="165/7294">Benedikt Wiestler</author>
+<author pid="86/2890">Ben Glocker</author>
+<author pid="86/9222">Alexander Valentinitsch</author>
+<author pid="150/3312">Markus Rempfler</author>
+<author orcid="0000-0003-4136-5690" pid="74/6505">Bj&#246;rn H. Menze</author>
+<author pid="181/6853">Jan S. Kirschke</author>
+<title>VerSe: A Vertebrae labelling and segmentation benchmark for multi-detector CT images.</title>
+<pages>102166</pages>
+<year>2021</year>
+<volume>73</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2021.102166</ee>
+<url>db/journals/mia/mia73.html#SekuboyinaHBLLL21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/NgocCBCCMG21" mdate="2026-03-24">
+<author pid="221/8949">Minh On Vu Ngoc</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Introducing the Boundary-Aware loss for deep image segmentation.</title>
+<publnr>215</publnr>
+<year>2021</year>
+<booktitle>BMVC</booktitle>
+<ee type="archive">https://www.bmvc2021-virtualconference.com/assets/papers/1546.pdf</ee>
+<crossref>conf/bmvc/2021</crossref>
+<url>db/conf/bmvc/bmvc2021.html#NgocCBCCMG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/brainles-ws/DemoustierKNMB21" mdate="2022-08-08">
+<author orcid="0000-0001-8622-1071" pid="325/2533">Marc Demoustier</author>
+<author orcid="0000-0002-2869-2999" pid="325/2614">Ines Khemir</author>
+<author orcid="0000-0002-0101-1604" pid="325/2333">Quoc Duong Nguyen</author>
+<author orcid="0000-0003-0871-5118" pid="318/9455">Lucien Martin-Gaff&#233;</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<title>Residual 3D U-Net with Localization for Brain Tumor Segmentation.</title>
+<pages>389-399</pages>
+<year>2021</year>
+<booktitle>BrainLes@MICCAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-08999-2_33</ee>
+<crossref>conf/brainles-ws/2021-1</crossref>
+<url>db/conf/brainles-ws/brainles-ws2021-1.html#DemoustierKNMB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/BoutryG21" mdate="2021-05-18">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A New Matching Algorithm Between Trees of Shapes and Its Application to Brain Tumor Segmentation.</title>
+<pages>67-78</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_4</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#BoutryG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/BoutryT21" mdate="2021-05-18">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<title>Stability of the Tree of Shapes to Additive Noise.</title>
+<pages>365-377</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_26</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#BoutryT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/BoutryGN21" mdate="2022-10-02">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>An Equivalence Relation Between Morphological Dynamics and Persistent Homology in n-D.</title>
+<pages>525-537</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_38</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#BoutryGN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-10074" mdate="2023-06-28">
+<author pid="181/6915">Raghav Mehta</author>
+<author pid="242/9238">Angelos Filos</author>
+<author pid="200/0516">Ujjwal Baid</author>
+<author pid="265/3498">Chiharu Sako</author>
+<author pid="95/6709">Richard McKinley</author>
+<author pid="230/3907">Michael Rebsamen</author>
+<author pid="282/0400">Katrin D&#228;twyler</author>
+<author pid="149/7569">Raphael Meier</author>
+<author pid="282/1389">Piotr Radojewski</author>
+<author pid="201/7764">Gowtham Krishnan Murugesan</author>
+<author pid="265/2568">Sahil S. Nalawade</author>
+<author pid="288/7741">Chandan Ganesh</author>
+<author pid="205/6104">Benjamin C. Wagner</author>
+<author pid="265/3301">Fang F. Yu</author>
+<author pid="03/2160">Baowei Fei</author>
+<author pid="205/6096">Ananth J. Madhuranthakam</author>
+<author pid="01/6305">Joseph A. Maldjian</author>
+<author pid="212/9527">Laura Alexandra Daza</author>
+<author pid="212/9517">Catalina G&#243;mez Caballero</author>
+<author pid="41/639">Pablo Arbel&#225;ez</author>
+<author pid="171/8003">Chengliang Dai</author>
+<author pid="63/1591-11">Shuo Wang 0011</author>
+<author pid="288/7781">Hadrien Raynaud</author>
+<author pid="198/0698">Yuanhan Mo</author>
+<author pid="63/1426">Elsa D. Angelini</author>
+<author pid="g/YikeGuo">Yike Guo</author>
+<author pid="20/5519">Wenjia Bai</author>
+<author pid="92/2241">Subhashis Banerjee</author>
+<author pid="174/0474">Linmin Pei</author>
+<author pid="64/7265">Murat Ak</author>
+<author pid="309/8181">Sarahi Rosas-Gonz&#225;lez</author>
+<author pid="131/6153">Ilyess Zemmoura</author>
+<author pid="81/1093">Clovis Tauber</author>
+<author pid="245/4275">Minh H. Vu</author>
+<author pid="218/1371">Tufve Nyholm</author>
+<author pid="127/4663">Tommy L&#246;fstedt</author>
+<author pid="275/3879">Laura Mora Ballestar</author>
+<author pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author pid="288/7717">Hugh McHugh</author>
+<author pid="168/5426">Gonzalo D. Maso Talou</author>
+<author pid="03/5773">Alan Wang</author>
+<author pid="274/3034">Jay B. Patel</author>
+<author pid="42/10254">Ken Chang</author>
+<author pid="225/5210">Katharina Hoebel</author>
+<author pid="266/8089">Mishka Gidwani</author>
+<author pid="266/7845">Nishanth Thumbavanam Arun</author>
+<author pid="271/7816">Sharut Gupta</author>
+<author pid="271/8038">Mehak Aggarwal</author>
+<author pid="155/3078">Praveer Singh</author>
+<author pid="165/7810">Elizabeth R. Gerstner</author>
+<author pid="50/3269">Jayashree Kalpathy-Cramer</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="309/9075">Alexis Huard</author>
+<author pid="150/4157">Lasitha Vidyaratne</author>
+<author pid="265/3327">Md Monibor Rahman</author>
+<author pid="10/4321">Khan M. Iftekharuddin</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="91/4845-16">Jun Ma 0016</author>
+<author pid="71/10545">Mariano Cabezas</author>
+<author pid="32/4689">Xavier Llad&#243;</author>
+<author pid="16/5582">Arnau Oliver</author>
+<author pid="309/8126">Liliana Valencia</author>
+<author pid="63/5928">Sergi Valverde</author>
+<author pid="254/2882">Mehdi Amian</author>
+<author pid="153/1648">Mohammadreza Soltaninejad</author>
+<author pid="26/1146">Andriy Myronenko</author>
+<author pid="226/7000">Ali Hatamizadeh</author>
+<author pid="01/5235-1">Xue Feng 0001</author>
+<author pid="265/2935">Quan Dou</author>
+<author pid="63/4561">Nicholas J. Tustison</author>
+<author pid="47/2334">Craig H. Meyer</author>
+<author pid="263/1100">Nisarg A. Shah</author>
+<author pid="39/7796">Sanjay N. Talbar</author>
+<author pid="49/8400">Marc-Andr&#233; Weber</author>
+<author pid="195/3007">Abhishek Mahajan</author>
+<author pid="156/3027">Andr&#225;s Jakab</author>
+<author pid="87/10741">Roland Wiest</author>
+<author pid="94/1252">Hassan M. Fathallah-Shaykh</author>
+<author pid="165/4591">Arash Nazeri</author>
+<author pid="123/8294">Mikhail Milchenko</author>
+<author pid="67/7228">Daniel S. Marcus</author>
+<author pid="230/3673">Aikaterini Kotrotsou</author>
+<author pid="288/7607">Rivka Colen</author>
+<author pid="68/10804">John B. Freymann</author>
+<author pid="42/10803">Justin S. Kirby</author>
+<author pid="d/ChristosDavatzikos">Christos Davatzikos</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author pid="117/7034">Spyridon Bakas</author>
+<author pid="67/9076">Yarin Gal</author>
+<author pid="20/1315">Tal Arbel</author>
+<title>QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation - Analysis of Ranking Metrics and Benchmarking Results.</title>
+<year>2021</year>
+<volume>abs/2112.10074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.10074</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-10074</url>
+</article>
+</r>
+<r><article key="journals/cviu/NgocBFG20" mdate="2026-03-24">
+<author orcid="0000-0003-1758-0673" pid="221/8949">Minh On Vu Ngoc</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0003-1494-286X" pid="90/2799">Jonathan Fabrizio</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A minimum barrier distance for multivariate images with applications.</title>
+<pages>102993</pages>
+<year>2020</year>
+<volume>197-198</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2020.102993</ee>
+<url>db/journals/cviu/cviu197.html#NgocBFG20</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BoutryNG20" mdate="2022-10-02">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Topological Properties of the First Non-Local Digitally Well-Composed Interpolation on n-D Cubical Grids.</title>
+<pages>1256-1284</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10851-020-00989-y</ee>
+<url>db/journals/jmiv/jmiv62.html#BoutryNG20</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BoutryNG20a" mdate="2022-10-02">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Equivalence between Digital Well-Composedness and Well-Composedness in the Sense of Alexandrov on n-D Cubical Grids.</title>
+<pages>1285-1333</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10851-020-00988-z</ee>
+<ee>https://www.wikidata.org/entity/Q112879504</ee>
+<url>db/journals/jmiv/jmiv62.html#BoutryNG20a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpr/ZhaoPBG20" mdate="2021-05-07">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>FOANet: A Focus of Attention Network with Application to Myocardium Segmentation.</title>
+<pages>1120-1127</pages>
+<year>2020</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR48806.2021.9412016</ee>
+<crossref>conf/icpr/2020</crossref>
+<url>db/conf/icpr/icpr2020.html#ZhaoPBG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ZhaoPBG20a" mdate="2021-05-07">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Do not Treat Boundaries and Regions Differently: An Example on Heart Left Atrial Segmentation.</title>
+<pages>7447-7453</pages>
+<year>2020</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR48806.2021.9412755</ee>
+<crossref>conf/icpr/2020</crossref>
+<url>db/conf/icpr/icpr2020.html#ZhaoPBG20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/HuynhB20" mdate="2023-03-10">
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<title>A U-Net++ With Pre-Trained EfficientNet Backbone for Segmentation of Diseases and Artifacts in Endoscopy Images and Videos.</title>
+<pages>13-17</pages>
+<year>2020</year>
+<booktitle>EndoCV@ISBI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2595/endoCV2020_paper_id_11.pdf</ee>
+<crossref>conf/isbi/2020endocv</crossref>
+<url>db/conf/isbi/endocv2020.html#HuynhB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcia/BoutryGJP20" mdate="2023-11-15">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author orcid="0000-0001-7316-117X" pid="35/3958">Mar&#237;a Jos&#233; Jim&#233;nez 0001</author>
+<author orcid="0000-0002-4280-5945" pid="223/8582">Eduardo Paluzo-Hidalgo</author>
+<title>Euler Well-Composedness.</title>
+<pages>3-19</pages>
+<year>2020</year>
+<booktitle>IWCIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-51002-2_1</ee>
+<crossref>conf/iwcia/2020</crossref>
+<url>db/conf/iwcia/iwcia2020.html#BoutryGJP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcia/BoutryGNG20" mdate="2022-10-02">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A 4D Counter-Example Showing that DWCness Does Not Imply CWCness in nD.</title>
+<pages>73-87</pages>
+<year>2020</year>
+<booktitle>IWCIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-51002-2_6</ee>
+<crossref>conf/iwcia/2020</crossref>
+<url>db/conf/iwcia/iwcia2020.html#BoutryGNG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ZhaoBP20" mdate="2021-01-09">
+<author pid="75/7785">Zhou Zhao</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<title>Stacked and Parallel U-Nets with Multi-output for Myocardial Pathology Segmentation.</title>
+<pages>138-145</pages>
+<year>2020</year>
+<booktitle>MyoPS@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65651-5_13</ee>
+<crossref>conf/miccai/2020myops</crossref>
+<url>db/conf/miccai/myops2020.html#ZhaoBP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-09193" mdate="2024-07-27">
+<author pid="198/0458">Anjany Sekuboyina</author>
+<author pid="258/4149">Malek El Husseini</author>
+<author pid="257/3280">Amirhossein Bayat</author>
+<author pid="141/6051">Maximilian L&#246;ffler</author>
+<author pid="166/9660">Hans Liebl</author>
+<author pid="39/5544-4">Hongwei Li 0004</author>
+<author pid="199/1967">Giles Tetteh</author>
+<author pid="207/8395">Jan Kukacka</author>
+<author pid="167/9663">Christian Payer</author>
+<author pid="02/8488">Darko Stern</author>
+<author pid="68/309">Martin Urschler</author>
+<author pid="257/3183">Maodong Chen</author>
+<author pid="08/8545">Dalong Cheng</author>
+<author pid="143/4290">Nikolas Lessmann</author>
+<author pid="41/5328">Yujin Hu</author>
+<author pid="25/3611">Tianfu Wang 0001</author>
+<author pid="33/412-5">Dong Yang 0005</author>
+<author pid="140/3604">Daguang Xu</author>
+<author pid="210/9120">Felix Ambellan</author>
+<author pid="303/0588">Tamaz Amiranashvili</author>
+<author pid="137/2114">Moritz Ehlke</author>
+<author pid="63/3053">Hans Lamecker</author>
+<author pid="303/0533">Sebastian Lehnert</author>
+<author pid="303/0813">Marilia Lirio</author>
+<author pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</author>
+<author pid="118/5445">Heiko Ramm</author>
+<author pid="188/6278">Manish Sahu</author>
+<author pid="176/5287">Alexander Tack</author>
+<author pid="42/294">Stefan Zachow</author>
+<author pid="181/2813">Tao Jiang</author>
+<author pid="117/3114">Xinjun Ma</author>
+<author pid="257/3379">Christoph Angerman</author>
+<author pid="10/5630-113">Xin Wang 0113</author>
+<author pid="145/7448">Kevin Brown</author>
+<author pid="257/3284">Alexandre Kirszenberg</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="12/414">Di Chen</author>
+<author pid="206/6703">Yiwei Bai</author>
+<author pid="303/0841">Brandon H. Rapazzo</author>
+<author pid="303/1302">Timyoas Yeah</author>
+<author pid="303/0914">Amber Zhang</author>
+<author pid="258/4098">Shangliang Xu</author>
+<author pid="65/8064">Feng Hou</author>
+<author pid="99/5332-2">Zhiqiang He 0002</author>
+<author pid="194/8018">Chan Zeng</author>
+<author pid="285/7662">Xiangshang Zheng</author>
+<author pid="74/8609">Liming Xu</author>
+<author pid="294/9412">Tucker J. Netherton</author>
+<author pid="294/9332">Raymond P. Mumme</author>
+<author pid="159/9542">Laurence E. Court</author>
+<author pid="276/1481">Zixun Huang</author>
+<author pid="272/1145">Chenhang He</author>
+<author pid="33/10711">Li-Wen Wang</author>
+<author pid="87/5538">Sai Ho Ling</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="171/9909">Roman Jakub&#237;cek</author>
+<author pid="207/7257">Jir&#237; Chmel&#237;k</author>
+<author pid="239/1824">Supriti Mulay</author>
+<author pid="07/3856">Mohanasankar Sivaprakasam</author>
+<author pid="239/8775">Johannes C. Paetzold</author>
+<author pid="154/8612">Suprosanna Shit</author>
+<author pid="244/2240">Ivan Ezhov</author>
+<author pid="165/7294">Benedikt Wiestler</author>
+<author pid="86/2890">Ben Glocker</author>
+<author pid="86/9222">Alexander Valentinitsch</author>
+<author pid="150/3312">Markus Rempfler</author>
+<author pid="74/6505">Bj&#246;rn H. Menze</author>
+<author pid="181/6853">Jan S. Kirschke</author>
+<title>VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images.</title>
+<year>2020</year>
+<volume>abs/2001.09193</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.09193</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-09193</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-06034" mdate="2021-02-19">
+<author pid="14/11430">Sharib Ali</author>
+<author pid="165/7527">Mariia Dmitrieva</author>
+<author pid="153/6019">Noha M. Ghatwary</author>
+<author pid="159/3825">Sophia Bano</author>
+<author pid="225/3065">Gorkem Polat</author>
+<author pid="38/2114">Alptekin Temizel</author>
+<author pid="254/7044">Adrian Krenzer</author>
+<author pid="263/7916">Amar Hekalo</author>
+<author pid="372/9686">Yun Bo Guo</author>
+<author pid="35/5712">Bogdan J. Matuszewski</author>
+<author pid="59/9061">Mourad Gridach</author>
+<author pid="93/3855">Irina Voiculescu</author>
+<author pid="276/5543">Vishnusai Yoganand</author>
+<author pid="261/3846">Arnav Chavan</author>
+<author pid="261/3181">Aryan Raj</author>
+<author pid="32/7990">Nhan T. Nguyen</author>
+<author pid="254/3126">Dat Q. Tran</author>
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="145/3364">Shahadate Rezvy</author>
+<author pid="48/8544">Haijian Chen</author>
+<author pid="91/3975">Yoon Ho Choi</author>
+<author pid="37/882-4">Anand Subramanian 0004</author>
+<author pid="263/7902">Velmurugan Balasubramanian</author>
+<author pid="51/3645">Xiaohong W. Gao</author>
+<author pid="01/5023">Hongyu Hu</author>
+<author pid="37/4774">Yusheng Liao</author>
+<author pid="53/3543">Danail Stoyanov</author>
+<author pid="50/986">Christian Daul</author>
+<author pid="241/5027">Stefano Realdon</author>
+<author pid="260/0904">Renato Cannizzaro</author>
+<author pid="124/2566">Dominique Lamarque</author>
+<author pid="276/5361">Terry Tran-Nguyen</author>
+<author pid="22/5076">Adam Bailey</author>
+<author pid="158/2164">Barbara Braden</author>
+<author pid="285/6184">James E. East</author>
+<author pid="11/377">Jens Rittscher</author>
+<title>A translational pathway of deep learning methods in GastroIntestinal Endoscopy.</title>
+<year>2020</year>
+<volume>abs/2010.06034</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.06034</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-06034</url>
+</article>
+</r>
+<r><article key="journals/isci/BoutryGJ19" mdate="2023-11-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author orcid="0000-0001-7316-117X" pid="35/3958">Mar&#237;a Jos&#233; Jim&#233;nez 0001</author>
+<title>Weakly well-composed cell complexes over nD pictures.</title>
+<pages>62-83</pages>
+<year>2019</year>
+<volume>499</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2018.06.005</ee>
+<url>db/journals/isci/isci499.html#BoutryGJ19</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BoutryGN19" mdate="2025-01-19">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way.</title>
+<pages>849-873</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10851-019-00873-4</ee>
+<ee>https://www.wikidata.org/entity/Q128413711</ee>
+<url>db/journals/jmiv/jmiv61.html#BoutryGN19</url>
+</article>
+</r>
+<r><article key="journals/prl/HuynhBG19" mdate="2025-01-19">
+<author pid="198/9406">L&#234; Duy Huynh</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Connected filters on generalized shape-Spaces.</title>
+<pages>348-354</pages>
+<year>2019</year>
+<volume>128</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2019.09.018</ee>
+<ee>https://www.wikidata.org/entity/Q127245619</ee>
+<url>db/journals/prl/prl128.html#HuynhBG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/brainles-ws/BoutryCPTTG19" mdate="2022-03-16">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Using Separated Inputs for Multimodal Brain Tumor Segmentation with 3D U-Net-like Architectures.</title>
+<pages>187-199</pages>
+<year>2019</year>
+<booktitle>BrainLes@MICCAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46640-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q108527541</ee>
+<crossref>conf/brainles-ws/2019-1</crossref>
+<url>db/conf/brainles-ws/brainles-ws2019-1.html#BoutryCPTTG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgci/BoutryGJ19" mdate="2023-11-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</author>
+<author pid="35/3958">Mar&#237;a Jos&#233; Jim&#233;nez 0001</author>
+<title>One More Step Towards Well-Composedness of Cell Complexes over nD Pictures.</title>
+<pages>101-114</pages>
+<year>2019</year>
+<booktitle>DGCI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-14085-4_9</ee>
+<crossref>conf/dgci/2019</crossref>
+<url>db/conf/dgci/dgci2019.html#BoutryGJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/BoutryGN19" mdate="2022-10-02">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>An Equivalence Relation Between Morphological Dynamics and Persistent Homology in 1D.</title>
+<pages>57-68</pages>
+<year>2019</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20867-7_5</ee>
+<crossref>conf/ismm/2019</crossref>
+<url>db/conf/ismm/ismm2019.html#BoutryGN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ZhaoBPG19" mdate="2020-01-27">
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>A Two-Stage Temporal-Like Fully Convolutional Network Framework for Left Ventricle Segmentation and Quantification on MR Images.</title>
+<pages>405-413</pages>
+<year>2019</year>
+<booktitle>STACOM@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39074-7_42</ee>
+<crossref>conf/miccai/2019stacom</crossref>
+<url>db/conf/miccai/stacom2019.html#ZhaoBPG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmiv/BoutryGN18" mdate="2021-04-09">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>A Tutorial on Well-Composedness.</title>
+<pages>443-478</pages>
+<year>2018</year>
+<volume>60</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10851-017-0769-6</ee>
+<url>db/journals/jmiv/jmiv60.html#BoutryGN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgci/BoutryNG17" mdate="2021-04-09">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Well-Composedness in Alexandrov Spaces Implies Digital Well-Composedness in \mathbb Z^n.</title>
+<pages>225-237</pages>
+<year>2017</year>
+<booktitle>DGCI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66272-5_19</ee>
+<crossref>conf/dgci/2017</crossref>
+<url>db/conf/dgci/dgci2017.html#BoutryNG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/GeraudXCB17" mdate="2017-09-16">
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="86/11269">Yongchao Xu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<title>Introducing the Dahu Pseudo-Distance.</title>
+<pages>55-67</pages>
+<year>2017</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57240-6_5</ee>
+<crossref>conf/ismm/2017</crossref>
+<url>db/conf/ismm/ismm2017.html#GeraudXCB17</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Boutry16" mdate="2020-07-21">
+<author pid="150/5004">Nicolas Boutry</author>
+<title>A Study of Well-composedness in n-D. (Une &#233;tude du bien-compos&#233; en dimension n).</title>
+<year>2016</year>
+<school>University of Paris-Est, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01531035</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icip/BoutryGN15" mdate="2017-06-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>How to make nD images well-composed without interpolation.</title>
+<pages>2149-2153</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2015.7351181</ee>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#BoutryGN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismm/BoutryGN15" mdate="2017-06-15">
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>How to Make nD Functions Digitally Well-Composed in a Self-dual Way.</title>
+<pages>561-572</pages>
+<year>2015</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18720-4_47</ee>
+<crossref>conf/ismm/2015</crossref>
+<url>db/conf/ismm/ismm2015.html#BoutryGN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgci/BoutryGN14" mdate="2018-12-23">
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-6190-0235" pid="68/4192">Laurent Najman</author>
+<title>On Making nD Images Well-Composed by a Self-dual Local Interpolation.</title>
+<pages>320-331</pages>
+<year>2014</year>
+<booktitle>DGCI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-09955-2_27</ee>
+<crossref>conf/dgci/2014</crossref>
+<url>db/conf/dgci/dgci2014.html#BoutryGN14</url>
+</inproceedings>
+</r>
+<coauthors n="268" nc="4">
+<co c="0"><na f="a/Aggarwal:Mehak" pid="271/8038">Mehak Aggarwal</na></co>
+<co c="0"><na f="a/Ak:Murat" pid="64/7265">Murat Ak</na></co>
+<co c="0"><na f="a/Ali:Sharib" pid="14/11430">Sharib Ali</na></co>
+<co c="0"><na f="a/Ambellan:Felix" pid="210/9120">Felix Ambellan</na></co>
+<co c="0"><na f="a/Amian:Mehdi" pid="254/2882">Mehdi Amian</na></co>
+<co c="0"><na f="a/Amiranashvili:Tamaz" pid="303/0588">Tamaz Amiranashvili</na></co>
+<co c="0"><na f="a/Angelini:Elsa_D=" pid="63/1426">Elsa D. Angelini</na></co>
+<co c="0"><na f="a/Angerman:Christoph" pid="257/3379">Christoph Angerman</na></co>
+<co c="0"><na f="a/Arbel:Tal" pid="20/1315">Tal Arbel</na></co>
+<co c="0" n="2"><na f="a/Arbel=aacute=ez:Pablo_Andr=eacute=s" pid="41/639">Pablo Andr&#233;s Arbel&#225;ez</na><na>Pablo Arbel&#225;ez</na></co>
+<co c="0"><na f="a/Arun:Nishanth_Thumbavanam" pid="266/7845">Nishanth Thumbavanam Arun</na></co>
+<co c="0"><na f="a/Atlan:Michael" pid="97/8035">Michael Atlan</na></co>
+<co c="0"><na f="a/Auray:Zacharie" pid="423/5843">Zacharie Auray</na></co>
+<co c="0"><na f="a/Awasthi:Navchetan" pid="284/2832">Navchetan Awasthi</na></co>
+<co c="0"><na f="b/Bai:Wenjia" pid="20/5519">Wenjia Bai</na></co>
+<co c="0"><na f="b/Bai:Xiang=Hui" pid="398/6959">Xiang-Hui Bai</na></co>
+<co c="0"><na f="b/Bai:Yiwei" pid="206/6703">Yiwei Bai</na></co>
+<co c="0"><na f="b/Baid:Ujjwal" pid="200/0516">Ujjwal Baid</na></co>
+<co c="0"><na f="b/Bailey:Adam" pid="22/5076">Adam Bailey</na></co>
+<co c="0"><na f="b/Bakas:Spyridon" pid="117/7034">Spyridon Bakas</na></co>
+<co c="0"><na f="b/Balasubramanian:Velmurugan" pid="263/7902">Velmurugan Balasubramanian</na></co>
+<co c="0"><na f="b/Ballestar:Laura_Mora" pid="275/3879">Laura Mora Ballestar</na></co>
+<co c="0"><na f="b/Banerjee:Subhashis" pid="92/2241">Subhashis Banerjee</na></co>
+<co c="0"><na f="b/Bano:Sophia" pid="159/3825">Sophia Bano</na></co>
+<co c="0"><na f="b/Baumgartner_0001:Michael" pid="66/4721-1">Michael Baumgartner 0001</na></co>
+<co c="0"><na f="b/Bayat:Amirhossein" pid="257/3280">Amirhossein Bayat</na></co>
+<co c="0"><na f="b/Bersini:Hugues" pid="69/3502">Hugues Bersini</na></co>
+<co c="0"><na f="b/Bertrand_0001:Gilles" pid="b/GillesBertrand">Gilles Bertrand 0001</na></co>
+<co c="1"><na f="b/Bouchet:Philippe" pid="352/5212">Philippe Bouchet</na></co>
+<co c="0"><na f="b/Braden:Barbara" pid="158/2164">Barbara Braden</na></co>
+<co c="0"><na f="b/Brown:Kevin" pid="145/7448">Kevin Brown</na></co>
+<co c="0"><na f="c/Caballero:Catalina_G=oacute=mez" pid="212/9517">Catalina G&#243;mez Caballero</na></co>
+<co c="0"><na f="c/Cabezas:Mariano" pid="71/10545">Mariano Cabezas</na></co>
+<co c="0"><na f="c/Cannizzaro:Renato" pid="260/0904">Renato Cannizzaro</na></co>
+<co c="1"><na f="c/Canton=Bacara:Hugo" pid="352/5762">Hugo Canton-Bacara</na></co>
+<co c="0"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="0"><na f="c/Chang:Ken" pid="42/10254">Ken Chang</na></co>
+<co c="0"><na f="c/Charmetant:Maximilien" pid="398/6948">Maximilien Charmetant</na></co>
+<co c="0"><na f="c/Chavan:Arnav" pid="261/3846">Arnav Chavan</na></co>
+<co c="0"><na f="c/Chazalon:Joseph" pid="00/7894">Joseph Chazalon</na></co>
+<co c="0"><na f="c/Chen:Di" pid="12/414">Di Chen</na></co>
+<co c="0"><na f="c/Chen:Haijian" pid="48/8544">Haijian Chen</na></co>
+<co c="0"><na f="c/Chen:Hongyu" pid="28/3046">Hongyu Chen</na></co>
+<co c="0"><na f="c/Chen:Maodong" pid="257/3183">Maodong Chen</na></co>
+<co c="0"><na f="c/Chen:Yizi" pid="250/4440">Yizi Chen</na></co>
+<co c="0"><na f="c/Cheng:Dalong" pid="08/8545">Dalong Cheng</na></co>
+<co c="0"><na f="c/Chmel=iacute=k:Jir=iacute=" pid="207/7257">Jir&#237; Chmel&#237;k</na></co>
+<co c="0"><na f="c/Choi:Yoon_Ho" pid="91/3975">Yoon Ho Choi</na></co>
+<co c="0"><na f="c/Colen:Rivka" pid="288/7607">Rivka Colen</na></co>
+<co c="0"><na f="c/Court:Laurence_E=" pid="159/9542">Laurence E. Court</na></co>
+<co c="0"><na f="c/Crozet:S=eacute=bastien" pid="130/1624">S&#233;bastien Crozet</na></co>
+<co c="0" n="2"><na f="d/Daetwyler:Katrin" pid="282/0400">Katrin Daetwyler</na><na>Katrin D&#228;twyler</na></co>
+<co c="0"><na f="d/Dai:Chengliang" pid="171/8003">Chengliang Dai</na></co>
+<co c="0"><na f="d/Daul:Christian" pid="50/986">Christian Daul</na></co>
+<co c="0"><na f="d/Davatzikos:Christos" pid="d/ChristosDavatzikos">Christos Davatzikos</na></co>
+<co c="0"><na f="d/Daza:Laura_Alexandra" pid="212/9527">Laura Alexandra Daza</na></co>
+<co c="1"><na f="d/Deloges:Jean=Baptiste" pid="352/5885">Jean-Baptiste Deloges</na></co>
+<co c="2"><na f="d/Demoustier:Marc" pid="325/2533">Marc Demoustier</na></co>
+<co c="0"><na f="d/Dmitrieva:Mariia" pid="165/7527">Mariia Dmitrieva</na></co>
+<co c="0"><na f="d/Doh:Miriam" pid="348/6969">Miriam Doh</na></co>
+<co c="0"><na f="d/Dong:Suyu" pid="193/8019">Suyu Dong</na></co>
+<co c="0"><na f="d/Dou:Quan" pid="265/2935">Quan Dou</na></co>
+<co c="0"><na f="d/Du:Hao" pid="13/6441">Hao Du</na></co>
+<co c="0"><na f="d/Dubosc:Marius" pid="423/5449">Marius Dubosc</na></co>
+<co c="0"><na f="e/East:James_E=" pid="285/6184">James E. East</na></co>
+<co c="0"><na f="e/Ehlke:Moritz" pid="137/2114">Moritz Ehlke</na></co>
+<co c="1"><na f="e/Elbaz:Othman" pid="352/5552">Othman Elbaz</na></co>
+<co c="0"><na f="e/Ezhov:Ivan" pid="244/2240">Ivan Ezhov</na></co>
+<co c="0"><na f="f/Fabrizio:Jonathan" pid="90/2799">Jonathan Fabrizio</na></co>
+<co c="0"><na f="f/Fan:Tianyu" pid="238/6657">Tianyu Fan</na></co>
+<co c="0"><na f="f/Fathallah=Shaykh:Hassan_M=" pid="94/1252">Hassan M. Fathallah-Shaykh</na></co>
+<co c="0"><na f="f/Fei:Baowei" pid="03/2160">Baowei Fei</na></co>
+<co c="0"><na f="f/Feng_0001:Xue" pid="01/5235-1">Xue Feng 0001</na></co>
+<co c="0"><na f="f/Filos:Angelos" pid="242/9238">Angelos Filos</na></co>
+<co c="0"><na f="f/Fischer:Yann" pid="423/6143">Yann Fischer</na></co>
+<co c="0"><na f="f/Freymann:John_B=" pid="68/10804">John B. Freymann</na></co>
+<co c="0"><na f="g/Gal:Yarin" pid="67/9076">Yarin Gal</na></co>
+<co c="0"><na f="g/Ganesh:Chandan" pid="288/7741">Chandan Ganesh</na></co>
+<co c="0"><na f="g/Gao:Xiaohong_W=" pid="51/3645">Xiaohong W. Gao</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="0"><na f="g/Gerstner:Elizabeth_R=" pid="165/7810">Elizabeth R. Gerstner</na></co>
+<co c="0"><na f="g/Ghatwary:Noha_M=" pid="153/6019">Noha M. Ghatwary</na></co>
+<co c="0"><na f="g/Gidwani:Mishka" pid="266/8089">Mishka Gidwani</na></co>
+<co c="0"><na f="g/Glocker:Ben" pid="86/2890">Ben Glocker</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez=D=iacute=az:Roc=iacute=o" pid="17/3796">Roc&#237;o Gonz&#225;lez-D&#237;az</na></co>
+<co c="0"><na f="g/Gosselin:Bernard" pid="56/6658">Bernard Gosselin</na></co>
+<co c="0"><na f="g/Gridach:Mourad" pid="59/9061">Mourad Gridach</na></co>
+<co c="0"><na f="g/Guo:Qihui" pid="398/6096">Qihui Guo</na></co>
+<co c="0"><na f="g/Guo:Yike" pid="g/YikeGuo">Yike Guo</na></co>
+<co c="0" n="2"><na f="g/Guo:Yunbo" pid="372/9686">Yunbo Guo</na><na>Yun Bo Guo</na></co>
+<co c="0"><na f="g/Gupta:Sharut" pid="271/7816">Sharut Gupta</na></co>
+<co c="0"><na f="h/Hatamizadeh:Ali" pid="226/7000">Ali Hatamizadeh</na></co>
+<co c="0"><na f="h/He:Chenhang" pid="272/1145">Chenhang He</na></co>
+<co c="0"><na f="h/He_0002:Zhiqiang" pid="99/5332-2">Zhiqiang He 0002</na></co>
+<co c="0"><na f="h/Hekalo:Amar" pid="263/7916">Amar Hekalo</na></co>
+<co c="0" n="2"><na f="h/H=ouml=bel:Katharina" pid="225/5210">Katharina H&#246;bel</na><na>Katharina Hoebel</na></co>
+<co c="0"><na f="h/Hou:Feng" pid="65/8064">Feng Hou</na></co>
+<co c="0"><na f="h/Hu:Hongyu" pid="01/5023">Hongyu Hu</na></co>
+<co c="0"><na f="h/Hu:Yujin" pid="41/5328">Yujin Hu</na></co>
+<co c="0"><na f="h/Huang:Zixun" pid="276/1481">Zixun Huang</na></co>
+<co c="0"><na f="h/Huard:Alexis" pid="309/9075">Alexis Huard</na></co>
+<co c="0"><na f="h/Husseini:Malek_El" pid="258/4149">Malek El Husseini</na></co>
+<co c="0"><na f="h/Huynh:L=ecirc=_Duy" pid="198/9406">L&#234; Duy Huynh</na></co>
+<co c="0"><na f="i/Iftekharuddin:Khan_M=" pid="10/4321">Khan M. Iftekharuddin</na></co>
+<co c="3"><na f="j/Jaber:Majed" pid="381/5988">Majed Jaber</na></co>
+<co c="0"><na f="j/Jakab:Andr=aacute=s" pid="156/3027">Andr&#225;s Jakab</na></co>
+<co c="0"><na f="j/Jakub=iacute=cek:Roman" pid="171/9909">Roman Jakub&#237;cek</na></co>
+<co c="0"><na f="j/Jeong:Hyunsu" pid="199/2521">Hyunsu Jeong</na></co>
+<co c="0"><na f="j/Jiang:Tao" pid="181/2813">Tao Jiang</na></co>
+<co c="0"><na f="j/Jim=eacute=nez_0001:Mar=iacute=a_Jos=eacute=" pid="35/3958">Mar&#237;a Jos&#233; Jim&#233;nez 0001</na></co>
+<co c="0"><na f="k/Kalpathy=Cramer:Jayashree" pid="50/3269">Jayashree Kalpathy-Cramer</na></co>
+<co c="2"><na f="k/Khemir:Ines" pid="325/2614">Ines Khemir</na></co>
+<co c="0"><na f="k/Kim:Chulhong" pid="38/1192">Chulhong Kim</na></co>
+<co c="0"><na f="k/Kirby:Justin_S=" pid="42/10803">Justin S. Kirby</na></co>
+<co c="0"><na f="k/Kirchhoff:Yannick" pid="348/6129">Yannick Kirchhoff</na></co>
+<co c="0" n="2"><na f="k/Kirschke:Jan" pid="181/6853">Jan Kirschke</na><na>Jan S. Kirschke</na></co>
+<co c="0"><na f="k/Kirszenberg:Alexandre" pid="257/3284">Alexandre Kirszenberg</na></co>
+<co c="0"><na f="k/Kotrotsou:Aikaterini" pid="230/3673">Aikaterini Kotrotsou</na></co>
+<co c="0"><na f="k/Krenzer:Adrian" pid="254/7044">Adrian Krenzer</na></co>
+<co c="0"><na f="k/Kukacka:Jan" pid="207/8395">Jan Kukacka</na></co>
+<co c="0"><na f="l/Lamarque:Dominique" pid="124/2566">Dominique Lamarque</na></co>
+<co c="0"><na f="l/Lamecker:Hans" pid="63/3053">Hans Lamecker</na></co>
+<co c="0"><na f="l/Lee:Dongmin" pid="221/7953">Dongmin Lee</na></co>
+<co c="0"><na f="l/Lehnert:Sebastian" pid="303/0533">Sebastian Lehnert</na></co>
+<co c="0" n="2"><na f="l/Le=szlig=mann:Nikolas" pid="143/4290">Nikolas Le&#223;mann</na><na>Nikolas Lessmann</na></co>
+<co c="0"><na f="l/Li_0004:Hongwei" pid="39/5544-4">Hongwei Li 0004</na></co>
+<co c="0"><na f="l/Liang:Xinjie" pid="322/3994">Xinjie Liang</na></co>
+<co c="0"><na f="l/Liao:Yusheng" pid="37/4774">Yusheng Liao</na></co>
+<co c="0"><na f="l/Liebl:Hans" pid="166/9660">Hans Liebl</na></co>
+<co c="0"><na f="l/Liming:Xu" pid="303/0842">Xu Liming</na></co>
+<co c="0" n="2"><na f="l/Ling:Sai=Ho" pid="87/5538">Sai-Ho Ling</na><na>Sai Ho Ling</na></co>
+<co c="0"><na f="l/Lirio:Marilia" pid="303/0813">Marilia Lirio</na></co>
+<co c="0"><na f="l/Llad=oacute=:Xavier" pid="32/4689">Xavier Llad&#243;</na></co>
+<co c="0"><na f="l/L=ouml=ffler:Maximilian" pid="141/6051">Maximilian L&#246;ffler</na></co>
+<co c="0"><na f="l/L=ouml=fstedt:Tommy" pid="127/4663">Tommy L&#246;fstedt</na></co>
+<co c="0"><na f="l/Luna:Miguel" pid="235/3480">Miguel Luna</na></co>
+<co c="0"><na f="l/Luo:Gongning" pid="170/4537">Gongning Luo</na></co>
+<co c="0"><na f="m/Ma_0016:Jun" pid="91/4845-16">Jun Ma 0016</na></co>
+<co c="0"><na f="m/Ma:Xinjun" pid="117/3114">Xinjun Ma</na></co>
+<co c="0"><na f="m/Madhuranthakam:Ananth_J=" pid="205/6096">Ananth J. Madhuranthakam</na></co>
+<co c="0"><na f="m/Mahajan:Abhishek" pid="195/3007">Abhishek Mahajan</na></co>
+<co c="0"><na f="m/Maier=Hein:Klaus_H=" pid="133/0183">Klaus H. Maier-Hein</na></co>
+<co c="0"><na f="m/Maldjian:Joseph_A=" pid="01/6305">Joseph A. Maldjian</na></co>
+<co c="0"><na f="m/Mallet:Cl=eacute=ment" pid="26/8109">Cl&#233;ment Mallet</na></co>
+<co c="0"><na f="m/Mancas:Matei" pid="21/1485">Matei Mancas</na></co>
+<co c="0"><na f="m/Marcus:Daniel_S=" pid="67/7228">Daniel S. Marcus</na></co>
+<co c="0" n="2"><na f="m/Mart=iacute=:Robert" pid="94/470">Robert Mart&#237;</na><na>Robert Marti</na></co>
+<co c="2"><na f="m/Martin=Gaff=eacute=:Lucien" pid="318/9455">Lucien Martin-Gaff&#233;</na></co>
+<co c="0"><na f="m/Matuszewski:Bogdan_J=" pid="35/5712">Bogdan J. Matuszewski</na></co>
+<co c="0"><na f="m/Mazher:Moona" pid="204/7958">Moona Mazher</na></co>
+<co c="0"><na f="m/McHugh:Hugh" pid="288/7717">Hugh McHugh</na></co>
+<co c="0"><na f="m/McKinley:Richard" pid="95/6709">Richard McKinley</na></co>
+<co c="0"><na f="m/Mehta:Raghav" pid="181/6915">Raghav Mehta</na></co>
+<co c="0"><na f="m/Meier:Raphael" pid="149/7569">Raphael Meier</na></co>
+<co c="0" n="3"><na f="m/Menze:Bjoern" pid="74/6505">Bjoern Menze</na><na>Bjoern H. Menze</na><na>Bj&#246;rn H. Menze</na></co>
+<co c="0"><na f="m/Meyer:Craig_H=" pid="47/2334">Craig H. Meyer</na></co>
+<co c="3"><na f="m/Michel:Julien" pid="14/8558">Julien Michel</na></co>
+<co c="0"><na f="m/Milchenko:Mikhail" pid="123/8294">Mikhail Milchenko</na></co>
+<co c="0"><na f="m/Mo:Yuanhan" pid="198/0698">Yuanhan Mo</na></co>
+<co c="0"><na f="m/Moine:Arthur" pid="398/6060">Arthur Moine</na></co>
+<co c="0"><na f="m/Montoya=del=Angel:Ricardo" pid="361/2317">Ricardo Montoya-del-Angel</na></co>
+<co c="0"><na f="m/Mulay:Supriti" pid="239/1824">Supriti Mulay</na></co>
+<co c="0"><na f="m/Mumme:Raymond_P=" pid="294/9332">Raymond P. Mumme</na></co>
+<co c="0" n="2"><na f="m/Murugesan:Gowtham" pid="201/7764">Gowtham Murugesan</na><na>Gowtham Krishnan Murugesan</na></co>
+<co c="0"><na f="m/Myronenko:Andriy" pid="26/1146">Andriy Myronenko</na></co>
+<co c="0"><na f="n/Najman:Laurent" pid="68/4192">Laurent Najman</na></co>
+<co c="0"><na f="n/Nalawade:Sahil_S=" pid="265/2568">Sahil S. Nalawade</na></co>
+<co c="0"><na f="n/Nazeri:Arash" pid="165/4591">Arash Nazeri</na></co>
+<co c="0"><na f="n/Netherton:Tucker_J=" pid="294/9412">Tucker J. Netherton</na></co>
+<co c="0"><na f="n/Ngoc:Minh_On_Vu" pid="221/8949">Minh On Vu Ngoc</na></co>
+<co c="0"><na f="n/Nguyen:Nhan_T=" pid="32/7990">Nhan T. Nguyen</na></co>
+<co c="2"><na f="n/Nguyen:Quoc_Duong" pid="325/2333">Quoc Duong Nguyen</na></co>
+<co c="0"><na f="n/Ni_0001:Dong" pid="02/450-1">Dong Ni 0001</na></co>
+<co c="0"><na f="n/Nyholm:Tufve" pid="218/1371">Tufve Nyholm</na></co>
+<co c="0"><na f="o/Olaguer:Nicol=aacute=s_P=eacute=rez_de" pid="303/0635">Nicol&#225;s P&#233;rez de Olaguer</na></co>
+<co c="0"><na f="o/Oliver:Arnau" pid="16/5582">Arnau Oliver</na></co>
+<co c="0"><na f="p/Paetzold:Johannes_C=" pid="239/8775">Johannes C. Paetzold</na></co>
+<co c="0"><na f="p/Paluzo=Hidalgo:Eduardo" pid="223/8582">Eduardo Paluzo-Hidalgo</na></co>
+<co c="3"><na f="p/Parrend:Pierre" pid="83/6244">Pierre Parrend</na></co>
+<co c="0"><na f="p/Patel:Jay_B=" pid="274/3034">Jay B. Patel</na></co>
+<co c="0"><na f="p/Payer:Christian" pid="167/9663">Christian Payer</na></co>
+<co c="0"><na f="p/Pei:Linmin" pid="174/0474">Linmin Pei</na></co>
+<co c="1"><na f="p/Pinot:Lucas" pid="352/5712">Lucas Pinot</na></co>
+<co c="0"><na f="p/Polat:Gorkem" pid="225/3065">Gorkem Polat</na></co>
+<co c="1"><na f="p/Pusel:Ga=euml=tan" pid="352/5637">Ga&#235;tan Pusel</na></co>
+<co c="0"><na f="p/Puybareau:=Eacute=lodie" pid="162/5965">&#201;lodie Puybareau</na></co>
+<co c="0"><na f="q/Qayyum_0002:Abdul" pid="160/9037-2">Abdul Qayyum 0002</na></co>
+<co c="0"><na f="r/Radojewski:Piotr" pid="282/1389">Piotr Radojewski</na></co>
+<co c="0"><na f="r/Rahman:Md_Monibor" pid="265/3327">Md Monibor Rahman</na></co>
+<co c="0"><na f="r/Raikar:Vipul_Pai" pid="213/3871">Vipul Pai Raikar</na></co>
+<co c="0"><na f="r/Raj:Aryan" pid="261/3181">Aryan Raj</na></co>
+<co c="0"><na f="r/Ramm:Heiko" pid="118/5445">Heiko Ramm</na></co>
+<co c="0"><na f="r/Rapazzo:Brandon_H=" pid="303/0841">Brandon H. Rapazzo</na></co>
+<co c="0"><na f="r/Raynaud:Hadrien" pid="288/7781">Hadrien Raynaud</na></co>
+<co c="0"><na f="r/Realdon:Stefano" pid="241/5027">Stefano Realdon</na></co>
+<co c="0"><na f="r/Rebsamen:Michael" pid="230/3907">Michael Rebsamen</na></co>
+<co c="0"><na f="r/Rempfler:Markus" pid="150/3312">Markus Rempfler</na></co>
+<co c="0"><na f="r/Rezvy:Shahadate" pid="145/3364">Shahadate Rezvy</na></co>
+<co c="0"><na f="r/Rittscher:Jens" pid="11/377">Jens Rittscher</na></co>
+<co c="0"><na f="r/Rodrigues:Caroline_Mazini" pid="261/2054">Caroline Mazini Rodrigues</na></co>
+<co c="0"><na f="r/Rokuss:Maximilian" pid="398/6274">Maximilian Rokuss</na></co>
+<co c="0"><na f="r/Rosas=Gonz=aacute=lez:Sarahi" pid="309/8181">Sarahi Rosas-Gonz&#225;lez</na></co>
+<co c="0"><na f="s/Sahu:Manish" pid="188/6278">Manish Sahu</na></co>
+<co c="0"><na f="s/Sako:Chiharu" pid="265/3498">Chiharu Sako</na></co>
+<co c="0"><na f="s/Sauer:Jan" pid="362/9384">Jan Sauer</na></co>
+<co c="0"><na f="s/Sekuboyina:Anjany" pid="198/0458">Anjany Sekuboyina</na></co>
+<co c="0"><na f="s/Shah:Nisarg_A=" pid="263/1100">Nisarg A. Shah</na></co>
+<co c="0"><na f="s/Shi:Tianyi" pid="136/9778">Tianyi Shi</na></co>
+<co c="0"><na f="s/Shit:Suprosanna" pid="154/8612">Suprosanna Shit</na></co>
+<co c="0"><na f="s/Singh:Praveer" pid="155/3078">Praveer Singh</na></co>
+<co c="0"><na f="s/Sivaprakasam:Mohanasankar" pid="07/3856">Mohanasankar Sivaprakasam</na></co>
+<co c="0"><na f="s/Soltaninejad:Mohammadreza" pid="153/1648">Mohammadreza Soltaninejad</na></co>
+<co c="0"><na f="s/Stern:Darko" pid="02/8488">Darko Stern</na></co>
+<co c="0"><na f="s/Stock:Raphael" pid="317/1224">Raphael Stock</na></co>
+<co c="0"><na f="s/Stoyanov:Danail" pid="53/3543">Danail Stoyanov</na></co>
+<co c="0"><na f="s/Subramanian_0004:Anand" pid="37/882-4">Anand Subramanian 0004</na></co>
+<co c="0"><na f="t/Tack:Alexander" pid="176/5287">Alexander Tack</na></co>
+<co c="0"><na f="t/Talbar:Sanjay_N=" pid="39/7796">Sanjay N. Talbar</na></co>
+<co c="0"><na f="t/Talbot:Hugues" pid="00/1609">Hugues Talbot</na></co>
+<co c="0"><na f="t/Talou:Gonzalo_D=_Maso" pid="168/5426">Gonzalo D. Maso Talou</na></co>
+<co c="0"><na f="t/Tao:Xing" pid="213/1924">Xing Tao</na></co>
+<co c="0"><na f="t/Tauber:Clovis" pid="81/1093">Clovis Tauber</na></co>
+<co c="0"><na f="t/Temizel:Alptekin" pid="38/2114">Alptekin Temizel</na></co>
+<co c="0"><na f="t/Tereshchenko:Dmitry" pid="398/6618">Dmitry Tereshchenko</na></co>
+<co c="0"><na f="t/Tetteh:Giles" pid="199/1967">Giles Tetteh</na></co>
+<co c="0"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="t/Tran:Dat_Q=" pid="254/3126">Dat Q. Tran</na></co>
+<co c="0"><na f="t/Tran=Nguyen:Terry" pid="276/5361">Terry Tran-Nguyen</na></co>
+<co c="0"><na f="t/Tustison:Nicholas_J=" pid="63/4561">Nicholas J. Tustison</na></co>
+<co c="0"><na f="u/Urschler:Martin" pid="68/309">Martin Urschler</na></co>
+<co c="0"><na f="v/Valencia:Liliana" pid="309/8126">Liliana Valencia</na></co>
+<co c="0"><na f="v/Valentinitsch:Alexander" pid="86/9222">Alexander Valentinitsch</na></co>
+<co c="0"><na f="v/Valverde:Sergi" pid="63/5928">Sergi Valverde</na></co>
+<co c="0"><na f="v/Vidyaratne:Lasitha" pid="150/4157">Lasitha Vidyaratne</na></co>
+<co c="0"><na f="v/Vilaplana:Ver=oacute=nica" pid="49/3306">Ver&#243;nica Vilaplana</na></co>
+<co c="0"><na f="v/Voiculescu:Irina" pid="93/3855">Irina Voiculescu</na></co>
+<co c="0"><na f="v/Vu:Minh_H=" pid="245/4275">Minh H. Vu</na></co>
+<co c="0"><na f="w/Wagner:Benjamin_C=" pid="205/6104">Benjamin C. Wagner</na></co>
+<co c="0"><na f="w/Wang:Alan" pid="03/5773">Alan Wang</na></co>
+<co c="0"><na f="w/Wang:Changyan" pid="339/9041">Changyan Wang</na></co>
+<co c="0"><na f="w/Wang:Kuanquan" pid="32/6613">Kuanquan Wang</na></co>
+<co c="0"><na f="w/Wang:Li=Wen" pid="33/10711">Li-Wen Wang</na></co>
+<co c="0"><na f="w/Wang:Qiucheng" pid="209/8842">Qiucheng Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Shuo" pid="63/1591-11">Shuo Wang 0011</na></co>
+<co c="0"><na f="w/Wang_0001:Tianfu" pid="25/3611">Tianfu Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0169:Wei" pid="35/7092-169">Wei Wang 0169</na></co>
+<co c="0"><na f="w/Wang_0113:Xin" pid="10/5630-113">Xin Wang 0113</na></co>
+<co c="0"><na f="w/Weber:Marc=Andr=eacute=" pid="49/8400">Marc-Andr&#233; Weber</na></co>
+<co c="0"><na f="w/Wiest:Roland" pid="87/10741">Roland Wiest</na></co>
+<co c="0"><na f="w/Wiestler:Benedikt" pid="165/7294">Benedikt Wiestler</na></co>
+<co c="0"><na f="x/Xiangshang:Zheng" pid="303/0784">Zheng Xiangshang</na></co>
+<co c="0"><na f="x/Xu:Daguang" pid="140/3604">Daguang Xu</na></co>
+<co c="0"><na f="x/Xu:Liming" pid="74/8609">Liming Xu</na></co>
+<co c="0"><na f="x/Xu:Mingwang" pid="337/1859">Mingwang Xu</na></co>
+<co c="0"><na f="x/Xu:Shangliang" pid="258/4098">Shangliang Xu</na></co>
+<co c="0"><na f="x/Xu:Yongchao" pid="86/11269">Yongchao Xu</na></co>
+<co c="0"><na f="y/Yang_0005:Dong" pid="33/412-5">Dong Yang 0005</na></co>
+<co c="0"><na f="y/Yang:Zhikai" pid="237/2789">Zhikai Yang</na></co>
+<co c="0"><na f="y/Yeah:Timyoas" pid="303/1302">Timyoas Yeah</na></co>
+<co c="0"><na f="y/Yoganand:Vishnusai" pid="276/5543">Vishnusai Yoganand</na></co>
+<co c="0"><na f="y/Yu:Fang_F=" pid="265/3301">Fang F. Yu</na></co>
+<co c="0"><na f="z/Zachow:Stefan" pid="42/294">Stefan Zachow</na></co>
+<co c="0"><na f="z/Zemmoura:Ilyess" pid="131/6153">Ilyess Zemmoura</na></co>
+<co c="0"><na f="z/Zeng:Chan" pid="194/8018">Chan Zeng</na></co>
+<co c="0"><na f="z/Zhang:Amber" pid="303/0914">Amber Zhang</na></co>
+<co c="0"><na f="z/Zhao:Qiaochu" pid="130/0270">Qiaochu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhou" pid="75/7785">Zhou Zhao</na></co>
+<co c="0"><na f="z/Zheng:Xiangshang" pid="285/7662">Xiangshang Zheng</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<dblpperson name="Didier Verna" pid="06/2458" n="39">
+<person key="homepages/06/2458" mdate="2025-05-29">
+<author pid="06/2458">Didier Verna</author>
+<url>https://www.lrde.epita.fr/~didier/</url>
+<url>https://dl.acm.org/profile/81436597184</url>
+<url>https://twitter.com/didierverna</url>
+<url>https://github.com/didierverna</url>
+<url>https://orcid.org/0000-0002-6315-052X</url>
+<url>https://www.wikidata.org/entity/Q130909067</url>
+<note type="affiliation">EPITA, LRDE, Le Kremlin-Bic&#234;tre, France</note>
+<note label="PhD 2000" type="affiliation">T&#233;l&#233;com ParisTech, France</note>
+</person>
+<r><article key="journals/sigweb/HennebertVK26" mdate="2026-04-14">
+<author pid="04/314">Jean Hennebert</author>
+<author pid="06/2458">Didier Verna</author>
+<author pid="194/2638">Besat Kassaie</author>
+<title>Call for Papers: 26th ACM Symposium on Document Engineering (DocEng 2026).</title>
+<year>2026</year>
+<month>Winter</month>
+<pages>2:1-2:4</pages>
+<volume>2026</volume>
+<journal>SIGWEB Newsl.</journal>
+<number>Winter</number>
+<ee>https://doi.org/10.1145/3801080.3801082</ee>
+<url>db/journals/sigweb/sigweb2026.html#HennebertVK26</url>
+<stream>streams/journals/sigweb</stream>
+</article>
+</r>
+<r><inproceedings key="conf/programming/Verna26" mdate="2026-04-21">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>The Art, Science, and Craftsmanship of Typography (Keynote).</title>
+<pages>3</pages>
+<year>2026</year>
+<booktitle>Programming</booktitle>
+<ee>https://doi.org/10.1145/3801119.3801121</ee>
+<crossref>conf/programming/2026</crossref>
+<url>db/conf/programming/programming2026.html#Verna26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/Verna25" mdate="2025-10-14">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Towards More Homogeneous Paragraphs.</title>
+<pages>18:1-18:10</pages>
+<year>2025</year>
+<booktitle>DocEng</booktitle>
+<ee>https://doi.org/10.1145/3704268.3742696</ee>
+<crossref>conf/doceng/2025</crossref>
+<url>db/conf/doceng/doceng2025.html#Verna25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/Verna25a" mdate="2025-09-25">
+<author pid="06/2458">Didier Verna</author>
+<title>Session details: Document Analysis and Generation.</title>
+<year>2025</year>
+<booktitle>DocEng</booktitle>
+<ee>https://doi.org/10.1145/3765001</ee>
+<crossref>conf/doceng/2025</crossref>
+<url>db/conf/doceng/doceng2025.html#Verna25a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2510-09675" mdate="2025-11-11">
+<author pid="419/7662">Khaoula Sghaier</author>
+<author pid="145/3079">Badis Hammi</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="148/7110">Pierre Merdrignac</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Advancing Security in Software-Defined Vehicles: A Comprehensive Survey and Taxonomy.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.09675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.09675</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-09675</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/doceng/Verna24" mdate="2025-01-19">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Similarity Problems in Paragraph Justification: An Extension to the Knuth-Plass Algorithm.</title>
+<pages>17:1-17:4</pages>
+<year>2024</year>
+<booktitle>DocEng</booktitle>
+<ee>https://doi.org/10.1145/3685650.3685666</ee>
+<ee>https://www.wikidata.org/entity/Q130909068</ee>
+<crossref>conf/doceng/2024</crossref>
+<url>db/conf/doceng/doceng2024.html#Verna24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna24" mdate="2024-09-24">
+<author pid="06/2458">Didier Verna</author>
+<title>The Quickref Cohort.</title>
+<pages>48-51</pages>
+<year>2024</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.10947962</ee>
+<crossref>conf/els/2024</crossref>
+<url>db/conf/els/els2024.html#Verna24</url>
+<stream>streams/conf/els</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caip/EstebanTCV23" mdate="2023-10-14">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Structural Analysis of the Additive Noise Impact on the &#945; -tree.</title>
+<pages>223-232</pages>
+<year>2023</year>
+<booktitle>CAIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-44240-7_22</ee>
+<crossref>conf/caip/2023-2</crossref>
+<url>db/conf/caip/caip2023-2.html#EstebanTCV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna23" mdate="2024-09-24">
+<author pid="06/2458">Didier Verna</author>
+<title>A Mop-Based Implementation for Method Combinations.</title>
+<pages>6-15</pages>
+<year>2023</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.7818680</ee>
+<crossref>conf/els/2023</crossref>
+<url>db/conf/els/els2023.html#Verna23</url>
+<stream>streams/conf/els</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna22" mdate="2024-10-06">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>ETAP: Experimental Typesetting Algorithms Platform.</title>
+<pages>48-52</pages>
+<year>2022</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.6334248</ee>
+<crossref>conf/els/2022</crossref>
+<url>db/conf/els/els2022.html#Verna22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/EstebanCTV22" mdate="2023-09-30">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="06/2458">Didier Verna</author>
+<title>The Cost of Dynamism in Static Languages for Image Processing.</title>
+<pages>172-178</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568693</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#EstebanCTV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/EstebanTCV22" mdate="2024-10-06">
+<author orcid="0000-0002-6477-7666" pid="247/5302">Baptiste Esteban</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Estimation of the noise level function for color images using mathematical morphology and non-parametric statistics.</title>
+<pages>428-434</pages>
+<year>2022</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR56361.2022.9956218</ee>
+<crossref>conf/icpr/2022</crossref>
+<url>db/conf/icpr/icpr2022.html#EstebanTCV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/HacquardV21" mdate="2024-09-24">
+<author pid="298/1332">Antoine Hacquard</author>
+<author pid="06/2458">Didier Verna</author>
+<title>A Corpus Processing and Analysis Pipeline for Quickref.</title>
+<pages>27-35</pages>
+<year>2021</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.4714443</ee>
+<crossref>conf/els/2021</crossref>
+<url>db/conf/els/els2021.html#HacquardV21</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Verna20" mdate="2020-12-16">
+<author pid="06/2458">Didier Verna</author>
+<title>(Dynamic (programming paradigms)) Performance and expressivity.</title>
+<year>2020</year>
+<school>EPITA,LRDE, France</school>
+<ee>https://tel.archives-ouvertes.fr/hal-02988180</ee>
+</book>
+</r>
+<r><article key="journals/tocl/NewtonV19" mdate="2025-01-19">
+<author orcid="0000-0002-1595-8655" pid="08/7850">Jim E. Newton</author>
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>A Theoretical and Numerical Analysis of the Worst-Case Size of Reduced Ordered Binary Decision Diagrams.</title>
+<pages>6:1-6:36</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3274279</ee>
+<ee>https://www.wikidata.org/entity/Q128553517</ee>
+<url>db/journals/tocl/tocl20.html#NewtonV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/ValaisNV19" mdate="2019-11-13">
+<author pid="252/6878">L&#233;o Valais</author>
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Implementing Baker's SUBTYPEP Decision Procedure.</title>
+<pages>12-19</pages>
+<year>2019</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.2646982</ee>
+<crossref>conf/els/2019</crossref>
+<url>db/conf/els/els2019.html#ValaisNV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonV19" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Finite Automata Theory Based Optimization of Conditional Variable Binding.</title>
+<pages>26-33</pages>
+<year>2019</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.2635412</ee>
+<crossref>conf/els/2019</crossref>
+<url>db/conf/els/els2019.html#NewtonV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna19" mdate="2024-08-04">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Parallelizing Quickref.</title>
+<pages>89-96</pages>
+<year>2019</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.2632534</ee>
+<crossref>conf/els/2019</crossref>
+<url>db/conf/els/els2019.html#Verna19</url>
+</inproceedings>
+</r>
+<r><article key="journals/programming/Verna18" mdate="2025-01-19">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<title>Lisp, Jazz, Aikido - Three Expressions of a Single Essence.</title>
+<pages>10</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Art Sci. Eng. Program.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22152/programming-journal.org/2018/2/10</ee>
+<ee>https://www.wikidata.org/entity/Q130056925</ee>
+<url>db/journals/programming/programming2.html#Verna18</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/NewtonV18" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Strategies for TYPECASE Optimization.</title>
+<pages>23-31</pages>
+<year>2018</year>
+<booktitle>ELS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3323219</ee>
+<crossref>conf/els/2018</crossref>
+<url>db/conf/els/els2018.html#NewtonV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna18" mdate="2019-11-13">
+<author pid="06/2458">Didier Verna</author>
+<title>Method Combinators.</title>
+<pages>32-41</pages>
+<year>2018</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3247610</ee>
+<crossref>conf/els/2018</crossref>
+<url>db/conf/els/els2018.html#Verna18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00485" mdate="2018-08-13">
+<author pid="06/2458">Didier Verna</author>
+<title>Lisp, Jazz, Aikido - Three Expressions of a Single Essence.</title>
+<year>2018</year>
+<volume>abs/1804.00485</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00485</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00485</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/NewtonVC17" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="06/2458">Didier Verna</author>
+<author pid="67/9840">Maximilien Colange</author>
+<title>Programmatic Manipulation of Common Lisp Type Specifiers.</title>
+<pages>28-35</pages>
+<year>2017</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2017.pdf#section.0.4</ee>
+<crossref>conf/els/2017</crossref>
+<url>db/conf/els/els2017.html#NewtonVC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/NewtonDV16" mdate="2019-11-13">
+<author pid="08/7850">Jim E. Newton</author>
+<author pid="14/133">Akim Demaille</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Type-Checking of Heterogeneous Sequences in Common Lisp.</title>
+<pages>13-20</pages>
+<year>2016</year>
+<booktitle>ELS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3005731</ee>
+<crossref>conf/els/2016</crossref>
+<url>db/conf/els/els2016.html#NewtonDV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/VernaR15" mdate="2024-08-04">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<author pid="167/6628">Fran&#231;ois Ripault</author>
+<title>Context-Oriented Image Processing: Reconciling genericity and performance through contexts.</title>
+<pages>3:1-3:7</pages>
+<year>2015</year>
+<booktitle>COP@ECOOP</booktitle>
+<ee>https://doi.org/10.1145/2786545.2786547</ee>
+<crossref>conf/ecoop/2015cop</crossref>
+<url>db/conf/ecoop/cop2015.html#VernaR15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/lfp/2014" mdate="2021-08-06">
+<editor pid="f/MarcFeeley">Marc Feeley</editor>
+<editor pid="06/2458">Didier Verna</editor>
+<title>International Lisp Conference, ILC 2014, Montreal, QC, Canada, August 14-17, 2014</title>
+<publisher>ACM</publisher>
+<booktitle>ILC</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-2931-6</isbn>
+<ee>https://doi.org/10.1145/2635648</ee>
+<url>db/conf/lfp/ilc2014.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/els/SentaCV12" mdate="2019-11-14">
+<author pid="252/9226">Laurent Senta</author>
+<author pid="130/0297">Christopher Chedeau</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Generic Image Processing with Climb.</title>
+<pages>9-12</pages>
+<year>2012</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3248934</ee>
+<crossref>conf/els/2012</crossref>
+<url>db/conf/els/els2012.html#SentaCV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/Verna11" mdate="2018-11-06">
+<author pid="06/2458">Didier Verna</author>
+<title>Biological realms in computer science.</title>
+<pages>167-176</pages>
+<year>2011</year>
+<booktitle>Onward!</booktitle>
+<ee>https://doi.org/10.1145/2089131.2089140</ee>
+<crossref>conf/oopsla/2011onward</crossref>
+<url>db/conf/oopsla/onward2011.html#Verna11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/els/2011" mdate="2019-11-14">
+<editor pid="06/2458">Didier Verna</editor>
+<title>Proceedings of ELS 2011 - 4th European Lisp Symposium, Hamburg, Germany, March 31 - April 1, 2011.</title>
+<booktitle>ELS</booktitle>
+<publisher>ELSAA</publisher>
+<year>2011</year>
+<url>db/conf/els/els2011.html</url>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2011.pdf</ee>
+</proceedings>
+</r>
+<r><article key="journals/jucs/Verna10" mdate="2023-09-07">
+<author pid="06/2458">Didier Verna</author>
+<title>Revisiting the Visitor: the &#34;Just Do It&#34; Pattern.</title>
+<pages>246-270</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3217/jucs-016-02-0246</ee>
+<url>db/journals/jucs/jucs16.html#Verna10</url>
+</article>
+</r>
+<r><inproceedings key="conf/els/Verna10" mdate="2019-11-14">
+<author pid="06/2458">Didier Verna</author>
+<title>CLOX: Common Lisp Objets for XEmacs.</title>
+<pages>63-80</pages>
+<year>2010</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3248958</ee>
+<crossref>conf/els/2010</crossref>
+<url>db/conf/els/els2010.html#Verna10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/Verna08" mdate="2023-09-07">
+<author pid="06/2458">Didier Verna</author>
+<title>Binary Methods Programming: the Clos Perspective.</title>
+<pages>3389-3411</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3217/jucs-014-20-3389</ee>
+<url>db/journals/jucs/jucs14.html#Verna08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoopw/VernaHRH08" mdate="2024-10-06">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<author orcid="0000-0002-9319-9885" pid="68/2856">Charlotte Herzeel</author>
+<author pid="43/1473">Christophe Rhodes</author>
+<author pid="01/1751">Hans H&#252;bner</author>
+<title>Lisp.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>ECOOP Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02047-6_1</ee>
+<crossref>conf/ecoopw/2008</crossref>
+<url>db/conf/ecoopw/ecoopw2008.html#VernaHRH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Verna08" mdate="2019-11-14">
+<author pid="06/2458">Didier Verna</author>
+<title>Binary Methods Programming: the CLOS Perspective.</title>
+<pages>91-105</pages>
+<year>2008</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3248977</ee>
+<crossref>conf/els/2008</crossref>
+<url>db/conf/els/els2008.html#Verna08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imecs/Verna07" mdate="2008-01-24">
+<author pid="06/2458">Didier Verna</author>
+<title>Clos Solutions to Binary Methods.</title>
+<pages>325-331</pages>
+<year>2007</year>
+<crossref>conf/imecs/2007</crossref>
+<booktitle>IMECS</booktitle>
+<url>db/conf/imecs/imecs2007.html#Verna07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imecs/Verna06" mdate="2006-09-25">
+<author pid="06/2458">Didier Verna</author>
+<title>How to Make Lisp Go Faster than C.</title>
+<pages>815-820</pages>
+<year>2006</year>
+<crossref>conf/imecs/2006</crossref>
+<booktitle>IMECS</booktitle>
+<url>db/conf/imecs/imecs2006.html#Verna06</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Verna00" mdate="2020-07-21">
+<author pid="06/2458">Didier Verna</author>
+<title>T&#233;l&#233;-Op&#233;ration et R&#233;alit&#233; Virtuelle : assistance &#224; l'op&#233;rateur par mod&#233;lisation cognitive de ses intentions. (Tele-Operation and Virtual Reality: assisting the operator by cognitive modelling of his intentions).</title>
+<year>2000</year>
+<school>T&#233;l&#233;com ParisTech, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01542754</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/egve/VernaG99" mdate="2020-05-09">
+<author pid="06/2458">Didier Verna</author>
+<author pid="25/6802">Alain Grumbach</author>
+<title>Augmented Reality, the other way around.</title>
+<pages>147-156</pages>
+<year>1999</year>
+<booktitle>EGVE</booktitle>
+<ee>https://doi.org/10.1007/978-3-7091-6805-9_15</ee>
+<crossref>conf/egve/1999</crossref>
+<url>db/conf/egve/egve1999.html#VernaG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vw/VernaG98" mdate="2024-10-06">
+<author orcid="0000-0002-6315-052X" pid="06/2458">Didier Verna</author>
+<author pid="25/6802">Alain Grumbach</author>
+<title>Can We Define Virtual Reality? The M<sub>R</sub>IC Model.</title>
+<pages>29-41</pages>
+<year>1998</year>
+<crossref>conf/vw/1998</crossref>
+<booktitle>Virtual Worlds</booktitle>
+<ee>https://doi.org/10.1007/3-540-68686-X_3</ee>
+<url>db/conf/vw/vw1998.html#VernaG98</url>
+</inproceedings>
+</r>
+<coauthors n="23" nc="5">
+<co c="2"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="4"><na f="c/Chedeau:Christopher" pid="130/0297">Christopher Chedeau</na></co>
+<co c="0"><na f="c/Colange:Maximilien" pid="67/9840">Maximilien Colange</na></co>
+<co c="0"><na f="d/Demaille:Akim" pid="14/133">Akim Demaille</na></co>
+<co c="2"><na f="e/Esteban:Baptiste" pid="247/5302">Baptiste Esteban</na></co>
+<co c="-1"><na f="f/Feeley:Marc" pid="f/MarcFeeley">Marc Feeley</na></co>
+<co c="1"><na f="g/Gharbi:Ghada" pid="118/0800">Ghada Gharbi</na></co>
+<co c="-1"><na f="g/Grumbach:Alain" pid="25/6802">Alain Grumbach</na></co>
+<co c="-1"><na f="h/Hacquard:Antoine" pid="298/1332">Antoine Hacquard</na></co>
+<co c="1"><na f="h/Hammi:Badis" pid="145/3079">Badis Hammi</na></co>
+<co c="3"><na f="h/Hennebert:Jean" pid="04/314">Jean Hennebert</na></co>
+<co c="0"><na f="h/Herzeel:Charlotte" pid="68/2856">Charlotte Herzeel</na></co>
+<co c="0"><na f="h/H=uuml=bner:Hans" pid="01/1751">Hans H&#252;bner</na></co>
+<co c="3"><na f="k/Kassaie:Besat" pid="194/2638">Besat Kassaie</na></co>
+<co c="1"><na f="m/Merdrignac:Pierre" pid="148/7110">Pierre Merdrignac</na></co>
+<co c="0"><na f="n/Newton:Jim_E=" pid="08/7850">Jim E. Newton</na></co>
+<co c="1"><na f="p/Parrend:Pierre" pid="83/6244">Pierre Parrend</na></co>
+<co c="0"><na f="r/Rhodes:Christophe" pid="43/1473">Christophe Rhodes</na></co>
+<co c="-1"><na f="r/Ripault:Fran=ccedil=ois" pid="167/6628">Fran&#231;ois Ripault</na></co>
+<co c="4"><na f="s/Senta:Laurent" pid="252/9226">Laurent Senta</na></co>
+<co c="1"><na f="s/Sghaier:Khaoula" pid="419/7662">Khaoula Sghaier</na></co>
+<co c="2"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="v/Valais:L=eacute=o" pid="252/6878">L&#233;o Valais</na></co>
+</coauthors>
+</dblpperson>
+

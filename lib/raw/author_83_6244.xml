@@ -1,0 +1,1033 @@
+<?xml version="1.0"?>
+<dblpperson name="Pierre Parrend" pid="83/6244" n="66">
+<person key="homepages/83/6244" mdate="2009-06-10">
+<author pid="83/6244">Pierre Parrend</author>
+</person>
+<r><inproceedings key="conf/evoapps/VialatouxP26" mdate="2026-05-14">
+<author pid="394/8770">C&#244;me Frapp&#233; Vialatoux</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Hybrid Evolutionary-ML Surrogate Models for Cyber-Attack Detection in Water Distribution Networks.</title>
+<booktitle>EvoApplications</booktitle>
+<year>2026</year>
+<pages>253-268</pages>
+<crossref>conf/evoapps/2026</crossref>
+<ee>https://doi.org/10.1007/978-3-032-23607-4_16</ee>
+<url>db/conf/evoapps/evoapps2026.html#VialatouxP26</url>
+<stream>streams/conf/evoapps</stream>
+</inproceedings>
+</r>
+<r><article publtype="software" key="journals/softx/JaberMBP25" mdate="2025-10-14">
+<author pid="381/5988">Majed Jaber</author>
+<author pid="14/8558">Julien Michel</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Cyberattack detection through GPML: Graph Processing for Machine Learning.</title>
+<pages>102308</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>SoftwareX</journal>
+<ee type="oa">https://doi.org/10.1016/j.softx.2025.102308</ee>
+<url>db/journals/softx/softx31.html#JaberMBP25</url>
+<stream>streams/journals/softx</stream>
+</article>
+</r>
+<r><inproceedings key="conf/eicc/JaberBP25" mdate="2025-07-06">
+<author orcid="0009-0005-2882-4647" pid="381/5988">Majed Jaber</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Spectral Graph Analysis of Bipartite Graphs for Advanced Attack Detection.</title>
+<pages>239-254</pages>
+<year>2025</year>
+<booktitle>EICC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94855-8_16</ee>
+<crossref>conf/eicc/2025</crossref>
+<url>db/conf/eicc/eicc2025.html#JaberBP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/VialatouxP25" mdate="2026-02-25">
+<author orcid="0009-0000-9787-2638" pid="394/8770">C&#244;me Frapp&#233; Vialatoux</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Introducing H-Leading-Ones as a Mixed-Category Benchmark Problem for Evolutionary Algorithms.</title>
+<pages>97-98</pages>
+<year>2025</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3712255.3734261</ee>
+<crossref>conf/gecco/2025c</crossref>
+<url>db/conf/gecco/gecco2025c.html#VialatouxP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/MichelP25" mdate="2026-03-05">
+<author pid="14/8558">Julien Michel</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>t - robust spaces with dynamic graphs metrics for mitigating concept drift in attack detection.</title>
+<pages>1916-1925</pages>
+<year>2025</year>
+<booktitle>KES</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2025.09.312</ee>
+<crossref>conf/kes/2025</crossref>
+<url>db/conf/kes/kes2025.html#MichelP25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-06913" mdate="2025-06-23">
+<author pid="407/9734">Brian Challita</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>RedTeamLLM: an Agentic AI framework for offensive security.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.06913</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.06913</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-06913</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-08964" mdate="2025-06-23">
+<author pid="381/5988">Majed Jaber</author>
+<author pid="14/8558">Julien Michel</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>GPML: Graph Processing for Machine Learning.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.08964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.08964</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-08964</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2510-09675" mdate="2025-11-11">
+<author pid="419/7662">Khaoula Sghaier</author>
+<author pid="145/3079">Badis Hammi</author>
+<author pid="118/0800">Ghada Gharbi</author>
+<author pid="148/7110">Pierre Merdrignac</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="06/2458">Didier Verna</author>
+<title>Advancing Security in Software-Defined Vehicles: A Comprehensive Survey and Taxonomy.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.09675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.09675</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-09675</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/JaberBP24" mdate="2025-01-19">
+<author orcid="0009-0005-2882-4647" pid="381/5988">Majed Jaber</author>
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Graph-Based Spectral Analysis for Detecting Cyber Attacks.</title>
+<pages>23:1-23:14</pages>
+<year>2024</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1145/3664476.3664498</ee>
+<ee>https://www.wikidata.org/entity/Q131115371</ee>
+<crossref>conf/IEEEares/2024</crossref>
+<url>db/conf/IEEEares/ares2024.html#JaberBP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/VialatouxP24" mdate="2025-11-02">
+<author pid="394/8770">C&#244;me Frapp&#233; Vialatoux</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>Introducing Multi-Layer Concatenation as a Scheme to Combine Information in Water Distribution Cyber-Physical Systems.</title>
+<pages>1840-1854</pages>
+<year>2024</year>
+<booktitle>KES</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2024.09.690</ee>
+<crossref>conf/kes/2024</crossref>
+<url>db/conf/kes/kes2024.html#VialatouxP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cce2/RidaAP23" mdate="2023-11-08">
+<author pid="267/6936">Amani Abou Rida</author>
+<author pid="158/9555">Rabih Amhaz</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>Metrics for Evaluating Interface Explainability Models for Cyberattack Detection in IoT Data.</title>
+<pages>180-192</pages>
+<year>2023</year>
+<booktitle>CCE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-44355-8_13</ee>
+<crossref>conf/cce2/2023</crossref>
+<url>db/conf/cce2/cce2023.html#RidaAP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OrhandCPJ23" mdate="2023-08-05">
+<author orcid="0000-0003-4539-9249" pid="243/6210">Romain Orhand</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0003-4691-904X" pid="48/9555">Anne Jeannin-Girardon</author>
+<title>CRACS: Compaction of Rules in Anticipatory Classifier Systems.</title>
+<pages>1838-1845</pages>
+<year>2023</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3583133.3596352</ee>
+<crossref>conf/gecco/2023c</crossref>
+<url>db/conf/gecco/gecco2023c.html#OrhandCPJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ae/GhannadGP22" mdate="2023-09-14">
+<author orcid="0000-0001-8491-9150" pid="244/0369">Naser Ghannad</author>
+<author orcid="0000-0002-8201-9551" pid="66/1010">Roland De Guio</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>One-Class Ant-Miner: Selection of Majority Class Rules for Binary Rule-Based Classification.</title>
+<pages>118-132</pages>
+<year>2022</year>
+<booktitle>EA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42616-2_9</ee>
+<crossref>conf/ae/2022</crossref>
+<url>db/conf/ae/ae2022.html#GhannadGP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurogp/OrhandJPC22" mdate="2026-03-24">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Accurate and Interpretable Representations of Environments with Anticipatory Learning Classifier Systems.</title>
+<pages>245-261</pages>
+<year>2022</year>
+<booktitle>EuroGP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-02056-8_16</ee>
+<crossref>conf/eurogp/2022</crossref>
+<url>db/conf/eurogp/eurogp2022.html#OrhandJPC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/LeontevaRHJPC22" mdate="2026-03-24">
+<author pid="263/8392">Anna Ouskova Leonteva</author>
+<author pid="279/6188">Michel Risser</author>
+<author pid="299/2504">Radia Hamane</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>A hybrid optimization tool for active magnetic regenerator.</title>
+<pages>739-742</pages>
+<year>2022</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3520304.3529055</ee>
+<crossref>conf/gecco/2022c</crossref>
+<url>db/conf/gecco/gecco2022c.html#LeontevaRHJPC22</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/RidaAP22" mdate="2025-03-03">
+<author pid="267/6936">Amani Abou Rida</author>
+<author orcid="0009-0002-9578-142X" pid="158/9555">Rabih Amhaz</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Anomaly Detection on Static and Dynamic Graphs Using Graph Convolutional Neural Networks.</title>
+<pages>227-248</pages>
+<year>2022</year>
+<booktitle>Robotics and AI for Cybersecurity and Critical Infrastructure in Smart Cities</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-96737-6_12</ee>
+<crossref>series/sci/1030</crossref>
+<url>db/series/sci/sci1030.html#RidaAP22</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cec/LeontevaHRJPC21" mdate="2026-03-24">
+<author pid="263/8392">Anna Ouskova Leonteva</author>
+<author pid="299/2504">Radia Hamane</author>
+<author pid="279/6188">Michel Risser</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>New Evolutionary Method for Studying Physical Properties of Magneto Caloric Materials.</title>
+<pages>973-980</pages>
+<year>2021</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC45853.2021.9504988</ee>
+<crossref>conf/cec/2021</crossref>
+<url>db/conf/cec/cec2021.html#LeontevaHRJPC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/complexnetworks/RidaAP21" mdate="2025-03-03">
+<author pid="267/6936">Amani Abou Rida</author>
+<author orcid="0009-0002-9578-142X" pid="158/9555">Rabih Amhaz</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Evaluation of Anomaly Detection for Cybersecurity Using Inductive Node Embedding with Convolutional Graph Neural Networks.</title>
+<pages>563-574</pages>
+<year>2021</year>
+<booktitle>COMPLEX NETWORKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93413-2_47</ee>
+<crossref>conf/complexnetworks/2021-2</crossref>
+<url>db/conf/complexnetworks/complexnetworks2021-2.html#RidaAP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OrhandJPC21" mdate="2026-03-24">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Explainability and performance of anticipatory learning classifier systems in non-deterministic environments.</title>
+<pages>163-164</pages>
+<year>2021</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3449726.3459510</ee>
+<crossref>conf/gecco/2021c</crossref>
+<url>db/conf/gecco/gecco2021c.html#OrhandJPC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jossac/ParrendC20" mdate="2026-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>A Review on Complex System Engineering.</title>
+<pages>1755-1784</pages>
+<year>2020</year>
+<volume>33</volume>
+<journal>J. Syst. Sci. Complex.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11424-020-8275-0</ee>
+<url>db/journals/jossac/jossac33.html#ParrendC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/OrhandJPC20" mdate="2026-03-24">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>BACS: integrating behavioral sequences to ACS2.</title>
+<pages>147-148</pages>
+<year>2020</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3377929.3390002</ee>
+<crossref>conf/gecco/2020c</crossref>
+<url>db/conf/gecco/gecco2020c.html#OrhandJPC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/LeontevaAWJPC20" mdate="2026-03-24">
+<author pid="263/8392">Anna Ouskova Leonteva</author>
+<author pid="269/4815">Ulviya Abdulkarimova</author>
+<author orcid="0000-0001-8536-8303" pid="269/4809">Tobias M. Wintermantel</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>A quantum simulation algorithm for continuous optimization.</title>
+<pages>199-200</pages>
+<year>2020</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3377929.3389990</ee>
+<ee>https://www.wikidata.org/entity/Q130917087</ee>
+<crossref>conf/gecco/2020c</crossref>
+<url>db/conf/gecco/gecco2020c.html#LeontevaAWJPC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OrhandJPC20a" mdate="2026-03-24">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>PEPACS: integrating probability-enhanced predictions to ACS2.</title>
+<pages>1774-1781</pages>
+<year>2020</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3377929.3398121</ee>
+<crossref>conf/gecco/2020c</crossref>
+<url>db/conf/gecco/gecco2020c.html#OrhandJPC20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-4/GhannadGP20" mdate="2021-09-16">
+<author orcid="0000-0001-8491-9150" pid="244/0369">Naser Ghannad</author>
+<author orcid="0000-0002-8201-9551" pid="66/1010">Roland De Guio</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>Feature Selection-Based Approach for Generalized Physical Contradiction Recognition.</title>
+<pages>321-339</pages>
+<year>2020</year>
+<booktitle>TFC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61295-5_26</ee>
+<crossref>conf/ifip5-4/2020</crossref>
+<url>db/conf/ifip5-4/tfc2020.html#GhannadGP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mie/Quesnel-BarbetS20" mdate="2023-09-30">
+<author orcid="0000-0003-1038-7344" pid="200/3496">Anne Quesnel-Barbet</author>
+<author pid="80/4042">Julien Soula</author>
+<author pid="48/11196">Erik-Andr&#233; Sauleau</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="238/8755">Pierre Bazile</author>
+<author pid="200/3515">Fran&#231;ois Dufossez</author>
+<author pid="268/0277">Gilles Maignant</author>
+<author pid="87/5567">Pascal Staccini</author>
+<author pid="150/3502">Fr&#233;d&#233;ric Albert</author>
+<author orcid="0000-0001-7029-2318" pid="238/4257">Arnaud Hansske</author>
+<title>PoleSat's Modelling a Reorganization of Vascular Catheterization Provision at the Territorial Hospital Grouping Level.</title>
+<pages>1353-1354</pages>
+<year>2020</year>
+<booktitle>MIE</booktitle>
+<ee type="oa">https://doi.org/10.3233/SHTI200438</ee>
+<ee>https://www.wikidata.org/entity/Q96636212</ee>
+<crossref>conf/mie/2020</crossref>
+<url>db/conf/mie/mie2020.html#Quesnel-BarbetS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/OrhandJPC20" mdate="2026-03-24">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>BACS: A Thorough Study of Using Behavioral Sequences in ACS2.</title>
+<pages>524-538</pages>
+<year>2020</year>
+<booktitle>PPSN (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58112-1_36</ee>
+<crossref>conf/ppsn/2020-1</crossref>
+<url>db/conf/ppsn/ppsn2020-1.html#OrhandJPC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpnc/LeontevaAJRPC20" mdate="2026-03-24">
+<author orcid="0000-0001-9521-0630" pid="263/8392">Anna Ouskova Leonteva</author>
+<author orcid="0000-0003-0889-3897" pid="269/4815">Ulviya Abdulkarimova</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author pid="279/6188">Michel Risser</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Quantum-Inspired Algorithm with Evolution Strategy.</title>
+<pages>95-106</pages>
+<year>2020</year>
+<booktitle>TPNC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-63000-3_8</ee>
+<crossref>conf/tpnc/2020</crossref>
+<url>db/conf/tpnc/tpnc2020.html#LeontevaAJRPC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/GuigouCP19" mdate="2026-03-24">
+<author pid="198/1604">Fabio Guigou</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>SCHEDA: Lightweight euclidean-like heuristics for anomaly detection in periodic time series.</title>
+<year>2019</year>
+<volume>82</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2019.105594</ee>
+<ee>https://www.wikidata.org/entity/Q127675373</ee>
+<url>db/journals/asc/asc82.html#GuigouCP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ae/LeontevaPJC19" mdate="2026-03-24">
+<author pid="263/8392">Anna Ouskova Leonteva</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Fast Evolutionary Algorithm for Solving Large-Scale Multi-objective Problems.</title>
+<pages>82-95</pages>
+<year>2019</year>
+<booktitle>EA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45715-0_7</ee>
+<crossref>conf/ae/2019</crossref>
+<url>db/conf/ae/ae2019.html#LeontevaPJC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/efmi-stc/Quesnel-BarbetS19" mdate="2025-03-03">
+<author orcid="0000-0003-1038-7344" pid="200/3496">Anne Quesnel-Barbet</author>
+<author pid="80/4042">Julien Soula</author>
+<author pid="238/8755">Pierre Bazile</author>
+<author pid="48/11196">Erik-Andr&#233; Sauleau</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>PoleSat_2018: A Strategic IT Tool for Spatial Simulation Modelling of Hospital Planning.</title>
+<pages>261-262</pages>
+<year>2019</year>
+<booktitle>EFMI-STC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-959-1-261</ee>
+<crossref>conf/efmi-stc/2019</crossref>
+<url>db/conf/efmi-stc/stc2019.html#Quesnel-BarbetS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medinfo/Quesnel-BarbetS19" mdate="2025-03-03">
+<author orcid="0000-0003-1038-7344" pid="200/3496">Anne Quesnel-Barbet</author>
+<author pid="80/4042">Julien Soula</author>
+<author pid="48/11196">Erik-Andr&#233; Sauleau</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="238/8755">Pierre Bazile</author>
+<author pid="200/3515">Fran&#231;ois Dufossez</author>
+<author pid="238/4257">Arnaud Hansske</author>
+<title>Polesat-Web-2018: A Simulation IT Tool with Immediate Prospective and Strategic Views of Hospital Spatial Planning.</title>
+<pages>1757-1758</pages>
+<year>2019</year>
+<booktitle>MedInfo</booktitle>
+<ee type="oa">https://doi.org/10.3233/SHTI190633</ee>
+<ee>https://www.wikidata.org/entity/Q92781428</ee>
+<crossref>conf/medinfo/2019</crossref>
+<url>db/conf/medinfo/medinfo2019.html#Quesnel-BarbetS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rjcia/OrhandJPC19" mdate="2020-07-21">
+<author pid="243/6210">Romain Orhand</author>
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="c/PierreCollet">Pierre Collet</author>
+<title>DeepExpert : vers une Intelligence Artificielle autonome et explicable.</title>
+<pages>63-65</pages>
+<year>2019</year>
+<booktitle>RJCIA</booktitle>
+<ee type="oa">https://hal.archives-ouvertes.fr/hal-02161105</ee>
+<crossref>conf/rjcia/2019</crossref>
+<url>db/conf/rjcia/rjcia2019.html#OrhandJPC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/NavarroDP18" mdate="2023-08-28">
+<author pid="195/1167">Julio Navarro</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>A systematic survey on multi-step attack detection.</title>
+<pages>214-249</pages>
+<year>2018</year>
+<volume>76</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2018.03.001</ee>
+<ee>https://www.wikidata.org/entity/Q115059704</ee>
+<url>db/journals/compsec/compsec76.html#NavarroDP18</url>
+</article>
+</r>
+<r><article key="journals/ejisec/ParrendNGDC18" mdate="2026-03-24">
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="195/1167">Julio Navarro</author>
+<author pid="198/1604">Fabio Guigou</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Foundations and applications of artificial Intelligence for zero-day and multi-step attack detection.</title>
+<pages>4</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>EURASIP J. Inf. Secur.</journal>
+<ee type="oa">https://doi.org/10.1186/s13635-018-0074-y</ee>
+<ee>https://www.wikidata.org/entity/Q129921445</ee>
+<url>db/journals/ejisec/ejisec2018.html#ParrendNGDC18</url>
+</article>
+</r>
+<r><article key="journals/ejisec/NavarroLDP18" mdate="2025-03-03">
+<author pid="195/1167">Julio Navarro</author>
+<author pid="35/3957">V&#233;ronique Legrand</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>OMMA: open architecture for Operator-guided Monitoring of Multi-step Attacks.</title>
+<pages>6</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>EURASIP J. Inf. Secur.</journal>
+<ee type="oa">https://doi.org/10.1186/s13635-018-0075-x</ee>
+<ee>https://www.wikidata.org/entity/Q114846603</ee>
+<url>db/journals/ejisec/ejisec2018.html#NavarroLDP18</url>
+</article>
+</r>
+<r><article key="journals/jms/ParrendMCCM18" mdate="2026-03-24">
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="209/7387">Timoth&#233;e Mazzucotelli</author>
+<author orcid="0000-0002-0527-2879" pid="77/3384">Florent Colin</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<author pid="209/7192">Jean-Louis Mandel</author>
+<title>Cerberus, an Access Control Scheme for Enforcing Least Privilege in Patient Cohort Study Platforms - A Comprehensive Access Control Scheme Applied to the GENIDA Project - Study of Genetic Forms of Intellectual Disabilities and Autism Spectrum Disorders.</title>
+<pages>1:1-1:19</pages>
+<year>2018</year>
+<volume>42</volume>
+<journal>J. Medical Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10916-017-0844-y</ee>
+<ee>https://www.wikidata.org/entity/Q47437880</ee>
+<url>db/journals/jms/jms42.html#ParrendMCCM18</url>
+</article>
+</r>
+<r><article key="journals/jrnal/ParrendGNDC18" mdate="2020-05-20">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="198/1604">Fabio Guigou</author>
+<author pid="195/1167">Julio Navarro</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author pid="c/PierreCollet">Pierre Collet</author>
+<title>Artificial Immune Ecosystems: the role of expert-based learning in artificial cognition.</title>
+<pages>303-307</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>J. Robotics Netw. Artif. Life</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2991/jrnal.2018.4.4.10</ee>
+<url>db/journals/jrnal/jrnal4.html#ParrendGNDC18</url>
+</article>
+</r>
+<r><article key="journals/jrnal/Jeannin-Girardon18" mdate="2025-01-19">
+<author pid="48/9555">Anne Jeannin-Girardon</author>
+<author pid="227/9962">Alexandre Bruyant</author>
+<author pid="99/8525">Nicolas Toussaint</author>
+<author pid="38/10481">Isma&#239;la Diouf</author>
+<author pid="c/PierreCollet">Pierre Collet</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>Management of digital records with RADAR by data dilution into Complex System.</title>
+<pages>23-26</pages>
+<year>2018</year>
+<volume>5</volume>
+<journal>J. Robotics Netw. Artif. Life</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2991/jrnal.2018.5.1.6</ee>
+<ee>https://www.wikidata.org/entity/Q129709132</ee>
+<url>db/journals/jrnal/jrnal5.html#Jeannin-Girardon18</url>
+</article>
+</r>
+<r><article key="journals/mva/WillaumePGD18" mdate="2025-03-03">
+<author pid="195/1243">Pierre Willaume</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="195/1145">Etienne Gancel</author>
+<author pid="79/5982">Aline Deruyver</author>
+<title>Al-Thocb HSC: a harmony search algorithm for automated calibration of industrial equipment - Adapted harmony search algorithm for camera calibration.</title>
+<pages>525-541</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00138-018-0909-z</ee>
+<url>db/journals/mva/mva29.html#WillaumePGD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssci/ParrendGNDC18" mdate="2026-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="198/1604">Fabio Guigou</author>
+<author pid="195/1167">Julio Navarro</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>For a refoundation of Artificial Immune System research: AIS is a Design Pattern.</title>
+<pages>1122-1129</pages>
+<year>2018</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI.2018.8628868</ee>
+<crossref>conf/ssci/2018</crossref>
+<url>db/conf/ssci/ssci2018.html#ParrendGNDC18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ae/2017" mdate="2025-03-03">
+<editor orcid="0000-0003-0889-4427" pid="91/1995">Evelyne Lutton</editor>
+<editor pid="94/349">Pierrick Legrand</editor>
+<editor orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</editor>
+<editor pid="71/6638">Nicolas Monmarch&#233;</editor>
+<editor pid="67/5235">Marc Schoenauer</editor>
+<title>Artificial Evolution - 13th International Conference, &#201;volution Artificielle, EA 2017, Paris, France, October 25-27, 2017, Revised Selected Papers</title>
+<booktitle>Artificial Evolution</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10764</volume>
+<isbn>978-3-319-78132-7</isbn>
+<isbn>978-3-319-78133-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-78133-4</ee>
+<url>db/conf/ae/ae2017.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cec/ParrendDGPC17" mdate="2026-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="07/5010-2">Pierre David 0002</author>
+<author pid="198/1604">Fabio Guigou</author>
+<author pid="202/8231">Cedric Pupka</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>The AWA Artificial emergent aWareness Architecture model for Artificial Immune Ecosystems.</title>
+<pages>403-410</pages>
+<year>2017</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2017.7969340</ee>
+<crossref>conf/cec/2017</crossref>
+<url>db/conf/cec/cec2017.html#ParrendDGPC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evoW/GuigouCP17" mdate="2026-03-24">
+<author pid="198/1604">Fabio Guigou</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>The Artificial Immune Ecosystem: A Bio-Inspired Meta-Algorithm for Boosting Time Series Anomaly Detection with Expert Input.</title>
+<pages>573-588</pages>
+<year>2017</year>
+<booktitle>EvoApplications (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-55849-3_37</ee>
+<crossref>conf/evoW/2017a-1</crossref>
+<url>db/conf/evoW/evoappl2017-1.html#GuigouCP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fps/NavarroLLFLSFLH17" mdate="2025-03-03">
+<author pid="195/1167">Julio Navarro</author>
+<author pid="35/3957">V&#233;ronique Legrand</author>
+<author pid="91/10009">Sofiane Lagraa</author>
+<author orcid="0000-0002-7457-458X" pid="29/6239">J&#233;r&#244;me Fran&#231;ois</author>
+<author pid="49/5526">Abdelkader Lahmadi</author>
+<author orcid="0000-0002-4086-2161" pid="192/5901">Giulia De Santis</author>
+<author orcid="0000-0002-3181-7967" pid="f/OlivierFestor">Olivier Festor</author>
+<author pid="33/5461">Nadira Lammari</author>
+<author orcid="0000-0002-5314-1419" pid="49/3372">Fay&#231;al Hamdi 0001</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author pid="214/5343">Quentin Goux</author>
+<author pid="214/5208">Morgan Allard</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<title>HuMa: A Multi-layer Framework for Threat Analysis in a Heterogeneous Log Environment.</title>
+<pages>144-159</pages>
+<year>2017</year>
+<booktitle>FPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75650-9_10</ee>
+<crossref>conf/fps/2017</crossref>
+<url>db/conf/fps/fps2017.html#NavarroLLFLSFLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mva/WillaumePGD17" mdate="2017-07-21">
+<author pid="195/1243">Pierre Willaume</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="195/1145">Etienne Gancel</author>
+<author pid="79/5982">Aline Deruyver</author>
+<title>Skeletonization and 3D graph approach for thin objects recognition in pick and place tasks.</title>
+<pages>121-124</pages>
+<year>2017</year>
+<booktitle>MVA</booktitle>
+<ee>https://doi.org/10.23919/MVA.2017.7986816</ee>
+<crossref>conf/mva/2017</crossref>
+<url>db/conf/mva/mva2017.html#WillaumePGD17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GuigouCP17" mdate="2018-08-13">
+<author pid="198/1604">Fabio Guigou</author>
+<author pid="c/PierreCollet">Pierre Collet</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>Anomaly detection and motif discovery in symbolic representations of time series.</title>
+<year>2017</year>
+<volume>abs/1704.05325</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.05325</ee>
+<url>db/journals/corr/corr1704.html#GuigouCP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssci/Navarro-LaraDP16" mdate="2017-05-17">
+<author pid="195/1167">Julio Navarro-Lara</author>
+<author pid="79/5982">Aline Deruyver</author>
+<author pid="83/6244">Pierre Parrend</author>
+<title>Morwilog: an ACO-based system for outlining multi-step attacks.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI.2016.7849902</ee>
+<crossref>conf/ssci/2016</crossref>
+<url>db/conf/ssci/ssci2016.html#Navarro-LaraDP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssci/WillaumePGD16" mdate="2017-05-17">
+<author pid="195/1243">Pierre Willaume</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="195/1145">Etienne Gancel</author>
+<author pid="79/5982">Aline Deruyver</author>
+<title>The Graph Matching Optimization methodology for thin object recognition in pick and place tasks.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI.2016.7850132</ee>
+<crossref>conf/ssci/2016</crossref>
+<url>db/conf/ssci/ssci2016.html#WillaumePGD16</url>
+</inproceedings>
+</r>
+<r><article key="journals/grid/LuttonGTBPPC15" mdate="2026-03-24">
+<author orcid="0000-0003-0889-4427" pid="91/1995">Evelyne Lutton</author>
+<author pid="154/7716">Hugo Gilbert</author>
+<author pid="69/1936">Waldo Cancino Ticona</author>
+<author pid="34/9377">Benjamin Bach</author>
+<author pid="172/5191">Joseph Pallamidessi</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Visual and Audio Monitoring of Island Based Parallel Evolutionary Algorithms.</title>
+<pages>309-327</pages>
+<year>2015</year>
+<volume>13</volume>
+<journal>J. Grid Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10723-014-9321-8</ee>
+<url>db/journals/grid/grid13.html#LuttonGTBPPC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/kes/MasaiPZ15" mdate="2017-05-21">
+<author pid="27/5454">Pierre Masai</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="65/3707">Cecilia Zanni-Merk</author>
+<title>Towards a Formal Model of the Lean Enterprise.</title>
+<pages>226-235</pages>
+<year>2015</year>
+<booktitle>KES</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2015.08.122</ee>
+<crossref>conf/kes/2015</crossref>
+<url>db/conf/kes/kes2015.html#MasaiPZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evoW/LuttonGTBPC14" mdate="2026-03-24">
+<author orcid="0000-0003-0889-4427" pid="91/1995">Evelyne Lutton</author>
+<author pid="154/7716">Hugo Gilbert</author>
+<author pid="69/1936">Waldo Cancino Ticona</author>
+<author pid="34/9377">Benjamin Bach</author>
+<author pid="83/6244">Pierre Parrend</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>GridVis: Visualisation of Island-Based Parallel Genetic Algorithms.</title>
+<pages>702-713</pages>
+<year>2014</year>
+<booktitle>EvoApplications</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-45523-4_57</ee>
+<crossref>conf/evoW/2014a</crossref>
+<url>db/conf/evoW/evoappl2014.html#LuttonGTBPC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsibo/ParrendMZC14" mdate="2026-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="27/5454">Pierre Masai</author>
+<author pid="65/3707">Cecilia Zanni-Merk</author>
+<author orcid="0000-0002-5284-4702" pid="c/PierreCollet">Pierre Collet</author>
+<title>Swarm Projects: Beyond the Metaphor.</title>
+<pages>131-138</pages>
+<year>2014</year>
+<booktitle>ICSIBO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12970-9_15</ee>
+<crossref>conf/icsibo/2014</crossref>
+<url>db/conf/icsibo/icsibo2014.html#ParrendMZC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/virology/GoichonSPF13" mdate="2025-03-03">
+<author pid="126/6155">Fran&#231;ois Goichon</author>
+<author pid="24/2407">Guillaume Salagnac</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Static vulnerability detection in Java service-oriented components.</title>
+<pages>15-26</pages>
+<year>2013</year>
+<volume>9</volume>
+<journal>J. Comput. Virol. Hacking Tech.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11416-012-0172-1</ee>
+<url>db/journals/virology/virology9.html#GoichonSPF13</url>
+</article>
+</r>
+<r><article key="journals/spe/ParrendF09" mdate="2020-04-09">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Security benchmarks of OSGi platforms: toward Hardened OSGi.</title>
+<pages>471-499</pages>
+<year>2009</year>
+<volume>39</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/spe.906</ee>
+<url>db/journals/spe/spe39.html#ParrendF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/Parrend09" mdate="2023-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<title>Enhancing Automated Detection of Vulnerabilities in Java Components.</title>
+<pages>216-223</pages>
+<year>2009</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2009.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ARES.2009.9</ee>
+<crossref>conf/IEEEares/2009</crossref>
+<url>db/conf/IEEEares/ares2009.html#Parrend09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/GeoffrayTMPFF09" mdate="2025-03-03">
+<author pid="04/6493">Nicolas Geoffray</author>
+<author pid="83/6740-1">Ga&#235;l Thomas 0001</author>
+<author pid="27/4405">Gilles Muller</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<author pid="53/3921">Bertil Folliot</author>
+<title>I-JVM: a Java Virtual Machine for component isolation in OSGi.</title>
+<pages>544-553</pages>
+<year>2009</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2009.5270296</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2009.5270296</ee>
+<crossref>conf/dsn/2009</crossref>
+<url>db/conf/dsn/dsn2009.html#GeoffrayTMPFF09</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Parrend08" mdate="2020-07-21">
+<author pid="83/6244">Pierre Parrend</author>
+<title>Mod&#232;les de S&#233;curit&#233; logicielle pour les plates-formes &#224; composants de service (SOP). (Software Security Models for Service-Oriented Programming (SOP) Platforms).</title>
+<year>2008</year>
+<school>INSA de Lyon, Lyon - Villeurbanne, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00362486</ee>
+</phdthesis>
+</r>
+<r><article key="journals/Lobjet/ParrendF08" mdate="2025-03-03">
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>V&#233;rification automatique pour l'ex&#233;cution s&#233;curis&#233;e de composants Java.</title>
+<pages>103-127</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>Obj. Logiciel Base donn&#233;es R&#233;seaux</journal>
+<number>4</number>
+<ee>https://doi.org/10.3166/obj.14.4.103-127</ee>
+<url>db/journals/Lobjet/Lobjet14.html#ParrendF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbse/ParrendF08" mdate="2017-05-19">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Classification of Component Vulnerabilities in Java Service Oriented Programming (SOP) Platforms.</title>
+<pages>80-96</pages>
+<year>2008</year>
+<booktitle>CBSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87891-9_6</ee>
+<crossref>conf/cbse/2008</crossref>
+<url>db/conf/cbse/cbse2008.html#ParrendF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/FrenotRPB08" mdate="2025-03-03">
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<author pid="63/696">Yvan Royon</author>
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="58/5848">Denis Beras</author>
+<title>Monitoring scheduling for home gateways.</title>
+<pages>411-416</pages>
+<year>2008</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2008.4575162</ee>
+<crossref>conf/noms/2008</crossref>
+<url>db/conf/noms/noms2008.html#FrenotRPB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soco/ParrendF08" mdate="2026-01-02">
+<author orcid="0000-0002-1680-1182" pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Component-Based Access Control: Secure Software Composition through Static Analysis.</title>
+<pages>68-83</pages>
+<year>2008</year>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_5</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#ParrendF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icps/ParrendFH07" mdate="2023-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<author pid="00/5579">Sebastian H&#246;hn</author>
+<title>Privacy-Aware Service Integration.</title>
+<pages>397-402</pages>
+<year>2007</year>
+<booktitle>ICPS</booktitle>
+<ee>https://doi.org/10.1109/PERSER.2007.4283946</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERSER.2007.4283946</ee>
+<ee>http://eudl.eu/doi/10.1109/PERSER.2007.4283946</ee>
+<crossref>conf/icps/2007</crossref>
+<url>db/conf/icps/icps2007.html#ParrendFH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/securware/ParrendGFU07" mdate="2023-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="16/3776">Samuel Galice</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<author pid="46/3154">St&#233;phane Ub&#233;da</author>
+<title>Identity-Based Cryptosystems for Enhanced Deployment of OSGi Bundles.</title>
+<pages>193-200</pages>
+<year>2007</year>
+<booktitle>SECURWARE</booktitle>
+<ee>https://doi.org/10.1109/SECUREWARE.2007.4385333</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SECUREWARE.2007.4385333</ee>
+<crossref>conf/securware/2007</crossref>
+<url>db/conf/securware/securware2007.html#ParrendGFU07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/ParrendF07" mdate="2023-03-24">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Supporting the Secure Deployment of OSGi Bundles.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<crossref>conf/wowmom/2007</crossref>
+<booktitle>WOWMOM</booktitle>
+<ee>https://doi.org/10.1109/WOWMOM.2007.4351681</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WOWMOM.2007.4351681</ee>
+<url>db/conf/wowmom/wowmom2007.html#ParrendF07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0706-3812" mdate="2018-08-13">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Java Components Vulnerabilities - An Experimental Classification Targeted at the OSGi Platform</title>
+<ee type="oa">http://arxiv.org/abs/0706.3812</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0706.3812</volume>
+<url>db/journals/corr/corr0706.html#abs-0706-3812</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0607049" mdate="2018-08-13">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Secure Component Deployment in the OSGi(tm) Release 4 Platform</title>
+<ee type="oa">http://arxiv.org/abs/cs/0607049</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0607049</volume>
+<url>db/journals/corr/corr0607.html#abs-cs-0607049</url>
+</article>
+</r>
+<coauthors n="76" nc="5">
+<co c="0"><na f="a/Abdulkarimova:Ulviya" pid="269/4815">Ulviya Abdulkarimova</na></co>
+<co c="1"><na f="a/Albert:Fr=eacute=d=eacute=ric" pid="150/3502">Fr&#233;d&#233;ric Albert</na></co>
+<co c="0"><na f="a/Allard:Morgan" pid="214/5208">Morgan Allard</na></co>
+<co c="0"><na f="a/Amhaz:Rabih" pid="158/9555">Rabih Amhaz</na></co>
+<co c="0"><na f="b/Bach:Benjamin" pid="34/9377">Benjamin Bach</na></co>
+<co c="1"><na f="b/Bazile:Pierre" pid="238/8755">Pierre Bazile</na></co>
+<co c="0"><na f="b/Beras:Denis" pid="58/5848">Denis Beras</na></co>
+<co c="3"><na f="b/Boutry:Nicolas" pid="150/5004">Nicolas Boutry</na></co>
+<co c="0"><na f="b/Bruyant:Alexandre" pid="227/9962">Alexandre Bruyant</na></co>
+<co c="-1"><na f="c/Challita:Brian" pid="407/9734">Brian Challita</na></co>
+<co c="0"><na f="c/Colin:Florent" pid="77/3384">Florent Colin</na></co>
+<co c="0"><na f="c/Collet:Pierre" pid="c/PierreCollet">Pierre Collet</na></co>
+<co c="0"><na f="d/David_0002:Pierre" pid="07/5010-2">Pierre David 0002</na></co>
+<co c="0"><na f="d/Deruyver:Aline" pid="79/5982">Aline Deruyver</na></co>
+<co c="0"><na f="d/Diouf:Isma=iuml=la" pid="38/10481">Isma&#239;la Diouf</na></co>
+<co c="1"><na f="d/Dufossez:Fran=ccedil=ois" pid="200/3515">Fran&#231;ois Dufossez</na></co>
+<co c="0"><na f="f/Festor:Olivier" pid="f/OlivierFestor">Olivier Festor</na></co>
+<co c="0"><na f="f/Folliot:Bertil" pid="53/3921">Bertil Folliot</na></co>
+<co c="0"><na f="f/Fran=ccedil=ois:J=eacute=r=ocirc=me" pid="29/6239">J&#233;r&#244;me Fran&#231;ois</na></co>
+<co c="0"><na f="f/Fr=eacute=not:St=eacute=phane" pid="57/4393">St&#233;phane Fr&#233;not</na></co>
+<co c="0"><na f="g/Galice:Samuel" pid="16/3776">Samuel Galice</na></co>
+<co c="0"><na f="g/Gancel:Etienne" pid="195/1145">Etienne Gancel</na></co>
+<co c="0"><na f="g/Geoffray:Nicolas" pid="04/6493">Nicolas Geoffray</na></co>
+<co c="4"><na f="g/Ghannad:Naser" pid="244/0369">Naser Ghannad</na></co>
+<co c="2"><na f="g/Gharbi:Ghada" pid="118/0800">Ghada Gharbi</na></co>
+<co c="0"><na f="g/Gilbert:Hugo" pid="154/7716">Hugo Gilbert</na></co>
+<co c="0"><na f="g/Goichon:Fran=ccedil=ois" pid="126/6155">Fran&#231;ois Goichon</na></co>
+<co c="0"><na f="g/Goux:Quentin" pid="214/5343">Quentin Goux</na></co>
+<co c="0"><na f="g/Guigou:Fabio" pid="198/1604">Fabio Guigou</na></co>
+<co c="4"><na f="g/Guio:Roland_De" pid="66/1010">Roland De Guio</na></co>
+<co c="0"><na f="h/Hamane:Radia" pid="299/2504">Radia Hamane</na></co>
+<co c="0"><na f="h/Hamdi_0001:Fay=ccedil=al" pid="49/3372">Fay&#231;al Hamdi 0001</na></co>
+<co c="2"><na f="h/Hammi:Badis" pid="145/3079">Badis Hammi</na></co>
+<co c="1"><na f="h/Hansske:Arnaud" pid="238/4257">Arnaud Hansske</na></co>
+<co c="0"><na f="h/H=ouml=hn:Sebastian" pid="00/5579">Sebastian H&#246;hn</na></co>
+<co c="3"><na f="j/Jaber:Majed" pid="381/5988">Majed Jaber</na></co>
+<co c="0"><na f="j/Jeannin=Girardon:Anne" pid="48/9555">Anne Jeannin-Girardon</na></co>
+<co c="0"><na f="l/Lagraa:Sofiane" pid="91/10009">Sofiane Lagraa</na></co>
+<co c="0"><na f="l/Lahmadi:Abdelkader" pid="49/5526">Abdelkader Lahmadi</na></co>
+<co c="0"><na f="l/Lammari:Nadira" pid="33/5461">Nadira Lammari</na></co>
+<co c="0"><na f="l/Legrand:Pierrick" pid="94/349">Pierrick Legrand</na></co>
+<co c="0"><na f="l/Legrand:V=eacute=ronique" pid="35/3957">V&#233;ronique Legrand</na></co>
+<co c="0"><na f="l/Leonteva:Anna_Ouskova" pid="263/8392">Anna Ouskova Leonteva</na></co>
+<co c="0"><na f="l/Lutton:Evelyne" pid="91/1995">Evelyne Lutton</na></co>
+<co c="1"><na f="m/Maignant:Gilles" pid="268/0277">Gilles Maignant</na></co>
+<co c="0"><na f="m/Mandel:Jean=Louis" pid="209/7192">Jean-Louis Mandel</na></co>
+<co c="0"><na f="m/Masai:Pierre" pid="27/5454">Pierre Masai</na></co>
+<co c="0"><na f="m/Mazzucotelli:Timoth=eacute=e" pid="209/7387">Timoth&#233;e Mazzucotelli</na></co>
+<co c="2"><na f="m/Merdrignac:Pierre" pid="148/7110">Pierre Merdrignac</na></co>
+<co c="3"><na f="m/Michel:Julien" pid="14/8558">Julien Michel</na></co>
+<co c="0"><na f="m/Monmarch=eacute=:Nicolas" pid="71/6638">Nicolas Monmarch&#233;</na></co>
+<co c="0"><na f="m/Muller:Gilles" pid="27/4405">Gilles Muller</na></co>
+<co c="0" n="2"><na f="n/Navarro=Lara:Julio" pid="195/1167">Julio Navarro-Lara</na><na>Julio Navarro</na></co>
+<co c="0"><na f="o/Orhand:Romain" pid="243/6210">Romain Orhand</na></co>
+<co c="0"><na f="p/Pallamidessi:Joseph" pid="172/5191">Joseph Pallamidessi</na></co>
+<co c="0"><na f="p/Pupka:Cedric" pid="202/8231">Cedric Pupka</na></co>
+<co c="1" n="2"><na f="q/Quesnel:Anne" pid="200/3496">Anne Quesnel</na><na>Anne Quesnel-Barbet</na></co>
+<co c="0"><na f="r/Rida:Amani_Abou" pid="267/6936">Amani Abou Rida</na></co>
+<co c="0"><na f="r/Risser:Michel" pid="279/6188">Michel Risser</na></co>
+<co c="0"><na f="r/Royon:Yvan" pid="63/696">Yvan Royon</na></co>
+<co c="0"><na f="s/Salagnac:Guillaume" pid="24/2407">Guillaume Salagnac</na></co>
+<co c="0"><na f="s/Santis:Giulia_De" pid="192/5901">Giulia De Santis</na></co>
+<co c="1"><na f="s/Sauleau:Erik=Andr=eacute=" pid="48/11196">Erik-Andr&#233; Sauleau</na></co>
+<co c="0"><na f="s/Schoenauer:Marc" pid="67/5235">Marc Schoenauer</na></co>
+<co c="2"><na f="s/Sghaier:Khaoula" pid="419/7662">Khaoula Sghaier</na></co>
+<co c="1"><na f="s/Soula:Julien" pid="80/4042">Julien Soula</na></co>
+<co c="1"><na f="s/Staccini:Pascal" pid="87/5567">Pascal Staccini</na></co>
+<co c="0"><na f="t/Thomas_0001:Ga=euml=l" pid="83/6740-1">Ga&#235;l Thomas 0001</na></co>
+<co c="0"><na f="t/Ticona:Waldo_Cancino" pid="69/1936">Waldo Cancino Ticona</na></co>
+<co c="0"><na f="t/Toussaint:Nicolas" pid="99/8525">Nicolas Toussaint</na></co>
+<co c="0"><na f="u/Ub=eacute=da:St=eacute=phane" pid="46/3154">St&#233;phane Ub&#233;da</na></co>
+<co c="2"><na f="v/Verna:Didier" pid="06/2458">Didier Verna</na></co>
+<co c="-1"><na f="v/Vialatoux:C=ocirc=me_Frapp=eacute=" pid="394/8770">C&#244;me Frapp&#233; Vialatoux</na></co>
+<co c="0"><na f="w/Willaume:Pierre" pid="195/1243">Pierre Willaume</na></co>
+<co c="0"><na f="w/Wintermantel:Tobias_M=" pid="269/4809">Tobias M. Wintermantel</na></co>
+<co c="0"><na f="z/Zanni=Merk:Cecilia" pid="65/3707">Cecilia Zanni-Merk</na></co>
+</coauthors>
+</dblpperson>
+

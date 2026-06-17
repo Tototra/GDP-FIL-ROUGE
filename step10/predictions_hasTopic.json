@@ -1,122 +1,122 @@
 [
   {
-    "publication": "Binary partition tree-based local spectral unmixing.",
-    "topic": "Media Technology",
-    "score": -3.0005,
-    "model": "RotatE"
-  },
-  {
-    "publication": "On blind multiuser forward link channel estimation by the subspace method: identifiability results.",
-    "topic": "Signal Processing",
-    "score": -3.0446,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Unmixing-based gas plume tracking in LWIR hyperspectral video sequences.",
-    "topic": "Media Technology",
-    "score": -3.0499,
+    "publication": "White Matter Hyperintensities Segmentation in a Few Seconds Using Fully Convolutional Network and Transfer Learning.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.4072,
     "model": "RotatE"
   },
   {
     "publication": "Introducing the Dahu Pseudo-Distance.",
     "topic": "Computer Vision and Pattern Recognition",
-    "score": -3.1421,
+    "score": -2.584,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Undergraduate Research: Interweaving Education and Research Through Exploration Robotics for Close Range Remote Sensing.",
+    "topic": "Ocean Engineering",
+    "score": -2.6128,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Unmixing-based gas plume tracking in LWIR hyperspectral video sequences.",
+    "topic": "Media Technology",
+    "score": -2.6546,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Intervertebral Disc Segmentation Using Mathematical Morphology - A CNN-Free Approach.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.6634,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Improving document matching performance by local descriptor filtering.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.6836,
     "model": "RotatE"
   },
   {
     "publication": "Binary partition tree-based local spectral unmixing.",
-    "topic": "Safety, Risk, Reliability and Quality",
-    "score": -3.1505,
+    "topic": "Media Technology",
+    "score": -2.6921,
     "model": "RotatE"
   },
   {
-    "publication": "In-variance of subspace based estimators.",
+    "publication": "The generalized multidelay adaptive filter: structure and convergence analysis.",
     "topic": "Signal Processing",
-    "score": -3.1546,
+    "score": -2.7178,
     "model": "RotatE"
   },
   {
-    "publication": "From local to global unmixing of hyperspectral images to reveal spectral variability.",
-    "topic": "Safety, Risk, Reliability and Quality",
-    "score": -3.1591,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Vers la découverte de modèles exceptionnels locaux : des règles descriptives liant les molécules à leurs odeurs.",
-    "topic": "Statistical and Nonlinear Physics",
-    "score": -3.1622,
+    "publication": "How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.7372,
     "model": "RotatE"
   },
   {
     "publication": "A new extended linear mixing model to address spectral variability.",
     "topic": "Media Technology",
-    "score": -3.1646,
+    "score": -2.7559,
+    "model": "RotatE"
+  },
+  {
+    "publication": "A Comparison of Many Max-tree Computation Algorithms.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.7562,
     "model": "RotatE"
   },
   {
     "publication": "An Equivalence Relation Between Morphological Dynamics and Persistent Homology in 1D.",
     "topic": "Computer Vision and Pattern Recognition",
-    "score": -3.1778,
+    "score": -2.775,
     "model": "RotatE"
   },
   {
-    "publication": "Asymptotically invariant Gaussianity test for causal invertible time series.",
-    "topic": "Signal Processing",
-    "score": -3.1778,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Low complexity spatial interpolation for cellular coverage analysis.",
-    "topic": "Electrical and Electronic Engineering",
-    "score": -3.1857,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Sequential Data Mining for Information Extraction from Texts.",
-    "topic": "Molecular Biology",
-    "score": -3.1921,
-    "model": "RotatE"
-  },
-  {
-    "publication": "A Tutorial on Well-Composedness.",
+    "publication": "Meaningful disjoint level lines selection.",
     "topic": "Computer Vision and Pattern Recognition",
-    "score": -3.2095,
+    "score": -2.7838,
     "model": "RotatE"
   },
   {
-    "publication": "Editorial.",
-    "topic": "Signal Processing",
-    "score": -3.2192,
-    "model": "RotatE"
-  },
-  {
-    "publication": "SCHEDA: Lightweight euclidean-like heuristics for anomaly detection in periodic time series.",
-    "topic": "Biomedical Engineering",
-    "score": -3.2235,
+    "publication": "Object Tracking by Hierarchical Decomposition of Hyperspectral Video Sequences: Application to Chemical Gas Plume Tracking.",
+    "topic": "Media Technology",
+    "score": -2.7933,
     "model": "RotatE"
   },
   {
     "publication": "From neonatal to adult brain MR image segmentation in a few seconds using 3D-like fully convolutional network and transfer learning.",
     "topic": "Computer Vision and Pattern Recognition",
-    "score": -3.2316,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Getting a morphological tree of shapes for multivariate images: Paths, traps, and pitfalls.",
-    "topic": "Computer Vision and Pattern Recognition",
-    "score": -3.2349,
-    "model": "RotatE"
-  },
-  {
-    "publication": "Management of digital records with RADAR by data dilution into Complex System.",
-    "topic": "Biomedical Engineering",
-    "score": -3.2358,
+    "score": -2.8318,
     "model": "RotatE"
   },
   {
     "publication": "A new extended linear mixing model to address spectral variability.",
     "topic": "Safety, Risk, Reliability and Quality",
-    "score": -3.2385,
+    "score": -2.8346,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Hyperspectral Image Segmentation Using a New Spectral Unmixing-Based Binary Partition Tree Representation.",
+    "topic": "Safety, Risk, Reliability and Quality",
+    "score": -2.8388,
+    "model": "RotatE"
+  },
+  {
+    "publication": "A comparative study of local detectors and descriptors for mobile document classification.",
+    "topic": "Computer Vision and Pattern Recognition",
+    "score": -2.8412,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Foundations and applications of artificial Intelligence for zero-day and multi-step attack detection.",
+    "topic": "Biomedical Engineering",
+    "score": -2.8562,
+    "model": "RotatE"
+  },
+  {
+    "publication": "Extraction de co-variations entre des propriétés de sommets et leur position topologique dans un graphe attribué.",
+    "topic": "Pollution",
+    "score": -2.862,
     "model": "RotatE"
   }
 ]

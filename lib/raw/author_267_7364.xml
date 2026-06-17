@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<dblpperson name="Adja Elloh Yves-Christian" pid="267/7364" n="5">
+<person key="homepages/267/7364" mdate="2021-03-23">
+<author pid="267/7364">Adja Elloh Yves-Christian</author>
+<author pid="267/7364">Yves-Christian Adja Elloh</author>
+<note type="affiliation">Telecom Paris, INFRES Laboratory, France</note>
+</person>
+<r><article key="journals/tem/HammiZAGN22" mdate="2023-09-20">
+<author orcid="0000-0002-4470-6406" pid="145/3079">Badis Hammi</author>
+<author orcid="0000-0002-5982-8190" pid="50/2675">Sherali Zeadally</author>
+<author pid="267/7364">Yves-Christian Adja Elloh</author>
+<author orcid="0000-0002-2389-4495" pid="152/7416">Manlio Del Giudice</author>
+<author orcid="0000-0002-8610-3451" pid="58/9836">Jamel Nebhen</author>
+<title>Blockchain-Based Solution for Detecting and Preventing Fake Check Scams.</title>
+<pages>3710-3725</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>IEEE Trans. Engineering Management</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TEM.2021.3087112</ee>
+<url>db/journals/tem/tem69.html#HammiZAGN22</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Adja21" mdate="2022-01-06">
+<author pid="267/7364">Adja Elloh Yves-Christian</author>
+<title>D&#233;finition et conception d'un syst&#232;me optimal de la r&#233;vocation de certificats. (Definition and design of an optimal certificate revocation system).</title>
+<year>2021</year>
+<school>Telecom Paris, INFRES Laboratory, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-03320582</ee>
+</phdthesis>
+</r>
+<r><article key="journals/compsec/AdjaHSZ21" mdate="2024-02-05">
+<author pid="267/7364">Yves-Christian Adja Elloh</author>
+<author orcid="0000-0002-4470-6406" pid="145/3079">Badis Hammi</author>
+<author pid="77/6060">Ahmed Serhrouchni</author>
+<author pid="50/2675">Sherali Zeadally</author>
+<title>A blockchain-based certificate revocation management and status verification system.</title>
+<pages>102209</pages>
+<year>2021</year>
+<volume>104</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2021.102209</ee>
+<ee>https://www.wikidata.org/entity/Q115049198</ee>
+<url>db/journals/compsec/compsec104.html#AdjaHSZ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/im/AdjaS21" mdate="2023-09-20">
+<author pid="267/7364">Yves-Christian Adja Elloh</author>
+<author pid="77/6060">Ahmed Serhrouchni</author>
+<title>Improved CRL Distribution point for Cooperative Intelligent Transportation Systems.</title>
+<pages>322-330</pages>
+<year>2021</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9464013</ee>
+<crossref>conf/im/2021</crossref>
+<url>db/conf/im/im2021.html#AdjaS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssic/Yves-ChristianH18" mdate="2024-02-05">
+<author pid="267/7364">Adja Elloh Yves-Christian</author>
+<author orcid="0000-0002-4470-6406" pid="145/3079">Badis Hammi</author>
+<author pid="77/6060">Ahmed Serhrouchni</author>
+<author pid="18/5416">Houda Labiod</author>
+<title>Total Eclipse: How To Completely Isolate a Bitcoin Peer.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>SSIC</booktitle>
+<ee>https://doi.org/10.1109/SSIC.2018.8556790</ee>
+<crossref>conf/ssic/2018</crossref>
+<url>db/conf/ssic/ssic2018.html#Yves-ChristianH18</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="g/Giudice:Manlio_Del" pid="152/7416">Manlio Del Giudice</na></co>
+<co c="0"><na f="h/Hammi:Badis" pid="145/3079">Badis Hammi</na></co>
+<co c="0"><na f="l/Labiod:Houda" pid="18/5416">Houda Labiod</na></co>
+<co c="0"><na f="n/Nebhen:Jamel" pid="58/9836">Jamel Nebhen</na></co>
+<co c="0"><na f="s/Serhrouchni:Ahmed" pid="77/6060">Ahmed Serhrouchni</na></co>
+<co c="0"><na f="z/Zeadally:Sherali" pid="50/2675">Sherali Zeadally</na></co>
+</coauthors>
+</dblpperson>
+

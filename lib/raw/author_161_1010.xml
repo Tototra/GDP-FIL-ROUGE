@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<dblpperson name="Idir Benouaret" pid="161/1010" n="24">
+<person key="homepages/161/1010" mdate="2015-04-14">
+<author pid="161/1010">Idir Benouaret</author>
+</person>
+<r><article key="journals/ml/BatelPBR26" mdate="2026-04-26">
+<author pid="388/7308">Arthur Batel</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>An Interpretable Model for Multi-target Predictions with Ordinal Outputs.</title>
+<year>2026</year>
+<month>April</month>
+<pages>76</pages>
+<volume>115</volume>
+<journal>Mach. Learn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10994-026-07021-1</ee>
+<url>db/journals/ml/ml115.html#BatelPBR26</url>
+<stream>streams/journals/ml</stream>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/BouarourBA24" mdate="2024-08-02">
+<author pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Multi-objective Test Recommendation for Adaptive Learning.</title>
+<pages>1-36</pages>
+<year>2024</year>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-662-69603-3_1</ee>
+<crossref>journals/tlsdkcs/2024-56</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs56.html#BouarourBA24</url>
+<stream>streams/journals/tlsdkcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/BatelBFPR24" mdate="2025-09-06">
+<author orcid="0009-0004-9340-2902" pid="388/7308">Arthur Batel</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="126/1757">Joan Fruitet</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>A Simple Yet Effective Interpretable Bayesian Personalized Ranking for Cognitive Diagnosis.</title>
+<pages>2386-2393</pages>
+<year>2024</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA240764</ee>
+<crossref>conf/ecai/2024</crossref>
+<url>db/conf/ecai/ecai2024.html#BatelBFPR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dataed/BouarourBDA23" mdate="2024-07-06">
+<author orcid="0000-0003-1202-351X" pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author orcid="0000-0002-7313-7097" pid="170/3369">C&#233;dric D'Ham</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Adaptive Test Recommendation for Mastery Learning.</title>
+<year>2023</year>
+<booktitle>DataEd@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3596673.3596977</ee>
+<crossref>conf/dataed/2023</crossref>
+<url>db/conf/dataed/dataed2023.html#BouarourBDA23</url>
+</inproceedings>
+</r>
+<r><article key="journals/tlsdkcs/BouarourBA22" mdate="2023-02-16">
+<author pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Optimizing Data Coverage and Significance in Multiple Hypothesis Testing on User Groups.</title>
+<pages>64-96</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-662-66111-6_3</ee>
+<url>db/journals/tlsdkcs/tlsdkcs51.html#BouarourBA22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/BouarourBA22" mdate="2023-08-18">
+<author pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Learning Diversity Attributes in Multi-Session Recommendations.</title>
+<pages>465-474</pages>
+<year>2022</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData55660.2022.10020476</ee>
+<crossref>conf/bigdataconf/2022</crossref>
+<url>db/conf/bigdataconf/bigdataconf2022.html#BouarourBA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/BenouaretABC22" mdate="2022-09-27">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="250/8901">Juba Agoun</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="55/5262">Fran&#231;ois Charoy</author>
+<title>Call Limit-Based Composite Service Selection.</title>
+<pages>37-46</pages>
+<year>2022</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS55610.2022.00021</ee>
+<crossref>conf/icws/2022</crossref>
+<url>db/conf/icws/icws2022.html#BenouaretABC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BouarourBA22" mdate="2025-01-19">
+<author pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Significance and Coverage in Group Testing on the Social Web.</title>
+<pages>3052-3060</pages>
+<year>2022</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3485447.3512025</ee>
+<ee>https://www.wikidata.org/entity/Q130841033</ee>
+<crossref>conf/www/2022</crossref>
+<url>db/conf/www/www2022.html#BouarourBA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/BouarourBA21" mdate="2022-01-18">
+<author pid="305/0046">Nassim Bouarour</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>How Useful is Meta-Recommendation? An Empirical Investigation.</title>
+<pages>600-606</pages>
+<year>2021</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData52589.2021.9671808</ee>
+<crossref>conf/bigdataconf/2021</crossref>
+<url>db/conf/bigdataconf/bigdataconf2021.html#BouarourBA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/BenouaretBA21" mdate="2021-09-03">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="300/9329">Mohamed Bouadi</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>Multi-Objective Recommendations and Promotions at TOTAL.</title>
+<pages>270-282</pages>
+<year>2021</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86475-0_27</ee>
+<crossref>conf/dexa/2021-2</crossref>
+<url>db/conf/dexa/dexa2021-2.html#BenouaretBA21</url>
+</inproceedings>
+</r>
+<r><article key="journals/tlsdkcs/BenouaretARKC20" mdate="2020-09-24">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="97/3301">Senjuti Basu Roy</author>
+<author pid="124/3070">Christiane Kamdem Kengne</author>
+<author pid="259/6590">Jalil Chagraoui</author>
+<title>Enabling Decision Support Through Ranking and Summarization of Association Rules for TOTAL Customers.</title>
+<pages>160-193</pages>
+<year>2020</year>
+<volume>44</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-662-62271-1_6</ee>
+<crossref>journals/tlsdkcs/2020-44</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs44.html#BenouaretARKC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/BenouaretA20" mdate="2021-04-08">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>A Comparative Evaluation of Top-N Recommendation Algorithms: Case Study with Total Customers.</title>
+<pages>4499-4508</pages>
+<year>2020</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData50022.2020.9378404</ee>
+<crossref>conf/bigdataconf/2020</crossref>
+<url>db/conf/bigdataconf/bigdataconf2020.html#BenouaretA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/BenouaretAKC19" mdate="2021-03-31">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="124/3070">Christiane Kamdem Kengne</author>
+<author pid="259/6590">Jalil Chagraoui</author>
+<title>A Bi-Objective Approach for Product Recommendations.</title>
+<pages>2159-2168</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9006503</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#BenouaretAKC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/BenouaretAR19" mdate="2019-08-19">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="97/3301">Senjuti Basu Roy</author>
+<title>An Efficient Greedy Algorithm for Sequence Recommendation.</title>
+<pages>314-326</pages>
+<year>2019</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27615-7_24</ee>
+<crossref>conf/dexa/2019-1</crossref>
+<url>db/conf/dexa/dexa2019-1.html#BenouaretAR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tlsdkcs/BenouaretL18" mdate="2020-03-02">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>A Package-to-Group Recommendation Framework.</title>
+<pages>43-66</pages>
+<year>2018</year>
+<volume>39</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-662-58415-6_2</ee>
+<crossref>journals/tlsdkcs/2018-39</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs39.html#BenouaretL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/BenouaretBBB18" mdate="2020-03-27">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<title>Efficient Top-k Cloud Services Query Processing Using Trust and QoS.</title>
+<pages>203-217</pages>
+<year>2018</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98809-2_13</ee>
+<crossref>conf/dexa/2018-1</crossref>
+<url>db/conf/dexa/dexa2018-1.html#BenouaretBBB18</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Benouaret17" mdate="2020-07-21">
+<author pid="161/1010">Idir Benouaret</author>
+<title>Un syst&#232;me de recommandation contextuel et composite pour la visite personnalis&#233;e de sites culturels. (A contextual and composite recommender system for the personalization of cultural sites visit).</title>
+<year>2017</year>
+<school>University of Technology of Compi&#232;gne, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01767997</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/IEEEscc/BenouaretBBB17" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="161/1010">Idir Benouaret</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<title>Top-k Cloud Service Plans Using Trust and QoS.</title>
+<pages>507-510</pages>
+<year>2017</year>
+<booktitle>SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2017.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2017.76</ee>
+<crossref>conf/IEEEscc/2017</crossref>
+<url>db/conf/IEEEscc/scc2017.html#BenouaretBBB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/BenouaretL17" mdate="2017-08-14">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>Recommending Diverse and Personalized Travel Packages.</title>
+<pages>325-339</pages>
+<year>2017</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64471-4_26</ee>
+<crossref>conf/dexa/2017-2</crossref>
+<url>db/conf/dexa/dexa2017-2.html#BenouaretL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BenouaretL16" mdate="2018-11-06">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>A Package Recommendation Framework for Trip Planning Activities.</title>
+<pages>203-206</pages>
+<year>2016</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2959100.2959183</ee>
+<crossref>conf/recsys/2016</crossref>
+<url>db/conf/recsys/recsys2016.html#BenouaretL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/BenouaretL16" mdate="2023-03-24">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>A Composite Recommendation System for Planning Tourist Visits.</title>
+<pages>626-631</pages>
+<year>2016</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1109/WI.2016.0110</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI.2016.0110</ee>
+<crossref>conf/webi/2016</crossref>
+<url>db/conf/webi/webi2016.html#BenouaretL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/BenouaretL15" mdate="2017-05-21">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>Combining Semantic and Collaborative Recommendations to Generate Personalized Museum Tours.</title>
+<pages>477-487</pages>
+<year>2015</year>
+<booktitle>ADBIS (Short Papers and Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23201-0_48</ee>
+<crossref>conf/adbis/2015w</crossref>
+<url>db/conf/adbis/adbis2015w.html#BenouaretL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/Benouaret15" mdate="2017-05-08">
+<author pid="161/1010">Idir Benouaret</author>
+<title>Un syst&#232;me de recommandation sensible au contexte pour la visite de mus&#233;e.</title>
+<pages>515-524</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#Benouaret15</url>
+<ee>https://doi.org/10.24348/coria.2015.rjc_9</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/BenouaretL15" mdate="2017-05-17">
+<author pid="161/1010">Idir Benouaret</author>
+<author pid="74/1449">Dominique Lenne</author>
+<title>Personalizing the Museum Experience through Context-Aware Recommendations.</title>
+<pages>743-748</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.139</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#BenouaretL15</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="a/Agoun:Juba" pid="250/8901">Juba Agoun</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="b/Barhamgi:Mahmoud" pid="30/5025">Mahmoud Barhamgi</na></co>
+<co c="0"><na f="b/Batel:Arthur" pid="388/7308">Arthur Batel</na></co>
+<co c="0"><na f="b/Benouaret:Karim" pid="17/9589">Karim Benouaret</na></co>
+<co c="0"><na f="b/Benslimane:Djamal" pid="b/DjamalBenslimane">Djamal Benslimane</na></co>
+<co c="0"><na f="b/Bouadi:Mohamed" pid="300/9329">Mohamed Bouadi</na></co>
+<co c="0"><na f="b/Bouarour:Nassim" pid="305/0046">Nassim Bouarour</na></co>
+<co c="0"><na f="c/Chagraoui:Jalil" pid="259/6590">Jalil Chagraoui</na></co>
+<co c="0"><na f="c/Charoy:Fran=ccedil=ois" pid="55/5262">Fran&#231;ois Charoy</na></co>
+<co c="0"><na f="d/D=Ham:C=eacute=dric" pid="170/3369">C&#233;dric D'Ham</na></co>
+<co c="0"><na f="f/Fruitet:Joan" pid="126/1757">Joan Fruitet</na></co>
+<co c="0"><na f="k/Kengne:Christiane_Kamdem" pid="124/3070">Christiane Kamdem Kengne</na></co>
+<co c="-1"><na f="l/Lenne:Dominique" pid="74/1449">Dominique Lenne</na></co>
+<co c="0"><na f="p/Plantevit:Marc" pid="46/2965">Marc Plantevit</na></co>
+<co c="0"><na f="r/Robardet:C=eacute=line" pid="r/CRobardet">C&#233;line Robardet</na></co>
+<co c="0"><na f="r/Roy:Senjuti_Basu" pid="97/3301">Senjuti Basu Roy</na></co>
+</coauthors>
+</dblpperson>
+

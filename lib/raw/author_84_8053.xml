@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<dblpperson name="R&#233;da Dehak" pid="84/8053" n="42">
+<person key="homepages/84/8053" mdate="2019-11-14">
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="84/8053">Sidi Mohammed R&#233;da Dehak</author>
+</person>
+<r><article key="journals/speech/LepageD26" mdate="2026-01-04">
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Self-Supervised Learning for Speaker Recognition: A study and review.</title>
+<pages>103333</pages>
+<year>2026</year>
+<volume>176</volume>
+<journal>Speech Commun.</journal>
+<ee>https://doi.org/10.1016/j.specom.2025.103333</ee>
+<url>db/journals/speech/speech176.html#LepageD26</url>
+<stream>streams/journals/speech</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-10829" mdate="2026-03-30">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Self-Supervised Learning for Speaker Recognition: A study and review.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.10829</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.10829</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-10829</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/interspeech/LepageD25" mdate="2025-12-07">
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>SSPS: Self-Supervised Positive Sampling for Robust Self-Supervised Speaker Verification.</title>
+<year>2025</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2025-183</ee>
+<crossref>conf/interspeech/2025</crossref>
+<url>db/conf/interspeech/interspeech2025.html#LepageD25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-17772" mdate="2025-02-28">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Self-Supervised Frameworks for Speaker Verification via Bootstrapped Positive Sampling.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.17772</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.17772</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-17772</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-14561" mdate="2025-06-29">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>SSPS: Self-Supervised Positive Sampling for Robust Self-Supervised Speaker Verification.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.14561</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.14561</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-14561</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/coling/DoukhanMPSD24" mdate="2024-05-23">
+<author pid="35/10650">David Doukhan</author>
+<author pid="375/6318">Christine Maertens</author>
+<author pid="375/7146">William Le Personnic</author>
+<author pid="375/7455">Ludovic Speroni</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>InaGVAD : A Challenging French TV and Radio Corpus Annotated for Speech Activity Detection and Speaker Gender Segmentation.</title>
+<pages>8963-8974</pages>
+<year>2024</year>
+<booktitle>LREC/COLING</booktitle>
+<ee type="oa">https://aclanthology.org/2024.lrec-main.785</ee>
+<crossref>conf/coling/2024</crossref>
+<url>db/conf/coling/coling2024.html#DoukhanMPSD24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/MiaraLD24" mdate="2025-05-31">
+<author pid="381/4085">Victor Miara</author>
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models.</title>
+<year>2024</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2024-486</ee>
+<crossref>conf/interspeech/2024</crossref>
+<url>db/conf/interspeech/interspeech2024.html#MiaraLD24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/LepageD24" mdate="2025-03-03">
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Additive Margin in Contrastive Self-Supervised Frameworks to Learn Discriminative Speaker Representations.</title>
+<pages>38-42</pages>
+<year>2024</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://doi.org/10.21437/odyssey.2024-6</ee>
+<crossref>conf/odyssey/2024</crossref>
+<url>db/conf/odyssey/odyssey2024.html#LepageD24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-14913" mdate="2024-05-29">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Additive Margin in Contrastive Self-Supervised Frameworks to Learn Discriminative Speaker Representations.</title>
+<year>2024</year>
+<volume>abs/2404.14913</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.14913</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-14913</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-02285" mdate="2024-07-24">
+<author pid="381/4085">Victor Miara</author>
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models.</title>
+<year>2024</year>
+<volume>abs/2406.02285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.02285</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-02285</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-04429" mdate="2024-07-24">
+<author pid="35/10650">David Doukhan</author>
+<author pid="375/6318">Christine Maertens</author>
+<author pid="375/7146">William Le Personnic</author>
+<author pid="375/7455">Ludovic Speroni</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>InaGVAD : a Challenging French TV and Radio Corpus Annotated for Speech Activity Detection and Speaker Gender Segmentation.</title>
+<year>2024</year>
+<volume>abs/2406.04429</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.04429</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-04429</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-05032" mdate="2024-10-21">
+<author pid="388/2405">Theophile Stourbe</author>
+<author pid="381/4085">Victor Miara</author>
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Exploring WavLM Back-ends for Speech Spoofing and Deepfake Detection.</title>
+<year>2024</year>
+<volume>abs/2409.05032</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.05032</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-05032</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/DucheneJGD23" mdate="2024-11-06">
+<author pid="338/9358">Corentin Duch&#234;ne</author>
+<author pid="338/9195">Henri Jamet</author>
+<author pid="126/7872">Pierre Guillaume</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Benchmark pour la classification de commentaires toxiques sur le jeu de donn&#233;es Civil Comments.</title>
+<pages>19-30</pages>
+<year>2023</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002807</ee>
+<crossref>conf/f-egc/2023</crossref>
+<url>db/conf/f-egc/egc2023.html#DucheneJGD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/LepageD23" mdate="2024-10-06">
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification.</title>
+<pages>4708-4712</pages>
+<year>2023</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2023-1479</ee>
+<crossref>conf/interspeech/2023</crossref>
+<url>db/conf/interspeech/interspeech2023.html#LepageD23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-11125" mdate="2024-09-18">
+<author pid="338/9358">Corentin Duch&#234;ne</author>
+<author pid="338/9195">Henri Jamet</author>
+<author pid="126/7872">Pierre Guillaume</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>A benchmark for toxic comment classification on Civil Comments dataset.</title>
+<year>2023</year>
+<volume>abs/2301.11125</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.11125</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-11125</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-03664" mdate="2024-08-16">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification.</title>
+<year>2023</year>
+<volume>abs/2306.03664</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.03664</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-03664</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/interspeech/LepageD22" mdate="2024-10-06">
+<author orcid="0009-0009-0676-4099" pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Label-Efficient Self-Supervised Speaker Verification With Information Maximization and Contrastive Learning.</title>
+<pages>4018-4022</pages>
+<year>2022</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2022-802</ee>
+<crossref>conf/interspeech/2022</crossref>
+<url>db/conf/interspeech/interspeech2022.html#LepageD22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-05506" mdate="2022-07-14">
+<author pid="324/2694">Th&#233;o Lepage</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Label-Efficient Self-Supervised Speaker Verification With Information Maximization and Contrastive Learning.</title>
+<year>2022</year>
+<volume>abs/2207.05506</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.05506</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-05506</url>
+</article>
+</r>
+<r><article key="journals/csl/VillalbaCSGMSBG20" mdate="2025-01-19">
+<author orcid="0000-0001-9459-8426" pid="211/9841">Jes&#250;s Villalba 0001</author>
+<author pid="168/6187">Nanxin Chen</author>
+<author pid="71/4381">David Snyder</author>
+<author pid="59/2493">Daniel Garcia-Romero</author>
+<author pid="09/7824">Alan McCree</author>
+<author pid="07/8761">Gregory Sell</author>
+<author pid="09/3298">Jonas Borgstrom</author>
+<author orcid="0000-0002-7449-5726" pid="23/4175">Leibny Paola Garc&#237;a-Perera</author>
+<author pid="12/6194">Fred Richardson</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="51/287">Pedro A. Torres-Carrasquillo</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<title>State-of-the-art speaker recognition with neural network embeddings in NIST SRE18 and Speakers in the Wild evaluations.</title>
+<year>2020</year>
+<volume>60</volume>
+<journal>Comput. Speech Lang.</journal>
+<ee>https://doi.org/10.1016/j.csl.2019.101026</ee>
+<ee>https://www.wikidata.org/entity/Q127101452</ee>
+<url>db/journals/csl/csl60.html#VillalbaCSGMSBG20</url>
+</article>
+</r>
+<r><article key="journals/entropy/CadetDCB19" mdate="2020-10-26">
+<author pid="253/6617">Xavier F. Cadet</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="133/4494">Sang Peter Chin</author>
+<author orcid="0000-0001-7542-9061" pid="174/6253">Miloud Bessafi</author>
+<title>Non-Linear Dynamics Analysis of Protein Sequences. Application to CYP450.</title>
+<pages>852</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>Entropy</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/e21090852</ee>
+<url>db/journals/entropy/entropy21.html#CadetDCB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/interspeech/VillalbaCSGMSBR19" mdate="2022-10-26">
+<author pid="211/9841">Jes&#250;s Villalba 0001</author>
+<author pid="168/6187">Nanxin Chen</author>
+<author pid="71/4381">David Snyder</author>
+<author pid="59/2493">Daniel Garcia-Romero</author>
+<author pid="09/7824">Alan McCree</author>
+<author pid="07/8761">Gregory Sell</author>
+<author pid="09/3298">Jonas Borgstrom</author>
+<author pid="12/6194">Fred Richardson</author>
+<author pid="81/11275">Suwon Shon</author>
+<author pid="14/2074">Fran&#231;ois Grondin</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="23/4175">Leibny Paola Garc&#237;a-Perera</author>
+<author pid="35/4478">Daniel Povey</author>
+<author pid="51/287">Pedro A. Torres-Carrasquillo</author>
+<author pid="77/4919">Sanjeev Khudanpur</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<title>State-of-the-Art Speaker Recognition for Telephone and Video Speech: The JHU-MIT Submission for NIST SRE18.</title>
+<pages>1488-1492</pages>
+<year>2019</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2019-2713</ee>
+<crossref>conf/interspeech/2019</crossref>
+<url>db/conf/interspeech/interspeech2019.html#VillalbaCSGMSBR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/RichardsonTBSGV18" mdate="2023-03-21">
+<author pid="12/6194">Fred Richardson</author>
+<author pid="51/287">Pedro A. Torres-Carrasquillo</author>
+<author pid="09/3298">Jonas Borgstrom</author>
+<author pid="60/5668">Douglas E. Sturim</author>
+<author pid="51/2783">Youngjune Gwon</author>
+<author pid="211/9841">Jes&#250;s Villalba 0001</author>
+<author pid="86/4940">Jan Trmal</author>
+<author pid="168/6187">Nanxin Chen</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<title>The MIT Lincoln Laboratory / JHU / EPITA-LSE LRE17 System.</title>
+<pages>54-59</pages>
+<year>2018</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://doi.org/10.21437/Odyssey.2018-8</ee>
+<crossref>conf/odyssey/2018</crossref>
+<url>db/conf/odyssey/odyssey2018.html#RichardsonTBSGV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/Torres-Carrasquillo17" mdate="2023-08-06">
+<author pid="51/287">Pedro A. Torres-Carrasquillo</author>
+<author pid="12/6194">Fred Richardson</author>
+<author pid="14/8205">Shahan C. Nercessian</author>
+<author pid="60/5668">Douglas E. Sturim</author>
+<author pid="96/4410">William M. Campbell</author>
+<author pid="51/2783">Youngjune Gwon</author>
+<author pid="43/1057">Swaroop Vattam</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="68/9231">Sri Harish Reddy Mallidi</author>
+<author pid="158/4168">Phani Sankar Nidadavolu</author>
+<author pid="169/9860">Ruizhi Li</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>The MIT-LL, JHU and LRDE NIST 2016 Speaker Recognition Evaluation System.</title>
+<pages>1333-1337</pages>
+<year>2017</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2017-537</ee>
+<crossref>conf/interspeech/2017</crossref>
+<url>db/conf/interspeech/interspeech2017.html#Torres-Carrasquillo17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/DehakPBBhD14" mdate="2024-08-04">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="62/6194">Oldrich Plchot</author>
+<author pid="73/10808">Mohamad Hasan Bahari</author>
+<author pid="76/686">Luk&#225;s Burget</author>
+<author pid="77/6519">Hugo Van hamme</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>GMM Weights Adaptation Based on Subspace Approaches for Speaker Verification.</title>
+<year>2014</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://doi.org/10.21437/Odyssey.2014-8</ee>
+<crossref>conf/odyssey/2014</crossref>
+<url>db/conf/odyssey/odyssey2014.html#DehakPBBhD14</url>
+<pages>48-53</pages>
+</inproceedings>
+</r>
+<r><article key="journals/taslp/ShumDDG13" mdate="2022-04-09">
+<author pid="20/2788-1">Stephen Shum 0001</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="37/6580">James R. Glass</author>
+<title>Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach.</title>
+<pages>2015-2028</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TASL.2013.2264673</ee>
+<url>db/journals/taslp/taslp21.html#ShumDDG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/odyssey/SenoussaouiDKDD12" mdate="2024-07-30">
+<author pid="18/9876">Mohammed Senoussaoui</author>
+<author pid="18/2810">Najim Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>First attempt of boltzmann machines for speaker verification.</title>
+<pages>117-121</pages>
+<year>2012</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2012/senoussaoui12_odyssey.html</ee>
+<crossref>conf/odyssey/2012</crossref>
+<url>db/conf/odyssey/odyssey2012.html#SenoussaouiDKDD12</url>
+</inproceedings>
+</r>
+<r><article key="journals/taslp/DehakKDDO11" mdate="2022-04-09">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author orcid="0000-0001-5584-4428" pid="94/1450">Pierre Dumouchel</author>
+<author pid="80/2894">Pierre Ouellet</author>
+<title>Front-End Factor Analysis for Speaker Verification.</title>
+<pages>788-798</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TASL.2010.2064307</ee>
+<url>db/journals/taslp/taslp19.html#DehakKDDO11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/DehakKRDCG11" mdate="2022-04-09">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="28/7823">Zahi N. Karam</author>
+<author pid="21/2250">Douglas A. Reynolds</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="96/4410">William M. Campbell</author>
+<author pid="37/6580">James R. Glass</author>
+<title>A channel-blind system for speaker verification.</title>
+<pages>4536-4539</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2011.5947363</ee>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#DehakKRDCG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/DehakTRD11" mdate="2023-08-06">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="51/287">Pedro A. Torres-Carrasquillo</author>
+<author pid="21/2250">Douglas A. Reynolds</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>Language Recognition via i-vectors and Dimensionality Reduction.</title>
+<pages>857-860</pages>
+<year>2011</year>
+<booktitle>INTERSPEECH</booktitle>
+<crossref>conf/interspeech/2011</crossref>
+<url>db/conf/interspeech/interspeech2011.html#DehakTRD11</url>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2011-328</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/DehakDGRK10" mdate="2024-07-30">
+<author pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="21/2250">Douglas A. Reynolds</author>
+<author pid="41/2232">Patrick Kenny</author>
+<title>Cosine Similarity Scoring without Score Normalization Techniques.</title>
+<pages>15</pages>
+<year>2010</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2010/dehak10_odyssey.html</ee>
+<crossref>conf/odyssey/2010</crossref>
+<url>db/conf/odyssey/odyssey2010.html#DehakDGRK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/ShumDDG10" mdate="2024-07-30">
+<author pid="20/2788-1">Stephen Shum 0001</author>
+<author pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="37/6580">James R. Glass</author>
+<title>Unsupervised Speaker Adaptation based on the Cosine Similarity for Text-Independent Speaker Verification.</title>
+<pages>16</pages>
+<year>2010</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2010/shum10_odyssey.html</ee>
+<crossref>conf/odyssey/2010</crossref>
+<url>db/conf/odyssey/odyssey2010.html#ShumDDG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/DehakKDGDBHC09" mdate="2023-03-23">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="69/3731">Ondrej Glembek</author>
+<author orcid="0000-0001-5584-4428" pid="94/1450">Pierre Dumouchel</author>
+<author orcid="0000-0002-4951-5908" pid="76/686">Luk&#225;s Burget</author>
+<author pid="37/4394">Valiantsina Hubeika</author>
+<author pid="67/7824">Fabio Castaldo</author>
+<title>Support vector machines and Joint Factor Analysis for speaker verification.</title>
+<pages>4237-4240</pages>
+<year>2009</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2009.4960564</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960564</ee>
+<crossref>conf/icassp/2009</crossref>
+<url>db/conf/icassp/icassp2009.html#DehakKDGDBHC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/DumouchelDADB09" mdate="2023-08-06">
+<author pid="94/1450">Pierre Dumouchel</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="87/9237">Yazid Attabi</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="50/2425">Narj&#232;s Boufaden</author>
+<title>Cepstral and long-term features for emotion recognition.</title>
+<pages>344-347</pages>
+<year>2009</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2009-111</ee>
+<crossref>conf/interspeech/2009</crossref>
+<url>db/conf/interspeech/interspeech2009.html#DumouchelDADB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/DehakDKBOD09" mdate="2023-08-06">
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="85/1879">Niko Br&#252;mmer</author>
+<author pid="80/2894">Pierre Ouellet</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>Support vector machines versus fast scoring in the low-dimensional total variability space for speaker verification.</title>
+<pages>1559-1562</pages>
+<year>2009</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2009-385</ee>
+<crossref>conf/interspeech/2009</crossref>
+<url>db/conf/interspeech/interspeech2009.html#DehakDKBOD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/DehakDKD08" mdate="2024-07-30">
+<author pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>Comparison between factor analysis and GMM support vector machines for speaker verification.</title>
+<pages>9</pages>
+<year>2008</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2008/dehak08_odyssey.html</ee>
+<crossref>conf/odyssey/2008</crossref>
+<url>db/conf/odyssey/odyssey2008.html#DehakDKD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/KennyDDGD08" mdate="2024-07-30">
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="18/2810">Najim Dehak</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="68/7154">Vishwa Gupta</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>The role of speaker factors in the NIST extended data task.</title>
+<pages>11</pages>
+<year>2008</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2008/kenny08_odyssey.html</ee>
+<crossref>conf/odyssey/2008</crossref>
+<url>db/conf/odyssey/odyssey2008.html#KennyDDGD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/DehakDKD08a" mdate="2024-07-30">
+<author pid="84/8053">R&#233;da Dehak</author>
+<author pid="18/2810">Najim Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>Kernel combination for SVM speaker verification.</title>
+<pages>21</pages>
+<year>2008</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://www.isca-archive.org/odyssey_2008/dehak08b_odyssey.html</ee>
+<crossref>conf/odyssey/2008</crossref>
+<url>db/conf/odyssey/odyssey2008.html#DehakDKD08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/DehakDKD07" mdate="2023-08-06">
+<author pid="84/8053">R&#233;da Dehak</author>
+<author orcid="0000-0002-4489-5753" pid="18/2810">Najim Dehak</author>
+<author pid="41/2232">Patrick Kenny</author>
+<author pid="94/1450">Pierre Dumouchel</author>
+<title>Linear and non linear kernel GMM supervector machines for speaker verification.</title>
+<pages>302-305</pages>
+<year>2007</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2007-133</ee>
+<crossref>conf/interspeech/2007</crossref>
+<url>db/conf/interspeech/interspeech2007.html#DehakDKD07</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/DehakBM05" mdate="2018-11-14">
+<author pid="84/8053">Sidi Mohammed R&#233;da Dehak</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<author pid="25/4390">Henri Ma&#238;tre</author>
+<title>Spatial Reasoning with Incomplete Information on Relative Positioning.</title>
+<pages>1473-1484</pages>
+<year>2005</year>
+<volume>27</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TPAMI.2005.186</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2005.186</ee>
+<ee>https://www.wikidata.org/entity/Q51964120</ee>
+<url>db/journals/pami/pami27.html#DehakBM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/GrosickiAD04" mdate="2017-05-25">
+<author pid="56/4518">Emmanuele Grosicki</author>
+<author pid="64/502">Karim Abed-Meraim</author>
+<author pid="84/8053">R&#233;da Dehak</author>
+<title>A novel method to fight the non-line-of-sight error in AOA measurements for mobile location.</title>
+<pages>2794-2798</pages>
+<year>2004</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2004.1313039</ee>
+<crossref>conf/icc/2004</crossref>
+<url>db/conf/icc/icc2004.html#GrosickiAD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DehakBM01" mdate="2017-05-25">
+<author pid="84/8053">Sidi Mohammed R&#233;da Dehak</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<author pid="25/4390">Henri Ma&#238;tre</author>
+<title>Inference of directional spatial relationship between points: a probabilistic approach.</title>
+<pages>704-707</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2001.958216</ee>
+<url>db/conf/icip/icip2001-3.html#DehakBM01</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbm/BoudraaDZPBG00" mdate="2025-03-03">
+<author orcid="0000-0002-1864-2859" pid="02/3367">Abdel-Ouahab Boudraa</author>
+<author pid="84/8053">Sidi Mohammed R&#233;da Dehak</author>
+<author orcid="0000-0001-6814-1449" pid="56/6330">Yue-Min Zhu</author>
+<author orcid="0000-0002-6731-996X" pid="15/683">Chahin Pachai</author>
+<author pid="117/0201">Yong-Gang Bao</author>
+<author pid="117/0191">J&#233;r&#244;me Grimaud</author>
+<title>Automated segmentation of multiple sclerosis lesions in multispectral MR imaging using fuzzy clustering.</title>
+<pages>23-40</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Comput. Biol. Medicine</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0010-4825(99)00019-0</ee>
+<ee>https://www.wikidata.org/entity/Q52081635</ee>
+<url>db/journals/cbm/cbm30.html#BoudraaDZPBG00</url>
+</article>
+</r>
+<coauthors n="65" nc="6">
+<co c="1"><na f="a/Abed=Meraim:Karim" pid="64/502">Karim Abed-Meraim</na></co>
+<co c="0"><na f="a/Attabi:Yazid" pid="87/9237">Yazid Attabi</na></co>
+<co c="0"><na f="b/Bahari:Mohamad_Hasan" pid="73/10808">Mohamad Hasan Bahari</na></co>
+<co c="1"><na f="b/Bao:Yong=Gang" pid="117/0201">Yong-Gang Bao</na></co>
+<co c="3"><na f="b/Bessafi:Miloud" pid="174/6253">Miloud Bessafi</na></co>
+<co c="1"><na f="b/Bloch:Isabelle" pid="33/1668">Isabelle Bloch</na></co>
+<co c="0"><na f="b/Borgstrom:Jonas" pid="09/3298">Jonas Borgstrom</na></co>
+<co c="1"><na f="b/Boudraa:Abdel=Ouahab" pid="02/3367">Abdel-Ouahab Boudraa</na></co>
+<co c="0"><na f="b/Boufaden:Narj=egrave=s" pid="50/2425">Narj&#232;s Boufaden</na></co>
+<co c="0"><na f="b/Br=uuml=mmer:Niko" pid="85/1879">Niko Br&#252;mmer</na></co>
+<co c="0"><na f="b/Burget:Luk=aacute=s" pid="76/686">Luk&#225;s Burget</na></co>
+<co c="3"><na f="c/Cadet:Xavier_F=" pid="253/6617">Xavier F. Cadet</na></co>
+<co c="0"><na f="c/Campbell:William_M=" pid="96/4410">William M. Campbell</na></co>
+<co c="0"><na f="c/Castaldo:Fabio" pid="67/7824">Fabio Castaldo</na></co>
+<co c="0"><na f="c/Chen:Nanxin" pid="168/6187">Nanxin Chen</na></co>
+<co c="3" n="2"><na f="c/Chin:Sang_=Peter=" pid="133/4494">Sang (Peter) Chin</na><na>Sang Peter Chin</na></co>
+<co c="0"><na f="d/Dehak:Najim" pid="18/2810">Najim Dehak</na></co>
+<co c="2"><na f="d/Doukhan:David" pid="35/10650">David Doukhan</na></co>
+<co c="5"><na f="d/Duch=ecirc=ne:Corentin" pid="338/9358">Corentin Duch&#234;ne</na></co>
+<co c="0"><na f="d/Dumouchel:Pierre" pid="94/1450">Pierre Dumouchel</na></co>
+<co c="0" n="2"><na f="g/Garc=iacute=a=Perera:L=_Paola" pid="23/4175">L. Paola Garc&#237;a-Perera</na><na>Leibny Paola Garc&#237;a-Perera</na></co>
+<co c="0"><na f="g/Garcia=Romero:Daniel" pid="59/2493">Daniel Garcia-Romero</na></co>
+<co c="0"><na f="g/Glass:James_R=" pid="37/6580">James R. Glass</na></co>
+<co c="0"><na f="g/Glembek:Ondrej" pid="69/3731">Ondrej Glembek</na></co>
+<co c="1"><na f="g/Grimaud:J=eacute=r=ocirc=me" pid="117/0191">J&#233;r&#244;me Grimaud</na></co>
+<co c="0"><na f="g/Grondin:Fran=ccedil=ois" pid="14/2074">Fran&#231;ois Grondin</na></co>
+<co c="1" n="2"><na f="g/Grosicki:Emmanu=egrave=le" pid="56/4518">Emmanu&#232;le Grosicki</na><na>Emmanuele Grosicki</na></co>
+<co c="5"><na f="g/Guillaume:Pierre" pid="126/7872">Pierre Guillaume</na></co>
+<co c="0"><na f="g/Gupta:Vishwa" pid="68/7154">Vishwa Gupta</na></co>
+<co c="0"><na f="g/Gwon:Youngjune" pid="51/2783">Youngjune Gwon</na></co>
+<co c="0"><na f="h/hamme:Hugo_Van" pid="77/6519">Hugo Van hamme</na></co>
+<co c="0"><na f="h/Hubeika:Valiantsina" pid="37/4394">Valiantsina Hubeika</na></co>
+<co c="5"><na f="j/Jamet:Henri" pid="338/9195">Henri Jamet</na></co>
+<co c="0"><na f="k/Karam:Zahi_N=" pid="28/7823">Zahi N. Karam</na></co>
+<co c="0"><na f="k/Kenny:Patrick" pid="41/2232">Patrick Kenny</na></co>
+<co c="0"><na f="k/Khudanpur:Sanjeev" pid="77/4919">Sanjeev Khudanpur</na></co>
+<co c="4"><na f="l/Lepage:Th=eacute=o" pid="324/2694">Th&#233;o Lepage</na></co>
+<co c="0"><na f="l/Li:Ruizhi" pid="169/9860">Ruizhi Li</na></co>
+<co c="2"><na f="m/Maertens:Christine" pid="375/6318">Christine Maertens</na></co>
+<co c="1"><na f="m/Ma=icirc=tre:Henri" pid="25/4390">Henri Ma&#238;tre</na></co>
+<co c="0"><na f="m/Mallidi:Sri_Harish_Reddy" pid="68/9231">Sri Harish Reddy Mallidi</na></co>
+<co c="0"><na f="m/McCree:Alan" pid="09/7824">Alan McCree</na></co>
+<co c="4"><na f="m/Miara:Victor" pid="381/4085">Victor Miara</na></co>
+<co c="0"><na f="n/Nercessian:Shahan_C=" pid="14/8205">Shahan C. Nercessian</na></co>
+<co c="0" n="2"><na f="n/Nidadavolu:Phani_S=" pid="158/4168">Phani S. Nidadavolu</na><na>Phani Sankar Nidadavolu</na></co>
+<co c="0"><na f="o/Ouellet:Pierre" pid="80/2894">Pierre Ouellet</na></co>
+<co c="1"><na f="p/Pachai:Chahin" pid="15/683">Chahin Pachai</na></co>
+<co c="2"><na f="p/Personnic:William_Le" pid="375/7146">William Le Personnic</na></co>
+<co c="0"><na f="p/Plchot:Oldrich" pid="62/6194">Oldrich Plchot</na></co>
+<co c="0"><na f="p/Povey:Daniel" pid="35/4478">Daniel Povey</na></co>
+<co c="0"><na f="r/Reynolds:Douglas_A=" pid="21/2250">Douglas A. Reynolds</na></co>
+<co c="0"><na f="r/Richardson:Fred" pid="12/6194">Fred Richardson</na></co>
+<co c="0"><na f="s/Sell:Gregory" pid="07/8761">Gregory Sell</na></co>
+<co c="0"><na f="s/Senoussaoui:Mohammed" pid="18/9876">Mohammed Senoussaoui</na></co>
+<co c="0"><na f="s/Shon:Suwon" pid="81/11275">Suwon Shon</na></co>
+<co c="0" n="2"><na f="s/Shum:Stephen_H=" pid="20/2788-1">Stephen H. Shum</na><na>Stephen Shum 0001</na></co>
+<co c="0"><na f="s/Snyder:David" pid="71/4381">David Snyder</na></co>
+<co c="2"><na f="s/Speroni:Ludovic" pid="375/7455">Ludovic Speroni</na></co>
+<co c="4"><na f="s/Stourbe:Theophile" pid="388/2405">Theophile Stourbe</na></co>
+<co c="0"><na f="s/Sturim:Douglas_E=" pid="60/5668">Douglas E. Sturim</na></co>
+<co c="0"><na f="t/Torres=Carrasquillo:Pedro_A=" pid="51/287">Pedro A. Torres-Carrasquillo</na></co>
+<co c="0"><na f="t/Trmal:Jan" pid="86/4940">Jan Trmal</na></co>
+<co c="0"><na f="v/Vattam:Swaroop" pid="43/1057">Swaroop Vattam</na></co>
+<co c="0"><na f="v/Villalba_0001:Jes=uacute=s" pid="211/9841">Jes&#250;s Villalba 0001</na></co>
+<co c="1" n="2"><na f="z/Zhu:Yue_Min" pid="56/6330">Yue Min Zhu</na><na>Yue-Min Zhu</na></co>
+</coauthors>
+</dblpperson>
+

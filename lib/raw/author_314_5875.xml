@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<dblpperson name="Alessio Ragno" pid="314/5875" n="17">
+<person key="homepages/314/5875" mdate="2026-03-02">
+<author pid="314/5875">Alessio Ragno</author>
+<url>https://orcid.org/0000-0002-8477-2088</url>
+</person>
+<r><inproceedings key="conf/aaai/ValerioPRC26" mdate="2026-03-27">
+<author pid="392/1394">Federico Di Valerio</author>
+<author pid="359/8065">Michela Proietti</author>
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>CIP-Net: Continual Interpretable Prototype-based Network.</title>
+<pages>20772-20780</pages>
+<year>2026</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v40i25.39216</ee>
+<crossref>conf/aaai/2026</crossref>
+<url>db/conf/aaai/aaai2026.html#ValerioPRC26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/PalumboRCPR26" mdate="2026-04-20">
+<author pid="359/9600">Simone Palumbo</author>
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>LogiX-Me: Logic-based Self-Explainable Message Passing GNN.</title>
+<year>2026</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-4192/XAI4Science-paper11.pdf</ee>
+<crossref>conf/edbt/2026w</crossref>
+<url>db/conf/edbt/edbt2026w.html#PalumboRCPR26</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Ragno25" mdate="2025-05-09">
+<author pid="314/5875">Alessio Ragno</author>
+<title>Topology-based explanations for neural networks.</title>
+<year>2025</year>
+<school>Sapienza University of Rome, Italy</school>
+<ee>https://hdl.handle.net/11573/1733678</ee>
+<ee>https://www.base-search.net/Record/d7bec521ab9710c47e57e47770971c221a6ed7409e4955bcd5d3e2953a8d5eb8</ee>
+<note type="source">base-search.net (ftunivromairis:oai:iris.uniroma1.it:11573/1733678)</note>
+</phdthesis>
+</r>
+<r><article key="journals/datamine/KamalRPR25" mdate="2025-11-15">
+<author pid="315/2081">Ataollah Kamal</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>Leveraging internal representations of GNNs with Shapley values.</title>
+<pages>89</pages>
+<year>2025</year>
+<month>November</month>
+<volume>39</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10618-025-01159-7</ee>
+<url>db/journals/datamine/datamine39.html#KamalRPR25</url>
+<stream>streams/journals/datamine</stream>
+</article>
+</r>
+<r><article key="journals/jcisd/AstolfiORSRPMLBMPBMNR25" mdate="2025-03-07">
+<author orcid="0009-0002-0199-7730" pid="398/7703">Roberta Astolfi</author>
+<author orcid="0000-0003-0832-7975" pid="398/8288">Alessandra Oliva</author>
+<author orcid="0000-0002-8507-2374" pid="27/8983">Antonio Raffo</author>
+<author orcid="0000-0002-0919-4564" pid="398/7744">Filippo Sapienza</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author orcid="0000-0003-0855-5695" pid="328/1414">Eleonora Proia</author>
+<author orcid="0000-0002-1286-467X" pid="398/8059">Claudio M. Mastroianni</author>
+<author orcid="0009-0006-7497-3245" pid="398/8065">Cristina Luceri</author>
+<author orcid="0000-0001-6718-8800" pid="398/7605">Mijat Bozovic</author>
+<author orcid="0000-0002-6556-8778" pid="199/5897">Milan Mladenovic</author>
+<author orcid="0000-0003-0330-2883" pid="398/7473">Rosanna Papa</author>
+<author orcid="0000-0001-5427-8903" pid="398/8574">Patrizia Bottoni</author>
+<author orcid="0000-0002-2508-0786" pid="398/7330">Elena Mazzinelli</author>
+<author orcid="0000-0002-2799-4557" pid="398/7495">Giuseppina Nocca</author>
+<author orcid="0000-0001-5399-975X" pid="78/1111">Rino Ragno</author>
+<title>Essential Oils as Antimicrobials against <i>Acinetobacter baumannii</i>: Experimental and Literature Data to Definite Predictive Quantitative Composition-Activity Relationship Models Using Machine Learning Algorithms.</title>
+<pages>1378-1391</pages>
+<year>2025</year>
+<volume>65</volume>
+<journal>J. Chem. Inf. Model.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1021/acs.jcim.4c02389</ee>
+<url>db/journals/jcisd/jcisd65.html#AstolfiORSRPMLBMPBMNR25</url>
+<stream>streams/journals/jcisd</stream>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/RagnoPR25" mdate="2025-11-15">
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>Faithful Explanations for Graph Classification Using Logic.</title>
+<pages>113-129</pages>
+<year>2025</year>
+<booktitle>ECML/PKDD (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-06078-5_7</ee>
+<crossref>conf/pkdd/2025-4</crossref>
+<url>db/conf/pkdd/pkdd2025-4.html#RagnoPR25</url>
+<stream>streams/conf/pkdd</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/RagnoC25" mdate="2025-03-03">
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<title>IMPO: Interpretable Memory-based Prototypical Pooling.</title>
+<pages>625-632</pages>
+<year>2025</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3701551.3703543</ee>
+<crossref>conf/wsdm/2025</crossref>
+<url>db/conf/wsdm/wsdm2025.html#RagnoC25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-07981" mdate="2026-02-01">
+<author pid="392/1394">Federico Di Valerio</author>
+<author pid="359/8065">Michela Proietti</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>CIP-Net: Continual Interpretable Prototype-based Network.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.07981</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.07981</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-07981</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ml/ProiettiRRRC24" mdate="2025-08-05">
+<author orcid="0000-0002-1469-3253" pid="359/8065">Michela Proietti</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author orcid="0000-0002-4071-170X" pid="269/4633">Biagio La Rosa</author>
+<author orcid="0000-0001-5399-975X" pid="78/1111">Rino Ragno</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<title>Explainable AI in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening.</title>
+<pages>2013-2044</pages>
+<year>2024</year>
+<month>April</month>
+<volume>113</volume>
+<journal>Mach. Learn.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10994-023-06369-y</ee>
+<url>db/journals/ml/ml113.html#ProiettiRRRC24</url>
+</article>
+</r>
+<r><article key="journals/tai/RagnoRC24" mdate="2024-06-08">
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author orcid="0000-0002-4071-170X" pid="269/4633">Biagio La Rosa</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<title>Prototype-Based Interpretable Graph Neural Networks.</title>
+<pages>1486-1495</pages>
+<year>2024</year>
+<month>April</month>
+<volume>5</volume>
+<journal>IEEE Trans. Artif. Intell.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1109/TAI.2022.3222618</ee>
+<url>db/journals/tai/tai5.html#RagnoRC24</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/RagnoPRC24" mdate="2025-03-03">
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<title>Transparent Explainable Logic Layers.</title>
+<pages>914-921</pages>
+<year>2024</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA240579</ee>
+<crossref>conf/ecai/2024</crossref>
+<url>db/conf/ecai/ecai2024.html#RagnoPRC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/explimed/BorghiniVRC24" mdate="2024-12-05">
+<author pid="392/1385">Alessia Borghini</author>
+<author pid="392/1394">Federico Di Valerio</author>
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands.</title>
+<year>2024</year>
+<booktitle>EXPLIMED@ECAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3831/paper14.pdf</ee>
+<crossref>conf/explimed/2024</crossref>
+<url>db/conf/explimed/explimed2024.html#BorghiniVRC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/BorzilloRC23" mdate="2023-10-26">
+<author pid="359/2090">Caterina Borzillo</author>
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>Understanding Deep RL Agent Decisions: a Novel Interpretable Approach with Trainable Prototypes.</title>
+<pages>1-14</pages>
+<year>2023</year>
+<booktitle>XAI.it@AI*IA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3518/paper1.pdf</ee>
+<crossref>conf/aiia/2023xaiit</crossref>
+<url>db/conf/aiia/xaiit2023.html#BorzilloRC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsp/ProiettiRC23" mdate="2025-03-03">
+<author orcid="0000-0002-1469-3253" pid="359/8065">Michela Proietti</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<title>Memory Replay For Continual Learning With Spiking Neural Networks.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>MLSP</booktitle>
+<ee>https://doi.org/10.1109/MLSP55844.2023.10285911</ee>
+<crossref>conf/mlsp/2023</crossref>
+<url>db/conf/mlsp/mlsp2023.html#ProiettiRC23</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcamd/ProiaRASMCR22" mdate="2024-05-07">
+<author orcid="0000-0003-0855-5695" pid="328/1414">Eleonora Proia</author>
+<author orcid="0000-0002-8477-2088" pid="314/5875">Alessio Ragno</author>
+<author pid="305/8904">Lorenzo Antonini</author>
+<author pid="199/6131">Manuela Sabatino</author>
+<author orcid="0000-0002-6556-8778" pid="199/5897">Milan Mladenovic</author>
+<author orcid="0000-0002-2219-215X" pid="132/9032">Roberto Capobianco</author>
+<author orcid="0000-0001-5399-975X" pid="78/1111">Rino Ragno</author>
+<title>Ligand-based and structure-based studies to develop predictive models for SARS-CoV-2 main protease inhibitors through the 3d-qsar.com portal.</title>
+<pages>483-505</pages>
+<year>2022</year>
+<volume>36</volume>
+<journal>J. Comput. Aided Mol. Des.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.1007/s10822-022-00460-7</ee>
+<url>db/journals/jcamd/jcamd36.html#ProiaRASMCR22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-05703" mdate="2022-03-01">
+<author pid="314/5942">Dylan Savoia</author>
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>Molecule Generation from Input-Attributions over Graph Convolutional Networks.</title>
+<year>2022</year>
+<volume>abs/2202.05703</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.05703</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-05703</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-05704" mdate="2022-03-01">
+<author pid="314/5875">Alessio Ragno</author>
+<author pid="314/5942">Dylan Savoia</author>
+<author pid="132/9032">Roberto Capobianco</author>
+<title>Semi-Supervised GCN for learning Molecular Structure-Activity Relationships.</title>
+<year>2022</year>
+<volume>abs/2202.05704</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.05704</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-05704</url>
+</article>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="a/Antonini:Lorenzo" pid="305/8904">Lorenzo Antonini</na></co>
+<co c="0"><na f="a/Astolfi:Roberta" pid="398/7703">Roberta Astolfi</na></co>
+<co c="0"><na f="b/Borghini:Alessia" pid="392/1385">Alessia Borghini</na></co>
+<co c="0"><na f="b/Borzillo:Caterina" pid="359/2090">Caterina Borzillo</na></co>
+<co c="0"><na f="b/Bottoni:Patrizia" pid="398/8574">Patrizia Bottoni</na></co>
+<co c="0"><na f="b/Bozovic:Mijat" pid="398/7605">Mijat Bozovic</na></co>
+<co c="0"><na f="c/Capobianco:Roberto" pid="132/9032">Roberto Capobianco</na></co>
+<co c="0"><na f="k/Kamal:Ataollah" pid="315/2081">Ataollah Kamal</na></co>
+<co c="0"><na f="l/Luceri:Cristina" pid="398/8065">Cristina Luceri</na></co>
+<co c="0"><na f="m/Mastroianni:Claudio_M=" pid="398/8059">Claudio M. Mastroianni</na></co>
+<co c="0"><na f="m/Mazzinelli:Elena" pid="398/7330">Elena Mazzinelli</na></co>
+<co c="0"><na f="m/Mladenovic:Milan" pid="199/5897">Milan Mladenovic</na></co>
+<co c="0"><na f="n/Nocca:Giuseppina" pid="398/7495">Giuseppina Nocca</na></co>
+<co c="0"><na f="o/Oliva:Alessandra" pid="398/8288">Alessandra Oliva</na></co>
+<co c="0"><na f="p/Palumbo:Simone" pid="359/9600">Simone Palumbo</na></co>
+<co c="0"><na f="p/Papa:Rosanna" pid="398/7473">Rosanna Papa</na></co>
+<co c="0"><na f="p/Plantevit:Marc" pid="46/2965">Marc Plantevit</na></co>
+<co c="0"><na f="p/Proia:Eleonora" pid="328/1414">Eleonora Proia</na></co>
+<co c="0"><na f="p/Proietti:Michela" pid="359/8065">Michela Proietti</na></co>
+<co c="0"><na f="r/Raffo:Antonio" pid="27/8983">Antonio Raffo</na></co>
+<co c="0"><na f="r/Ragno:Rino" pid="78/1111">Rino Ragno</na></co>
+<co c="0"><na f="r/Robardet:C=eacute=line" pid="r/CRobardet">C&#233;line Robardet</na></co>
+<co c="0"><na f="r/Rosa:Biagio_La" pid="269/4633">Biagio La Rosa</na></co>
+<co c="0"><na f="s/Sabatino:Manuela" pid="199/6131">Manuela Sabatino</na></co>
+<co c="0"><na f="s/Sapienza:Filippo" pid="398/7744">Filippo Sapienza</na></co>
+<co c="0"><na f="s/Savoia:Dylan" pid="314/5942">Dylan Savoia</na></co>
+<co c="0"><na f="v/Valerio:Federico_Di" pid="392/1394">Federico Di Valerio</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<dblpperson name="Lo&#239;c Rouquette" pid="273/7211" n="8">
+<person key="homepages/273/7211" mdate="2020-09-08">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+</person>
+<r><article publtype="informal" key="journals/iacr/BrunelliMR26" mdate="2026-02-24">
+<author pid="414/1883">Rocco Brunelli</author>
+<author pid="78/2596">Marine Minier</author>
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<title>Integrating Boomerang into TAGADA.</title>
+<year>2026</year>
+<pages>121</pages>
+<volume>2026</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2026/121</ee>
+<url>db/journals/iacr/iacr2026.html#BrunelliMR26</url>
+<stream>streams/journals/iacr</stream>
+</article>
+</r>
+<r><article key="journals/jmc/RouquetteMS24" mdate="2024-03-20">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="78/2596">Marine Minier</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>Automatic boomerang attacks search on Rijndael.</title>
+<year>2024</year>
+<month>February</month>
+<volume>18</volume>
+<journal>J. Math. Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1515/jmc-2023-0027</ee>
+<url>db/journals/jmc/jmc18.html#RouquetteMS24</url>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/DelobelDGRS23" mdate="2024-04-08">
+<author pid="46/5906">Fran&#231;ois Delobel</author>
+<author pid="57/9958">Patrick Derbez</author>
+<author pid="303/4357">Arthur Gontier</author>
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>A CP-Based Automatic Tool for Instantiating Truncated Differential Characteristics.</title>
+<pages>247-268</pages>
+<year>2023</year>
+<booktitle>INDOCRYPT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-56232-7_12</ee>
+<crossref>conf/indocrypt/2023-1</crossref>
+<url>db/conf/indocrypt/indocrypt2023-1.html#DelobelDGRS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/DelobelDGRS23" mdate="2024-10-06">
+<author pid="46/5906">Fran&#231;ois Delobel</author>
+<author orcid="0000-0003-0478-8483" pid="57/9958">Patrick Derbez</author>
+<author pid="303/4357">Arthur Gontier</author>
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>A CP-based Automatic Tool for Instantiating Truncated Differential Characteristics - Extended Version.</title>
+<pages>1831</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/1831</ee>
+<url>db/journals/iacr/iacr2023.html#DelobelDGRS23</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Rouquette22" mdate="2023-03-07">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<title>Improving scalability and reusability of differential cryptanalysis models using constraint programming. (Am&#233;lioration du passage &#224; l'&#233;chelle et de la r&#233;utilisabilit&#233; des mod&#232;les de cryptanalyse diff&#233;rentielle &#224; l'aide de la programmation par contraintes).</title>
+<year>2022</year>
+<school>INSA de Lyon, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-03894661</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tosc/LallemandMR22" mdate="2023-08-28">
+<author pid="142/1682">Virginie Lallemand</author>
+<author pid="78/2596">Marine Minier</author>
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<title>Automatic Search of Rectangle Attacks on Feistel Ciphers: Application to WARP.</title>
+<pages>113-140</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.46586/tosc.v2022.i2.113-140</ee>
+<ee>https://www.wikidata.org/entity/Q121085619</ee>
+<url>db/journals/tosc/tosc2022.html#LallemandMR22</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/RouquetteGMS22" mdate="2023-01-11">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="176/2901">David G&#233;rault</author>
+<author pid="78/2596">Marine Minier</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>And Rijndael?: Automatic Related-Key Differential Analysis of Rijndael.</title>
+<pages>150-175</pages>
+<year>2022</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17433-9_7</ee>
+<crossref>conf/africacrypt/2022</crossref>
+<url>db/conf/africacrypt/africacrypt2022.html#RouquetteGMS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/RouquetteS20" mdate="2020-09-08">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>abstractXOR: A global constraint dedicated to differential cryptanalysis.</title>
+<pages>566-584</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_33</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#RouquetteS20</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="1">
+<co c="0"><na f="b/Brunelli:Rocco" pid="414/1883">Rocco Brunelli</na></co>
+<co c="0"><na f="d/Delobel:Fran=ccedil=ois" pid="46/5906">Fran&#231;ois Delobel</na></co>
+<co c="0"><na f="d/Derbez:Patrick" pid="57/9958">Patrick Derbez</na></co>
+<co c="0"><na f="g/G=eacute=rault:David" pid="176/2901">David G&#233;rault</na></co>
+<co c="0"><na f="g/Gontier:Arthur" pid="303/4357">Arthur Gontier</na></co>
+<co c="0"><na f="l/Lallemand:Virginie" pid="142/1682">Virginie Lallemand</na></co>
+<co c="0"><na f="m/Minier:Marine" pid="78/2596">Marine Minier</na></co>
+<co c="0"><na f="s/Solnon:Christine" pid="47/7026">Christine Solnon</na></co>
+</coauthors>
+</dblpperson>
+

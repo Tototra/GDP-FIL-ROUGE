@@ -1,0 +1,1131 @@
+<?xml version="1.0"?>
+<dblpperson name="Joseph Chazalon" pid="00/7894" n="54">
+<person key="homepages/00/7894" mdate="2025-07-19">
+<author pid="00/7894">Joseph Chazalon</author>
+<url>https://orcid.org/0000-0002-3757-074X</url>
+<url>https://www.wikidata.org/entity/Q122458060</url>
+<url>https://scholar.google.com/citations?user=zu8wSDAAAAAJ</url>
+</person>
+<r><article key="journals/roia/TualADCC25" mdate="2025-12-22">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>Cr&#233;ation d'un graphe de connaissances g&#233;ohistorique &#224; partir d'annuaires du commerce parisien du X I X e si&#232;cle : application aux m&#233;tiers de la photographie.</title>
+<pages>179-200</pages>
+<year>2025</year>
+<volume>6</volume>
+<journal>Rev. Ouverte Intell. Artif.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.5802/roia.98</ee>
+<url>db/journals/roia/roia6.html#TualADCC25</url>
+<stream>streams/journals/roia</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ercimdl/TualACDP25" mdate="2025-10-15">
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>An End-to-End Pipeline for Knowledge Graph Population from 19th-Century Land Registry Digitised Tables.</title>
+<pages>415-432</pages>
+<year>2025</year>
+<booktitle>TPDL</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-05409-8_24</ee>
+<crossref>conf/ercimdl/2025</crossref>
+<url>db/conf/ercimdl/tpdl2025.html#TualACDP25</url>
+<stream>streams/conf/ercimdl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-ic/TualACDP25" mdate="2025-07-31">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="79/5311">Julien Perret</author>
+<title>Extraction et interpr&#233;tation s&#233;mantique de tables anciennes : d&#233;fis et perspectives.</title>
+<pages>137-146</pages>
+<year>2025</year>
+<booktitle>IC</booktitle>
+<ee>https://hal.science/hal-05189813v2/document</ee>
+<crossref>conf/f-ic/2025</crossref>
+<url>db/conf/f-ic/ic2025.html#TualACDP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/PouliquenCCGA25" mdate="2025-10-15">
+<author orcid="0009-0002-5231-2228" pid="376/9719">Glen Pouliquen</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author pid="133/9518">Guillaume Chiron</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-0479-6312" pid="156/2945">Ahmad Montaser Awal</author>
+<title>Verification of Dynamic Holographic Behavior in Identity Documents.</title>
+<pages>323-339</pages>
+<year>2025</year>
+<booktitle>ICDAR (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04624-6_19</ee>
+<crossref>conf/icdar/2025-3</crossref>
+<url>db/conf/icdar/icdar2025-3.html#PouliquenCCGA25</url>
+<stream>streams/conf/icdar</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/LinTLJCWCCPADCLSZDPVKLB25" mdate="2025-10-15">
+<author orcid="0000-0002-0815-9636" pid="210/8162-1">Yijun Lin 0001</author>
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-9603-9329" pid="150/2008-7">Zekun Li 0007</author>
+<author orcid="0009-0006-5087-0225" pid="350/4998">Leeje Jang</author>
+<author orcid="0000-0002-8923-0130" pid="39/2145">Yao-Yi Chiang</author>
+<author orcid="0000-0002-2247-8174" pid="50/2682">Jerod J. Weinman</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-1685-783X" pid="176/7085">Ta-Chien Chan</author>
+<author pid="374/7164">Hsiung-Ming Liao</author>
+<author pid="415/5923">Wen-Rong Su</author>
+<author pid="353/2412">Mengjie Zou</author>
+<author pid="346/6027">Tianhao Dai</author>
+<author orcid="0000-0001-9138-6727" pid="284/2661">R&#233;mi Petitpierre</author>
+<author orcid="0000-0002-2379-2974" pid="333/4236">Beatrice Vaienti</author>
+<author orcid="0000-0002-6991-5730" pid="66/3345">Fr&#233;d&#233;ric Kaplan</author>
+<author orcid="0000-0002-1747-9164" pid="185/7844">Isabella di Lenardo</author>
+<author orcid="0000-0001-7001-4641" pid="130/0386">Youngmin Baek</author>
+<author pid="70/4243">Michael Hentschel</author>
+<author orcid="0000-0002-5837-8212" pid="254/2883">Yu Nakagome</author>
+<author pid="415/6289">Ichimura Shuta</author>
+<author pid="219/6854">Jeongtae Lee</author>
+<author orcid="0000-0002-9166-2100" pid="169/6632">Chankyu Choi</author>
+<title>ICDAR 2025 Competition on Historical Map Text Detection, Recognition, and Linking.</title>
+<pages>568-585</pages>
+<year>2025</year>
+<booktitle>ICDAR (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04630-7_33</ee>
+<crossref>conf/icdar/2025-5</crossref>
+<url>db/conf/icdar/icdar2025-5.html#LinTLJCWCCPADCLSZDPVKLB25</url>
+<stream>streams/conf/icdar</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ekaw/BernardTADCP24" mdate="2025-01-19">
+<author orcid="0009-0003-8170-3671" pid="392/1037">Charly Bernard</author>
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>PeGazUs: A Knowledge Graph Based Approach to Build Urban Perpetual Gazetteers.</title>
+<pages>364-381</pages>
+<year>2024</year>
+<booktitle>EKAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-77792-9_22</ee>
+<ee>https://www.wikidata.org/entity/Q131320433</ee>
+<crossref>conf/ekaw/2024</crossref>
+<url>db/conf/ekaw/ekaw2024.html#BernardTADCP24</url>
+<stream>streams/conf/ekaw</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/PouliquenCCGA24" mdate="2024-10-03">
+<author orcid="0009-0002-5231-2228" pid="376/9719">Glen Pouliquen</author>
+<author orcid="0009-0004-3665-4900" pid="133/9518">Guillaume Chiron</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-0479-6312" pid="156/2945">Ahmad Montaser Awal</author>
+<title>Weakly Supervised Training for Hologram Verification in Identity Documents.</title>
+<pages>17-33</pages>
+<year>2024</year>
+<booktitle>ICDAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-70533-5_2</ee>
+<crossref>conf/icdar/2024-1</crossref>
+<url>db/conf/icdar/icdar2024-1.html#PouliquenCCGA24</url>
+<stream>streams/conf/icdar</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/LiLCWTCPDA24" mdate="2025-09-22">
+<author pid="150/2008-7">Zekun Li 0007</author>
+<author pid="210/8162-1">Yijun Lin 0001</author>
+<author pid="39/2145">Yao-Yi Chiang</author>
+<author orcid="0000-0002-2247-8174" pid="50/2682">Jerod J. Weinman</author>
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="79/5311">Julien Perret</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<title>ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking.</title>
+<pages>363-380</pages>
+<year>2024</year>
+<booktitle>ICDAR (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-70552-6_22</ee>
+<crossref>conf/icdar/2024-6</crossref>
+<url>db/conf/icdar/icdar2024-6.html#LiLCWTCPDA24</url>
+<stream>streams/conf/icdar</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-17253" mdate="2024-06-03">
+<author pid="376/9719">Glen Pouliquen</author>
+<author pid="133/9518">Guillaume Chiron</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="156/2945">Ahmad Montaser Awal</author>
+<title>Weakly Supervised Training for Hologram Verification in Identity Documents.</title>
+<year>2024</year>
+<volume>abs/2404.17253</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.17253</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-17253</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-ic/TualADCC23" mdate="2023-07-07">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>Cr&#233;ation d'un graphe de connaissances g&#233;ohistorique &#224; partir d'annuaires du commerce parisien du 19&#232;me si&#232;cle: application aux m&#233;tiers de la photographie.</title>
+<pages>9-14</pages>
+<year>2023</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2023</crossref>
+<url>db/conf/f-ic/ic2023.html#TualADCC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/TualACDC23" mdate="2023-08-31">
+<author orcid="0000-0001-8549-7949" pid="340/7220">Solenn Tual</author>
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents.</title>
+<pages>115-131</pages>
+<year>2023</year>
+<booktitle>ICDAR (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-41682-8_8</ee>
+<crossref>conf/icdar/2023-3</crossref>
+<url>db/conf/icdar/icdar2023-3.html#TualACDC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/BernetCCBP23" mdate="2023-09-14">
+<author orcid="0000-0002-3343-6631" pid="348/6676">Philippe Bernet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0009-0004-0689-6220" pid="348/6848">Alexandre Bourquelot</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images Using Multiple Object Tracking.</title>
+<pages>454-471</pages>
+<year>2023</year>
+<booktitle>ICDAR (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-41734-4_28</ee>
+<crossref>conf/icdar/2023-5</crossref>
+<url>db/conf/icdar/icdar2023-5.html#BernetCCBP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08948" mdate="2023-02-23">
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>Entry Separation using a Mixed Visual and Textual Language Model: Application to 19th century French Trade Directories.</title>
+<year>2023</year>
+<volume>abs/2302.08948</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08948</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-10204" mdate="2023-02-23">
+<author pid="340/7220">Solenn Tual</author>
+<author pid="34/8684">Nathalie Abadie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<title>A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents.</title>
+<year>2023</year>
+<volume>abs/2302.10204</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.10204</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-10204</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16968" mdate="2023-06-07">
+<author pid="348/6676">Philippe Bernet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="348/6848">Alexandre Bourquelot</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<title>Linear Object Detection in Document Images using Multiple Object Tracking.</title>
+<year>2023</year>
+<volume>abs/2305.16968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16968</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16968</url>
+</article>
+</r>
+<r><inproceedings key="conf/das/AbadieCCD22" mdate="2022-06-13">
+<author orcid="0000-0001-8741-2398" pid="34/8684">Nathalie Abadie</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dumenieu</author>
+<title>A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19<sup>th</sup> Century French Directories.</title>
+<pages>445-460</pages>
+<year>2022</year>
+<booktitle>DAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-06555-2_30</ee>
+<crossref>conf/das/2022</crossref>
+<url>db/conf/das/das2022.html#AbadieCCD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/NgocCBCCMG21" mdate="2026-03-24">
+<author pid="221/8949">Minh On Vu Ngoc</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<title>Introducing the Boundary-Aware loss for deep image segmentation.</title>
+<publnr>215</publnr>
+<year>2021</year>
+<booktitle>BMVC</booktitle>
+<ee type="archive">https://www.bmvc2021-virtualconference.com/assets/papers/1546.pdf</ee>
+<crossref>conf/bmvc/2021</crossref>
+<url>db/conf/bmvc/bmvc2021.html#NgocCBCCMG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgmm/ChenCCMDP21" mdate="2021-07-25">
+<author pid="250/4440">Yizi Chen</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation.</title>
+<pages>79-92</pages>
+<year>2021</year>
+<booktitle>DGMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-76657-3_5</ee>
+<crossref>conf/dgmm/2021</crossref>
+<url>db/conf/dgmm/dgmm2021.html#ChenCCMDP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonC21" mdate="2021-09-16">
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<title>Revisiting the Coco Panoptic Metric to Enable Visual and Qualitative Analysis of Historical Map Instance Segmentation.</title>
+<pages>367-382</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_25</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChazalonC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChenCCMDP21" mdate="2021-09-20">
+<author orcid="0000-0003-1637-0092" pid="250/4440">Yizi Chen</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2675-165X" pid="26/8109">Cl&#233;ment Mallet</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Vectorization of Historical Maps Using Deep Edge Filtering and Closed Shape Extraction.</title>
+<pages>510-525</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_34</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChenCCMDP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonCCPDMGN21" mdate="2021-09-24">
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0001-5737-5266" pid="123/4711">Edwin Carlinet</author>
+<author orcid="0000-0003-1637-0092" pid="250/4440">Yizi Chen</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<author orcid="0000-0002-2517-2058" pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-2675-165X" pid="26/8109">Cl&#233;ment Mallet</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0003-2271-6918" pid="20/2617">Vincent Nguyen 0001</author>
+<author pid="47/6264">Nam Nguyen</author>
+<author orcid="0000-0003-1923-5355" pid="286/7366">Josef Baloun</author>
+<author orcid="0000-0002-1066-7269" pid="19/9854">Ladislav Lenc</author>
+<author orcid="0000-0002-3096-675X" pid="50/4970">Pavel Kr&#225;l</author>
+<title>ICDAR 2021 Competition on Historical Map Segmentation.</title>
+<pages>693-707</pages>
+<year>2021</year>
+<booktitle>ICDAR (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86337-1_46</ee>
+<crossref>conf/icdar/2021-4</crossref>
+<url>db/conf/icdar/icdar2021-4.html#ChazalonCCPDMGN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-02144" mdate="2021-07-25">
+<author pid="250/4440">Yizi Chen</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author orcid="0000-0002-0685-0730" pid="79/5311">Julien Perret</author>
+<title>Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation.</title>
+<year>2021</year>
+<volume>abs/2101.02144</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.02144</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-02144</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13265" mdate="2021-09-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="123/4711">Edwin Carlinet</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="79/5311">Julien Perret</author>
+<author pid="165/1412">Bertrand Dum&#233;nieu</author>
+<author pid="26/8109">Cl&#233;ment Mallet</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author pid="20/2617">Vincent Nguyen 0001</author>
+<author pid="47/6264">Nam Nguyen</author>
+<author pid="286/7366">Josef Baloun</author>
+<author pid="19/9854">Ladislav Lenc</author>
+<author pid="50/4970">Pavel Kr&#225;l</author>
+<title>ICDAR 2021 Competition on Historical Map Segmentation.</title>
+<year>2021</year>
+<volume>abs/2105.13265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13265</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13265</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-10074" mdate="2023-06-28">
+<author pid="181/6915">Raghav Mehta</author>
+<author pid="242/9238">Angelos Filos</author>
+<author pid="200/0516">Ujjwal Baid</author>
+<author pid="265/3498">Chiharu Sako</author>
+<author pid="95/6709">Richard McKinley</author>
+<author pid="230/3907">Michael Rebsamen</author>
+<author pid="282/0400">Katrin D&#228;twyler</author>
+<author pid="149/7569">Raphael Meier</author>
+<author pid="282/1389">Piotr Radojewski</author>
+<author pid="201/7764">Gowtham Krishnan Murugesan</author>
+<author pid="265/2568">Sahil S. Nalawade</author>
+<author pid="288/7741">Chandan Ganesh</author>
+<author pid="205/6104">Benjamin C. Wagner</author>
+<author pid="265/3301">Fang F. Yu</author>
+<author pid="03/2160">Baowei Fei</author>
+<author pid="205/6096">Ananth J. Madhuranthakam</author>
+<author pid="01/6305">Joseph A. Maldjian</author>
+<author pid="212/9527">Laura Alexandra Daza</author>
+<author pid="212/9517">Catalina G&#243;mez Caballero</author>
+<author pid="41/639">Pablo Arbel&#225;ez</author>
+<author pid="171/8003">Chengliang Dai</author>
+<author pid="63/1591-11">Shuo Wang 0011</author>
+<author pid="288/7781">Hadrien Raynaud</author>
+<author pid="198/0698">Yuanhan Mo</author>
+<author pid="63/1426">Elsa D. Angelini</author>
+<author pid="g/YikeGuo">Yike Guo</author>
+<author pid="20/5519">Wenjia Bai</author>
+<author pid="92/2241">Subhashis Banerjee</author>
+<author pid="174/0474">Linmin Pei</author>
+<author pid="64/7265">Murat Ak</author>
+<author pid="309/8181">Sarahi Rosas-Gonz&#225;lez</author>
+<author pid="131/6153">Ilyess Zemmoura</author>
+<author pid="81/1093">Clovis Tauber</author>
+<author pid="245/4275">Minh H. Vu</author>
+<author pid="218/1371">Tufve Nyholm</author>
+<author pid="127/4663">Tommy L&#246;fstedt</author>
+<author pid="275/3879">Laura Mora Ballestar</author>
+<author pid="49/3306">Ver&#243;nica Vilaplana</author>
+<author pid="288/7717">Hugh McHugh</author>
+<author pid="168/5426">Gonzalo D. Maso Talou</author>
+<author pid="03/5773">Alan Wang</author>
+<author pid="274/3034">Jay B. Patel</author>
+<author pid="42/10254">Ken Chang</author>
+<author pid="225/5210">Katharina Hoebel</author>
+<author pid="266/8089">Mishka Gidwani</author>
+<author pid="266/7845">Nishanth Thumbavanam Arun</author>
+<author pid="271/7816">Sharut Gupta</author>
+<author pid="271/8038">Mehak Aggarwal</author>
+<author pid="155/3078">Praveer Singh</author>
+<author pid="165/7810">Elizabeth R. Gerstner</author>
+<author pid="50/3269">Jayashree Kalpathy-Cramer</author>
+<author pid="150/5004">Nicolas Boutry</author>
+<author pid="309/9075">Alexis Huard</author>
+<author pid="150/4157">Lasitha Vidyaratne</author>
+<author pid="265/3327">Md Monibor Rahman</author>
+<author pid="10/4321">Khan M. Iftekharuddin</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="91/4845-16">Jun Ma 0016</author>
+<author pid="71/10545">Mariano Cabezas</author>
+<author pid="32/4689">Xavier Llad&#243;</author>
+<author pid="16/5582">Arnau Oliver</author>
+<author pid="309/8126">Liliana Valencia</author>
+<author pid="63/5928">Sergi Valverde</author>
+<author pid="254/2882">Mehdi Amian</author>
+<author pid="153/1648">Mohammadreza Soltaninejad</author>
+<author pid="26/1146">Andriy Myronenko</author>
+<author pid="226/7000">Ali Hatamizadeh</author>
+<author pid="01/5235-1">Xue Feng 0001</author>
+<author pid="265/2935">Quan Dou</author>
+<author pid="63/4561">Nicholas J. Tustison</author>
+<author pid="47/2334">Craig H. Meyer</author>
+<author pid="263/1100">Nisarg A. Shah</author>
+<author pid="39/7796">Sanjay N. Talbar</author>
+<author pid="49/8400">Marc-Andr&#233; Weber</author>
+<author pid="195/3007">Abhishek Mahajan</author>
+<author pid="156/3027">Andr&#225;s Jakab</author>
+<author pid="87/10741">Roland Wiest</author>
+<author pid="94/1252">Hassan M. Fathallah-Shaykh</author>
+<author pid="165/4591">Arash Nazeri</author>
+<author pid="123/8294">Mikhail Milchenko</author>
+<author pid="67/7228">Daniel S. Marcus</author>
+<author pid="230/3673">Aikaterini Kotrotsou</author>
+<author pid="288/7607">Rivka Colen</author>
+<author pid="68/10804">John B. Freymann</author>
+<author pid="42/10803">Justin S. Kirby</author>
+<author pid="d/ChristosDavatzikos">Christos Davatzikos</author>
+<author pid="74/6505">Bjoern H. Menze</author>
+<author pid="117/7034">Spyridon Bakas</author>
+<author pid="67/9076">Yarin Gal</author>
+<author pid="20/1315">Tal Arbel</author>
+<title>QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation - Analysis of Ranking Metrics and Benchmarking Results.</title>
+<year>2021</year>
+<volume>abs/2112.10074</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.10074</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-10074</url>
+</article>
+</r>
+<r><inproceedings key="conf/brainles-ws/BuatoisPTC19" mdate="2022-03-16">
+<author pid="265/3153">Thibault Buatois</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>Two Stages CNN-Based Segmentation of Gliomas, Uncertainty Quantification and Prediction of Overall Patient Survival.</title>
+<pages>167-178</pages>
+<year>2019</year>
+<booktitle>BrainLes@MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46643-5_16</ee>
+<ee>https://www.wikidata.org/entity/Q108527542</ee>
+<crossref>conf/brainles-ws/2019-2</crossref>
+<url>db/conf/brainles-ws/brainles-ws2019-2.html#BuatoisPTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/brainles-ws/BoutryCPTTG19" mdate="2022-03-16">
+<author orcid="0000-0001-6278-4638" pid="150/5004">Nicolas Boutry</author>
+<author orcid="0000-0002-3757-074X" pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-2748-6624" pid="162/5965">&#201;lodie Puybareau</author>
+<author orcid="0000-0003-4617-4922" pid="121/6439">Guillaume Tochon</author>
+<author orcid="0000-0002-2179-3498" pid="00/1609">Hugues Talbot</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<title>Using Separated Inputs for Multimodal Brain Tumor Segmentation with 3D U-Net-like Architectures.</title>
+<pages>187-199</pages>
+<year>2019</year>
+<booktitle>BrainLes@MICCAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46640-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q108527541</ee>
+<crossref>conf/brainles-ws/2019-1</crossref>
+<url>db/conf/brainles-ws/brainles-ws2019-1.html#BoutryCPTTG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/mta/RusinolCD18" mdate="2020-05-11">
+<author orcid="0000-0002-1734-2205" pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-8860-8082" pid="86/5671">Katerine D&#237;az-Chito</author>
+<title>Augmented songbook: an augmented reality educational application for raising music awareness.</title>
+<pages>13773-13798</pages>
+<year>2018</year>
+<volume>77</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1007/s11042-017-4991-4</ee>
+<url>db/journals/mta/mta77.html#RusinolCD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpr/MingCLVB18" mdate="2023-03-24">
+<author pid="46/9230">Zuheng Ming</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author pid="44/5189">Muriel Visani</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<title>FaceLiveNet: End-to-End Networks Combining Face Verification with Interactive Facial Expression-Based Liveness Detection.</title>
+<pages>3507-3512</pages>
+<year>2018</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2018.8545274</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2018.8545274</ee>
+<crossref>conf/icpr/2018</crossref>
+<url>db/conf/icpr/icpr2018.html#MingCLVB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/PuybareauTCF18" mdate="2026-03-24">
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="121/6439">Guillaume Tochon</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0003-1494-286X" pid="90/2799">Jonathan Fabrizio</author>
+<title>Segmentation of Gliomas and Prediction of Patient Overall Survival: A Simple and Fast Procedure.</title>
+<pages>199-209</pages>
+<year>2018</year>
+<booktitle>BrainLes@MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-11726-9_18</ee>
+<ee>https://www.wikidata.org/entity/Q108527523</ee>
+<crossref>conf/miccai/2018brainles-2</crossref>
+<url>db/conf/miccai/brainles2018-2.html#PuybareauTCF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grec/DrapeauGCCBEB17" mdate="2020-03-27">
+<author pid="213/8379">Jordan Drapeau</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="e/VEglin">V&#233;ronique Eglin</author>
+<author pid="12/3344">St&#233;phane Bres</author>
+<title>Extraction of Ancient Map Contents Using Trees of Connected Components.</title>
+<pages>115-130</pages>
+<year>2017</year>
+<booktitle>GREC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02284-6_9</ee>
+<crossref>conf/grec/2017</crossref>
+<url>db/conf/grec/grec2017.html#DrapeauGCCBEB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/MingCLVB17" mdate="2023-03-24">
+<author pid="46/9230">Zuheng Ming</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-9658-0833" pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author pid="44/5189">Muriel Visani</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<title>Simple Triplet Loss Based on Intra/Inter-Class Metric Learning for Face Verification.</title>
+<pages>1656-1664</pages>
+<year>2017</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2017.194</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCVW.2017.194</ee>
+<crossref>conf/iccvw/2017</crossref>
+<url>db/conf/iccvw/iccvw2017.html#MingCLVB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/DrapeauGCCBEB17" mdate="2023-03-24">
+<author pid="213/8379">Jordan Drapeau</author>
+<author pid="21/1499">Thierry G&#233;raud</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="e/VEglin">V&#233;ronique Eglin</author>
+<author pid="12/3344">St&#233;phane Bres</author>
+<title>Extraction of Ancient Map Contents Using Trees of Connected Components.</title>
+<pages>3-4</pages>
+<year>2017</year>
+<booktitle>GREC@ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2017.249</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.249</ee>
+<crossref>conf/icdar/2017grec</crossref>
+<url>db/conf/icdar/grec2017.html#DrapeauGCCBEB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonGBCELNR17" mdate="2020-03-27">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="115/7744">Petra Gomez-Kr&#228;mer</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="166/0070">S&#233;bastien Eskenazi</author>
+<author orcid="0000-0002-9658-0833" pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author pid="65/8845">Nibal Nayef</author>
+<author pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="32/6317">Nicolas Sidere</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>SmartDoc 2017 Video Capture: Mobile Document Acquisition in Video Mode.</title>
+<pages>11-16</pages>
+<year>2017</year>
+<booktitle>OST@ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2017.306</ee>
+<crossref>conf/icdar/2017ost</crossref>
+<url>db/conf/icdar/ost2017.html#ChazalonGBCELNR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/RoyerCRB17" mdate="2024-10-06">
+<author orcid="0009-0008-9841-6755" pid="166/4656">Emilien Royer</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="95/6610">Fr&#233;d&#233;ric Bouchara</author>
+<title>Benchmarking Keypoint Filtering Approaches for Document Image Matching.</title>
+<pages>343-348</pages>
+<year>2017</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2017.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.64</ee>
+<crossref>conf/icdar/2017</crossref>
+<url>db/conf/icdar/icdar2017.html#RoyerCRB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/NayefYBCFKLPRCK17" mdate="2024-01-16">
+<author pid="65/8845">Nibal Nayef</author>
+<author pid="05/979">Fei Yin</author>
+<author pid="156/1043">Imen Bizid</author>
+<author pid="67/4371">Hyunsoo Choi</author>
+<author pid="14/6701">Yuan Feng</author>
+<author orcid="0000-0001-8762-4454" pid="03/6509">Dimosthenis Karatzas</author>
+<author pid="152/8206">Zhenbo Luo</author>
+<author pid="p/UmapadaPal">Umapada Pal 0001</author>
+<author orcid="0000-0003-0291-0078" pid="125/8137">Christophe Rigaud</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-3954-4027" pid="57/10966">Wafa Khlif</author>
+<author orcid="0000-0002-9658-0833" pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="24/3006-1">Cheng-Lin Liu 0001</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>ICDAR2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification - RRC-MLT.</title>
+<pages>1454-1459</pages>
+<year>2017</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2017.237</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.237</ee>
+<crossref>conf/icdar/2017</crossref>
+<url>db/conf/icdar/icdar2017.html#NayefYBCFKLPRCK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/SidereSCCBO17" mdate="2023-03-23">
+<author pid="32/6317">Nicolas Sidere</author>
+<author pid="163/7900">Cyrille Suire</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>TouchDoc: A Tool to Bridge the Gap between Physical and Digital Libraries.</title>
+<pages>332-333</pages>
+<year>2017</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1109/JCDL.2017.7991615</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/JCDL.2017.7991615</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3200398</ee>
+<crossref>conf/jcdl/2017</crossref>
+<url>db/conf/jcdl/jcdl2017.html#SidereSCCBO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/XuGPBC17" mdate="2018-03-06">
+<author pid="86/11269">Yongchao Xu</author>
+<author orcid="0000-0002-0380-7948" pid="21/1499">Thierry G&#233;raud</author>
+<author pid="162/5965">&#201;lodie Puybareau</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<title>White Matter Hyperintensities Segmentation in a Few Seconds Using Fully Convolutional Network and Transfer Learning.</title>
+<pages>501-514</pages>
+<year>2017</year>
+<booktitle>BrainLes@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75238-9_42</ee>
+<crossref>conf/miccai/2017brainles</crossref>
+<url>db/conf/miccai/brainles2017.html#XuGPBC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RusinolCO16" mdate="2017-05-08">
+<author pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Filtrage de descripteurs locaux pour l'am&#233;lioration de la d&#233;tection de documents.</title>
+<pages>589-604</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<ee>https://doi.org/10.24348/sdnri.2016.CIFED-18</ee>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#RusinolCO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/ChazalonC16" mdate="2017-05-08">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="16/905">Micka&#235;l Coustaty</author>
+<title>Recherche par le contenu d'images de monnaies de collection.</title>
+<pages>741-743</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#ChazalonC16</url>
+<ee>https://doi.org/10.24348/sdnri.2016.demos.CIFED-2</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/RusinolCOL15" mdate="2023-03-24">
+<author pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<author orcid="0000-0002-4533-4739" pid="54/769">Josep Llad&#243;s 0001</author>
+<title>A comparative study of local detectors and descriptors for mobile document classification.</title>
+<pages>596-600</pages>
+<year>2015</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2015.7333831</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2015.7333831</ee>
+<crossref>conf/icdar/2015</crossref>
+<url>db/conf/icdar/icdar2015.html#RusinolCOL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonROL15" mdate="2023-03-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-1734-2205" pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<author orcid="0000-0002-4533-4739" pid="54/769">Josep Llad&#243;s 0001</author>
+<title>A semi-automatic groundtruthing tool for mobile-captured document segmentation.</title>
+<pages>621-625</pages>
+<year>2015</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2015.7333836</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2015.7333836</ee>
+<crossref>conf/icdar/2015</crossref>
+<url>db/conf/icdar/icdar2015.html#ChazalonROL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/BurieCCELMNOPR15" mdate="2023-03-24">
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="166/0070">S&#233;bastien Eskenazi</author>
+<author orcid="0000-0002-9658-0833" pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author orcid="0000-0002-4763-8584" pid="126/6790">Maroua Mehri</author>
+<author pid="65/8845">Nibal Nayef</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<author orcid="0000-0002-4171-2595" pid="47/8615">Sophea Prum</author>
+<author orcid="0000-0002-1734-2205" pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<title>ICDAR2015 competition on smartphone document capture and OCR (SmartDoc).</title>
+<pages>1161-1165</pages>
+<year>2015</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2015.7333943</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2015.7333943</ee>
+<crossref>conf/icdar/2015</crossref>
+<url>db/conf/icdar/icdar2015.html#BurieCCELMNOPR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonRO15" mdate="2023-03-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author orcid="0000-0002-1734-2205" pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Improving document matching performance by local descriptor filtering.</title>
+<pages>1216-1220</pages>
+<year>2015</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2015.7333957</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2015.7333957</ee>
+<crossref>conf/icdar/2015</crossref>
+<url>db/conf/icdar/icdar2015.html#ChazalonRO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/NayefLPECO15" mdate="2023-03-24">
+<author pid="65/8845">Nibal Nayef</author>
+<author orcid="0000-0002-9658-0833" pid="47/7443">Muhammad Muzzamil Luqman</author>
+<author orcid="0000-0002-4171-2595" pid="47/8615">Sophea Prum</author>
+<author pid="166/0070">S&#233;bastien Eskenazi</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>SmartDoc-QA: A dataset for quality assessment of smartphone captured document images - single and multiple distortions.</title>
+<pages>1231-1235</pages>
+<year>2015</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2015.7333960</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2015.7333960</ee>
+<crossref>conf/icdar/2015</crossref>
+<url>db/conf/icdar/icdar2015.html#NayefLPECO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RusinolCO14" mdate="2017-05-08">
+<author pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Normalisation et validation d'images de documents captur&#233;es en mobilit&#233;.</title>
+<pages>109-124</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<ee>https://doi.org/10.24348/sdnri.2014.CIFED-10</ee>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#RusinolCO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/das/RusinolCO14" mdate="2023-03-24">
+<author orcid="0000-0002-1734-2205" pid="97/4640">Mar&#231;al Rusi&#241;ol</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Combining Focus Measure Operators to Predict OCR Accuracy in Mobile-Captured Document Images.</title>
+<pages>181-185</pages>
+<year>2014</year>
+<booktitle>Document Analysis Systems</booktitle>
+<ee>https://doi.org/10.1109/DAS.2014.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DAS.2014.11</ee>
+<crossref>conf/das/2014</crossref>
+<url>db/conf/das/das2014.html#RusinolCO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/das/NayefCGO14" mdate="2023-03-24">
+<author pid="65/8845">Nibal Nayef</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="115/7744">Petra Gomez-Kr&#228;mer</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Efficient Example-Based Super-Resolution of Single Text Images Based on Selective Patch Processing.</title>
+<pages>227-231</pages>
+<year>2014</year>
+<booktitle>Document Analysis Systems</booktitle>
+<ee>https://doi.org/10.1109/DAS.2014.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DAS.2014.25</ee>
+<crossref>conf/das/2014</crossref>
+<url>db/conf/das/das2014.html#NayefCGO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipta/SayCCBO14" mdate="2017-11-06">
+<author pid="156/7118">Vortana Say</author>
+<author orcid="0000-0002-0123-439X" pid="16/905">Micka&#235;l Coustaty</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="38/1878">Jean-Christophe Burie</author>
+<author pid="99/720">Jean-Marc Ogier</author>
+<title>Segmentation system and its evaluation for gray scale coin documents.</title>
+<pages>209-214</pages>
+<year>2014</year>
+<booktitle>IPTA</booktitle>
+<ee>https://doi.org/10.1109/IPTA.2014.7001960</ee>
+<crossref>conf/ipta/2014</crossref>
+<url>db/conf/ipta/ipta2014.html#SayCCBO14</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Chazalon13" mdate="2020-07-21">
+<author pid="00/7894">Joseph Chazalon</author>
+<title>Interpr&#233;tation contextuelle et assist&#233;e de fonds d'archives num&#233;ris&#233;s : application &#224; des registres de vente du XVIIIe si&#232;cle. (Contextual and assisted interpretation of digitized fonds: application to sales registers from the 18th century).</title>
+<year>2013</year>
+<school>Institut national des sciences appliqu&#233;es de Rennes, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00903372</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/das/ChazalonCL12" mdate="2023-03-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="82/4481">Bertrand Co&#252;asnon</author>
+<author pid="27/4999">Aur&#233;lie Lemaitre</author>
+<title>A Simple and Uniform Way to Introduce Complimentary Asynchronous Interaction Models in an Existing Document Analysis System.</title>
+<pages>399-403</pages>
+<year>2012</year>
+<booktitle>Document Analysis Systems</booktitle>
+<ee>https://doi.org/10.1109/DAS.2012.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DAS.2012.11</ee>
+<crossref>conf/das/2012</crossref>
+<url>db/conf/das/das2012.html#ChazalonCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drr/ChazalonC12" mdate="2017-05-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="82/4481">Bertrand Co&#252;asnon</author>
+<title>Iterative analysis of document collections enables efficient human-initiated interaction.</title>
+<year>2012</year>
+<booktitle>DRR</booktitle>
+<ee>https://doi.org/10.1117/12.911995</ee>
+<crossref>conf/drr/2012</crossref>
+<url>db/conf/drr/drr2012.html#ChazalonC12</url>
+<pages>82970L</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ChazalonCL11" mdate="2023-03-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="82/4481">Bertrand Co&#252;asnon</author>
+<author pid="27/4999">Aur&#233;lie Lemaitre</author>
+<title>Iterative Analysis of Pages in Document Collections for Efficient User Interaction.</title>
+<pages>503-507</pages>
+<year>2011</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2011.107</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.107</ee>
+<crossref>conf/icdar/2011</crossref>
+<url>db/conf/icdar/icdar2011.html#ChazalonCL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/GuichardCC11" mdate="2023-03-24">
+<author pid="81/8615">Laurent Guichard</author>
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="82/4481">Bertrand Co&#252;asnon</author>
+<title>Exploiting Collection Level for Improving Assisted Handwritten Word Transcription of Historical Documents.</title>
+<pages>875-879</pages>
+<year>2011</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2011.179</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.179</ee>
+<crossref>conf/icdar/2011</crossref>
+<url>db/conf/icdar/icdar2011.html#GuichardCC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drr/ChazalonC10" mdate="2017-05-24">
+<author pid="00/7894">Joseph Chazalon</author>
+<author pid="82/4481">Bertrand Co&#252;asnon</author>
+<title>Using definite clause grammars to build a global system for analyzing collections of documents.</title>
+<pages>75340R</pages>
+<year>2010</year>
+<booktitle>DRR</booktitle>
+<ee>https://doi.org/10.1117/12.840436</ee>
+<crossref>conf/drr/2010</crossref>
+<url>db/conf/drr/drr2010.html#ChazalonC10</url>
+</inproceedings>
+</r>
+<coauthors n="171" nc="1">
+<co c="0"><na f="a/Abadie:Nathalie" pid="34/8684">Nathalie Abadie</na></co>
+<co c="0"><na f="a/Aggarwal:Mehak" pid="271/8038">Mehak Aggarwal</na></co>
+<co c="0"><na f="a/Ak:Murat" pid="64/7265">Murat Ak</na></co>
+<co c="0"><na f="a/Amian:Mehdi" pid="254/2882">Mehdi Amian</na></co>
+<co c="0"><na f="a/Angelini:Elsa_D=" pid="63/1426">Elsa D. Angelini</na></co>
+<co c="0"><na f="a/Arbel:Tal" pid="20/1315">Tal Arbel</na></co>
+<co c="0" n="2"><na f="a/Arbel=aacute=ez:Pablo_Andr=eacute=s" pid="41/639">Pablo Andr&#233;s Arbel&#225;ez</na><na>Pablo Arbel&#225;ez</na></co>
+<co c="0"><na f="a/Arun:Nishanth_Thumbavanam" pid="266/7845">Nishanth Thumbavanam Arun</na></co>
+<co c="0"><na f="a/Awal:Ahmad_Montaser" pid="156/2945">Ahmad Montaser Awal</na></co>
+<co c="0"><na f="b/Baek:Youngmin" pid="130/0386">Youngmin Baek</na></co>
+<co c="0"><na f="b/Bai:Wenjia" pid="20/5519">Wenjia Bai</na></co>
+<co c="0"><na f="b/Baid:Ujjwal" pid="200/0516">Ujjwal Baid</na></co>
+<co c="0"><na f="b/Bakas:Spyridon" pid="117/7034">Spyridon Bakas</na></co>
+<co c="0"><na f="b/Ballestar:Laura_Mora" pid="275/3879">Laura Mora Ballestar</na></co>
+<co c="0"><na f="b/Baloun:Josef" pid="286/7366">Josef Baloun</na></co>
+<co c="0"><na f="b/Banerjee:Subhashis" pid="92/2241">Subhashis Banerjee</na></co>
+<co c="0"><na f="b/Bernard:Charly" pid="392/1037">Charly Bernard</na></co>
+<co c="0"><na f="b/Bernet:Philippe" pid="348/6676">Philippe Bernet</na></co>
+<co c="0"><na f="b/Bizid:Imen" pid="156/1043">Imen Bizid</na></co>
+<co c="0"><na f="b/Bloch:Isabelle" pid="33/1668">Isabelle Bloch</na></co>
+<co c="0"><na f="b/Bouchara:Fr=eacute=d=eacute=ric" pid="95/6610">Fr&#233;d&#233;ric Bouchara</na></co>
+<co c="0"><na f="b/Bourquelot:Alexandre" pid="348/6848">Alexandre Bourquelot</na></co>
+<co c="0"><na f="b/Boutry:Nicolas" pid="150/5004">Nicolas Boutry</na></co>
+<co c="0"><na f="b/Bres:St=eacute=phane" pid="12/3344">St&#233;phane Bres</na></co>
+<co c="0"><na f="b/Buatois:Thibault" pid="265/3153">Thibault Buatois</na></co>
+<co c="0"><na f="b/Burie:Jean=Christophe" pid="38/1878">Jean-Christophe Burie</na></co>
+<co c="0"><na f="c/Caballero:Catalina_G=oacute=mez" pid="212/9517">Catalina G&#243;mez Caballero</na></co>
+<co c="0"><na f="c/Cabezas:Mariano" pid="71/10545">Mariano Cabezas</na></co>
+<co c="0"><na f="c/Carlinet:Edwin" pid="123/4711">Edwin Carlinet</na></co>
+<co c="0"><na f="c/Chan:Ta=Chien" pid="176/7085">Ta-Chien Chan</na></co>
+<co c="0"><na f="c/Chang:Ken" pid="42/10254">Ken Chang</na></co>
+<co c="0"><na f="c/Chen:Yizi" pid="250/4440">Yizi Chen</na></co>
+<co c="0"><na f="c/Chiang:Yao=Yi" pid="39/2145">Yao-Yi Chiang</na></co>
+<co c="0"><na f="c/Chiron:Guillaume" pid="133/9518">Guillaume Chiron</na></co>
+<co c="0"><na f="c/Choi:Chankyu" pid="169/6632">Chankyu Choi</na></co>
+<co c="0"><na f="c/Choi:Hyunsoo" pid="67/4371">Hyunsoo Choi</na></co>
+<co c="0"><na f="c/Colen:Rivka" pid="288/7607">Rivka Colen</na></co>
+<co c="0"><na f="c/Co=uuml=asnon:Bertrand" pid="82/4481">Bertrand Co&#252;asnon</na></co>
+<co c="0"><na f="c/Coustaty:Micka=euml=l" pid="16/905">Micka&#235;l Coustaty</na></co>
+<co c="0" n="2"><na f="d/Daetwyler:Katrin" pid="282/0400">Katrin Daetwyler</na><na>Katrin D&#228;twyler</na></co>
+<co c="0"><na f="d/Dai:Chengliang" pid="171/8003">Chengliang Dai</na></co>
+<co c="0"><na f="d/Dai:Tianhao" pid="346/6027">Tianhao Dai</na></co>
+<co c="0"><na f="d/Davatzikos:Christos" pid="d/ChristosDavatzikos">Christos Davatzikos</na></co>
+<co c="0"><na f="d/Daza:Laura_Alexandra" pid="212/9527">Laura Alexandra Daza</na></co>
+<co c="0"><na f="d/D=iacute=az=Chito:Katerine" pid="86/5671">Katerine D&#237;az-Chito</na></co>
+<co c="0" n="2"><na f="d/diLenardo:Isabella" pid="185/7844">Isabella diLenardo</na><na>Isabella di Lenardo</na></co>
+<co c="0"><na f="d/Dou:Quan" pid="265/2935">Quan Dou</na></co>
+<co c="0"><na f="d/Drapeau:Jordan" pid="213/8379">Jordan Drapeau</na></co>
+<co c="0" n="2"><na f="d/Dumenieu:Bertrand" pid="165/1412">Bertrand Dumenieu</na><na>Bertrand Dum&#233;nieu</na></co>
+<co c="0"><na f="e/Eglin:V=eacute=ronique" pid="e/VEglin">V&#233;ronique Eglin</na></co>
+<co c="0"><na f="e/Eskenazi:S=eacute=bastien" pid="166/0070">S&#233;bastien Eskenazi</na></co>
+<co c="0"><na f="f/Fabrizio:Jonathan" pid="90/2799">Jonathan Fabrizio</na></co>
+<co c="0"><na f="f/Fathallah=Shaykh:Hassan_M=" pid="94/1252">Hassan M. Fathallah-Shaykh</na></co>
+<co c="0"><na f="f/Fei:Baowei" pid="03/2160">Baowei Fei</na></co>
+<co c="0"><na f="f/Feng_0001:Xue" pid="01/5235-1">Xue Feng 0001</na></co>
+<co c="0"><na f="f/Feng:Yuan" pid="14/6701">Yuan Feng</na></co>
+<co c="0"><na f="f/Filos:Angelos" pid="242/9238">Angelos Filos</na></co>
+<co c="0"><na f="f/Freymann:John_B=" pid="68/10804">John B. Freymann</na></co>
+<co c="0"><na f="g/Gal:Yarin" pid="67/9076">Yarin Gal</na></co>
+<co c="0"><na f="g/Ganesh:Chandan" pid="288/7741">Chandan Ganesh</na></co>
+<co c="0"><na f="g/G=eacute=raud:Thierry" pid="21/1499">Thierry G&#233;raud</na></co>
+<co c="0"><na f="g/Gerstner:Elizabeth_R=" pid="165/7810">Elizabeth R. Gerstner</na></co>
+<co c="0"><na f="g/Gidwani:Mishka" pid="266/8089">Mishka Gidwani</na></co>
+<co c="0"><na f="g/Gomez=Kr=auml=mer:Petra" pid="115/7744">Petra Gomez-Kr&#228;mer</na></co>
+<co c="0"><na f="g/Guichard:Laurent" pid="81/8615">Laurent Guichard</na></co>
+<co c="0"><na f="g/Guo:Yike" pid="g/YikeGuo">Yike Guo</na></co>
+<co c="0"><na f="g/Gupta:Sharut" pid="271/7816">Sharut Gupta</na></co>
+<co c="0"><na f="h/Hatamizadeh:Ali" pid="226/7000">Ali Hatamizadeh</na></co>
+<co c="0"><na f="h/Hentschel:Michael" pid="70/4243">Michael Hentschel</na></co>
+<co c="0" n="2"><na f="h/H=ouml=bel:Katharina" pid="225/5210">Katharina H&#246;bel</na><na>Katharina Hoebel</na></co>
+<co c="0"><na f="h/Huard:Alexis" pid="309/9075">Alexis Huard</na></co>
+<co c="0"><na f="i/Iftekharuddin:Khan_M=" pid="10/4321">Khan M. Iftekharuddin</na></co>
+<co c="0"><na f="j/Jakab:Andr=aacute=s" pid="156/3027">Andr&#225;s Jakab</na></co>
+<co c="0"><na f="j/Jang:Leeje" pid="350/4998">Leeje Jang</na></co>
+<co c="0"><na f="k/Kalpathy=Cramer:Jayashree" pid="50/3269">Jayashree Kalpathy-Cramer</na></co>
+<co c="0"><na f="k/Kaplan:Fr=eacute=d=eacute=ric" pid="66/3345">Fr&#233;d&#233;ric Kaplan</na></co>
+<co c="0"><na f="k/Karatzas:Dimosthenis" pid="03/6509">Dimosthenis Karatzas</na></co>
+<co c="0"><na f="k/Khlif:Wafa" pid="57/10966">Wafa Khlif</na></co>
+<co c="0"><na f="k/Kirby:Justin_S=" pid="42/10803">Justin S. Kirby</na></co>
+<co c="0"><na f="k/Kotrotsou:Aikaterini" pid="230/3673">Aikaterini Kotrotsou</na></co>
+<co c="0"><na f="k/Kr=aacute=l:Pavel" pid="50/4970">Pavel Kr&#225;l</na></co>
+<co c="0"><na f="l/Lee:Jeongtae" pid="219/6854">Jeongtae Lee</na></co>
+<co c="0"><na f="l/Lemaitre:Aur=eacute=lie" pid="27/4999">Aur&#233;lie Lemaitre</na></co>
+<co c="0"><na f="l/Lenc:Ladislav" pid="19/9854">Ladislav Lenc</na></co>
+<co c="0"><na f="l/Li_0007:Zekun" pid="150/2008-7">Zekun Li 0007</na></co>
+<co c="0"><na f="l/Liao:Hsiung=Ming" pid="374/7164">Hsiung-Ming Liao</na></co>
+<co c="0"><na f="l/Lin_0001:Yijun" pid="210/8162-1">Yijun Lin 0001</na></co>
+<co c="0"><na f="l/Liu_0001:Cheng=Lin" pid="24/3006-1">Cheng-Lin Liu 0001</na></co>
+<co c="0"><na f="l/Llad=oacute=:Xavier" pid="32/4689">Xavier Llad&#243;</na></co>
+<co c="0"><na f="l/Llad=oacute=s_0001:Josep" pid="54/769">Josep Llad&#243;s 0001</na></co>
+<co c="0"><na f="l/L=ouml=fstedt:Tommy" pid="127/4663">Tommy L&#246;fstedt</na></co>
+<co c="0"><na f="l/Luo:Zhenbo" pid="152/8206">Zhenbo Luo</na></co>
+<co c="0"><na f="l/Luqman:Muhammad_Muzzamil" pid="47/7443">Muhammad Muzzamil Luqman</na></co>
+<co c="0"><na f="m/Ma_0016:Jun" pid="91/4845-16">Jun Ma 0016</na></co>
+<co c="0"><na f="m/Madhuranthakam:Ananth_J=" pid="205/6096">Ananth J. Madhuranthakam</na></co>
+<co c="0"><na f="m/Mahajan:Abhishek" pid="195/3007">Abhishek Mahajan</na></co>
+<co c="0"><na f="m/Maldjian:Joseph_A=" pid="01/6305">Joseph A. Maldjian</na></co>
+<co c="0"><na f="m/Mallet:Cl=eacute=ment" pid="26/8109">Cl&#233;ment Mallet</na></co>
+<co c="0"><na f="m/Marcus:Daniel_S=" pid="67/7228">Daniel S. Marcus</na></co>
+<co c="0"><na f="m/McHugh:Hugh" pid="288/7717">Hugh McHugh</na></co>
+<co c="0"><na f="m/McKinley:Richard" pid="95/6709">Richard McKinley</na></co>
+<co c="0"><na f="m/Mehri:Maroua" pid="126/6790">Maroua Mehri</na></co>
+<co c="0"><na f="m/Mehta:Raghav" pid="181/6915">Raghav Mehta</na></co>
+<co c="0"><na f="m/Meier:Raphael" pid="149/7569">Raphael Meier</na></co>
+<co c="0" n="2"><na f="m/Menze:Bjoern" pid="74/6505">Bjoern Menze</na><na>Bjoern H. Menze</na></co>
+<co c="0"><na f="m/Meyer:Craig_H=" pid="47/2334">Craig H. Meyer</na></co>
+<co c="0"><na f="m/Milchenko:Mikhail" pid="123/8294">Mikhail Milchenko</na></co>
+<co c="0"><na f="m/Ming:Zuheng" pid="46/9230">Zuheng Ming</na></co>
+<co c="0"><na f="m/Mo:Yuanhan" pid="198/0698">Yuanhan Mo</na></co>
+<co c="0" n="2"><na f="m/Murugesan:Gowtham" pid="201/7764">Gowtham Murugesan</na><na>Gowtham Krishnan Murugesan</na></co>
+<co c="0"><na f="m/Myronenko:Andriy" pid="26/1146">Andriy Myronenko</na></co>
+<co c="0"><na f="n/Nakagome:Yu" pid="254/2883">Yu Nakagome</na></co>
+<co c="0"><na f="n/Nalawade:Sahil_S=" pid="265/2568">Sahil S. Nalawade</na></co>
+<co c="0"><na f="n/Nayef:Nibal" pid="65/8845">Nibal Nayef</na></co>
+<co c="0"><na f="n/Nazeri:Arash" pid="165/4591">Arash Nazeri</na></co>
+<co c="0"><na f="n/Ngoc:Minh_On_Vu" pid="221/8949">Minh On Vu Ngoc</na></co>
+<co c="0"><na f="n/Nguyen:Nam" pid="47/6264">Nam Nguyen</na></co>
+<co c="0"><na f="n/Nguyen_0001:Vincent" pid="20/2617">Vincent Nguyen 0001</na></co>
+<co c="0"><na f="n/Nyholm:Tufve" pid="218/1371">Tufve Nyholm</na></co>
+<co c="0"><na f="o/Ogier:Jean=Marc" pid="99/720">Jean-Marc Ogier</na></co>
+<co c="0"><na f="o/Oliver:Arnau" pid="16/5582">Arnau Oliver</na></co>
+<co c="0"><na f="p/Pal_0001:Umapada" pid="p/UmapadaPal">Umapada Pal 0001</na></co>
+<co c="0"><na f="p/Patel:Jay_B=" pid="274/3034">Jay B. Patel</na></co>
+<co c="0"><na f="p/Pei:Linmin" pid="174/0474">Linmin Pei</na></co>
+<co c="0"><na f="p/Perret:Julien" pid="79/5311">Julien Perret</na></co>
+<co c="0"><na f="p/Petitpierre:R=eacute=mi" pid="284/2661">R&#233;mi Petitpierre</na></co>
+<co c="0"><na f="p/Pouliquen:Glen" pid="376/9719">Glen Pouliquen</na></co>
+<co c="0"><na f="p/Prum:Sophea" pid="47/8615">Sophea Prum</na></co>
+<co c="0"><na f="p/Puybareau:=Eacute=lodie" pid="162/5965">&#201;lodie Puybareau</na></co>
+<co c="0"><na f="r/Radojewski:Piotr" pid="282/1389">Piotr Radojewski</na></co>
+<co c="0"><na f="r/Rahman:Md_Monibor" pid="265/3327">Md Monibor Rahman</na></co>
+<co c="0"><na f="r/Raynaud:Hadrien" pid="288/7781">Hadrien Raynaud</na></co>
+<co c="0"><na f="r/Rebsamen:Michael" pid="230/3907">Michael Rebsamen</na></co>
+<co c="0"><na f="r/Rigaud:Christophe" pid="125/8137">Christophe Rigaud</na></co>
+<co c="0"><na f="r/Rosas=Gonz=aacute=lez:Sarahi" pid="309/8181">Sarahi Rosas-Gonz&#225;lez</na></co>
+<co c="0"><na f="r/Royer:Emilien" pid="166/4656">Emilien Royer</na></co>
+<co c="0"><na f="r/Rusi=ntilde=ol:Mar=ccedil=al" pid="97/4640">Mar&#231;al Rusi&#241;ol</na></co>
+<co c="0"><na f="s/Sako:Chiharu" pid="265/3498">Chiharu Sako</na></co>
+<co c="0"><na f="s/Say:Vortana" pid="156/7118">Vortana Say</na></co>
+<co c="0"><na f="s/Shah:Nisarg_A=" pid="263/1100">Nisarg A. Shah</na></co>
+<co c="0"><na f="s/Shuta:Ichimura" pid="415/6289">Ichimura Shuta</na></co>
+<co c="0"><na f="s/Sidere:Nicolas" pid="32/6317">Nicolas Sidere</na></co>
+<co c="0"><na f="s/Singh:Praveer" pid="155/3078">Praveer Singh</na></co>
+<co c="0"><na f="s/Soltaninejad:Mohammadreza" pid="153/1648">Mohammadreza Soltaninejad</na></co>
+<co c="0"><na f="s/Su:Wen=Rong" pid="415/5923">Wen-Rong Su</na></co>
+<co c="0"><na f="s/Suire:Cyrille" pid="163/7900">Cyrille Suire</na></co>
+<co c="0"><na f="t/Talbar:Sanjay_N=" pid="39/7796">Sanjay N. Talbar</na></co>
+<co c="0"><na f="t/Talbot:Hugues" pid="00/1609">Hugues Talbot</na></co>
+<co c="0"><na f="t/Talou:Gonzalo_D=_Maso" pid="168/5426">Gonzalo D. Maso Talou</na></co>
+<co c="0"><na f="t/Tauber:Clovis" pid="81/1093">Clovis Tauber</na></co>
+<co c="0"><na f="t/Tochon:Guillaume" pid="121/6439">Guillaume Tochon</na></co>
+<co c="0"><na f="t/Tual:Solenn" pid="340/7220">Solenn Tual</na></co>
+<co c="0"><na f="t/Tustison:Nicholas_J=" pid="63/4561">Nicholas J. Tustison</na></co>
+<co c="0"><na f="v/Vaienti:Beatrice" pid="333/4236">Beatrice Vaienti</na></co>
+<co c="0"><na f="v/Valencia:Liliana" pid="309/8126">Liliana Valencia</na></co>
+<co c="0"><na f="v/Valverde:Sergi" pid="63/5928">Sergi Valverde</na></co>
+<co c="0"><na f="v/Vidyaratne:Lasitha" pid="150/4157">Lasitha Vidyaratne</na></co>
+<co c="0"><na f="v/Vilaplana:Ver=oacute=nica" pid="49/3306">Ver&#243;nica Vilaplana</na></co>
+<co c="0"><na f="v/Visani:Muriel" pid="44/5189">Muriel Visani</na></co>
+<co c="0"><na f="v/Vu:Minh_H=" pid="245/4275">Minh H. Vu</na></co>
+<co c="0"><na f="w/Wagner:Benjamin_C=" pid="205/6104">Benjamin C. Wagner</na></co>
+<co c="0"><na f="w/Wang:Alan" pid="03/5773">Alan Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Shuo" pid="63/1591-11">Shuo Wang 0011</na></co>
+<co c="0"><na f="w/Weber:Marc=Andr=eacute=" pid="49/8400">Marc-Andr&#233; Weber</na></co>
+<co c="0"><na f="w/Weinman:Jerod_J=" pid="50/2682">Jerod J. Weinman</na></co>
+<co c="0"><na f="w/Wiest:Roland" pid="87/10741">Roland Wiest</na></co>
+<co c="0"><na f="x/Xu:Yongchao" pid="86/11269">Yongchao Xu</na></co>
+<co c="0"><na f="y/Yin:Fei" pid="05/979">Fei Yin</na></co>
+<co c="0"><na f="y/Yu:Fang_F=" pid="265/3301">Fang F. Yu</na></co>
+<co c="0"><na f="z/Zemmoura:Ilyess" pid="131/6153">Ilyess Zemmoura</na></co>
+<co c="0"><na f="z/Zou:Mengjie" pid="353/2412">Mengjie Zou</na></co>
+</coauthors>
+</dblpperson>
+

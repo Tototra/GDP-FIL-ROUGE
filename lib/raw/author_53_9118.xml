@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<dblpperson name="Walid J. Ghandour" pid="53/9118" n="7">
+<person key="homepages/53/9118" mdate="2011-02-14">
+<author pid="53/9118">Walid J. Ghandour</author>
+</person>
+<r><inproceedings key="conf/sbac-pad/0001MGG22" mdate="2024-10-06">
+<author orcid="0009-0007-9076-7318" pid="296/7519-1">Guillaume Didier 0001</author>
+<author pid="136/6642">Cl&#233;mentine Maurice</author>
+<author pid="346/5200">Antoine Geimer</author>
+<author pid="53/9118">Walid J. Ghandour</author>
+<title>Characterizing Prefetchers using CacheObserver.</title>
+<pages>170-179</pages>
+<year>2022</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD55451.2022.00028</ee>
+<crossref>conf/sbac-pad/2022</crossref>
+<url>db/conf/sbac-pad/sbac-pad2022.html#0001MGG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/GhandourMAG20" mdate="2022-06-11">
+<author orcid="0000-0002-2430-8443" pid="99/10126">Ali J. Ghandour</author>
+<author pid="125/2477">Ahmad Mansour</author>
+<author pid="271/5637">Hussein AlAsadi</author>
+<author pid="53/9118">Walid J. Ghandour</author>
+<title>Design and Implementation of Polyphase Fast Fourier Transform Channelizer.</title>
+<pages>613-618</pages>
+<year>2020</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC48107.2020.9148292</ee>
+<crossref>conf/iwcmc/2020</crossref>
+<url>db/conf/iwcmc/iwcmc2020.html#GhandourMAG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/GhandourGDN20" mdate="2022-04-09">
+<author orcid="0000-0002-2430-8443" pid="99/10126">Ali J. Ghandour</author>
+<author pid="53/9118">Walid J. Ghandour</author>
+<author pid="59/7312">Hassan Diab</author>
+<author pid="271/5477">Ahmad Nasri</author>
+<title>Performance Study of Catmull-Clark Subdivision Surfaces Algorithm.</title>
+<pages>911-916</pages>
+<year>2020</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC48107.2020.9148066</ee>
+<crossref>conf/iwcmc/2020</crossref>
+<url>db/conf/iwcmc/iwcmc2020.html#GhandourGDN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/GhandourG14" mdate="2023-03-23">
+<author pid="53/9118">Walid J. Ghandour</author>
+<author pid="155/4376">Nadine J. Ghandour</author>
+<title>Leveraging dynamic slicing to enhance indirect branch prediction.</title>
+<pages>292-299</pages>
+<year>2014</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2014.6974696</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCD.2014.6974696</ee>
+<crossref>conf/iccd/2014</crossref>
+<url>db/conf/iccd/iccd2014.html#GhandourG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/GhandourG14" mdate="2023-03-24">
+<author pid="53/9118">Walid J. Ghandour</author>
+<author pid="155/4376">Nadine J. Ghandour</author>
+<title>Position Paper: Leveraging Strength-Based Dynamic Slicing to Identify Control Reconvergence Instructions.</title>
+<pages>1368-1373</pages>
+<year>2014</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2014.154</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPSW.2014.154</ee>
+<crossref>conf/ipps/2014w</crossref>
+<url>db/conf/ipps/ipdps2014w.html#GhandourG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/taco/GhandourAM12" mdate="2021-02-17">
+<author pid="53/9118">Walid J. Ghandour</author>
+<author pid="31/1952">Haitham Akkary</author>
+<author pid="23/4711">Wes Masri</author>
+<title>Leveraging Strength-Based Dynamic Information Flow Analysis to Enhance Data Value Prediction.</title>
+<pages>1:1-1:33</pages>
+<year>2012</year>
+<volume>9</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1145/2133382.2133383</ee>
+<url>db/journals/taco/taco9.html#GhandourAM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/GhandourAM10" mdate="2021-08-11">
+<author pid="53/9118">Walid J. Ghandour</author>
+<author pid="31/1952">Haitham Akkary</author>
+<author pid="23/4711">Wes Masri</author>
+<title>The potential of using dynamic information flow analysis in data value prediction.</title>
+<pages>431-442</pages>
+<year>2010</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1145/1854273.1854327</ee>
+<ee>https://ieeexplore.ieee.org/document/7851541/</ee>
+<crossref>conf/IEEEpact/2010</crossref>
+<url>db/conf/IEEEpact/pact2010.html#GhandourAM10</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="3">
+<co c="2"><na f="a/Akkary:Haitham" pid="31/1952">Haitham Akkary</na></co>
+<co c="0"><na f="a/AlAsadi:Hussein" pid="271/5637">Hussein AlAsadi</na></co>
+<co c="0"><na f="d/Diab:Hassan" pid="59/7312">Hassan Diab</na></co>
+<co c="1"><na f="d/Didier_0001:Guillaume" pid="296/7519-1">Guillaume Didier 0001</na></co>
+<co c="1"><na f="g/Geimer:Antoine" pid="346/5200">Antoine Geimer</na></co>
+<co c="0"><na f="g/Ghandour:Ali_J=" pid="99/10126">Ali J. Ghandour</na></co>
+<co c="-1"><na f="g/Ghandour:Nadine_J=" pid="155/4376">Nadine J. Ghandour</na></co>
+<co c="0"><na f="m/Mansour:Ahmad" pid="125/2477">Ahmad Mansour</na></co>
+<co c="2"><na f="m/Masri:Wes" pid="23/4711">Wes Masri</na></co>
+<co c="1"><na f="m/Maurice:Cl=eacute=mentine" pid="136/6642">Cl&#233;mentine Maurice</na></co>
+<co c="0"><na f="n/Nasri:Ahmad" pid="271/5477">Ahmad Nasri</na></co>
+</coauthors>
+</dblpperson>
+

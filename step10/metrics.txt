@@ -1,21 +1,19 @@
 Link Prediction Report
-Configuration: (train <= 2022, valid 2023, test > 2023)
-
-## ComplEx (Best dim=64, Val MRR=0.0071)
-Tuning history: dim=64, lr=0.01 -> valMRR=0.0071 | dim=128, lr=0.01 -> valMRR=0.0042
+## ComplEx (Best dim=64, Val MRR=0.0099)
+Tuning history: dim=64, lr=0.01 -> valMRR=0.0099 | dim=128, lr=0.01 -> valMRR=0.0077
 relation      n_test      MRR     H@1     H@3    H@10
 -----------------------------------------------------
-ALL             1898   0.0036                        
-coAuthorOf      1804   0.0032  0.0003  0.0019  0.0050
-memberOf           5   0.0029  0.0000  0.0000  0.0000
-hasTopic          89   0.0118  0.0000  0.0000  0.0337
+ALL             1567   0.0038                        
+coAuthorOf      1474   0.0031  0.0000  0.0020  0.0044
+memberOf           5   0.0071  0.0000  0.0000  0.0000
+hasTopic          88   0.0155  0.0000  0.0170  0.0284
 
-## RotatE (Best dim=128, Val MRR=0.0427)
-Tuning history: dim=64, lr=0.001 -> valMRR=0.0381 | dim=128, lr=0.001 -> valMRR=0.0427
+## RotatE (Best dim=64, Val MRR=0.0463)
+Tuning history: dim=64, lr=0.001 -> valMRR=0.0463 | dim=128, lr=0.001 -> valMRR=0.0436
 relation      n_test      MRR     H@1     H@3    H@10
 -----------------------------------------------------
-ALL             1898   0.0138                        
-coAuthorOf      1804   0.0073  0.0000  0.0058  0.0172
-memberOf           5   0.1145  0.1000  0.1000  0.1000
-hasTopic          89   0.1397  0.0899  0.1629  0.2135
+ALL             1567   0.0174                        
+coAuthorOf      1474   0.0079  0.0007  0.0064  0.0193
+memberOf           5   0.0534  0.0000  0.0000  0.2000
+hasTopic          88   0.1743  0.1250  0.1932  0.2727
 
