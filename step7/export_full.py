@@ -71,7 +71,6 @@ def build_full_html(ttl_path: str, output_path: str):
 
     net = Network(height="100vh", width="100%", bgcolor="#0d0d1a", font_color="white")
 
-    # Team nodes, fixed in a circle
     n = len(teams)
     for i, team in enumerate(teams):
         angle = 2 * math.pi * i / n - math.pi / 2
@@ -89,7 +88,6 @@ def build_full_html(ttl_path: str, output_path: str):
             x=x, y=y, fixed=True,
         )
 
-    # LRE researcher nodes
     for person in g.subjects(RDF.type, LRE.Researcher):
         uri = str(person)
         if uri not in lre_set:
@@ -115,7 +113,6 @@ def build_full_html(ttl_path: str, output_path: str):
             net.add_edge(uri, f"__team__{team_key}",
                          color="#4DA6FF88", width=1.5, title="memberOf")
 
-    # Publications + co-auteurs externes (structure : externe → pub → LRE)
     node_ids: set[str] = {f"__team__{t}" for t in teams} | lre_set
     added_ext: set[str] = set()
 
@@ -149,12 +146,10 @@ def build_full_html(ttl_path: str, output_path: str):
         )
         node_ids.add(pub_str)
 
-        # Publication → auteur LRE
         for lre_uri, _ in lre_authors:
             net.add_edge(pub_str, lre_uri,
                          color="#42D4F430", width=0.8, title="authoredBy")
 
-        # Co-auteur externe → Publication
         for ext_uri, ext_name in ext_authors:
             name = str(ext_name or ext_uri.split("person_")[-1])
             if ext_uri not in added_ext:
@@ -193,7 +188,6 @@ def build_full_html(ttl_path: str, output_path: str):
     }
     """)
 
-    # Build a JS map of nodeId → url for publication nodes
     url_map_js = "const PUB_URLS = " + "{" + ",".join(
         f'"{str(pub)}":"{str(g.value(pub, LRE.url) or "")}"'
         for pub in g.subjects(RDF.type, LRE.Publication)

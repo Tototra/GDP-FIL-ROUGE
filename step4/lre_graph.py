@@ -56,7 +56,6 @@ class LREGraph:
         if url:
             self.g.add((pub, LRE.url, Literal(url)))
 
-        # Topic
         safe_topic = urllib.parse.quote(str(topic).replace(" ", "_"))
         top = LRE[f"topic_{safe_topic}"]
         self.g.add((top, RDF.type, LRE.Topic))

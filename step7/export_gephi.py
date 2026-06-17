@@ -5,16 +5,9 @@ from pyvis.network import Network
 LRE = Namespace("http://lre.epita.fr/kg/")
 
 TEAM_COLORS = [
-    "#E6194B",  # red
-    "#3CB44B",  # green
-    "#4363D8",  # blue
-    "#F58231",  # orange
-    "#911EB4",  # purple
-    "#42D4F4",  # cyan
-    "#F032E6",  # magenta
-    "#469990",  # teal
-    "#BFEF45",  # lime
-    "#FFE119",  # yellow
+    "#E6194B", "#3CB44B", "#4363D8", "#F58231",
+    "#911EB4", "#42D4F4", "#F032E6", "#469990",
+    "#BFEF45", "#FFE119",
 ]
 
 
@@ -31,7 +24,6 @@ def rdf_to_html(ttl_path: str, output_path: str):
         for i, team in enumerate(teams)
     }
 
-    # Count co-authorship degree for node sizing
     degree: dict[str, int] = {}
     for s, _, o in g.triples((None, LRE.coAuthorOf, None)):
         degree[str(s)] = degree.get(str(s), 0) + 1
@@ -54,10 +46,10 @@ def rdf_to_html(ttl_path: str, output_path: str):
         deg = degree.get(node_id, 0)
         size = 10 + (deg / max_deg) * 40
 
-        tooltip = f"<b>{label}</b><br>Team: {team_label}<br>Co-authors: {deg}"
+        tooltip = f"{label}\nTeam: {team_label}\nCo-authors: {deg}"
         year = g.value(person, LRE.arrivalYear)
         if year:
-            tooltip += f"<br>Arrival: {year}"
+            tooltip += f"\nArrival: {year}"
 
         net.add_node(node_id, label=label, color=color, size=size, title=tooltip)
         added_nodes.add(node_id)
@@ -73,7 +65,6 @@ def rdf_to_html(ttl_path: str, output_path: str):
         seen_edges.add(key)
         net.add_edge(src, dst, title="coAuthorOf", color="#ffffff44")
 
-    # Legend as an extra node group (visual only)
     net.set_options("""
     {
       "nodes": { "font": { "size": 14 } },
